@@ -1,0 +1,47 @@
+---
+title: "Species Index"
+output: html_document
+---
+
+Welcome to the **DeLuca BioBlitz** site.
+
+## Browse species
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+```{r species_by_class, echo=FALSE, results='asis'}
+suppressPackageStartupMessages({library(readr); library(dplyr); library(htmltools)})
+
+sp <- readr::read_csv("data/species.csv", show_col_types = FALSE)
+
+# Map scientific class names -> friendly group labels for headings
+to_group <- function(cls){
+  ifelse(cls %in% c("Magnoliopsida","Liliopsida","Pinopsida","Polypodiopsida","Equisetopsida","Bryopsida"),
+         "Plants",
+  ifelse(cls %in% c("Agaricomycetes","Basidiomycetes","Ascomycetes","Lecanoromycetes"),
+         "Fungi",
+         cls))
+}
+
+if (nrow(sp)) {
+  sp <- sp %>% mutate(group = to_group(class)) %>% arrange(group, common_name)
+
+  desired_order <- c("Plants","Fungi","Aves","Mammalia","Reptilia","Amphibia","Insecta","Arachnida","Mollusca","Other")
+  groups <- unique(sp$group)
+  groups <- c(desired_order[desired_order %in% groups], setdiff(sort(groups), desired_order))
+
+  for (g in groups) {
+    items <- filter(sp, group == g)
+    print(tags$h2(class = "class-heading", g))
+    print(tags$div(
+      class = "button-grid",
+      lapply(seq_len(nrow(items)), function(i)
+        tags$a(href = sprintf("species/%s.html", items$slug[i]), class = "species-btn", items$common_name[i])
+      )
+    ))
+    cat("\n\n")
+  }
+}
+```

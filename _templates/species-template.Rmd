@@ -1,0 +1,53 @@
+---
+title: "Species"
+site: false
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    self_contained: false
+    css: ../styles.css
+params:
+  slug: NULL
+  common_name: NULL
+  sci_name: NULL
+  class: NULL
+  order: NULL
+  family: NULL
+  inat_photo_url: NULL
+  inat_species_url: NULL
+  iucn_url: NULL
+  local_profile_url: NULL
+  occurrence_text: NULL
+  conservation_state: NULL
+  rarity_note: NULL
+  natural_history: NULL
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+p <- params
+```
+
+# `r p$common_name` (*`r p$sci_name`*)
+![](`r p$inat_photo_url`){.species-photo}
+
+## Taxonomy
+- **Class:** `r p$class`
+- **Order:** `r p$order`
+- **Family:** `r p$family`
+
+## Occurrence at DeLuca Preserve
+`r p$occurrence_text`
+
+## Conservation & rarity context
+- `r p$conservation_state`
+- **Rarity note:** `r p$rarity_note`
+
+## Natural history notes
+`r p$natural_history`
+
+## References / links
+- [iNaturalist species page](`r p$inat_species_url`)
+- [IUCN Red List](`r p$iucn_url`)
+- [Local profile](`r p$local_profile_url`)
