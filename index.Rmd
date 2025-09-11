@@ -1,22 +1,22 @@
 ---
 title: "Species Index"
-output: html_document
+output:
+  html_document:
+    toc: false
+    toc_float: false
 ---
-
-Welcome to the **DeLuca BioBlitz** site.
 
 ## Browse species
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
-```
-
 ```{r species_by_class, echo=FALSE, results='asis'}
-suppressPackageStartupMessages({library(readr); library(dplyr); library(htmltools)})
+suppressPackageStartupMessages({
+  library(readr); library(dplyr); library(htmltools)
+})
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, comment = NA)
 
 sp <- readr::read_csv("data/species.csv", show_col_types = FALSE)
 
-# Map scientific class names -> friendly group labels for headings
+# Map scientific Class -> friendly groups for the HOME page sidebar only
 to_group <- function(cls){
   ifelse(cls %in% c("Magnoliopsida","Liliopsida","Pinopsida","Polypodiopsida","Equisetopsida","Bryopsida"),
          "Plants",
@@ -24,24 +24,79 @@ to_group <- function(cls){
          "Fungi",
          cls))
 }
+sp <- sp %>% mutate(group = to_group(class)) %>% arrange(group, common_name)
 
-if (nrow(sp)) {
-  sp <- sp %>% mutate(group = to_group(class)) %>% arrange(group, common_name)
+desired_order <- c("Plants","Fungi","Aves","Mammalia","Reptilia","Amphibia","Insecta","Arachnida","Mollusca","Other")
+groups <- unique(sp$group)
+groups <- c(desired_order[desired_order %in% groups], setdiff(sort(groups), desired_order))
 
-  desired_order <- c("Plants","Fungi","Aves","Mammalia","Reptilia","Amphibia","Insecta","Arachnida","Mollusca","Other")
-  groups <- unique(sp$group)
-  groups <- c(desired_order[desired_order %in% groups], setdiff(sort(groups), desired_order))
-
-  for (g in groups) {
-    items <- filter(sp, group == g)
-    print(tags$h2(class = "class-heading", g))
-    print(tags$div(
-      class = "button-grid",
-      lapply(seq_len(nrow(items)), function(i)
-        tags$a(href = sprintf("species/%s.html", items$slug[i]), class = "species-btn", items$common_name[i])
-      )
-    ))
-    cat("\n\n")
-  }
-}
+counts <- sp |> count(group, name = "n")
+get_n <- function(g) { ifelse(g %in% counts$group, counts$n[counts$group==g], 0) }
 ```
+
+```{r}
+# Build LEFT menu (filters) ----------------------------------------------------
+left_links <- c(
+  sprintf('<a href="#" class="list-group-item filter-link active" data-group="all">All <span class="badge">%d</span></a>', nrow(sp)),
+  sprintf('<a href="#" class="list-group-item filter-link" data-group="%s">%s <span class="badge">%d</span></a>',
+          htmlEscape(groups), htmlEscape(groups), vapply(groups, get_n, integer(1)))
+)
+left_menu <- paste0('<div class="col-sm-3"><div class="list-group sticky" id="taxa-filter">',
+                    paste(left_links, collapse = ""),
+                    '</div></div>')
+
+# Build RIGHT panel (all species; JS will filter) ------------------------------
+group_sections <- character(length(groups))
+for (i in seq_along(groups)) {
+  g <- groups[i]
+  items <- sp[sp$group == g, , drop = FALSE]
+  buttons <- sprintf(
+    '<a class="species-btn species-card" data-group="%s" href="species/%s.html">%s</a>',
+    htmlEscape(g), items$slug, htmlEscape(items$common_name)
+  )
+  group_sections[i] <- paste0(
+    sprintf('<h2 class="group-header" data-group="%s">%s</h2>', htmlEscape(g), htmlEscape(g)),
+    '<div class="button-grid">', paste(buttons, collapse = ""), '</div>'
+  )
+}
+right_panel <- paste0('<div class="col-sm-9" id="species-panel">',
+                      paste(group_sections, collapse = ""),
+                      '</div>')
+
+# Emit the whole row as raw HTML
+html <- paste0('<div class="row">', left_menu, right_panel, '</div>')
+knitr::asis_output(html)
+```
+
+```{r}
+knitr::asis_output('
+<script>
+$(function(){
+  function showGroup(g){
+    if(!g || g==="all"){
+      $(".species-card").show();
+      $(".group-header").show();
+      $(".filter-link").removeClass("active");
+      $(".filter-link[data-group=\'all\']").addClass("active");
+      history.replaceState(null,null,"#all");
+      return;
+    }
+    $(".species-card").hide().filter("[data-group=\'"+g+"\']").show();
+    $(".group-header").hide().filter("[data-group=\'"+g+"\']").show();
+    $(".filter-link").removeClass("active");
+    $(".filter-link[data-group=\'"+g+"\']").addClass("active");
+    history.replaceState(null,null,"#"+g);
+  }
+  $("#taxa-filter").on("click",".filter-link", function(e){
+    e.preventDefault();
+    showGroup($(this).data("group"));
+    window.scrollTo({top:0, behavior:"smooth"});
+  });
+  var h = window.location.hash.replace("#","");
+  showGroup(h || "all");
+});
+</script>
+')
+```
+
+
