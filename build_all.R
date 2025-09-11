@@ -2,4 +2,4 @@
 source("00_setup.R")
 source("render_species.R")
 rmarkdown::render_site()
-browseURL(file.path("_site","index.html"))
+browseURL(file.path("docs","index.html"))
