@@ -3,3 +3,5 @@
 a.species-btn{display:inline-block;padding:.6rem .9rem;border-radius:.6rem;text-decoration:none;background:#e9f2ff;border:1px solid #cfe0ff;}
 a.species-btn:hover{background:#dceaff;}
 .class-heading { margin-top: 2rem; border-top: 1px solid #eee; padding-top: 1rem; }
+.sticky { position: sticky; top: 80px; }
+.list-group .badge { float: right; }

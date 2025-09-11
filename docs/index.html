@@ -29,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -223,69 +220,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -293,16 +227,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -339,44 +263,84 @@ div.tocify {
 </div>
 
 
-<p>Welcome to the <strong>DeLuca BioBlitz</strong> site.</p>
 <div id="browse-species" class="section level2">
 <h2>Browse species</h2>
-<h2 class="class-heading">
+<div class="row">
+<div class="col-sm-3">
+<div id="taxa-filter" class="list-group sticky">
+<a href="#" class="list-group-item filter-link active" data-group="all">All
+<span
+class="badge">5</span></a><a href="#" class="list-group-item filter-link" data-group="Plants">Plants
+<span
+class="badge">1</span></a><a href="#" class="list-group-item filter-link" data-group="Aves">Aves
+<span
+class="badge">2</span></a><a href="#" class="list-group-item filter-link" data-group="Reptilia">Reptilia
+<span
+class="badge">1</span></a><a href="#" class="list-group-item filter-link" data-group="Insecta">Insecta
+<span class="badge">1</span></a>
+</div>
+</div>
+<div id="species-panel" class="col-sm-9">
+<h2 class="group-header" data-group="Plants">
 Plants
 </h2>
 <div class="button-grid">
-<p><a href="species/drosera-capillaris.html" class="species-btn">Eastern
-Sundew</a></p>
+<a class="species-btn species-card" data-group="Plants" href="species/drosera-capillaris.html">Eastern
+Sundew</a>
 </div>
-<h2 class="class-heading">
+<h2 class="group-header" data-group="Aves">
 Aves
 </h2>
 <div class="button-grid">
-<p><a href="species/eastern-bluebird.html" class="species-btn">Eastern
-Bluebird</a>
-<a href="species/setophaga-pinus.html" class="species-btn">Pine
-Warbler</a></p>
+<a class="species-btn species-card" data-group="Aves" href="species/eastern-bluebird.html">Eastern
+Bluebird</a><a class="species-btn species-card" data-group="Aves" href="species/setophaga-pinus.html">Pine
+Warbler</a>
 </div>
-<h2 class="class-heading">
+<h2 class="group-header" data-group="Reptilia">
 Reptilia
 </h2>
 <div class="button-grid">
-<p><a href="species/alligator-mississippiensis.html" class="species-btn">American
-Alligator</a></p>
+<a class="species-btn species-card" data-group="Reptilia" href="species/alligator-mississippiensis.html">American
+Alligator</a>
 </div>
-<h2 class="class-heading">
+<h2 class="group-header" data-group="Insecta">
 Insecta
 </h2>
 <div class="button-grid">
-<p><a href="species/polites-vibex.html" class="species-btn">Whirlabout</a></p>
+<a class="species-btn species-card" data-group="Insecta" href="species/polites-vibex.html">Whirlabout</a>
 </div>
+</div>
+</div>
+<script>
+$(function(){
+  function showGroup(g){
+    if(!g || g==="all"){
+      $(".species-card").show();
+      $(".group-header").show();
+      $(".filter-link").removeClass("active");
+      $(".filter-link[data-group='all']").addClass("active");
+      history.replaceState(null,null,"#all");
+      return;
+    }
+    $(".species-card").hide().filter("[data-group='"+g+"']").show();
+    $(".group-header").hide().filter("[data-group='"+g+"']").show();
+    $(".filter-link").removeClass("active");
+    $(".filter-link[data-group='"+g+"']").addClass("active");
+    history.replaceState(null,null,"#"+g);
+  }
+  $("#taxa-filter").on("click",".filter-link", function(e){
+    e.preventDefault();
+    showGroup($(this).data("group"));
+    window.scrollTo({top:0, behavior:"smooth"});
+  });
+  var h = window.location.hash.replace("#","");
+  showGroup(h || "all");
+});
+</script>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -409,35 +373,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
