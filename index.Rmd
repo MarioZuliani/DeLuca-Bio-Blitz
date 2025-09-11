@@ -15,7 +15,6 @@ suppressPackageStartupMessages({
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, comment = NA)
 
 sp <- readr::read_csv("data/species.csv", show_col_types = FALSE)
-
 # Map scientific Class -> friendly groups for the HOME page sidebar only
 to_group <- function(cls){
   ifelse(cls %in% c("Magnoliopsida","Liliopsida","Pinopsida","Polypodiopsida","Equisetopsida","Bryopsida"),
@@ -51,9 +50,16 @@ for (i in seq_along(groups)) {
   g <- groups[i]
   items <- sp[sp$group == g, , drop = FALSE]
   buttons <- sprintf(
-    '<a class="species-btn species-card" data-group="%s" href="species/%s.html">%s</a>',
-    htmlEscape(g), items$slug, htmlEscape(items$common_name)
-  )
+  '<a class="species-btn species-card" data-group="%s" href="species/%s.html" title="%s">
+     <span class="sp-common">%s</span>
+     <span class="sp-sci">(<em>%s</em>)</span>
+   </a>',
+  htmlEscape(g),
+  items$slug,
+  htmlEscape(items$sci_name),
+  htmlEscape(items$common_name),
+  htmlEscape(items$sci_name)
+)
   group_sections[i] <- paste0(
     sprintf('<h2 class="group-header" data-group="%s">%s</h2>', htmlEscape(g), htmlEscape(g)),
     '<div class="button-grid">', paste(buttons, collapse = ""), '</div>'

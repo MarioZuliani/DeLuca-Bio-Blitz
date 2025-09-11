@@ -5,3 +5,6 @@ a.species-btn:hover{background:#dceaff;}
 .class-heading { margin-top: 2rem; border-top: 1px solid #eee; padding-top: 1rem; }
 .sticky { position: sticky; top: 80px; }
 .list-group .badge { float: right; }
+/* two-line species button: common on top, sci name below */
+.species-btn .sp-common { display:block; font-weight:600; }
+.species-btn .sp-sci    { display:block; font-size:.9rem; opacity:.85; margin-top:2px; }
