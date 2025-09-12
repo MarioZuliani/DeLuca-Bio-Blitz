@@ -1,0 +1,32 @@
+---
+title: "Pink Sundew (Drosera capillaris)"
+slug: "drosera-capillaris"
+group: "Plants"                    # used for homepage subheadings
+categories: ["Plants"]             # keeps the sidebar filters useful
+freeze: true
+---
+
+<figure class="species-figure">
+  <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476398852/large.jpg" alt="Pink Sundew" class="species-photo" />
+  <figcaption class="photo-credit">Photo: <a href="https://www.inaturalist.org/people/garccyy">garccyy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265241925">iNaturalist</a></figcaption>
+</figure>
+
+## Taxonomy
+- **Class:** Magnoliopsida
+- **Order:** Caryophyllales
+- **Family:** Droseraceae
+
+## Occurrence at DeLuca Preserve
+Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)
+
+## Conservation & rarity context
+- 
+- **Rarity note:** Common in wet flatwoods & bogs of SE US
+
+## Natural history notes
+Small carnivorous sundew; sticky leaves trap insects.
+
+## References / links
+- [iNaturalist species page](https://www.inaturalist.org/taxa/162094-Drosera-capillaris)
+- [IUCN Red List](NA)
+- [Local profile](NA)

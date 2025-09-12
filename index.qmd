@@ -1,0 +1,14 @@
+---
+title: "Species Index"
+listing:
+  contents: species          # look for pages in the species/ folder
+  sort: "title"
+  filter-ui: true            # adds a filter panel
+  categories: true           # uses each page's 'categories' metadata
+---
+
+## Welcome to the DeLuca BioBlitz Site
+
+Use the filters to browse species.
+
+## Species

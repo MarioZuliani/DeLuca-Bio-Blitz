@@ -1,0 +1,32 @@
+---
+title: "American Alligator (Alligator mississippiensis)"
+slug: "alligator-mississippiensis"
+group: "Reptilia"                    # used for homepage subheadings
+categories: ["Reptilia"]             # keeps the sidebar filters useful
+freeze: true
+---
+
+<figure class="species-figure">
+  <img src="https://static.inaturalist.org/photos/343508251/medium.jpg" alt="American Alligator" class="species-photo" />
+  
+</figure>
+
+## Taxonomy
+- **Class:** Reptilia
+- **Order:** Crocodylia
+- **Family:** Alligatoridae
+
+## Occurrence at DeLuca Preserve
+Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)
+
+## Conservation & rarity context
+- IUCN: Least Concern; Florida: managed
+- **Rarity note:** Large apex predator of freshwater wetlands
+
+## Natural history notes
+Recovered after conservation; basks on banks; eats fish, turtles, mammals.
+
+## References / links
+- [iNaturalist species page](https://www.inaturalist.org/taxa/26159-Alligator-mississippiensis)
+- [IUCN Red List](NA)
+- [Local profile](NA)

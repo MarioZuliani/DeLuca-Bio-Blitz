@@ -1,0 +1,32 @@
+---
+title: "Eastern Cottontail (Sylvilagus floridanus)"
+slug: "sylvilagus-floridanus"
+group: "Mammalia"                    # used for homepage subheadings
+categories: ["Mammalia"]             # keeps the sidebar filters useful
+freeze: true
+---
+
+<figure class="species-figure">
+  <img src="https://static.inaturalist.org/photos/475138132/large.jpeg" alt="Eastern Cottontail" class="species-photo" />
+  <figcaption class="photo-credit">Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a> (CC BY 4.0) via <a href="https://www.inaturalist.org/observations/264599543">iNaturalist</a></figcaption>
+</figure>
+
+## Taxonomy
+- **Class:** Mammalia
+- **Order:** Lagomorpha
+- **Family:** Leporidae
+
+## Occurrence at DeLuca Preserve
+
+
+## Conservation & rarity context
+- 
+- **Rarity note:** 
+
+## Natural history notes
+
+
+## References / links
+- [iNaturalist species page](https://www.inaturalist.org/taxa/43111-Sylvilagus-floridanus)
+- [IUCN Red List](NA)
+- [Local profile](NA)

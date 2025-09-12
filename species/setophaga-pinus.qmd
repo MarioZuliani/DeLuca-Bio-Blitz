@@ -1,0 +1,32 @@
+---
+title: "Pine Warbler (Setophaga pinus)"
+slug: "setophaga-pinus"
+group: "Aves"                    # used for homepage subheadings
+categories: ["Aves"]             # keeps the sidebar filters useful
+freeze: true
+---
+
+<figure class="species-figure">
+  <img src="https://static.inaturalist.org/photos/475061161/large.jpeg" alt="Pine Warbler" class="species-photo" />
+  <figcaption class="photo-credit">Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a> (CC BY 4.0) via <a href="https://www.inaturalist.org/observations/264561137">iNaturalist</a></figcaption>
+</figure>
+
+## Taxonomy
+- **Class:** Aves
+- **Order:** Passeriformes
+- **Family:** Parulidae
+
+## Occurrence at DeLuca Preserve
+Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)
+
+## Conservation & rarity context
+- IUCN: Least Concern; Florida: common in pines
+- **Rarity note:** Breeds in pine forests; trills; forages high
+
+## Natural history notes
+Feeds on insects & seeds; often at feeders in winter.
+
+## References / links
+- [iNaturalist species page](https://www.inaturalist.org/taxa/145244-Setophaga-pinus)
+- [IUCN Red List](NA)
+- [Local profile](NA)

@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DeLuca BioBlitz"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Species
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    # remove toc-location: left  (or set to right)
+    css: styles.css
+
+execute:
+  freeze: auto

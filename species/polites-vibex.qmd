@@ -1,0 +1,32 @@
+---
+title: "Whirlabout (Polites vibex)"
+slug: "polites-vibex"
+group: "Insects"                    # used for homepage subheadings
+categories: ["Insects"]             # keeps the sidebar filters useful
+freeze: true
+---
+
+<figure class="species-figure">
+  <img src="https://static.inaturalist.org/photos/309879111/medium.jpg" alt="Whirlabout" class="species-photo" />
+  
+</figure>
+
+## Taxonomy
+- **Class:** Insecta
+- **Order:** Lepidoptera
+- **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)
+
+## Conservation & rarity context
+- 
+- **Rarity note:** Often in open weedy areas; males perch near host grasses
+
+## Natural history notes
+Fast-flying skipper; sexes dimorphic; larvae on grasses.
+
+## References / links
+- [iNaturalist species page](https://www.inaturalist.org/taxa/179855-Polites-vibex)
+- [IUCN Red List](NA)
+- [Local profile](NA)
