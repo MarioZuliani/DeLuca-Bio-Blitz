@@ -8,3 +8,7 @@ a.species-btn:hover{background:#dceaff;}
 /* two-line species button: common on top, sci name below */
 .species-btn .sp-common { display:block; font-weight:600; }
 .species-btn .sp-sci    { display:block; font-size:.9rem; opacity:.85; margin-top:2px; }
+.species-figure { margin: 0 0 .75rem 0; }
+.species-photo  { max-width: 520px; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,.15); }
+.photo-credit   { font-size: .85rem; color: #666; margin-top: .35rem; }
+.photo-credit a { color: inherit; text-decoration: underline; }

@@ -22,15 +22,42 @@ params:
   conservation_state: NULL
   rarity_note: NULL
   natural_history: NULL
+  # --- OPTIONAL credit fields (leave blank in CSV if you don't have them) ---
+  photo_credit_name: NULL
+  photo_credit_url: NULL
+  photo_license: NULL
+  photo_source_url: NULL
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 p <- params
+`%||%` <- function(a,b) if (is.null(a) || !nzchar(a)) b else a
+library(htmltools)
 ```
 
 # `r p$common_name` (*`r p$sci_name`*)
-![](`r p$inat_photo_url`){.species-photo}
+
+<figure class="species-figure">
+  <img src="`r p$inat_photo_url`" alt="`r p$common_name`" class="species-photo" />
+  `r {
+      source_url <- p$photo_source_url %||% p$inat_species_url %||% p$inat_photo_url %||% "#"
+      if (!is.null(p$photo_credit_name) && nzchar(p$photo_credit_name)) {
+        name_html <- if (!is.null(p$photo_credit_url) && nzchar(p$photo_credit_url)) {
+          sprintf('<a href="%s">%s</a>', htmlEscape(p$photo_credit_url), htmlEscape(p$photo_credit_name))
+        } else {
+          htmlEscape(p$photo_credit_name)
+        }
+        license_txt <- if (!is.null(p$photo_license) && nzchar(p$photo_license))
+                         sprintf(' (%s)', htmlEscape(p$photo_license)) else ''
+        HTML(sprintf(
+          '<figcaption class="photo-credit">Photo: %s%s via <a href="%s">iNaturalist</a></figcaption>',
+          name_html, license_txt, htmlEscape(source_url)
+        ))
+      } else ""
+    }`
+</figure>
 
 ## Taxonomy
 - **Class:** `r p$class`
