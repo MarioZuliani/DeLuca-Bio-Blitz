@@ -1,8 +1,10 @@
 ---
 title: "Pine Woods Tree Frog (Hyla femoralis)"
 slug: "hyla-femoralis"
-group: "Amphibia"                    # used for homepage subheadings
-categories: ["Amphibia"]             # keeps the sidebar filters useful
+group: "Amphibia"
+categories: ["Amphibia"]
+image: "https://static.inaturalist.org/photos/474895230/large.jpeg"        # <<< add
+image-alt: "Pine Woods Tree Frog"  # <<< add
 freeze: true
 ---
 

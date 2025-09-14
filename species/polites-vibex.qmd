@@ -1,14 +1,16 @@
 ---
 title: "Whirlabout (Polites vibex)"
 slug: "polites-vibex"
-group: "Insects"                    # used for homepage subheadings
-categories: ["Insects"]             # keeps the sidebar filters useful
+group: "Insects"
+categories: ["Insects"]
+image: "https://static.inaturalist.org/photos/475058254/large.jpeg"        # <<< add
+image-alt: "Whirlabout"  # <<< add
 freeze: true
 ---
 
 <figure class="species-figure">
-  <img src="https://static.inaturalist.org/photos/309879111/medium.jpg" alt="Whirlabout" class="species-photo" />
-  
+  <img src="https://static.inaturalist.org/photos/475058254/large.jpeg" alt="Whirlabout" class="species-photo" />
+  <figcaption class="photo-credit">Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a> (CC BY 4.0) via <a href="https://www.inaturalist.org/observations/264558804">iNaturalist</a></figcaption>
 </figure>
 
 ## Taxonomy
