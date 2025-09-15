@@ -2,11 +2,12 @@
 title: "Pine Warbler (Setophaga pinus)"
 slug: "setophaga-pinus"
 group: "Aves"
-categories: ["Aves", "Passeriformes", "Parulidae"]
 image: "https://static.inaturalist.org/photos/475061161/large.jpeg"        # keep for thumbnails
 image-alt: "Pine Warbler"  # keep for a11y
+tax_class: "Aves"
 tax_order: "Passeriformes"        # add
 tax_family: "Parulidae"      # add
+categories: ["Aves", "Passeriformes", "Parulidae"]
 freeze: true
 ---
 

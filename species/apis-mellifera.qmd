@@ -2,11 +2,12 @@
 title: "Western Honey Bee (Apis mellifera)"
 slug: "apis-mellifera"
 group: "Insects"
-categories: ["Insects", "Pterygota", "Hymenoptera"]
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475157015/large.jpg"        # keep for thumbnails
-image-alt: "Western Honey Bee"  # keep for a11y
-tax_order: "Pterygota"        # add
-tax_family: "Hymenoptera"      # add
+image-alt: "Western Honey Bee"
+tax_class: "Insects"
+tax_order: "Pterygota"        
+tax_family: "Hymenoptera"     
+categories: ["Insects", "Pterygota", "Hymenoptera"]
 freeze: true
 ---
 
