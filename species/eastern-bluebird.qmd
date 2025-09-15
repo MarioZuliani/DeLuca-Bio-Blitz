@@ -1,10 +1,10 @@
 ---
 title: "Eastern Bluebird (Sialia sialis)"
 slug: "eastern-bluebird"
-group: "Aves"
-categories: ["Aves"]
-image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474786284/large.jpg"        # <<< add
-image-alt: "Eastern Bluebird"  # <<< add
+group: "Aves"                    # used for homepage subheadings
+categories: ["Aves"]             # keeps the sidebar filters useful
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474786284/large.jpg"
+image-alt: "Eastern Bluebird"
 freeze: true
 ---
 

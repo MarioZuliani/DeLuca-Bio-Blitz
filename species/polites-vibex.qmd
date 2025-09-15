@@ -1,10 +1,10 @@
 ---
 title: "Whirlabout (Polites vibex)"
 slug: "polites-vibex"
-group: "Insects"
-categories: ["Insects"]
-image: "https://static.inaturalist.org/photos/475058254/large.jpeg"        # <<< add
-image-alt: "Whirlabout"  # <<< add
+group: "Insects"                    # used for homepage subheadings
+categories: ["Insects"]             # keeps the sidebar filters useful
+image: "https://static.inaturalist.org/photos/475058254/large.jpeg"
+image-alt: "Whirlabout"
 freeze: true
 ---
 

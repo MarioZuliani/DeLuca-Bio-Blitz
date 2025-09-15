@@ -64,10 +64,10 @@ for (i in seq_len(nrow(sp))) {
   body <- glue('---
 title: "{esc(row$common_name)} ({esc(row$sci_name)})"
 slug: "{row$slug}"
-group: "{grp}"
-categories: ["{grp}"]
-image: "{row$inat_photo_url}"        # <<< add
-image-alt: "{esc(row$common_name)}"  # <<< add
+group: "{grp}"                    # used for homepage subheadings
+categories: ["{grp}"]             # keeps the sidebar filters useful
+image: "{row$inat_photo_url}"
+image-alt: "{esc(row$common_name)}"
 freeze: true
 ---
 

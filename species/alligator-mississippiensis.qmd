@@ -1,10 +1,10 @@
 ---
 title: "American Alligator (Alligator mississippiensis)"
 slug: "alligator-mississippiensis"
-group: "Reptilia"
-categories: ["Reptilia"]
-image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476060613/large.jpg"        # <<< add
-image-alt: "American Alligator"  # <<< add
+group: "Reptilia"                    # used for homepage subheadings
+categories: ["Reptilia"]             # keeps the sidebar filters useful
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476060613/large.jpg"
+image-alt: "American Alligator"
 freeze: true
 ---
 

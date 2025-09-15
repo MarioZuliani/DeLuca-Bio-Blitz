@@ -1,10 +1,10 @@
 ---
 title: "Eastern Cottontail (Sylvilagus floridanus)"
 slug: "sylvilagus-floridanus"
-group: "Mammalia"
-categories: ["Mammalia"]
-image: "https://static.inaturalist.org/photos/475138132/large.jpeg"        # <<< add
-image-alt: "Eastern Cottontail"  # <<< add
+group: "Mammalia"                    # used for homepage subheadings
+categories: ["Mammalia"]             # keeps the sidebar filters useful
+image: "https://static.inaturalist.org/photos/475138132/large.jpeg"
+image-alt: "Eastern Cottontail"
 freeze: true
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Pine Warbler (Setophaga pinus)"
 slug: "setophaga-pinus"
-group: "Aves"
-categories: ["Aves"]
-image: "https://static.inaturalist.org/photos/475061161/large.jpeg"        # <<< add
-image-alt: "Pine Warbler"  # <<< add
+group: "Aves"                    # used for homepage subheadings
+categories: ["Aves"]             # keeps the sidebar filters useful
+image: "https://static.inaturalist.org/photos/475061161/large.jpeg"
+image-alt: "Pine Warbler"
 freeze: true
 ---
 
