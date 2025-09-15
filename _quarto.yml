@@ -12,7 +12,7 @@ website:
 format:
   html:
     theme: cosmo
-    toc: true
+    toc: false
     toc-depth: 2
     # remove toc-location: left
     css: styles.css

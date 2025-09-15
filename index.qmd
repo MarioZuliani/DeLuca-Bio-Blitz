@@ -1,14 +1,99 @@
 ---
 title: "Species Index"
+engine: knitr
+TOC: false
+freeze: false
 listing:
-  contents: species          # look for pages in the species/ folder
-  sort: "title"
-  filter-ui: true            # adds a filter panel
-  categories: true           # uses each page's 'categories' metadata
+  contents: species
+  sort: title
+  filter-ui: [title, categories, description]
+  categories: false
+  fields: [title, categories, description, image]   # <- show the chips on cards
+execute:
+  echo: false
+  warning: false
+  message: false
 ---
 
-## Welcome to the DeLuca BioBlitz Site
+### Welcome to the DeLuca BioBlitz Site
 
 Use the filters to browse species.
 
 ## Species
+::: {.column-margin}
+### Browse by Class
+```{r, echo=FALSE, results='asis'}
+library(yaml); library(purrr); library(dplyr); library(utils)
+
+`%||%` <- function(a,b) if (is.null(a) || identical(a, "")) b else a
+
+read_front <- function(path){
+  x <- readLines(path, warn = FALSE)
+  if (length(x) < 3 || trimws(x[1]) != "---") return(NULL)
+  end <- which(x[-1] == "---")[1] + 1
+  fm  <- yaml::yaml.load(paste(x[2:(end-1)], collapse = "\n"))
+  cats <- fm$categories %||% list()
+  # return ONE ROW PER SPECIES (do NOT call distinct() later)
+  tibble(
+    Class  = fm$tax_class  %||% (if (length(cats) >= 1) cats[[1]] else NA),
+    Order  = fm$tax_order  %||% (if (length(cats) >= 2) cats[[2]] else NA),
+    Family = fm$tax_family %||% (if (length(cats) >= 3) cats[[3]] else NA)
+  )
+}
+
+files <- list.files("species", pattern="\\.qmd$", full.names = TRUE)
+meta  <- map(files, read_front) |> compact() |> bind_rows()   # <-- no distinct()
+
+html <- '<div id="facet-menu">'
+for (cls in sort(unique(na.omit(meta$Class)))) {
+  cls_n <- sum(meta$Class == cls, na.rm = TRUE)
+
+  fams <- sort(unique(na.omit(meta$Family[meta$Class == cls])))
+  ords <- sort(unique(na.omit(meta$Order [meta$Class == cls])))
+
+  fam_n <- setNames(
+    vapply(fams, function(f) sum(meta$Class == cls & meta$Family == f, na.rm = TRUE), integer(1)),
+    fams
+  )
+  ord_n <- setNames(
+    vapply(ords, function(o) sum(meta$Class == cls & meta$Order  == o, na.rm = TRUE), integer(1)),
+    ords
+  )
+
+  html <- paste0(html,
+  '<details class="facet-dd"><summary>', cls,
+  ' <span class="count">(', cls_n, ')</span></summary>'
+)
+
+  if (length(fams)) {
+    html <- paste0(html, '<div class="facet-hd">Families</div><ul class="facet-list">')
+    html <- paste0(
+      html,
+      paste0(
+        '<li><a href="?category=', URLencode(fams, reserved = TRUE), '">', fams,
+        '</a><span class="count">(', fam_n[fams], ')</span></li>',
+        collapse = ''
+      ),
+      '</ul>'
+    )
+  }
+
+  if (length(ords)) {
+    html <- paste0(html, '<div class="facet-hd">Orders</div><ul class="facet-list">')
+    html <- paste0(
+      html,
+      paste0(
+        '<li><a href="?category=', URLencode(ords, reserved = TRUE), '">', ords,
+        '</a><span class="count">(', ord_n[ords], ')</span></li>',
+        collapse = ''
+      ),
+      '</ul>'
+    )
+  }
+
+  html <- paste0(html, '</details>')
+}
+html <- paste0(html, '</div>')
+knitr::asis_output(html)
+```
+:::

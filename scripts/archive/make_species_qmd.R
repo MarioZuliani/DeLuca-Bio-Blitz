@@ -26,11 +26,23 @@ bucket <- function(cls) {
   # Otherwise keep zoological classes as-is (title-cased)
   tools::toTitleCase(x)   # e.g., "Aves", "Reptilia", "Mammalia", "Amphibia"
 }
+
 # ------------------------------------------------------
 
 for (i in seq_len(nrow(sp))) {
   row <- sp[i, ]
 
+  # build the category chips (Class + Order + Family), skipping blanks
+  # chips = Class + Order + Family (no "Family:" / "Order:")
+  cats <- c(
+    bucket(row$class),
+    if (!is.na(row$order)  && nzchar(row$order))  esc(row$order)  else NA_character_,
+    if (!is.na(row$family) && nzchar(row$family)) esc(row$family) else NA_character_
+  )
+  cats <- cats[!is.na(cats) & cats != ""]
+  cats_yaml <- paste0("[", paste(sprintf('"%s"', gsub('"', '\\"', cats, fixed = TRUE)), collapse = ", "), "]")
+  
+  
   # robustly choose a source link (column may not exist)
   has_src <- "photo_source_url" %in% names(sp)
   photo_source <- if (has_src) row$photo_source_url else NA_character_
@@ -64,10 +76,12 @@ for (i in seq_len(nrow(sp))) {
   body <- glue('---
 title: "{esc(row$common_name)} ({esc(row$sci_name)})"
 slug: "{row$slug}"
-group: "{grp}"                    # used for homepage subheadings
-categories: ["{grp}"]             # keeps the sidebar filters useful
-image: "{row$inat_photo_url}"
-image-alt: "{esc(row$common_name)}"
+group: "{grp}"
+categories: {cats_yaml}
+image: "{row$inat_photo_url}"        # keep for thumbnails
+image-alt: "{esc(row$common_name)}"  # keep for a11y
+tax_order: "{esc(row$order)}"        # add
+tax_family: "{esc(row$family)}"      # add
 freeze: true
 ---
 

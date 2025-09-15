@@ -12,3 +12,23 @@ a.species-btn:hover{background:#dceaff;}
 .species-photo  { max-width: 520px; border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,.15); }
 .photo-credit   { font-size: .85rem; color: #666; margin-top: .35rem; }
 .photo-credit a { color: inherit; text-decoration: underline; }
+.quarto-category a[href*="category=Order%3A"],
+.quarto-category a[href*="category=Family%3A"] { display: none; }
+
+@media (min-width: 992px) {
+  :root { --quarto-margin-sidebar-width: 380px; }
+  #quarto-margin-sidebar { width: 380px !important; }
+}
+#facet-menu { position: sticky; top: 84px; }
+.column-margin details.facet-dd {
+  margin:.35rem 0 .6rem; padding:.25rem .6rem;
+  border:1px solid #e7e8ef; border-radius:.5rem; background:#fafbff;
+}
+.column-margin details.facet-dd > summary { cursor:pointer; font-weight:600; list-style:none; }
+.column-margin details.facet-dd > summary::-webkit-details-marker { display:none; }
+.column-margin .facet-hd { font-size:.8rem; opacity:.7; margin:.35rem 0 .2rem; }
+.column-margin .facet-list { margin:0 0 .4rem 1rem; padding:0; }
+.column-margin .facet-list li { margin:.12rem 0; }
+.column-margin .facet-list a { text-decoration:none; }
+.column-margin .facet-list a:hover { text-decoration:underline; }
+.column-margin .count { margin-left:.35rem; opacity:.6; font-size:.85em; }

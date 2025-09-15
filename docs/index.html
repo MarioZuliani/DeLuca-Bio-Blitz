@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-categories','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-categories","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -163,18 +163,10 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul class="collapse">
-  <li><a href="#welcome-to-the-deluca-bioblitz-site" id="toc-welcome-to-the-deluca-bioblitz-site" class="nav-link active" data-scroll-target="#welcome-to-the-deluca-bioblitz-site">Welcome to the DeLuca BioBlitz Site</a></li>
-  <li><a href="#species" id="toc-species" class="nav-link" data-scroll-target="#species">Species</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="QW1waGliaWE=">Amphibia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXZlcw==">Aves <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SW5zZWN0cw==">Insects <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TWFtbWFsaWE=">Mammalia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGxhbnRz">Plants <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UmVwdGlsaWE=">Reptilia <span class="quarto-category-count">(1)</span></div></div></div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -195,16 +187,20 @@ window.Quarto = {
 </header>
 
 
-<section id="welcome-to-the-deluca-bioblitz-site" class="level2">
-<h2 class="anchored" data-anchor-id="welcome-to-the-deluca-bioblitz-site">Welcome to the DeLuca BioBlitz Site</h2>
+<section id="welcome-to-the-deluca-bioblitz-site" class="level3">
+<h3 class="anchored" data-anchor-id="welcome-to-the-deluca-bioblitz-site">Welcome to the DeLuca BioBlitz Site</h3>
 <p>Use the filters to browse species.</p>
 </section>
-<section id="species" class="level2">
+<section id="species" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="species">Species</h2>
 
 
 
-</section>
+
+<div class="no-row-height column-margin column-container"><section id="browse-by-class" class="level3">
+<h3 class="anchored" data-anchor-id="browse-by-class">Browse by Class</h3>
+<div id="facet-menu"><details class="facet-dd"><summary>Amphibia <span class="count">(1)</span></summary><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Hylidae">Hylidae</a><span class="count">(1)</span></li></ul><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Anura">Anura</a><span class="count">(1)</span></li></ul></details><details class="facet-dd"><summary>Aves <span class="count">(2)</span></summary><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Parulidae">Parulidae</a><span class="count">(1)</span></li><li><a href="?category=Turdidae">Turdidae</a><span class="count">(1)</span></li></ul><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Passeriformes">Passeriformes</a><span class="count">(2)</span></li></ul></details><details class="facet-dd"><summary>Insects <span class="count">(2)</span></summary><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Hesperiidae">Hesperiidae</a><span class="count">(1)</span></li><li><a href="?category=Hymenoptera">Hymenoptera</a><span class="count">(1)</span></li></ul><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Lepidoptera">Lepidoptera</a><span class="count">(1)</span></li><li><a href="?category=Pterygota">Pterygota</a><span class="count">(1)</span></li></ul></details><details class="facet-dd"><summary>Mammalia <span class="count">(1)</span></summary><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Leporidae">Leporidae</a><span class="count">(1)</span></li></ul><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Lagomorpha">Lagomorpha</a><span class="count">(1)</span></li></ul></details><details class="facet-dd"><summary>Plants <span class="count">(2)</span></summary><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Droseraceae">Droseraceae</a><span class="count">(1)</span></li><li><a href="?category=Hypericaceae">Hypericaceae</a><span class="count">(1)</span></li></ul><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Caryophyllales">Caryophyllales</a><span class="count">(1)</span></li><li><a href="?category=Malpighiales">Malpighiales</a><span class="count">(1)</span></li></ul></details><details class="facet-dd"><summary>Reptilia <span class="count">(1)</span></summary><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Alligatoridae">Alligatoridae</a><span class="count">(1)</span></li></ul><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Crocodylia">Crocodylia</a><span class="count">(1)</span></li></ul></details></div>
+</section></div></section>
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
@@ -214,7 +210,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UmVwdGlsaWE=" data-listing-file-modified-sort="1757946114470" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
+<div class="quarto-post image-right" data-index="0" data-categories="UmVwdGlsaWElMkNDcm9jb2R5bGlhJTJDQWxsaWdhdG9yaWRhZQ==" data-listing-file-modified-sort="1757960733150" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
 <div class="thumbnail">
 <p><a href="./species/alligator-mississippiensis.html" class="no-external"></a></p><a href="./species/alligator-mississippiensis.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/476060613/large.jpg" class="thumbnail-image" alt="American Alligator"></p>
@@ -231,6 +227,12 @@ window.Quarto = {
 <div class="listing-category" onclick="window.quartoListingCategory('UmVwdGlsaWE='); return false;">
 Reptilia
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q3JvY29keWxpYQ=='); return false;">
+Crocodylia
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('QWxsaWdhdG9yaWRhZQ=='); return false;">
+Alligatoridae
+</div>
 </div>
 <div class="listing-description">
 <a href="./species/alligator-mississippiensis.html" class="no-external">Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)</a>
@@ -241,7 +243,7 @@ Reptilia
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="QXZlcw==" data-listing-file-modified-sort="1757946114464" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
+<div class="quarto-post image-right" data-index="1" data-categories="QXZlcyUyQ1Bhc3Nlcmlmb3JtZXMlMkNUdXJkaWRhZQ==" data-listing-file-modified-sort="1757956959297" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
 <div class="thumbnail">
 <p><a href="./species/eastern-bluebird.html" class="no-external"></a></p><a href="./species/eastern-bluebird.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/474786284/large.jpg" class="thumbnail-image" alt="Eastern Bluebird"></p>
@@ -258,6 +260,12 @@ Reptilia
 <div class="listing-category" onclick="window.quartoListingCategory('QXZlcw=='); return false;">
 Aves
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('UGFzc2VyaWZvcm1lcw=='); return false;">
+Passeriformes
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('VHVyZGlkYWU='); return false;">
+Turdidae
+</div>
 </div>
 <div class="listing-description">
 <a href="./species/eastern-bluebird.html" class="no-external">Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)</a>
@@ -268,7 +276,7 @@ Aves
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="TWFtbWFsaWE=" data-listing-file-modified-sort="1757946114476" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<div class="quarto-post image-right" data-index="2" data-categories="TWFtbWFsaWElMkNMYWdvbW9ycGhhJTJDTGVwb3JpZGFl" data-listing-file-modified-sort="1757956959307" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
 <div class="thumbnail">
 <p><a href="./species/sylvilagus-floridanus.html" class="no-external"></a></p><a href="./species/sylvilagus-floridanus.html" class="no-external">
 <p><img loading="lazy" src="https://static.inaturalist.org/photos/475138132/large.jpeg" class="thumbnail-image" alt="Eastern Cottontail"></p>
@@ -285,6 +293,12 @@ Aves
 <div class="listing-category" onclick="window.quartoListingCategory('TWFtbWFsaWE='); return false;">
 Mammalia
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('TGFnb21vcnBoYQ=='); return false;">
+Lagomorpha
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TGVwb3JpZGFl'); return false;">
+Leporidae
+</div>
 </div>
 <div class="listing-description">
 <a href="./species/sylvilagus-floridanus.html" class="no-external">
@@ -300,7 +314,7 @@ Photo: stevecollins (CC BY 4.0) via iNaturalist
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="UGxhbnRz" data-listing-file-modified-sort="1757946114473" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<div class="quarto-post image-right" data-index="3" data-categories="UGxhbnRzJTJDTWFscGlnaGlhbGVzJTJDSHlwZXJpY2FjZWFl" data-listing-file-modified-sort="1757956959304" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
 <div class="thumbnail">
 <p><a href="./species/hypericum-tetrapetalum.html" class="no-external"></a></p><a href="./species/hypericum-tetrapetalum.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475948051/large.jpg" class="thumbnail-image" alt="Fourpetal St. Johnswort"></p>
@@ -317,6 +331,12 @@ Photo: stevecollins (CC BY 4.0) via iNaturalist
 <div class="listing-category" onclick="window.quartoListingCategory('UGxhbnRz'); return false;">
 Plants
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('TWFscGlnaGlhbGVz'); return false;">
+Malpighiales
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('SHlwZXJpY2FjZWFl'); return false;">
+Hypericaceae
+</div>
 </div>
 <div class="listing-description">
 <a href="./species/hypericum-tetrapetalum.html" class="no-external">
@@ -332,7 +352,7 @@ Photo: lmcconachie (CC BY-NC 4.0) via iNaturalist
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="QXZlcw==" data-listing-file-modified-sort="1757946114471" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
+<div class="quarto-post image-right" data-index="4" data-categories="QXZlcyUyQ1Bhc3Nlcmlmb3JtZXMlMkNQYXJ1bGlkYWU=" data-listing-file-modified-sort="1757956959302" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
 <div class="thumbnail">
 <p><a href="./species/setophaga-pinus.html" class="no-external"></a></p><a href="./species/setophaga-pinus.html" class="no-external">
 <p><img loading="lazy" src="https://static.inaturalist.org/photos/475061161/large.jpeg" class="thumbnail-image" alt="Pine Warbler"></p>
@@ -349,6 +369,12 @@ Photo: lmcconachie (CC BY-NC 4.0) via iNaturalist
 <div class="listing-category" onclick="window.quartoListingCategory('QXZlcw=='); return false;">
 Aves
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('UGFzc2VyaWZvcm1lcw=='); return false;">
+Passeriformes
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UGFydWxpZGFl'); return false;">
+Parulidae
+</div>
 </div>
 <div class="listing-description">
 <a href="./species/setophaga-pinus.html" class="no-external">Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)</a>
@@ -359,7 +385,7 @@ Aves
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="QW1waGliaWE=" data-listing-file-modified-sort="1757946114475" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
+<div class="quarto-post image-right" data-index="5" data-categories="QW1waGliaWElMkNBbnVyYSUyQ0h5bGlkYWU=" data-listing-file-modified-sort="1757956959306" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
 <div class="thumbnail">
 <p><a href="./species/hyla-femoralis.html" class="no-external"></a></p><a href="./species/hyla-femoralis.html" class="no-external">
 <p><img loading="lazy" src="https://static.inaturalist.org/photos/474895230/large.jpeg" class="thumbnail-image" alt="Pine Woods Tree Frog"></p>
@@ -376,6 +402,12 @@ Aves
 <div class="listing-category" onclick="window.quartoListingCategory('QW1waGliaWE='); return false;">
 Amphibia
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('QW51cmE='); return false;">
+Anura
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('SHlsaWRhZQ=='); return false;">
+Hylidae
+</div>
 </div>
 <div class="listing-description">
 <a href="./species/hyla-femoralis.html" class="no-external">
@@ -391,7 +423,7 @@ Photo: andrewkunik (CC BY-NC 4.0) via iNaturalist
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="UGxhbnRz" data-listing-file-modified-sort="1757946114468" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<div class="quarto-post image-right" data-index="6" data-categories="UGxhbnRzJTJDQ2FyeW9waHlsbGFsZXMlMkNEcm9zZXJhY2VhZQ==" data-listing-file-modified-sort="1757956959298" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
 <div class="thumbnail">
 <p><a href="./species/drosera-capillaris.html" class="no-external"></a></p><a href="./species/drosera-capillaris.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/476398852/large.jpg" class="thumbnail-image" alt="Pink Sundew"></p>
@@ -408,6 +440,12 @@ Photo: andrewkunik (CC BY-NC 4.0) via iNaturalist
 <div class="listing-category" onclick="window.quartoListingCategory('UGxhbnRz'); return false;">
 Plants
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q2FyeW9waHlsbGFsZXM='); return false;">
+Caryophyllales
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RHJvc2VyYWNlYWU='); return false;">
+Droseraceae
+</div>
 </div>
 <div class="listing-description">
 <a href="./species/drosera-capillaris.html" class="no-external">Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)</a>
@@ -418,7 +456,7 @@ Plants
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="SW5zZWN0cw==" data-listing-file-modified-sort="1757946114473" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<div class="quarto-post image-right" data-index="7" data-categories="SW5zZWN0cyUyQ1B0ZXJ5Z290YSUyQ0h5bWVub3B0ZXJh" data-listing-file-modified-sort="1757956959305" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
 <div class="thumbnail">
 <p><a href="./species/apis-mellifera.html" class="no-external"></a></p><a href="./species/apis-mellifera.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475157015/large.jpg" class="thumbnail-image" alt="Western Honey Bee"></p>
@@ -435,6 +473,12 @@ Plants
 <div class="listing-category" onclick="window.quartoListingCategory('SW5zZWN0cw=='); return false;">
 Insects
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('UHRlcnlnb3Rh'); return false;">
+Pterygota
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('SHltZW5vcHRlcmE='); return false;">
+Hymenoptera
+</div>
 </div>
 <div class="listing-description">
 <a href="./species/apis-mellifera.html" class="no-external">
@@ -450,7 +494,7 @@ Photo: billpranty (CC BY-NC 4.0) via iNaturalist
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="SW5zZWN0cw==" data-listing-file-modified-sort="1757946114469" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<div class="quarto-post image-right" data-index="8" data-categories="SW5zZWN0cyUyQ0xlcGlkb3B0ZXJhJTJDSGVzcGVyaWlkYWU=" data-listing-file-modified-sort="1757956959299" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
 <div class="thumbnail">
 <p><a href="./species/polites-vibex.html" class="no-external"></a></p><a href="./species/polites-vibex.html" class="no-external">
 <p><img loading="lazy" src="https://static.inaturalist.org/photos/475058254/large.jpeg" class="thumbnail-image" alt="Whirlabout"></p>
@@ -466,6 +510,12 @@ Photo: billpranty (CC BY-NC 4.0) via iNaturalist
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('SW5zZWN0cw=='); return false;">
 Insects
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TGVwaWRvcHRlcmE='); return false;">
+Lepidoptera
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('SGVzcGVyaWlkYWU='); return false;">
+Hesperiidae
 </div>
 </div>
 <div class="listing-description">
