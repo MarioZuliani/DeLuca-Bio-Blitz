@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nAmphibia (1)OrdersAnura(1)FamiliesHylidae(1)Aves (2)OrdersPasseriformes(2)FamiliesParulidae(1)Turdidae(1)Insects (2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Plants (2)OrdersCaryophyllales(1)Malpighiales(1)FamiliesDroseraceae(1)Hypericaceae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)"
+    "text": "Species\n\n\nBrowse by Class\nAmphibia (1)ClassAmphibia(1)OrdersAnura(1)FamiliesHylidae(1)Aves (2)ClassAves(2)OrdersPasseriformes(2)FamiliesParulidae(1)Turdidae(1)Insects (2)ClassInsects(2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)ClassMammalia(1)OrdersLagomorpha(1)FamiliesLeporidae(1)Plants (2)ClassMagnoliopsida(2)OrdersCaryophyllales(1)Malpighiales(1)FamiliesDroseraceae(1)Hypericaceae(1)Reptilia (1)ClassReptilia(1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",

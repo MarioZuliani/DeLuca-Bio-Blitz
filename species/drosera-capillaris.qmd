@@ -4,10 +4,10 @@ slug: "drosera-capillaris"
 group: "Plants"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476398852/large.jpg"        # keep for thumbnails
 image-alt: "Pink Sundew"  # keep for a11y
-tax_class: "Plants" # Debating calling it the actual class and not just plants
+tax_class: "Magnoliopsida" # Debating calling it the actual class and not just plants
 tax_order: "Caryophyllales"        # add
 tax_family: "Droseraceae"      # add
-categories: ["Plants", "Caryophyllales", "Droseraceae"]
+categories: ["Plants", "Magnoliopsida", "Caryophyllales", "Droseraceae"]
 freeze: true
 ---
 
