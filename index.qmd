@@ -20,8 +20,10 @@ execute:
 Use the filters to browse species.
 
 ## Species
-::: {.column-margin}
+
+::: column-margin
 ### Browse by Class
+
 ```{r, echo=FALSE, results='asis'}
 library(yaml); library(purrr); library(dplyr); library(utils)
 
@@ -128,6 +130,7 @@ knitr::asis_output(html)
 ```
 :::
 
+```{=html}
 <script>
 (function () {
   // read ?category=... or ?q=...
@@ -171,7 +174,4 @@ knitr::asis_output(html)
   });
 })();
 </script>
-
-
-
-
+```
