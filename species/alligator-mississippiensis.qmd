@@ -7,7 +7,7 @@ image-alt: "American Alligator"  # keep for a11y
 tax_class: Reptilia
 tax_order: Crocodylia
 tax_family: Alligatoridae
-categories: ["Reptilia", "Crocodylia", "Alligatoridae"]   # these drive the chips + filtering
+categories: ["Animals", "Reptilia", "Crocodylia", "Alligatoridae"]   # these drive the chips + filtering
 freeze: true
 ---
 

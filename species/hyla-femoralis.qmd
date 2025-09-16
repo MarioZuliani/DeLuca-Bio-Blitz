@@ -7,7 +7,7 @@ image-alt: "Pine Woods Tree Frog"  # keep for a11y
 tax_class: "Amphibia"
 tax_order: "Anura"        # add
 tax_family: "Hylidae"      # add
-categories: ["Amphibia", "Anura", "Hylidae"]
+categories: ["Animals","Amphibia", "Anura", "Hylidae"]
 freeze: true
 ---
 

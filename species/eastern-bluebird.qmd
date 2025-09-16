@@ -7,7 +7,7 @@ image-alt: "Eastern Bluebird"  # keep for a11y
 tax_class: "Aves"
 tax_order: "Passeriformes"        # add
 tax_family: "Turdidae"      # add
-categories: ["Aves", "Passeriformes", "Turdidae"]
+categories: ["Animals","Aves", "Passeriformes", "Turdidae"]
 freeze: true
 ---
 

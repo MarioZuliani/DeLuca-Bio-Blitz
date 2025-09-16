@@ -27,15 +27,15 @@ library(yaml); library(purrr); library(dplyr); library(utils)
 
 `%||%` <- function(a,b) if (is.null(a) || identical(a, "")) b else a
 
-# bucket raw biological classes into the top-level groups used on the site
-bucket <- function(cls) {
+plant_classes <- c(
+  "magnoliopsida","liliopsida","pinopsida","polypodiopsida",
+  "gnetopsida","equisetopsida","lycopodiopsida","bryopsida"
+)
+
+kingdom_of <- function(cls) {
   if (is.null(cls) || is.na(cls) || !nzchar(cls)) return(NA_character_)
   x <- tolower(trimws(cls))
-  plant_classes <- c("magnoliopsida","liliopsida","pinopsida","polypodiopsida",
-                     "gnetopsida","equisetopsida","lycopodiopsida","bryopsida")
-  if (x %in% plant_classes) return("Plants")
-  if (x == "insecta")       return("Insects")
-  tools::toTitleCase(x)  # Aves, Reptilia, Mammalia, Amphibia, …
+  if (x %in% plant_classes) "Plants" else "Animals"
 }
 
 read_front <- function(path){
@@ -45,14 +45,12 @@ read_front <- function(path){
   fm  <- yaml::yaml.load(paste(x[2:(end-1)], collapse = "\n"))
   cats <- fm$categories %||% list()
 
-  raw_class <- fm$tax_class %||% NA_character_     # the exact biological class
-  grp       <- bucket(raw_class) %||% (if (length(cats) >= 1) cats[[1]] else NA_character_)
-
+  raw_class <- fm$tax_class %||% NA_character_
   tibble(
-    Group  = grp,
-    Class  = raw_class,  # keep exact class so we can list it inside the group
-    Order  = fm$tax_order  %||% (if (length(cats) >= 2) cats[[2]] else NA_character_),
-    Family = fm$tax_family %||% (if (length(cats) >= 3) cats[[3]] else NA_character_)
+    Kingdom = kingdom_of(raw_class),
+    Class   = raw_class,
+    Order   = fm$tax_order  %||% (if (length(cats) >= 2) cats[[2]] else NA_character_),
+    Family  = fm$tax_family %||% (if (length(cats) >= 3) cats[[3]] else NA_character_)
   )
 }
 
@@ -61,79 +59,71 @@ meta  <- map(files, read_front) |> compact() |> bind_rows()
 
 html <- '<div id="facet-menu">'
 
-for (grp in sort(unique(na.omit(meta$Group)))) {
+kingdoms <- intersect(c("Plants","Animals"), sort(unique(na.omit(meta$Kingdom))))
+for (kg in kingdoms) {
 
-  grp_n <- sum(meta$Group == grp, na.rm = TRUE)
-
-  # DISTINCT INSIDE THIS GROUP
-  classes <- sort(unique(na.omit(meta$Class [meta$Group == grp])))
-  orders  <- sort(unique(na.omit(meta$Order [meta$Group == grp])))
-  fams    <- sort(unique(na.omit(meta$Family[meta$Group == grp])))
-
-  class_n <- setNames(
-    vapply(classes, function(c) sum(meta$Group == grp & meta$Class  == c, na.rm = TRUE), integer(1)),
-    classes
-  )
-  ord_n   <- setNames(
-    vapply(orders,  function(o) sum(meta$Group == grp & meta$Order  == o, na.rm = TRUE), integer(1)),
-    orders
-  )
-  fam_n   <- setNames(
-    vapply(fams,    function(f) sum(meta$Group == grp & meta$Family == f, na.rm = TRUE), integer(1)),
-    fams
+  kg_n <- sum(meta$Kingdom == kg, na.rm = TRUE)
+  html <- paste0(
+    html, '<details class="facet-dd"><summary>', kg,
+    ' <span class="count">(', kg_n, ')</span></summary>'
   )
 
-  html <- paste0(html,
-    '<details class="facet-dd"><summary>', grp,
-    ' <span class="count">(', grp_n, ')</span></summary>'
-  )
+  # --- loop through Classes inside this Kingdom ---
+  classes <- sort(unique(na.omit(meta$Class[meta$Kingdom == kg])))
+  for (cls in classes) {
+    cls_n <- sum(meta$Kingdom == kg & meta$Class == cls, na.rm = TRUE)
 
-  # NEW: Classes (above Orders), only if we have them
-  if (length(classes)) {
-    html <- paste0(
-      html,
-      '<div class="facet-hd">Class</div><ul class="facet-list">',
-      paste0(
-        '<li><a href="?category=', URLencode(classes, reserved = TRUE), '">', classes,
-        '</a><span class="count">(', class_n[classes], ')</span></li>',
-        collapse = ''
-      ),
-      '</ul>'
+    ords <- sort(unique(na.omit(meta$Order [meta$Kingdom == kg & meta$Class == cls])))
+    fams <- sort(unique(na.omit(meta$Family[meta$Kingdom == kg & meta$Class == cls])))
+
+    ord_n <- setNames(
+      vapply(ords, function(o) sum(meta$Kingdom == kg & meta$Class == cls & meta$Order  == o, na.rm = TRUE), integer(1)),
+      ords
     )
+    fam_n <- setNames(
+      vapply(fams, function(f) sum(meta$Kingdom == kg & meta$Class == cls & meta$Family == f, na.rm = TRUE), integer(1)),
+      fams
+    )
+
+    # per-class collapsible block
+    html <- paste0(
+      html, '<details class="facet-sub"><summary>', cls,
+      ' <span class="count">(', cls_n, ')</span></summary>'
+    )
+
+    if (length(ords)) {
+      html <- paste0(
+        html,
+        '<div class="facet-hd">Orders</div><ul class="facet-list">',
+        paste0(
+          '<li><a href="?category=', URLencode(ords, reserved = TRUE), '">', ords,
+          '</a><span class="count">(', ord_n[ords], ')</span></li>', collapse=''
+        ),
+        '</ul>'
+      )
+    }
+
+    if (length(fams)) {
+      html <- paste0(
+        html,
+        '<div class="facet-hd">Families</div><ul class="facet-list">',
+        paste0(
+          '<li><a href="?category=', URLencode(fams, reserved = TRUE), '">', fams,
+          '</a><span class="count">(', fam_n[fams], ')</span></li>', collapse=''
+        ),
+        '</ul>'
+      )
+    }
+
+    html <- paste0(html, '</details>')  # close .facet-sub
   }
 
-  # Orders
-  if (length(orders)) {
-    html <- paste0(
-      html,
-      '<div class="facet-hd">Orders</div><ul class="facet-list">',
-      paste0(
-        '<li><a href="?category=', URLencode(orders, reserved = TRUE), '">', orders,
-        '</a><span class="count">(', ord_n[orders], ')</span></li>',
-        collapse = ''
-      ),
-      '</ul>'
-    )
-  }
-
-  # Families
-  if (length(fams)) {
-    html <- paste0(
-      html,
-      '<div class="facet-hd">Families</div><ul class="facet-list">',
-      paste0(
-        '<li><a href="?category=', URLencode(fams, reserved = TRUE), '">', fams,
-        '</a><span class="count">(', fam_n[fams], ')</span></li>',
-        collapse = ''
-      ),
-      '</ul>'
-    )
-  }
-
-  html <- paste0(html, '</details>')
+  html <- paste0(html, '</details>')    # close Kingdom
 }
+
 html <- paste0(html, '</div>')
 knitr::asis_output(html)
+
 
 ```
 :::

@@ -7,7 +7,7 @@ image-alt: "Whirlabout"  # keep for a11y
 tax_class: "Insects"
 tax_order: "Lepidoptera"        # add
 tax_family: "Hesperiidae"      # add
-categories: ["Insects", "Lepidoptera", "Hesperiidae"]
+categories: ["Animals","Insects", "Lepidoptera", "Hesperiidae"]
 freeze: true
 ---
 

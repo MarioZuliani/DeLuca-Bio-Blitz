@@ -7,7 +7,7 @@ image-alt: "Eastern Cottontail"  # keep for a11y
 tax_class: "Mammalia"
 tax_order: "Lagomorpha"        # add
 tax_family: "Leporidae"      # add
-categories: ["Mammalia", "Lagomorpha", "Leporidae"]
+categories: ["Animals","Mammalia", "Lagomorpha", "Leporidae"]
 freeze: true
 ---
 
