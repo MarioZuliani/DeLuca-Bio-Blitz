@@ -32,12 +32,3 @@ a.species-btn:hover{background:#dceaff;}
 .column-margin .facet-list a { text-decoration:none; }
 .column-margin .facet-list a:hover { text-decoration:underline; }
 .column-margin .count { margin-left:.35rem; opacity:.6; font-size:.85em; }
-.kingdom-head{
-  margin:1.25rem 0 .5rem;
-  font-size:1.1rem;
-  font-weight:700;
-  color:var(--bs-body-color,#222);
-  border-bottom:1px solid rgba(0,0,0,.06);
-  padding-bottom:.25rem;
-  list-style: none; /* in case it's an <li> in a <ul> */
-}

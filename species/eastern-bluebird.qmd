@@ -4,10 +4,11 @@ slug: "eastern-bluebird"
 group: "Aves"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474786284/large.jpg"        # keep for thumbnails
 image-alt: "Eastern Bluebird"  # keep for a11y
+tax_kingdom: "Animal"
 tax_class: "Aves"
 tax_order: "Passeriformes"        # add
 tax_family: "Turdidae"      # add
-categories: ["Animals","Aves", "Passeriformes", "Turdidae"]
+categories: ["Animal","Aves", "Passeriformes", "Turdidae"]
 freeze: true
 ---
 

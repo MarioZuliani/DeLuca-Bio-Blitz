@@ -4,10 +4,11 @@ slug: "hypericum-tetrapetalum"
 group: "Plants"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475948051/large.jpg"        # keep for thumbnails
 image-alt: "Fourpetal St. Johnswort"  # keep for a11y
+tax_kingdom: "Plant"
 tax_class: "Magnoliopsida"
 tax_order: "Malpighiales"        # add
 tax_family: "Hypericaceae"      # add
-categories: ["Plants", "Magnoliopsida", "Malpighiales", "Hypericaceae"]
+categories: ["Plant", "Magnoliopsida", "Malpighiales", "Hypericaceae"]
 freeze: true
 ---
 

@@ -4,10 +4,11 @@ slug: "polites-vibex"
 group: "Insects"
 image: "https://static.inaturalist.org/photos/475058254/large.jpeg"        # keep for thumbnails
 image-alt: "Whirlabout"  # keep for a11y
+tax_kingdom: "Animal"
 tax_class: "Insects"
 tax_order: "Lepidoptera"        # add
 tax_family: "Hesperiidae"      # add
-categories: ["Animals","Insects", "Lepidoptera", "Hesperiidae"]
+categories: ["Animal","Insects", "Lepidoptera", "Hesperiidae"]
 freeze: true
 ---
 

@@ -4,10 +4,11 @@ slug: "sylvilagus-floridanus"
 group: "Mammalia"
 image: "https://static.inaturalist.org/photos/475138132/large.jpeg"        # keep for thumbnails
 image-alt: "Eastern Cottontail"  # keep for a11y
+tax_kingdom: "Animal"
 tax_class: "Mammalia"
 tax_order: "Lagomorpha"        # add
 tax_family: "Leporidae"      # add
-categories: ["Animals","Mammalia", "Lagomorpha", "Leporidae"]
+categories: ["Animal","Mammalia", "Lagomorpha", "Leporidae"]
 freeze: true
 ---
 
