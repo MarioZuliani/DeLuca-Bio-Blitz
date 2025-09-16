@@ -48,8 +48,8 @@ html <- '<div id="facet-menu">'
 for (cls in sort(unique(na.omit(meta$Class)))) {
   cls_n <- sum(meta$Class == cls, na.rm = TRUE)
 
-  fams <- sort(unique(na.omit(meta$Family[meta$Class == cls])))
   ords <- sort(unique(na.omit(meta$Order [meta$Class == cls])))
+  fams <- sort(unique(na.omit(meta$Family[meta$Class == cls])))
 
   fam_n <- setNames(
     vapply(fams, function(f) sum(meta$Class == cls & meta$Family == f, na.rm = TRUE), integer(1)),
@@ -65,29 +65,31 @@ for (cls in sort(unique(na.omit(meta$Class)))) {
   ' <span class="count">(', cls_n, ')</span></summary>'
 )
 
-  if (length(fams)) {
-    html <- paste0(html, '<div class="facet-hd">Families</div><ul class="facet-list">')
-    html <- paste0(
-      html,
-      paste0(
-        '<li><a href="?category=', URLencode(fams, reserved = TRUE), '">', fams,
-        '</a><span class="count">(', fam_n[fams], ')</span></li>',
-        collapse = ''
-      ),
-      '</ul>'
-    )
-  }
+ # ORDERS first
+if (length(ords)) {
+  html <- paste0(
+    html,
+    '<div class="facet-hd">Orders</div><ul class="facet-list">',
+    paste0(
+      '<li><a href="?category=', URLencode(ords, reserved = TRUE), '">', ords,
+      '</a><span class="count">(', ord_n[ords], ')</span></li>',
+      collapse = ''
+    ),
+    '</ul>'
+  )
+}
 
-  if (length(ords)) {
-    html <- paste0(html, '<div class="facet-hd">Orders</div><ul class="facet-list">')
-    html <- paste0(
-      html,
-      paste0(
-        '<li><a href="?category=', URLencode(ords, reserved = TRUE), '">', ords,
-        '</a><span class="count">(', ord_n[ords], ')</span></li>',
-        collapse = ''
-      ),
-      '</ul>'
+# FAMILIES second
+if (length(fams)) {
+  html <- paste0(
+    html,
+    '<div class="facet-hd">Families</div><ul class="facet-list">',
+    paste0(
+      '<li><a href="?category=', URLencode(fams, reserved = TRUE), '">', fams,
+      '</a><span class="count">(', fam_n[fams], ')</span></li>',
+      collapse = ''
+    ),
+    '</ul>'
     )
   }
 
@@ -97,3 +99,51 @@ html <- paste0(html, '</div>')
 knitr::asis_output(html)
 ```
 :::
+
+<script>
+(function () {
+  // read ?category=... or ?q=...
+  const p = new URLSearchParams(window.location.search);
+  const term = p.get('category') || p.get('q');
+  if (!term) return;
+
+  // find the listing's search input (works across themes)
+  const findInput = () =>
+    document.querySelector(
+      '.quarto-listing .quarto-listing-filter input, input.search-form-control, input[placeholder="Filter"]'
+    );
+
+  // set the value + fire the events Quarto/List.js listen for
+  const apply = () => {
+    const input = findInput();
+    if (!input) return false;
+    input.value = term;
+    ['input','keyup','change'].forEach(evt =>
+      input.dispatchEvent(new Event(evt, { bubbles: true }))
+    );
+    return true;
+  };
+
+  // wait until the listing JS is fully initialized, then apply
+  const whenReady = (fn, tries = 40, everyMs = 100) => {
+    if (fn()) return;
+    let n = 0;
+    const timer = setInterval(() => {
+      if (fn() || ++n >= tries) clearInterval(timer);
+    }, everyMs);
+  };
+
+  // run after load, then poll briefly until listeners are attached
+  window.addEventListener('load', () => whenReady(apply));
+
+  // optional: scroll to the list after filtering
+  window.addEventListener('load', () => {
+    const list = document.querySelector('.quarto-listing, .listing');
+    if (list) list.scrollIntoView({ behavior: 'instant', block: 'start' });
+  });
+})();
+</script>
+
+
+
+
