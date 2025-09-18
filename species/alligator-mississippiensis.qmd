@@ -13,26 +13,39 @@ freeze: true
 ---
 
 <figure class="species-figure">
-  <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476060613/large.jpg" alt="American Alligator" class="species-photo" />
-  <figcaption class="photo-credit">Photo: <a href="https://www.inaturalist.org/people/tylerjonesphotog">tylerjonesphotog</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265073124">iNaturalist</a></figcaption>
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476060613/large.jpg" alt="American Alligator" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/tylerjonesphotog">tylerjonesphotog</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265073124">iNaturalist</a>
+
+</figcaption>
+
 </figure>
 
 ## Taxonomy
-- **Class:** Reptilia
-- **Order:** Crocodylia
-- **Family:** Alligatoridae
+
+-   **Class:** Reptilia
+-   **Order:** Crocodylia
+-   **Family:** Alligatoridae
 
 ## Occurrence at DeLuca Preserve
+
 Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)
 
 ## Conservation & rarity context
-- IUCN: Least Concern; Florida: managed
-- **Rarity note:** Large apex predator of freshwater wetlands
+
+-   IUCN: Least Concern; Florida: managed
+-   **Rarity note:** Large apex predator of freshwater wetlands
 
 ## Natural history notes
+
 Recovered after conservation; basks on banks; eats fish, turtles, mammals.
 
 ## References / links
-- [iNaturalist species page](https://www.inaturalist.org/taxa/26159-Alligator-mississippiensis)
-- [IUCN Red List](NA)
-- [Local profile](NA)
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=26159&place_id=any&verifiable=any)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/26159-Alligator-mississippiensis)
+-   [IUCN Red List](NA)
+-   [Local profile](NA)

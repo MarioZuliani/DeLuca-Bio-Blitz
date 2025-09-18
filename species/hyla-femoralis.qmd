@@ -13,26 +13,34 @@ freeze: true
 ---
 
 <figure class="species-figure">
-  <img src="https://static.inaturalist.org/photos/474895230/large.jpeg" alt="Pine Woods Tree Frog" class="species-photo" />
-  <figcaption class="photo-credit">Photo: <a href="https://www.inaturalist.org/people/andrewkunik">andrewkunik</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264463802">iNaturalist</a></figcaption>
+
+<img src="https://static.inaturalist.org/photos/474895230/large.jpeg" alt="Pine Woods Tree Frog" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/andrewkunik">andrewkunik</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264463802">iNaturalist</a>
+
+</figcaption>
+
 </figure>
 
 ## Taxonomy
-- **Class:** Amphibia
-- **Order:** Anura
-- **Family:** Hylidae
+
+-   **Class:** Amphibia
+-   **Order:** Anura
+-   **Family:** Hylidae
 
 ## Occurrence at DeLuca Preserve
 
+## \## Conservation & rarity context
 
-## Conservation & rarity context
-- 
-- **Rarity note:** 
+-   **Rarity note:**
 
 ## Natural history notes
 
-
 ## References / links
-- [iNaturalist species page](https://www.inaturalist.org/taxa/23872-Hyla-femoralis)
-- [IUCN Red List](NA)
-- [Local profile](NA)
+
+-   [DeLuca Bio Blitz Species Observations](NA)
+-   [iNaturalist species page](NA)
+-   [IUCN Red List](NA)
+-   [Local profile](NA)
