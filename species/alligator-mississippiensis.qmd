@@ -5,9 +5,9 @@ group: "Reptilia"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476060613/large.jpg"        # keep for thumbnails
 image-alt: "American Alligator"  # keep for a11y
 tax_kingdom: "Animal"
-tax_class: Reptilia
-tax_order: Crocodylia
-tax_family: Alligatoridae
+tax_class: "Reptilia"
+tax_order: "Crocodylia"
+tax_family: "Alligatoridae"
 categories: ["Animal", "Reptilia", "Crocodylia", "Alligatoridae"]   # these drive the chips + filtering
 freeze: true
 ---
