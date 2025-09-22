@@ -32,7 +32,7 @@ Photo: <a href="https://www.inaturalist.org/people/tylerjonesphotog">tylerjonesp
 
 ## Occurrence at DeLuca Preserve
 
-Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=26159&place_id=any&verifiable=any)
 
 ## Conservation & rarity context
 
@@ -45,7 +45,6 @@ Recovered after conservation; basks on banks; eats fish, turtles, mammals.
 
 ## References / links
 
--   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=26159&place_id=any&verifiable=any)
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/26159-Alligator-mississippiensis)
 -   [IUCN Red List](NA)
 -   [Local profile](NA)

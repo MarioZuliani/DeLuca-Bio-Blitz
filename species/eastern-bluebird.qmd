@@ -32,7 +32,7 @@ Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> 
 
 ## Occurrence at DeLuca Preserve
 
-Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)
+-   [DeLuca Bio Blitz Species Observations](NA)
 
 ## Conservation & rarity context
 
@@ -45,7 +45,6 @@ Nest cavity nester; uses nest boxes; eats insects and berries.
 
 ## References / links
 
--   [DeLuca Bio Blitz Species Observations](NA)
 -   [iNaturalist species page](NA)
 -   [IUCN Red List](NA)
 -   [Local profile](NA)

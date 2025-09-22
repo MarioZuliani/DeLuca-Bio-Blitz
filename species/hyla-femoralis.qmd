@@ -32,6 +32,8 @@ Photo: <a href="https://www.inaturalist.org/people/andrewkunik">andrewkunik</a> 
 
 ## Occurrence at DeLuca Preserve
 
+-   [DeLuca Bio Blitz Species Observations](NA)
+
 ## \## Conservation & rarity context
 
 -   **Rarity note:**
@@ -40,7 +42,6 @@ Photo: <a href="https://www.inaturalist.org/people/andrewkunik">andrewkunik</a> 
 
 ## References / links
 
--   [DeLuca Bio Blitz Species Observations](NA)
 -   [iNaturalist species page](NA)
 -   [IUCN Red List](NA)
 -   [Local profile](NA)

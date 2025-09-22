@@ -32,7 +32,7 @@ Photo: <a href="https://www.inaturalist.org/people/garccyy">garccyy</a> (CC BY-N
 
 ## Occurrence at DeLuca Preserve
 
-Confirmed in 2025 UF DeLuca BioBlitz (Research Grade)
+-   [DeLuca Bio Blitz Species Observations](NA)
 
 ## \## Conservation & rarity context
 
@@ -44,7 +44,6 @@ Small carnivorous sundew; sticky leaves trap insects.
 
 ## References / links
 
--   [DeLuca Bio Blitz Species Observations](NA)
 -   [iNaturalist species page](NA)
 -   [IUCN Red List](NA)
 -   [Local profile](NA)
