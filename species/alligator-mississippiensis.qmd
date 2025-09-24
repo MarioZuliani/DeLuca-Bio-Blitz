@@ -46,5 +46,5 @@ Recovered after conservation; basks on banks; eats fish, turtles, mammals.
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/26159-Alligator-mississippiensis)
--   [IUCN Red List](NA)
--   [Local profile](NA)
+-   [IUCN Red List](https://www.iucnredlist.org/species/46583/3009637)
+-   [Local profile](https://myfwc.com/wildlifehabitats/profiles/reptiles/alligator/)

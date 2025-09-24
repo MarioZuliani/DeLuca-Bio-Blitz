@@ -1,0 +1,49 @@
+---
+title: "Cinnabar Bracket (Trametes sanguinea)"
+slug: "trametes-sanguinea"
+group: "Agaricomycetes"
+image: "https://static.inaturalist.org/photos/41894834/original.jpg"        # keep for thumbnails
+image-alt: "Cinnabar Bracket"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Polyporales"
+tax_family: "Polyporaceae"
+categories: ["Fungi", "Agaricomycetes", "Polyporales", "Polyporaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/41894834/original.jpg" alt="Cinnabar Bracket" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chrisdt">chrisdt</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/26957630">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:** Polyporales
+-   **Family:** Polyporaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=974664&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Globally distributed
+
+## Natural history notes
+
+It is also a tree pathogen infecting species of Platanus and Mangifera.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/974664-Trametes-sanguinea)
+-   [Local profile](https://www.mushroom-appreciation.com/cinnabar-polypores.html)
