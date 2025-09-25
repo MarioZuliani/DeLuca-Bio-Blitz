@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (10)Liliopsida (2)OrdersPoales(2)FamiliesPoaceae(2)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (12)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (5)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phasianidae(1)Turdidae(1)Insects (3)OrdersLepidoptera(2)Pterygota(1)FamiliesHesperiidae(2)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (10)Liliopsida (2)OrdersPoales(2)FamiliesPoaceae(2)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (13)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (5)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phasianidae(1)Turdidae(1)Insecta (4)OrdersLepidoptera(3)Pterygota(1)FamiliesErebidae(1)Hesperiidae(2)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -964,5 +964,47 @@
     "title": "Nash’s Bluestem (Anatherum subtile)",
     "section": "Natural history notes",
     "text": "Natural history notes\nNash’s Bluestem (Anatherum subtile) is a native grass of the southeastern United States, typically growing in dry, sandy soils and open pinelands. Its fine stems and clumping growth form provide cover for insects and small animals, while its seeds are eaten by birds and other wildlife. Like many native grasses, it plays a role in stabilizing soils and supporting fire-adapted ecosystems. Though often overlooked, it contributes to the diversity and health of native grassland communities. ## References / links\n\niNaturalist species page"
+  },
+  {
+    "objectID": "species/utetheisa-ornatrix.html",
+    "href": "species/utetheisa-ornatrix.html",
+    "title": "Ornate Bella Moth (Utetheisa ornatrix)",
+    "section": "",
+    "text": "Photo: brittanymmason (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/utetheisa-ornatrix.html#taxonomy",
+    "href": "species/utetheisa-ornatrix.html#taxonomy",
+    "title": "Ornate Bella Moth (Utetheisa ornatrix)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Insecta\nOrder: Lepidoptera\nFamily: Erebidae"
+  },
+  {
+    "objectID": "species/utetheisa-ornatrix.html#occurrence-at-deluca-preserve",
+    "href": "species/utetheisa-ornatrix.html#occurrence-at-deluca-preserve",
+    "title": "Ornate Bella Moth (Utetheisa ornatrix)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/utetheisa-ornatrix.html#conservation-rarity-context",
+    "href": "species/utetheisa-ornatrix.html#conservation-rarity-context",
+    "title": "Ornate Bella Moth (Utetheisa ornatrix)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not available\nRarity note: Found in the Southeastern United States to South America in open, herbaceous areas where rattleboxes (Crotalaria spp.) are abundant."
+  },
+  {
+    "objectID": "species/utetheisa-ornatrix.html#natural-history-notes",
+    "href": "species/utetheisa-ornatrix.html#natural-history-notes",
+    "title": "Ornate Bella Moth (Utetheisa ornatrix)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Ornate Bella Moth (Utetheisa ornata) is a small moth known for its yellow front wings with white bands and black dots, and bright pink hindwings. The larvae are orange-brown with broad black bands on each segment with white spots. Unlike most moths, the Ornate Bella Moth is diurnal. Plant species from the genus Crotalaria serve as the main host plant for these moths. Due to the presence of pyrrolizidine alkaloids in Crotalaria plants, Ornate Bella Moths in all stages become poisonous to predators."
+  },
+  {
+    "objectID": "species/utetheisa-ornatrix.html#references-links",
+    "href": "species/utetheisa-ornatrix.html#references-links",
+    "title": "Ornate Bella Moth (Utetheisa ornatrix)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
   }
 ]

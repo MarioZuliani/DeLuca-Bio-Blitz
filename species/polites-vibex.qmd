@@ -1,14 +1,14 @@
 ---
 title: "Whirlabout (Polites vibex)"
 slug: "polites-vibex"
-group: "Insects"
+group: "Insecta"
 image: "https://static.inaturalist.org/photos/475058254/large.jpeg"        # keep for thumbnails
 image-alt: "Whirlabout"  # keep for a11y
 tax_kingdom: "Animal"
-tax_class: "Insects"
+tax_class: "Insecta"
 tax_order: "Lepidoptera"        # add
 tax_family: "Hesperiidae"      # add
-categories: ["Animal","Insects", "Lepidoptera", "Hesperiidae"]
+categories: ["Animal","Insecta", "Lepidoptera", "Hesperiidae"]
 freeze: true
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Confused Cloudywing (Cecropterus confusis)"
 slug: "cecropterus-confusis"
-group: "Insects"
+group: "Insecta"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474800116/original.jpg"        # keep for thumbnails
 image-alt: "Confused Cloudywing"
 tax_kingdom: "Animal"
-tax_class: "Insects"
+tax_class: "Insecta"
 tax_order: "Lepidoptera"        
 tax_family: "Hesperiidae"     
-categories: ["Animal", "Insects", "Lepidoptera", "Hesperiidae"]
+categories: ["Animal", "Insecta", "Lepidoptera", "Hesperiidae"]
 freeze: true
 ---
 
