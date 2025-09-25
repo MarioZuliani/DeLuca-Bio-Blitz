@@ -1,0 +1,47 @@
+---
+title: "Nash's Bluestem (Anatherum subtile)"
+slug: "anatherum-subtile"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/55388769/medium.jpeg"        # keep for thumbnails
+image-alt: "Nash's Bluestem"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plants", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/55388769/medium.jpeg" alt="Nash's Bluestem" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jayhorn">jayhorn</a> (CC BY) via <a href="https://www.inaturalist.org/observations/35147022">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=1617306)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Common native
+-   **Rarity note:** Perennial grass typically found in dry, sandy habitats and open woodlands within the Florida peninsula. 
+
+## Natural history notes
+
+Nash’s Bluestem (Anatherum subtile) is a native grass of the southeastern United States, typically growing in dry, sandy soils and open pinelands. Its fine stems and clumping growth form provide cover for insects and small animals, while its seeds are eaten by birds and other wildlife. Like many native grasses, it plays a role in stabilizing soils and supporting fire-adapted ecosystems. Though often overlooked, it contributes to the diversity and health of native grassland communities.
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1617306-Anatherum-subtile)
