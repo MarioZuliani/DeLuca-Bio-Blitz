@@ -1,0 +1,49 @@
+---
+title: "Gopher Applie (Geobalanus oblongifolius)"
+slug: "geobalanus-oblongifolius"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474801750/original.jpg"        # keep for thumbnails
+image-alt: "Gopher Apple"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Chrysobalanaceae"
+categories: ["Plants", "Magnoliopsida", "Malpighiales", "Chrysobalanaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474801750/original.jpg" alt="Gopher Apple" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marktancig">marktancig</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264363299">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Chrysobalanaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=860746)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Common native
+-   **Rarity note:** Shrub species native to the southeastern United States, primarily found in sandy soils.
+
+## Natural history notes
+
+The Gopher Apple (Geobalanus oblongifolius) is a low, spreading shrub native to the sandy soils of the southeastern United States. It produces small, plum-like fruits that are a favorite food of the gopher tortoise, as well as deer and other wildlife. The plant’s dense, mat-forming growth helps stabilize soils and provides ground cover in dry, open habitats. Though not widely known, it plays an important role in supporting species of conservation concern like the gopher tortoise.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/860746-Geobalanus-oblongifolius)
+-   [Local profile](https://www.fnps.org/plant/geobalanus-oblongifolius)

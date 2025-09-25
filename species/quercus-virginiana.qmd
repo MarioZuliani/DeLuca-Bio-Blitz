@@ -1,0 +1,50 @@
+---
+title: "Southern Live Oak (Quercus virginiana)"
+slug: "quercus-virginiana"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474812731/original.jpg"        # keep for thumbnails
+image-alt: "Southern Live Oak"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Fagaceae"
+categories: ["Plants", "Magnoliopsida", "Fagales", "Fagaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474812731/original.jpg" alt="Southern Live Oak" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="hhttps://www.inaturalist.org/people/marinamarquis">marinamarquis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264375255">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Fagaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=49013)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern
+-   **Rarity note:** Commonly found throughout the southeatern United States in coastal woodlands and urban areas.
+
+## Natural history notes
+
+The Southern Live Oak (Quercus virginiana) is found throughout southeastern United States, often draped in Spanish moss and sprawling with massive, arching limbs. Unlike most oaks, it keeps its leathery leaves year-round, providing shade and shelter in coastal woodlands and urban landscapes. Its acorns are an important food source for birds, squirrels, and deer, supporting a wide range of wildlife. Historically, its dense, durable wood was prized for shipbuilding, including the hulls of early American naval vessels.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49013-Quercus-virginiana)
+-   [IUCN Red List](https://www.iucnredlist.org/species/194245/2305868)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/ST564)
