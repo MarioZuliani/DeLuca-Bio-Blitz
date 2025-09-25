@@ -1,0 +1,48 @@
+---
+title: "Hog Plum (Ximenia americana)"
+slug: "ximenia-americana"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354558219/large.jpg"        # keep for thumbnails
+image-alt: "Hog plUM"  # keep for a11y
+tax_kingdom: "Plant"
+tax_class: "Magnoliopsida" # Debating calling it the actual class and not just plants
+tax_order: "Santalales"        # add
+tax_family: "Olacaceae"      # add
+categories: ["Plant", "Magnoliopsida", "Santalales", "Olacaceae"]
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354558219/large.jpg" alt="Hog Plum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200910261">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Santalales
+-   **Family:** Olacaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=83832)
+
+## Conservation & rarity context
+
+-   **Rarity note:** Also known as American Plum, found throughout tropical and subtropical regions.
+
+## Natural history notes
+
+The Hog Plum (Ximenia americana) is a thorny shrub or small tree found in tropical and subtropical regions worldwide, often growing in dry woodlands and savannas. It produces small yellow fruits that are edible but sour, eaten by both people and wildlife. Its leaves and flowers provide browse for animals, while birds and mammals help disperse its seeds. Traditionally, various parts of the plant have also been used in folk medicine.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/83832-Ximenia-americana)
+-   [Local profile](https://www.fnps.org/plant/ximenia-americana)

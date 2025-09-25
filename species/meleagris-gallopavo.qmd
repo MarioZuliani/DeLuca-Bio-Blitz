@@ -1,0 +1,50 @@
+---
+title: "Wild Turkey (Meleagris gallopavo)"
+slug: "meleagris-gallopavo"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354604572/original.jpg"        # keep for thumbnails
+image-alt: "Wild Turkey"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Galliformes"        # add
+tax_family: "Phasianidae"      # add
+categories: ["Animal","Aves", "Galliformes", "Phasianidae"]
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354604572/original.jpg" alt="Wild Turkey" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="http://inaturalist.org/people/scarnevale">scarnevale</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200933963">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Galliformes
+-   **Family:** Phasianidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=906)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common
+-   **Rarity note:** Native to North America, preferring hardwood and mixed conifer forests.
+
+## Natural history notes
+
+The Wild Turkey (Meleagris gallopavo) is a large, ground-dwelling bird native to North America, best known for its fan-shaped tail and gobbling calls. It forages on the forest floor for acorns, seeds, berries, and insects, often scratching through leaf litter in search of food. Males, called toms, put on elaborate displays in spring—strutting, fanning their tails, and puffing up feathers to attract hens. Once nearly extirpated due to overhunting and habitat loss, Wild Turkeys have made a remarkable recovery through conservation efforts and reintroductions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/906-Meleagris-gallopavo)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22679525/132051953)
+-   [Local profile](https://myfwc.com/wildlifehabitats/profiles/birds/game-birds/wild-turkeys/)

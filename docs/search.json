@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (4)Magnoliopsida (4)OrdersCaryophyllales(1)Malpighiales(1)Sapindales(1)Vitals(1)FamiliesDroseraceae(1)Hypericaceae(1)Sapindaceae(1)Vitaceae(1)Animals (10)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (4)OrdersCathartiformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Turdidae(1)Insects (2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (5)Magnoliopsida (5)OrdersCaryophyllales(1)Malpighiales(1)Santalales(1)Sapindales(1)Vitals(1)FamiliesDroseraceae(1)Hypericaceae(1)Olacaceae(1)Sapindaceae(1)Vitaceae(1)Animals (11)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (5)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phasianidae(1)Turdidae(1)Insects (2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -640,6 +640,90 @@
     "objectID": "species/cathartes-aura.html#references-links",
     "href": "species/cathartes-aura.html#references-links",
     "title": "Turkey Vulture (Cathartes aura)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/ximenia-americana.html",
+    "href": "species/ximenia-americana.html",
+    "title": "Hog Plum (Ximenia americana)",
+    "section": "",
+    "text": "Photo: damien6868 (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/ximenia-americana.html#taxonomy",
+    "href": "species/ximenia-americana.html#taxonomy",
+    "title": "Hog Plum (Ximenia americana)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Santalales\nFamily: Olacaceae"
+  },
+  {
+    "objectID": "species/ximenia-americana.html#occurrence-at-deluca-preserve",
+    "href": "species/ximenia-americana.html#occurrence-at-deluca-preserve",
+    "title": "Hog Plum (Ximenia americana)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/ximenia-americana.html#conservation-rarity-context",
+    "href": "species/ximenia-americana.html#conservation-rarity-context",
+    "title": "Hog Plum (Ximenia americana)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nRarity note: Also known as American Plum, found throughout tropical and subtropical regions."
+  },
+  {
+    "objectID": "species/ximenia-americana.html#natural-history-notes",
+    "href": "species/ximenia-americana.html#natural-history-notes",
+    "title": "Hog Plum (Ximenia americana)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Hog Plum (Ximenia americana) is a thorny shrub or small tree found in tropical and subtropical regions worldwide, often growing in dry woodlands and savannas. It produces small yellow fruits that are edible but sour, eaten by both people and wildlife. Its leaves and flowers provide browse for animals, while birds and mammals help disperse its seeds. Traditionally, various parts of the plant have also been used in folk medicine."
+  },
+  {
+    "objectID": "species/ximenia-americana.html#references-links",
+    "href": "species/ximenia-americana.html#references-links",
+    "title": "Hog Plum (Ximenia americana)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/meleagris-gallopavo.html",
+    "href": "species/meleagris-gallopavo.html",
+    "title": "Wild Turkey (Meleagris gallopavo)",
+    "section": "",
+    "text": "Photo: scarnevale (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/meleagris-gallopavo.html#taxonomy",
+    "href": "species/meleagris-gallopavo.html#taxonomy",
+    "title": "Wild Turkey (Meleagris gallopavo)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Aves\nOrder: Galliformes\nFamily: Phasianidae"
+  },
+  {
+    "objectID": "species/meleagris-gallopavo.html#occurrence-at-deluca-preserve",
+    "href": "species/meleagris-gallopavo.html#occurrence-at-deluca-preserve",
+    "title": "Wild Turkey (Meleagris gallopavo)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/meleagris-gallopavo.html#conservation-rarity-context",
+    "href": "species/meleagris-gallopavo.html#conservation-rarity-context",
+    "title": "Wild Turkey (Meleagris gallopavo)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern; Florida: Common\nRarity note: Native to North America, preferring hardwood and mixed conifer forests."
+  },
+  {
+    "objectID": "species/meleagris-gallopavo.html#natural-history-notes",
+    "href": "species/meleagris-gallopavo.html#natural-history-notes",
+    "title": "Wild Turkey (Meleagris gallopavo)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Wild Turkey (Meleagris gallopavo) is a large, ground-dwelling bird native to North America, best known for its fan-shaped tail and gobbling calls. It forages on the forest floor for acorns, seeds, berries, and insects, often scratching through leaf litter in search of food. Males, called toms, put on elaborate displays in spring—strutting, fanning their tails, and puffing up feathers to attract hens. Once nearly extirpated due to overhunting and habitat loss, Wild Turkeys have made a remarkable recovery through conservation efforts and reintroductions."
+  },
+  {
+    "objectID": "species/meleagris-gallopavo.html#references-links",
+    "href": "species/meleagris-gallopavo.html#references-links",
+    "title": "Wild Turkey (Meleagris gallopavo)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
   }
