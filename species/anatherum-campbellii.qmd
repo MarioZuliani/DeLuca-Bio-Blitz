@@ -1,0 +1,48 @@
+---
+title: "Deceptive Bluestem (Anatherum campbellii)"
+slug: "anatherum-campbellii"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180772451/original.jpg"        # keep for thumbnails
+image-alt: "Deceptive Bluestem"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plants", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180772451/original.jpg" alt="Deceptive Bluestem" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/steff_leigh">steff_leigh</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107476923">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=1619459&view=species)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Common native
+-   **Rarity note:** Perennial grass typically found in dry, sandy habitats and open woodlands within the Florida peninsula. 
+
+## Natural history notes
+
+The Deceptive Bluestem (Anatherum campbellii) is a perennial grass native to the southeastern United States, typically found in dry, sandy habitats and open woodlands. Like other bluestems, it plays an important role in stabilizing soils and providing cover for small animals and insects. Its flowers and seeds support grassland biodiversity, offering food for insects and birds. Though not widely known, it contributes to the resilience of native plant communities in fire-adapted ecosystems.
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1619459-Anatherum-campbellii)
+-   [Local profile](https://fsus.ncbg.unc.edu/show-taxon-detail.php?taxonid=1751)

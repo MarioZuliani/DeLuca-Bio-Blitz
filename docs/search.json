@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (8)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (12)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (5)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phasianidae(1)Turdidae(1)Insects (3)OrdersLepidoptera(2)Pterygota(1)FamiliesHesperiidae(2)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (9)Liliopsida (1)OrdersPoales(1)FamiliesPoaceae(1)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (12)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (5)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phasianidae(1)Turdidae(1)Insects (3)OrdersLepidoptera(2)Pterygota(1)FamiliesHesperiidae(2)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -894,5 +894,40 @@
     "title": "Confused Cloudywing (Cecropterus confusis)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/anatherum-campbellii.html",
+    "href": "species/anatherum-campbellii.html",
+    "title": "Deceptive Bluestem (Anatherum campbellii)",
+    "section": "",
+    "text": "Photo: steff_leigh (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/anatherum-campbellii.html#taxonomy",
+    "href": "species/anatherum-campbellii.html#taxonomy",
+    "title": "Deceptive Bluestem (Anatherum campbellii)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Liliopsida\nOrder: Poales\nFamily: Poaceae"
+  },
+  {
+    "objectID": "species/anatherum-campbellii.html#occurrence-at-deluca-preserve",
+    "href": "species/anatherum-campbellii.html#occurrence-at-deluca-preserve",
+    "title": "Deceptive Bluestem (Anatherum campbellii)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/anatherum-campbellii.html#conservation-rarity-context",
+    "href": "species/anatherum-campbellii.html#conservation-rarity-context",
+    "title": "Deceptive Bluestem (Anatherum campbellii)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not Listed; Florida: Common native\nRarity note: Perennial grass typically found in dry, sandy habitats and open woodlands within the Florida peninsula."
+  },
+  {
+    "objectID": "species/anatherum-campbellii.html#natural-history-notes",
+    "href": "species/anatherum-campbellii.html#natural-history-notes",
+    "title": "Deceptive Bluestem (Anatherum campbellii)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Deceptive Bluestem (Anatherum campbellii) is a perennial grass native to the southeastern United States, typically found in dry, sandy habitats and open woodlands. Like other bluestems, it plays an important role in stabilizing soils and providing cover for small animals and insects. Its flowers and seeds support grassland biodiversity, offering food for insects and birds. Though not widely known, it contributes to the resilience of native plant communities in fire-adapted ecosystems. ## References / links\n\niNaturalist species page\nLocal profile"
   }
 ]
