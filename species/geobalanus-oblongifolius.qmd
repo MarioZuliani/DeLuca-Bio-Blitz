@@ -1,5 +1,5 @@
 ---
-title: "Gopher Applie (Geobalanus oblongifolius)"
+title: "Gopher Apple (Geobalanus oblongifolius)"
 slug: "geobalanus-oblongifolius"
 group: "Plants"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474801750/original.jpg"        # keep for thumbnails

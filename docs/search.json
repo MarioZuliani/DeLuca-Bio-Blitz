@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (7)Magnoliopsida (7)OrdersCaryophyllales(1)Fagales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Sapindaceae(1)Vitaceae(1)Animals (11)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (5)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phasianidae(1)Turdidae(1)Insects (2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (8)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (12)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (5)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phasianidae(1)Turdidae(1)Insects (3)OrdersLepidoptera(2)Pterygota(1)FamiliesHesperiidae(2)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -772,42 +772,126 @@
   {
     "objectID": "species/geobalanus-oblongifolius.html",
     "href": "species/geobalanus-oblongifolius.html",
-    "title": "Gopher Applie (Geobalanus oblongifolius)",
+    "title": "Gopher Apple (Geobalanus oblongifolius)",
     "section": "",
     "text": "Photo: marktancig (CC BY-NC 4.0) via iNaturalist"
   },
   {
     "objectID": "species/geobalanus-oblongifolius.html#taxonomy",
     "href": "species/geobalanus-oblongifolius.html#taxonomy",
-    "title": "Gopher Applie (Geobalanus oblongifolius)",
+    "title": "Gopher Apple (Geobalanus oblongifolius)",
     "section": "Taxonomy",
     "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Malpighiales\nFamily: Chrysobalanaceae"
   },
   {
     "objectID": "species/geobalanus-oblongifolius.html#occurrence-at-deluca-preserve",
     "href": "species/geobalanus-oblongifolius.html#occurrence-at-deluca-preserve",
-    "title": "Gopher Applie (Geobalanus oblongifolius)",
+    "title": "Gopher Apple (Geobalanus oblongifolius)",
     "section": "Occurrence at DeLuca Preserve",
     "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
   },
   {
     "objectID": "species/geobalanus-oblongifolius.html#conservation-rarity-context",
     "href": "species/geobalanus-oblongifolius.html#conservation-rarity-context",
-    "title": "Gopher Applie (Geobalanus oblongifolius)",
+    "title": "Gopher Apple (Geobalanus oblongifolius)",
     "section": "Conservation & rarity context",
     "text": "Conservation & rarity context\n\nIUCN: Not Listed; Florida: Common native\nRarity note: Shrub species native to the southeastern United States, primarily found in sandy soils."
   },
   {
     "objectID": "species/geobalanus-oblongifolius.html#natural-history-notes",
     "href": "species/geobalanus-oblongifolius.html#natural-history-notes",
-    "title": "Gopher Applie (Geobalanus oblongifolius)",
+    "title": "Gopher Apple (Geobalanus oblongifolius)",
     "section": "Natural history notes",
     "text": "Natural history notes\nThe Gopher Apple (Geobalanus oblongifolius) is a low, spreading shrub native to the sandy soils of the southeastern United States. It produces small, plum-like fruits that are a favorite food of the gopher tortoise, as well as deer and other wildlife. The plant’s dense, mat-forming growth helps stabilize soils and provides ground cover in dry, open habitats. Though not widely known, it plays an important role in supporting species of conservation concern like the gopher tortoise."
   },
   {
     "objectID": "species/geobalanus-oblongifolius.html#references-links",
     "href": "species/geobalanus-oblongifolius.html#references-links",
-    "title": "Gopher Applie (Geobalanus oblongifolius)",
+    "title": "Gopher Apple (Geobalanus oblongifolius)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/cephalanthus-occidentalis.html",
+    "href": "species/cephalanthus-occidentalis.html",
+    "title": "Buttonbush (Cephalanthus occidentalis)",
+    "section": "",
+    "text": "Photo: lygodium63 (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/cephalanthus-occidentalis.html#taxonomy",
+    "href": "species/cephalanthus-occidentalis.html#taxonomy",
+    "title": "Buttonbush (Cephalanthus occidentalis)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Gentianales\nFamily: Rubiaceae"
+  },
+  {
+    "objectID": "species/cephalanthus-occidentalis.html#occurrence-at-deluca-preserve",
+    "href": "species/cephalanthus-occidentalis.html#occurrence-at-deluca-preserve",
+    "title": "Buttonbush (Cephalanthus occidentalis)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/cephalanthus-occidentalis.html#conservation-rarity-context",
+    "href": "species/cephalanthus-occidentalis.html#conservation-rarity-context",
+    "title": "Buttonbush (Cephalanthus occidentalis)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern; Florida: Common native\nRarity note: Long-lived shrub species commonly found in wetlands and along the edge or rivers and streams."
+  },
+  {
+    "objectID": "species/cephalanthus-occidentalis.html#natural-history-notes",
+    "href": "species/cephalanthus-occidentalis.html#natural-history-notes",
+    "title": "Buttonbush (Cephalanthus occidentalis)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Buttonbush (Cephalanthus occidentalis) is a wetland shrub native to much of North America, thriving along pond edges, marshes, and swamps. It is easily recognized by its spherical clusters of fragrant white flowers, which attract bees, butterflies, and hummingbirds. Its seeds are eaten by ducks and other waterfowl, making it valuable for wetland wildlife. Because it tolerates flooding, it also helps stabilize shorelines and improve water quality."
+  },
+  {
+    "objectID": "species/cephalanthus-occidentalis.html#references-links",
+    "href": "species/cephalanthus-occidentalis.html#references-links",
+    "title": "Buttonbush (Cephalanthus occidentalis)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/cecropterus-confusis.html",
+    "href": "species/cecropterus-confusis.html",
+    "title": "Confused Cloudywing (Cecropterus confusis)",
+    "section": "",
+    "text": "Photo: levihoskins (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/cecropterus-confusis.html#taxonomy",
+    "href": "species/cecropterus-confusis.html#taxonomy",
+    "title": "Confused Cloudywing (Cecropterus confusis)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Insecta\nOrder: Lepidoptera\nFamily: Hesperiidae"
+  },
+  {
+    "objectID": "species/cecropterus-confusis.html#occurrence-at-deluca-preserve",
+    "href": "species/cecropterus-confusis.html#occurrence-at-deluca-preserve",
+    "title": "Confused Cloudywing (Cecropterus confusis)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/cecropterus-confusis.html#conservation-rarity-context",
+    "href": "species/cecropterus-confusis.html#conservation-rarity-context",
+    "title": "Confused Cloudywing (Cecropterus confusis)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not Listed\nRarity note: Typically found in open woods and fields across the southern United States"
+  },
+  {
+    "objectID": "species/cecropterus-confusis.html#natural-history-notes",
+    "href": "species/cecropterus-confusis.html#natural-history-notes",
+    "title": "Confused Cloudywing (Cecropterus confusis)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Confused Cloudywing (Cecropterus confusis) is a medium-sized skipper butterfly found in open woods, fields, and edges across the southeastern United States. It is often difficult to distinguish from other cloudywing species, which is how it earned its name. Adults feed on nectar from a variety of flowers, while caterpillars develop on legumes such as tick-trefoils and bush-clovers. As both pollinators and prey for birds and other insects, they play a small but important role in local ecosystems."
+  },
+  {
+    "objectID": "species/cecropterus-confusis.html#references-links",
+    "href": "species/cecropterus-confusis.html#references-links",
+    "title": "Confused Cloudywing (Cecropterus confusis)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nLocal profile"
   }

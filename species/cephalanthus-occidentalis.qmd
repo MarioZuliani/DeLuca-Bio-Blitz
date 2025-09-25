@@ -1,0 +1,50 @@
+---
+title: "Buttonbush (Cephalanthus occidentalis)"
+slug: "cephalanthus-occidentalis"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/181310203/original.jpg"        # keep for thumbnails
+image-alt: "Buttonbush"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Rubiaceae"
+categories: ["Plants", "Magnoliopsida", "Gentianales", "Rubiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/181310203/original.jpg" alt="Buttonbush" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lygodium63">lygodium63</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107763112">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Rubiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=52763)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** Long-lived shrub species commonly found in wetlands and along the edge or rivers and streams.
+
+## Natural history notes
+
+The Buttonbush (Cephalanthus occidentalis) is a wetland shrub native to much of North America, thriving along pond edges, marshes, and swamps. It is easily recognized by its spherical clusters of fragrant white flowers, which attract bees, butterflies, and hummingbirds. Its seeds are eaten by ducks and other waterfowl, making it valuable for wetland wildlife. Because it tolerates flooding, it also helps stabilize shorelines and improve water quality.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/52763-Cephalanthus-occidentalis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/64310261/174152591)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-cephalanthus-occidentalis/)
