@@ -32,7 +32,7 @@ Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> 
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](NA)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=12942)
 
 ## Conservation & rarity context
 
@@ -41,10 +41,9 @@ Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> 
 
 ## Natural history notes
 
-Nest cavity nester; uses nest boxes; eats insects and berries.
+The Eastern Bluebird (Sialia sialis) is a small thrush found in open fields, meadows, and forest edges across eastern North America. Known for their brilliant blue plumage and reddish breast, they primarily feed on insects and berries, often hunting from low perches. They nest in tree cavities or nest boxes, which has made them a favorite among bird enthusiasts and conservation groups. Once in decline due to habitat loss and competition from invasive species like starlings, Eastern Bluebird populations have rebounded thanks to widespread nest box programs.
 
 ## References / links
 
--   [iNaturalist species page](NA)
--   [IUCN Red List](NA)
--   [Local profile](NA)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/12942-Sialia-sialis)
+-   [Local profile](https://myfwc.com/wildlifehabitats/profiles/birds/songbirds/eastern-bluebird/)

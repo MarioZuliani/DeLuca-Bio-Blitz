@@ -32,16 +32,18 @@ Photo: <a href="https://www.inaturalist.org/people/andrewkunik">andrewkunik</a> 
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](NA)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=23872)
 
 ## \## Conservation & rarity context
 
--   **Rarity note:**
+-   IUCN: not listed; Florida: not listed; fairly common
+-   **Rarity note:** Common throughout most of Florida, with the exception of the south-central peninsula and the Keys.
 
 ## Natural history notes
 
+The Pine Woods Tree Frog (Hyla femoralis) is a small, adaptable tree frog found throughout the southeastern United States, especially in pine forests, flatwoods, and cypress swamps. It is known for its distinctive rapid, chattering call, sometimes nicknamed the “Morse code frog.” By day it hides in tree cavities, under bark, or among vegetation, and at night it forages for insects and other small invertebrates. During the breeding season, it gathers in temporary ponds and wetlands to lay eggs, making it an important indicator of healthy forested wetland ecosystems.
+
 ## References / links
 
--   [iNaturalist species page](NA)
--   [IUCN Red List](NA)
--   [Local profile](NA)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/23872-Hyla-femoralis)
+-   [Local profile](https://ufwildlife.ifas.ufl.edu/frogs/pinewoodstreefrog.shtml)
