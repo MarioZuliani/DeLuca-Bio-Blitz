@@ -32,16 +32,19 @@ Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](NA)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=43111)
 
-## \## Conservation & rarity context
+## Conservation & rarity context
 
--   **Rarity note:**
+-   IUCN: Least Concern; Florida: not listed; common
+-   **Rarity note:** Most comon rabbit species in North America found in Forest, Savanna, Shrubland, Grassland, Wetlands, Rocky areas, and Desert
 
 ## Natural history notes
 
+The Eastern Cottontail (Sylvilagus floridanus) is the most common rabbit in North America, easily recognized by the fluffy white underside of its tail. It thrives in fields, meadows, and brushy edges, where it feeds mainly on grasses, herbs, and garden plants. Highly prolific, females can produce several litters per year, each with multiple young. As a key prey species for hawks, foxes, coyotes, and other predators, it plays an essential role in many food webs.
+
 ## References / links
 
--   [iNaturalist species page](NA)
--   [IUCN Red List](NA)
--   [Local profile](NA)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/43111-Sylvilagus-floridanus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/41299/45191626)
+-   [Local profile](https://myfwc.com/wildlifehabitats/profiles/mammals/land/rabbit/)

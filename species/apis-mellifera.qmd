@@ -32,16 +32,19 @@ Photo: <a href="https://www.inaturalist.org/people/billpranty">billpranty</a> (C
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](NA)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=47219)
 
-## \## Conservation & rarity context
+## Conservation & rarity context
 
--   **Rarity note:**
+-   IUCN: Data Deficient; Florida: Non-native
+-   **Rarity note:** Naturally occurs in Europe, the Middle East, and Africa and has been subdivided into at least 20 recognized subspecies.
 
 ## Natural history notes
 
+The Western Honey Bee (Apis mellifera) is one of the world’s most widespread and important pollinators, originally native to Europe, Africa, and western Asia but now introduced globally. Living in highly organized colonies, they build wax combs to store honey and rear brood, with each hive containing a queen, workers, and drones. They play a critical ecological and agricultural role by pollinating a wide variety of plants, including many food crops. Though resilient and adaptable, honey bees face pressures from habitat loss, pesticides, diseases, and parasites such as the Varroa mite.
+
 ## References / links
 
--   [iNaturalist species page](NA)
--   [IUCN Red List](NA)
--   [Local profile](NA)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/47219-Apis-mellifera)
+-   [IUCN Red List](https://www.iucnredlist.org/species/42463639/42463665)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN1005)

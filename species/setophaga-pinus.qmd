@@ -32,19 +32,19 @@ Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](NA)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=145244)
 
 ## Conservation & rarity context
 
 -   IUCN: Least Concern; Florida: common in pines
--   **Rarity note:** Breeds in pine forests; trills; forages high
+-   **Rarity note:** Breeds in pine forests; trills; forages high.
 
 ## Natural history notes
 
-Feeds on insects & seeds; often at feeders in winter.
+The Pine Warbler (Setophaga pinus) is a small songbird of the eastern United States, closely tied to pine forests where it nests and forages. Unlike many warblers, it eats a varied diet of insects, seeds, and berries, often visiting backyard feeders in winter. Its clear, musical trill is one of the first bird songs heard in spring, sometimes continuing year-round in warmer regions. This species is considered an important indicator of healthy pine ecosystems.
 
 ## References / links
 
--   [iNaturalist species page](NA)
--   [IUCN Red List](NA)
--   [Local profile](NA)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/145244-Setophaga-pinus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22721719/137255800)
+-   [Local profile](https://myfwc.com/media/19758/bba_piwa.pdf)

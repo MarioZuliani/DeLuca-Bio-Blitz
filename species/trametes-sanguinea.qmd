@@ -37,11 +37,11 @@ Photo: <a href="https://www.inaturalist.org/people/chrisdt">chrisdt</a> (CC BY-N
 ## Conservation & rarity context
 
 -   IUCN: Not available
--   **Rarity note:** Globally distributed
+-   **Rarity note:** Globally distributed fungi species.
 
 ## Natural history notes
 
-It is also a tree pathogen infecting species of Platanus and Mangifera.
+The Cinnabar Bracket (Trametes sanguinea) is a striking wood-decay fungus recognized by its bright red, velvety upper surface and pale pore underside. It grows on dead hardwood, helping decompose tough lignin and cellulose and recycling nutrients back into the forest ecosystem. Like other bracket fungi, it forms thin, shelf-like fruiting bodies that persist for months. Its vivid coloration makes it a standout among woodland fungi, even though it is inedible.
 
 ## References / links
 

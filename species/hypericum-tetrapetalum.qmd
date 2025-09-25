@@ -34,7 +34,7 @@ Photo: <a href="https://www.inaturalist.org/people/lmcconachie">lmcconachie</a> 
 
 -   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=128076)
 
-## \## Conservation & rarity context
+## Conservation & rarity context
 
 -   IUCN: not listed; Florida: not listed; fairly common
 -   **Rarity note:** This plant is a member of the St.-Johns-wort family containing about 800 species of herbs and shrubs.

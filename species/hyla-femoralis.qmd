@@ -34,7 +34,7 @@ Photo: <a href="https://www.inaturalist.org/people/andrewkunik">andrewkunik</a> 
 
 -   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=23872)
 
-## \## Conservation & rarity context
+## Conservation & rarity context
 
 -   IUCN: not listed; Florida: not listed; fairly common
 -   **Rarity note:** Common throughout most of Florida, with the exception of the south-central peninsula and the Keys.
