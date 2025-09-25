@@ -32,18 +32,17 @@ Photo: <a href="https://www.inaturalist.org/people/garccyy">garccyy</a> (CC BY-N
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](NA)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=162094)
 
-## \## Conservation & rarity context
+## Conservation & rarity context
 
 -   **Rarity note:** Common in wet flatwoods & bogs of SE US
 
 ## Natural history notes
 
-Small carnivorous sundew; sticky leaves trap insects.
+The Pink Sundew (Drosera capillaris) is a small carnivorous plant found in nutrient-poor wetlands, bogs, and sandy soils across the southeastern United States. Its leaves are covered in sticky, glandular hairs that glisten in the sun and trap unsuspecting insects, which the plant digests to supplement its nutrient intake. Despite its delicate size, it plays an important role in balancing insect populations in its habitat. In spring, it produces tiny pink to white flowers that rise above the sticky leaves, ensuring pollinators don’t get caught in its traps.
 
 ## References / links
 
--   [iNaturalist species page](NA)
--   [IUCN Red List](NA)
--   [Local profile](NA)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162094-Drosera-capillaris)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-drosera-capillaris/)
