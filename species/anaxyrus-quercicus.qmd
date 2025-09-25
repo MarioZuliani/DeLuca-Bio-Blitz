@@ -1,0 +1,50 @@
+---
+title: "Oak Toad (Anaxyrus quercicus)"
+slug: "anaxyrus-quercicus"
+group: "Amphibia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354685712/original.jpg"        # keep for thumbnails
+image-alt: "Oak Toad"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Amphibia"
+tax_order: "Anura"        # add
+tax_family: "Bufonidae"      # add
+categories: ["Animal","Amphibia", "Anura", "Bufonidae"]
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354685712/original.jpg" alt="Oak Toad" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200974522">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Amphibia
+-   **Order:** Anura
+-   **Family:** Bufonidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=64985)
+
+## Conservation & rarity context
+
+-   IUCN: Least concern; Florida: fairly common
+-   **Rarity note:** Common in forest and oak woodlands.
+
+## Natural history notes
+
+The Oak Toad (Anaxyrus quercicus) is the smallest toad in North America, rarely exceeding an inch in length. It inhabits sandy pine forests and oak woodlands of the southeastern United States, where it spends much of its time buried in loose soil. Its high-pitched, birdlike trill can be heard after heavy rains when males gather at temporary ponds to breed. Despite its tiny size, it plays an important role in controlling insect populations.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/64985-Anaxyrus-quercicus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/54743/56952440)
+-   [Local profile](https://ufwildlife.ifas.ufl.edu/frogs/oaktoad.shtml)

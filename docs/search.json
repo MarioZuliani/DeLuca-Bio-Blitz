@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (2)Magnoliopsida (2)OrdersCaryophyllales(1)Malpighiales(1)FamiliesDroseraceae(1)Hypericaceae(1)Animals (7)Amphibia (1)OrdersAnura(1)FamiliesHylidae(1)Aves (2)OrdersPasseriformes(2)FamiliesParulidae(1)Turdidae(1)Insects (2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (3)Magnoliopsida (3)OrdersCaryophyllales(1)Malpighiales(1)Sapindales(1)FamiliesDroseraceae(1)Hypericaceae(1)Sapindaceae(1)Animals (9)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (3)OrdersPasseriformes(3)FamiliesMimidae(1)Parulidae(1)Turdidae(1)Insects (2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -432,5 +432,131 @@
     "title": "Cinnabar Bracket (Trametes sanguinea)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/acer-rubrum.html",
+    "href": "species/acer-rubrum.html",
+    "title": "Red Maple (Acer rubrum)",
+    "section": "",
+    "text": "Photo: coreytcallaghan (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/acer-rubrum.html#taxonomy",
+    "href": "species/acer-rubrum.html#taxonomy",
+    "title": "Red Maple (Acer rubrum)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Sapindales\nFamily: Sapindaceae"
+  },
+  {
+    "objectID": "species/acer-rubrum.html#occurrence-at-deluca-preserve",
+    "href": "species/acer-rubrum.html#occurrence-at-deluca-preserve",
+    "title": "Red Maple (Acer rubrum)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/acer-rubrum.html#conservation-rarity-context",
+    "href": "species/acer-rubrum.html#conservation-rarity-context",
+    "title": "Red Maple (Acer rubrum)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern\nRarity note: Most common tree in North America."
+  },
+  {
+    "objectID": "species/acer-rubrum.html#natural-history-notes",
+    "href": "species/acer-rubrum.html#natural-history-notes",
+    "title": "Red Maple (Acer rubrum)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Red Maple (Acer rubrum) is one of the most widespread and adaptable trees in eastern North America, thriving in wetlands, forests, and urban areas alike. It is named for its brilliant red features—buds in spring, flowers before leaf-out, and vibrant fall foliage. Its winged seeds, called samaras, are a key food source for squirrels, birds, and other wildlife. Because of its fast growth and tolerance for many soils, it is also a popular shade and ornamental tree."
+  },
+  {
+    "objectID": "species/acer-rubrum.html#references-links",
+    "href": "species/acer-rubrum.html#references-links",
+    "title": "Red Maple (Acer rubrum)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/dumetella-carolinensis.html",
+    "href": "species/dumetella-carolinensis.html",
+    "title": "Gray Catbird (Dumetella carolinensis)",
+    "section": "",
+    "text": "Photo: coreytcallaghan (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/dumetella-carolinensis.html#taxonomy",
+    "href": "species/dumetella-carolinensis.html#taxonomy",
+    "title": "Gray Catbird (Dumetella carolinensis)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Aves\nOrder: Passeriformes\nFamily: Mimidae"
+  },
+  {
+    "objectID": "species/dumetella-carolinensis.html#occurrence-at-deluca-preserve",
+    "href": "species/dumetella-carolinensis.html#occurrence-at-deluca-preserve",
+    "title": "Gray Catbird (Dumetella carolinensis)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/dumetella-carolinensis.html#conservation-rarity-context",
+    "href": "species/dumetella-carolinensis.html#conservation-rarity-context",
+    "title": "Gray Catbird (Dumetella carolinensis)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern; Florida: not listed\nRarity note: Common species found globally."
+  },
+  {
+    "objectID": "species/dumetella-carolinensis.html#natural-history-notes",
+    "href": "species/dumetella-carolinensis.html#natural-history-notes",
+    "title": "Gray Catbird (Dumetella carolinensis)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Gray Catbird (Dumetella carolinensis) is a songbird found in thickets, shrubs, and forest edges across much of North America. It is best known for its catlike “mew” call and its ability to mimic the songs of other birds within its long, varied repertoire. Catbirds primarily eat insects and berries, playing an important role in seed dispersal. Unlike many mimics, they often sing from concealed perches, adding to their elusive reputation."
+  },
+  {
+    "objectID": "species/dumetella-carolinensis.html#references-links",
+    "href": "species/dumetella-carolinensis.html#references-links",
+    "title": "Gray Catbird (Dumetella carolinensis)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/anaxyrus-quercicus.html",
+    "href": "species/anaxyrus-quercicus.html",
+    "title": "Oak Toad (Anaxyrus quercicus)",
+    "section": "",
+    "text": "Photo: billpranty (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/anaxyrus-quercicus.html#taxonomy",
+    "href": "species/anaxyrus-quercicus.html#taxonomy",
+    "title": "Oak Toad (Anaxyrus quercicus)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Amphibia\nOrder: Anura\nFamily: Bufonidae"
+  },
+  {
+    "objectID": "species/anaxyrus-quercicus.html#occurrence-at-deluca-preserve",
+    "href": "species/anaxyrus-quercicus.html#occurrence-at-deluca-preserve",
+    "title": "Oak Toad (Anaxyrus quercicus)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/anaxyrus-quercicus.html#conservation-rarity-context",
+    "href": "species/anaxyrus-quercicus.html#conservation-rarity-context",
+    "title": "Oak Toad (Anaxyrus quercicus)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least concern; Florida: fairly common\nRarity note: Common in forest and oak woodlands."
+  },
+  {
+    "objectID": "species/anaxyrus-quercicus.html#natural-history-notes",
+    "href": "species/anaxyrus-quercicus.html#natural-history-notes",
+    "title": "Oak Toad (Anaxyrus quercicus)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Oak Toad (Anaxyrus quercicus) is the smallest toad in North America, rarely exceeding an inch in length. It inhabits sandy pine forests and oak woodlands of the southeastern United States, where it spends much of its time buried in loose soil. Its high-pitched, birdlike trill can be heard after heavy rains when males gather at temporary ponds to breed. Despite its tiny size, it plays an important role in controlling insect populations."
+  },
+  {
+    "objectID": "species/anaxyrus-quercicus.html#references-links",
+    "href": "species/anaxyrus-quercicus.html#references-links",
+    "title": "Oak Toad (Anaxyrus quercicus)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
   }
 ]
