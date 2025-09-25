@@ -1,0 +1,50 @@
+---
+title: "Virginia Creeper (Parthenocissus quinquefolia)"
+slug: "parthenocissus-quinquefolia"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474766417/original.jpeg"        # keep for thumbnails
+image-alt: "Virginia Creeper"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Vitals"
+tax_family: "Vitaceae"
+categories: ["Plants", "Magnoliopsida", "Vitals", "Vitaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474766417/original.jpeg" alt="Virginia Creeper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/bri_summa">bri_summa</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264309307">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Vitals
+-   **Family:** Vitaleae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=50278)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** Common native plant found throughout various ecosystems from forests to urban areas.
+
+## Natural history notes
+
+Virginia Creeper (Parthenocissus quinquefolia) is a vigorous, climbing vine native to eastern North America, often seen covering trees, fences, and walls. It attaches with small adhesive pads, allowing it to scale surfaces without harming them structurally. In autumn, its leaves turn a brilliant red, and its dark blue berries provide food for birds and small mammals. While sometimes mistaken for poison ivy, it can be distinguished by its five leaflets instead of three.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/50278-Parthenocissus-quinquefolia)
+-   [IUCN Red List](https://www.iucnredlist.org/species/192160722/192160724)
+-   [Local profile](https://www.fnps.org/plant/parthenocissus-quinquefolia)

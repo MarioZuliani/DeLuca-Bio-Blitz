@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (3)Magnoliopsida (3)OrdersCaryophyllales(1)Malpighiales(1)Sapindales(1)FamiliesDroseraceae(1)Hypericaceae(1)Sapindaceae(1)Animals (9)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (3)OrdersPasseriformes(3)FamiliesMimidae(1)Parulidae(1)Turdidae(1)Insects (2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (4)Magnoliopsida (4)OrdersCaryophyllales(1)Malpighiales(1)Sapindales(1)Vitals(1)FamiliesDroseraceae(1)Hypericaceae(1)Sapindaceae(1)Vitaceae(1)Animals (10)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (4)OrdersCathartiformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Turdidae(1)Insects (2)OrdersLepidoptera(1)Pterygota(1)FamiliesHesperiidae(1)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -556,6 +556,90 @@
     "objectID": "species/anaxyrus-quercicus.html#references-links",
     "href": "species/anaxyrus-quercicus.html#references-links",
     "title": "Oak Toad (Anaxyrus quercicus)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/parthenocissus-quinquefolia.html",
+    "href": "species/parthenocissus-quinquefolia.html",
+    "title": "Virginia Creeper (Parthenocissus quinquefolia)",
+    "section": "",
+    "text": "Photo: bri_summa (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/parthenocissus-quinquefolia.html#taxonomy",
+    "href": "species/parthenocissus-quinquefolia.html#taxonomy",
+    "title": "Virginia Creeper (Parthenocissus quinquefolia)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Vitals\nFamily: Vitaleae"
+  },
+  {
+    "objectID": "species/parthenocissus-quinquefolia.html#occurrence-at-deluca-preserve",
+    "href": "species/parthenocissus-quinquefolia.html#occurrence-at-deluca-preserve",
+    "title": "Virginia Creeper (Parthenocissus quinquefolia)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/parthenocissus-quinquefolia.html#conservation-rarity-context",
+    "href": "species/parthenocissus-quinquefolia.html#conservation-rarity-context",
+    "title": "Virginia Creeper (Parthenocissus quinquefolia)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern; Florida: Common native\nRarity note: Common native plant found throughout various ecosystems from forests to urban areas."
+  },
+  {
+    "objectID": "species/parthenocissus-quinquefolia.html#natural-history-notes",
+    "href": "species/parthenocissus-quinquefolia.html#natural-history-notes",
+    "title": "Virginia Creeper (Parthenocissus quinquefolia)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nVirginia Creeper (Parthenocissus quinquefolia) is a vigorous, climbing vine native to eastern North America, often seen covering trees, fences, and walls. It attaches with small adhesive pads, allowing it to scale surfaces without harming them structurally. In autumn, its leaves turn a brilliant red, and its dark blue berries provide food for birds and small mammals. While sometimes mistaken for poison ivy, it can be distinguished by its five leaflets instead of three."
+  },
+  {
+    "objectID": "species/parthenocissus-quinquefolia.html#references-links",
+    "href": "species/parthenocissus-quinquefolia.html#references-links",
+    "title": "Virginia Creeper (Parthenocissus quinquefolia)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/cathartes-aura.html",
+    "href": "species/cathartes-aura.html",
+    "title": "Turkey Vulture (Cathartes aura)",
+    "section": "",
+    "text": "Photo: coreytcallaghan (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/cathartes-aura.html#taxonomy",
+    "href": "species/cathartes-aura.html#taxonomy",
+    "title": "Turkey Vulture (Cathartes aura)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Aves\nOrder: Cathartiformes\nFamily: Cathartidae"
+  },
+  {
+    "objectID": "species/cathartes-aura.html#occurrence-at-deluca-preserve",
+    "href": "species/cathartes-aura.html#occurrence-at-deluca-preserve",
+    "title": "Turkey Vulture (Cathartes aura)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/cathartes-aura.html#conservation-rarity-context",
+    "href": "species/cathartes-aura.html#conservation-rarity-context",
+    "title": "Turkey Vulture (Cathartes aura)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern; Florida: Fairly common\nRarity note: Commonly observed native species to North and South America"
+  },
+  {
+    "objectID": "species/cathartes-aura.html#natural-history-notes",
+    "href": "species/cathartes-aura.html#natural-history-notes",
+    "title": "Turkey Vulture (Cathartes aura)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Turkey Vulture (Cathartes aura) is a widespread scavenger found across Noth and South America, easily recognized by its red, bare head and long, two-toned wings. Unlike most birds, it relies heavily on its keen sense of smell to locate carrion, soaring low to detect the scent of decay. By feeding on dead animals, it plays a vital role in preventing the spread of disease and recycling nutrients back into ecosystems. Its graceful, teetering flight makes it one of the most efficient soaring birds in the world."
+  },
+  {
+    "objectID": "species/cathartes-aura.html#references-links",
+    "href": "species/cathartes-aura.html#references-links",
+    "title": "Turkey Vulture (Cathartes aura)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
   }
