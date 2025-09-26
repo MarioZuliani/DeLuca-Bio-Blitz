@@ -1,0 +1,49 @@
+---
+title: "Shortspike Bluestem (Anatherum brachystachyum)"
+slug: "anatherum-brachystachyum"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475106925/original.jpg"        # keep for thumbnails
+image-alt: "Shortspike Bluestem"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plants", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475106925/original.jpg" alt="Shortspike Bluestem" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264590995">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=1617136)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed
+-   **Rarity note:** Commonly found in the DFlorida peninsula and panhandle.
+
+## Natural history notes
+
+The Shortspike Bluestem (Anatherum brachystachyum) is a native perennial grass that grows in dry, sandy soils and open woodlands of the southeastern United States. It forms clumps that provide shelter for insects and small animals while also helping stabilize fragile soils. Its seeds are an important seasonal food source for birds and other wildlife. As part of the bluestem group, it contributes to the structure and resilience of fire-maintained ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1617136-Anatherum-brachystachyum)
+-   [Local profile](https://plants.usda.gov/plant-profile/ANBR2)

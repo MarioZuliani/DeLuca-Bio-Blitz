@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (10)Liliopsida (2)OrdersPoales(2)FamiliesPoaceae(2)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (13)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (5)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phasianidae(1)Turdidae(1)Insecta (4)OrdersLepidoptera(3)Pterygota(1)FamiliesErebidae(1)Hesperiidae(2)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (11)Liliopsida (3)OrdersPoales(3)FamiliesPoaceae(3)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (15)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (6)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)Suliformes(1)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phalacrocoracidae(1)Phasianidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (4)OrdersLepidoptera(3)Pterygota(1)FamiliesErebidae(1)Hesperiidae(2)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -1006,5 +1006,131 @@
     "title": "Ornate Bella Moth (Utetheisa ornatrix)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/anatherum-brachystachyum.html",
+    "href": "species/anatherum-brachystachyum.html",
+    "title": "Shortspike Bluestem (Anatherum brachystachyum)",
+    "section": "",
+    "text": "Photo: billpranty (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/anatherum-brachystachyum.html#taxonomy",
+    "href": "species/anatherum-brachystachyum.html#taxonomy",
+    "title": "Shortspike Bluestem (Anatherum brachystachyum)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Liliopsida\nOrder: Poales\nFamily: Poaceae"
+  },
+  {
+    "objectID": "species/anatherum-brachystachyum.html#occurrence-at-deluca-preserve",
+    "href": "species/anatherum-brachystachyum.html#occurrence-at-deluca-preserve",
+    "title": "Shortspike Bluestem (Anatherum brachystachyum)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/anatherum-brachystachyum.html#conservation-rarity-context",
+    "href": "species/anatherum-brachystachyum.html#conservation-rarity-context",
+    "title": "Shortspike Bluestem (Anatherum brachystachyum)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed\nRarity note: Commonly found in the DFlorida peninsula and panhandle."
+  },
+  {
+    "objectID": "species/anatherum-brachystachyum.html#natural-history-notes",
+    "href": "species/anatherum-brachystachyum.html#natural-history-notes",
+    "title": "Shortspike Bluestem (Anatherum brachystachyum)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Shortspike Bluestem (Anatherum brachystachyum) is a native perennial grass that grows in dry, sandy soils and open woodlands of the southeastern United States. It forms clumps that provide shelter for insects and small animals while also helping stabilize fragile soils. Its seeds are an important seasonal food source for birds and other wildlife. As part of the bluestem group, it contributes to the structure and resilience of fire-maintained ecosystems."
+  },
+  {
+    "objectID": "species/anatherum-brachystachyum.html#references-links",
+    "href": "species/anatherum-brachystachyum.html#references-links",
+    "title": "Shortspike Bluestem (Anatherum brachystachyum)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/rubricatochromis-letourneuxi.html",
+    "href": "species/rubricatochromis-letourneuxi.html",
+    "title": "Letourneux’s Jewel Cichlid (Rubricatochromis letourneuxi)",
+    "section": "",
+    "text": "Photo: garccy (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/rubricatochromis-letourneuxi.html#taxonomy",
+    "href": "species/rubricatochromis-letourneuxi.html#taxonomy",
+    "title": "Letourneux’s Jewel Cichlid (Rubricatochromis letourneuxi)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Actinopterygii\nOrder: Cichliformes\nFamily: Cichlidae"
+  },
+  {
+    "objectID": "species/rubricatochromis-letourneuxi.html#occurrence-at-deluca-preserve",
+    "href": "species/rubricatochromis-letourneuxi.html#occurrence-at-deluca-preserve",
+    "title": "Letourneux’s Jewel Cichlid (Rubricatochromis letourneuxi)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/rubricatochromis-letourneuxi.html#conservation-rarity-context",
+    "href": "species/rubricatochromis-letourneuxi.html#conservation-rarity-context",
+    "title": "Letourneux’s Jewel Cichlid (Rubricatochromis letourneuxi)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Introduced\nRarity note: Found commonly in freshwater rivers and lakes in Northern Africa."
+  },
+  {
+    "objectID": "species/rubricatochromis-letourneuxi.html#natural-history-notes",
+    "href": "species/rubricatochromis-letourneuxi.html#natural-history-notes",
+    "title": "Letourneux’s Jewel Cichlid (Rubricatochromis letourneuxi)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nLetourneux’s Jewel Cichlid (Rubricatochromis letourneuxi) is a brightly colored freshwater fish native to rivers and lakes of northern Africa. It is known for its vibrant red body speckled with iridescent blue spots, which become even more striking during breeding season. This species is highly territorial, with pairs fiercely defending nests where eggs and fry are guarded by both parents. Though valued in the aquarium trade, it can become invasive outside its native range, competing with local fish for food and habitat."
+  },
+  {
+    "objectID": "species/rubricatochromis-letourneuxi.html#references-links",
+    "href": "species/rubricatochromis-letourneuxi.html#references-links",
+    "title": "Letourneux’s Jewel Cichlid (Rubricatochromis letourneuxi)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/nannopterum-auritum.html",
+    "href": "species/nannopterum-auritum.html",
+    "title": "Double-crested Cormorant (Nannopterum auritum)",
+    "section": "",
+    "text": "Photo: rupununiwildlife (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/nannopterum-auritum.html#taxonomy",
+    "href": "species/nannopterum-auritum.html#taxonomy",
+    "title": "Double-crested Cormorant (Nannopterum auritum)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Aves\nOrder: Suliformes\nFamily: Phalacrocoracidae"
+  },
+  {
+    "objectID": "species/nannopterum-auritum.html#occurrence-at-deluca-preserve",
+    "href": "species/nannopterum-auritum.html#occurrence-at-deluca-preserve",
+    "title": "Double-crested Cormorant (Nannopterum auritum)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/nannopterum-auritum.html#conservation-rarity-context",
+    "href": "species/nannopterum-auritum.html#conservation-rarity-context",
+    "title": "Double-crested Cormorant (Nannopterum auritum)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern; Florida: Common\nRarity note: Commonly native species to North America found near lakes, rivers, and coastal waters."
+  },
+  {
+    "objectID": "species/nannopterum-auritum.html#natural-history-notes",
+    "href": "species/nannopterum-auritum.html#natural-history-notes",
+    "title": "Double-crested Cormorant (Nannopterum auritum)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Double-crested Cormorant (Nannopterum auritum) is a widespread waterbird of North America, often seen diving for fish in lakes, rivers, and coastal waters. Unlike many aquatic birds, its feathers get wet, which helps it dive efficiently but requires it to perch with wings outstretched to dry. It nests in colonies, often in trees or on islands, where its guano can heavily impact local vegetation. Once persecuted as a competitor to fisheries, the species has rebounded strongly and is now a familiar sight across much of its range."
+  },
+  {
+    "objectID": "species/nannopterum-auritum.html#references-links",
+    "href": "species/nannopterum-auritum.html#references-links",
+    "title": "Double-crested Cormorant (Nannopterum auritum)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
   }
 ]

@@ -63,7 +63,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-categories','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-categories","listing-description"],
     };
 
@@ -179,7 +180,7 @@ window.Quarto = {
 
 <div class="no-row-height column-margin column-container"><section id="browse-by-class" class="level3">
 <h3 class="anchored" data-anchor-id="browse-by-class">Browse by Class</h3>
-<div id="facet-menu"><details class="facet-dd"><summary>Plants <span class="count">(10)</span></summary><details class="facet-sub"><summary>Liliopsida <span class="count">(2)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Poales">Poales</a><span class="count">(2)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Poaceae">Poaceae</a><span class="count">(2)</span></li></ul></details><details class="facet-sub"><summary>Magnoliopsida <span class="count">(8)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Caryophyllales">Caryophyllales</a><span class="count">(1)</span></li><li><a href="?category=Fagales">Fagales</a><span class="count">(1)</span></li><li><a href="?category=Gentianales">Gentianales</a><span class="count">(1)</span></li><li><a href="?category=Malpighiales">Malpighiales</a><span class="count">(2)</span></li><li><a href="?category=Santalales">Santalales</a><span class="count">(1)</span></li><li><a href="?category=Sapindales">Sapindales</a><span class="count">(1)</span></li><li><a href="?category=Vitals">Vitals</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Chrysobalanaceae">Chrysobalanaceae</a><span class="count">(1)</span></li><li><a href="?category=Droseraceae">Droseraceae</a><span class="count">(1)</span></li><li><a href="?category=Fagaceae">Fagaceae</a><span class="count">(1)</span></li><li><a href="?category=Hypericaceae">Hypericaceae</a><span class="count">(1)</span></li><li><a href="?category=Olacaceae">Olacaceae</a><span class="count">(1)</span></li><li><a href="?category=Rubiaceae">Rubiaceae</a><span class="count">(1)</span></li><li><a href="?category=Sapindaceae">Sapindaceae</a><span class="count">(1)</span></li><li><a href="?category=Vitaceae">Vitaceae</a><span class="count">(1)</span></li></ul></details></details><details class="facet-dd"><summary>Animals <span class="count">(13)</span></summary><details class="facet-sub"><summary>Amphibia <span class="count">(2)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Anura">Anura</a><span class="count">(2)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Bufonidae">Bufonidae</a><span class="count">(1)</span></li><li><a href="?category=Hylidae">Hylidae</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Aves <span class="count">(5)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Cathartiformes">Cathartiformes</a><span class="count">(1)</span></li><li><a href="?category=Galliformes">Galliformes</a><span class="count">(1)</span></li><li><a href="?category=Passeriformes">Passeriformes</a><span class="count">(3)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Cathartidae">Cathartidae</a><span class="count">(1)</span></li><li><a href="?category=Mimidae">Mimidae</a><span class="count">(1)</span></li><li><a href="?category=Parulidae">Parulidae</a><span class="count">(1)</span></li><li><a href="?category=Phasianidae">Phasianidae</a><span class="count">(1)</span></li><li><a href="?category=Turdidae">Turdidae</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Insecta <span class="count">(4)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Lepidoptera">Lepidoptera</a><span class="count">(3)</span></li><li><a href="?category=Pterygota">Pterygota</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Erebidae">Erebidae</a><span class="count">(1)</span></li><li><a href="?category=Hesperiidae">Hesperiidae</a><span class="count">(2)</span></li><li><a href="?category=Hymenoptera">Hymenoptera</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Mammalia <span class="count">(1)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Lagomorpha">Lagomorpha</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Leporidae">Leporidae</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Reptilia <span class="count">(1)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Crocodylia">Crocodylia</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Alligatoridae">Alligatoridae</a><span class="count">(1)</span></li></ul></details></details><details class="facet-dd"><summary>Fungi <span class="count">(1)</span></summary><details class="facet-sub"><summary>Agaricomycetes <span class="count">(1)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Polyporales">Polyporales</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Polyporaceae">Polyporaceae</a><span class="count">(1)</span></li></ul></details></details></div>
+<div id="facet-menu"><details class="facet-dd"><summary>Plants <span class="count">(11)</span></summary><details class="facet-sub"><summary>Liliopsida <span class="count">(3)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Poales">Poales</a><span class="count">(3)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Poaceae">Poaceae</a><span class="count">(3)</span></li></ul></details><details class="facet-sub"><summary>Magnoliopsida <span class="count">(8)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Caryophyllales">Caryophyllales</a><span class="count">(1)</span></li><li><a href="?category=Fagales">Fagales</a><span class="count">(1)</span></li><li><a href="?category=Gentianales">Gentianales</a><span class="count">(1)</span></li><li><a href="?category=Malpighiales">Malpighiales</a><span class="count">(2)</span></li><li><a href="?category=Santalales">Santalales</a><span class="count">(1)</span></li><li><a href="?category=Sapindales">Sapindales</a><span class="count">(1)</span></li><li><a href="?category=Vitals">Vitals</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Chrysobalanaceae">Chrysobalanaceae</a><span class="count">(1)</span></li><li><a href="?category=Droseraceae">Droseraceae</a><span class="count">(1)</span></li><li><a href="?category=Fagaceae">Fagaceae</a><span class="count">(1)</span></li><li><a href="?category=Hypericaceae">Hypericaceae</a><span class="count">(1)</span></li><li><a href="?category=Olacaceae">Olacaceae</a><span class="count">(1)</span></li><li><a href="?category=Rubiaceae">Rubiaceae</a><span class="count">(1)</span></li><li><a href="?category=Sapindaceae">Sapindaceae</a><span class="count">(1)</span></li><li><a href="?category=Vitaceae">Vitaceae</a><span class="count">(1)</span></li></ul></details></details><details class="facet-dd"><summary>Animals <span class="count">(15)</span></summary><details class="facet-sub"><summary>Amphibia <span class="count">(2)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Anura">Anura</a><span class="count">(2)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Bufonidae">Bufonidae</a><span class="count">(1)</span></li><li><a href="?category=Hylidae">Hylidae</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Aves <span class="count">(6)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Cathartiformes">Cathartiformes</a><span class="count">(1)</span></li><li><a href="?category=Galliformes">Galliformes</a><span class="count">(1)</span></li><li><a href="?category=Passeriformes">Passeriformes</a><span class="count">(3)</span></li><li><a href="?category=Suliformes">Suliformes</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Cathartidae">Cathartidae</a><span class="count">(1)</span></li><li><a href="?category=Mimidae">Mimidae</a><span class="count">(1)</span></li><li><a href="?category=Parulidae">Parulidae</a><span class="count">(1)</span></li><li><a href="?category=Phalacrocoracidae">Phalacrocoracidae</a><span class="count">(1)</span></li><li><a href="?category=Phasianidae">Phasianidae</a><span class="count">(1)</span></li><li><a href="?category=Turdidae">Turdidae</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Cichliformes <span class="count">(1)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Cichliformes">Cichliformes</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Cichlidae">Cichlidae</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Insecta <span class="count">(4)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Lepidoptera">Lepidoptera</a><span class="count">(3)</span></li><li><a href="?category=Pterygota">Pterygota</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Erebidae">Erebidae</a><span class="count">(1)</span></li><li><a href="?category=Hesperiidae">Hesperiidae</a><span class="count">(2)</span></li><li><a href="?category=Hymenoptera">Hymenoptera</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Mammalia <span class="count">(1)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Lagomorpha">Lagomorpha</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Leporidae">Leporidae</a><span class="count">(1)</span></li></ul></details><details class="facet-sub"><summary>Reptilia <span class="count">(1)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Crocodylia">Crocodylia</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Alligatoridae">Alligatoridae</a><span class="count">(1)</span></li></ul></details></details><details class="facet-dd"><summary>Fungi <span class="count">(1)</span></summary><details class="facet-sub"><summary>Agaricomycetes <span class="count">(1)</span></summary><div class="facet-hd">Orders</div><ul class="facet-list"><li><a href="?category=Polyporales">Polyporales</a><span class="count">(1)</span></li></ul><div class="facet-hd">Families</div><ul class="facet-list"><li><a href="?category=Polyporaceae">Polyporaceae</a><span class="count">(1)</span></li></ul></details></details></div>
 </section></div><script>
 (function () {
   // read ?category=... or ?q=...
@@ -416,7 +417,43 @@ Poaceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="QW5pbWFsJTJDQXZlcyUyQ1Bhc3Nlcmlmb3JtZXMlMkNUdXJkaWRhZQ==" data-listing-file-modified-sort="1758808868591" data-listing-reading-time-sort="1" data-listing-word-count-sort="164">
+<div class="quarto-post image-right" data-index="5" data-categories="QW5pbWFsJTJDQXZlcyUyQ1N1bGlmb3JtZXMlMkNQaGFsYWNyb2NvcmFjaWRhZQ==" data-listing-file-modified-sort="1758888176422" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
+<div class="thumbnail">
+<p><a href="./species/nannopterum-auritum.html" class="no-external"></a></p><a href="./species/nannopterum-auritum.html" class="no-external">
+<p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475554547/original.jpeg" class="thumbnail-image" alt="Double-crested Cormorant"></p>
+</a><p><a href="./species/nannopterum-auritum.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./species/nannopterum-auritum.html" class="no-external">Double-crested Cormorant (Nannopterum auritum)</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./species/nannopterum-auritum.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QW5pbWFs'); return false;">
+Animal
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('QXZlcw=='); return false;">
+Aves
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3VsaWZvcm1lcw=='); return false;">
+Suliformes
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UGhhbGFjcm9jb3JhY2lkYWU='); return false;">
+Phalacrocoracidae
+</div>
+</div>
+<div class="listing-description">
+<a href="./species/nannopterum-auritum.html" class="no-external">Photo: rupununiwildlife (CC BY-NC 4.0) via iNaturalist</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./species/nannopterum-auritum.html" class="no-external"></a></p><a href="./species/nannopterum-auritum.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="QW5pbWFsJTJDQXZlcyUyQ1Bhc3Nlcmlmb3JtZXMlMkNUdXJkaWRhZQ==" data-listing-file-modified-sort="1758808868591" data-listing-reading-time-sort="1" data-listing-word-count-sort="164">
 <div class="thumbnail">
 <p><a href="./species/eastern-bluebird.html" class="no-external"></a></p><a href="./species/eastern-bluebird.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/474786284/large.jpg" class="thumbnail-image" alt="Eastern Bluebird"></p>
@@ -452,7 +489,7 @@ Turdidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="QW5pbWFsJTJDTWFtbWFsaWElMkNMYWdvbW9ycGhhJTJDTGVwb3JpZGFl" data-listing-file-modified-sort="1758811348686" data-listing-reading-time-sort="1" data-listing-word-count-sort="167">
+<div class="quarto-post image-right" data-index="7" data-categories="QW5pbWFsJTJDTWFtbWFsaWElMkNMYWdvbW9ycGhhJTJDTGVwb3JpZGFl" data-listing-file-modified-sort="1758811348686" data-listing-reading-time-sort="1" data-listing-word-count-sort="167">
 <div class="thumbnail">
 <p><a href="./species/sylvilagus-floridanus.html" class="no-external"></a></p><a href="./species/sylvilagus-floridanus.html" class="no-external">
 <p><img loading="lazy" src="https://static.inaturalist.org/photos/475138132/large.jpeg" class="thumbnail-image" alt="Eastern Cottontail"></p>
@@ -488,7 +525,7 @@ Leporidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="UGxhbnQlMkNNYWdub2xpb3BzaWRhJTJDTWFscGlnaGlhbGVzJTJDSHlwZXJpY2FjZWFl" data-listing-file-modified-sort="1758810401495" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
+<div class="quarto-post image-right" data-index="8" data-categories="UGxhbnQlMkNNYWdub2xpb3BzaWRhJTJDTWFscGlnaGlhbGVzJTJDSHlwZXJpY2FjZWFl" data-listing-file-modified-sort="1758810401495" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
 <div class="thumbnail">
 <p><a href="./species/hypericum-tetrapetalum.html" class="no-external"></a></p><a href="./species/hypericum-tetrapetalum.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475948051/large.jpg" class="thumbnail-image" alt="Fourpetal St. Johnswort"></p>
@@ -524,7 +561,7 @@ Hypericaceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="UGxhbnRzJTJDTWFnbm9saW9wc2lkYSUyQ01hbHBpZ2hpYWxlcyUyQ0Nocnlzb2JhbGFuYWNlYWU=" data-listing-file-modified-sort="1758826612022" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
+<div class="quarto-post image-right" data-index="9" data-categories="UGxhbnRzJTJDTWFnbm9saW9wc2lkYSUyQ01hbHBpZ2hpYWxlcyUyQ0Nocnlzb2JhbGFuYWNlYWU=" data-listing-file-modified-sort="1758826612022" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
 <div class="thumbnail">
 <p><a href="./species/geobalanus-oblongifolius.html" class="no-external"></a></p><a href="./species/geobalanus-oblongifolius.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/474801750/original.jpg" class="thumbnail-image" alt="Gopher Apple"></p>
@@ -560,7 +597,7 @@ Chrysobalanaceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="QW5pbWFsJTJDQXZlcyUyQ1Bhc3Nlcmlmb3JtZXMlMkNNaW1pZGFl" data-listing-file-modified-sort="1758817310828" data-listing-reading-time-sort="1" data-listing-word-count-sort="147">
+<div class="quarto-post image-right" data-index="10" data-categories="QW5pbWFsJTJDQXZlcyUyQ1Bhc3Nlcmlmb3JtZXMlMkNNaW1pZGFl" data-listing-file-modified-sort="1758817310828" data-listing-reading-time-sort="1" data-listing-word-count-sort="147">
 <div class="thumbnail">
 <p><a href="./species/dumetella-carolinensis.html" class="no-external"></a></p><a href="./species/dumetella-carolinensis.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475896856/original.jpeg" class="thumbnail-image" alt="Gray Catbird"></p>
@@ -596,7 +633,7 @@ Mimidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="UGxhbnQlMkNNYWdub2xpb3BzaWRhJTJDU2FudGFsYWxlcyUyQ09sYWNhY2VhZQ==" data-listing-file-modified-sort="1758823635246" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
+<div class="quarto-post image-right" data-index="11" data-categories="UGxhbnQlMkNNYWdub2xpb3BzaWRhJTJDU2FudGFsYWxlcyUyQ09sYWNhY2VhZQ==" data-listing-file-modified-sort="1758823635246" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
 <div class="thumbnail">
 <p><a href="./species/ximenia-americana.html" class="no-external"></a></p><a href="./species/ximenia-americana.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/354558219/large.jpg" class="thumbnail-image" alt="Hog Plum"></p>
@@ -632,7 +669,43 @@ Olacaceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="UGxhbnRzJTJDTGlsaW9wc2lkYSUyQ1BvYWxlcyUyQ1BvYWNlYWU=" data-listing-file-modified-sort="1758829642046" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
+<div class="quarto-post image-right" data-index="12" data-categories="QW5pbWFsJTJDQWN0aW5vcHRlcnlnaWklMkNDaWNobGlmb3JtZXMlMkNDaWNobGlkYWU=" data-listing-file-modified-sort="1758886586083" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<div class="thumbnail">
+<p><a href="./species/rubricatochromis-letourneuxi.html" class="no-external"></a></p><a href="./species/rubricatochromis-letourneuxi.html" class="no-external">
+<p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/476397561/original.jpg" class="thumbnail-image" alt="Letourneux&amp;#039;s Jewel Cichlid"></p>
+</a><p><a href="./species/rubricatochromis-letourneuxi.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./species/rubricatochromis-letourneuxi.html" class="no-external">Letourneux’s Jewel Cichlid (Rubricatochromis letourneuxi)</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./species/rubricatochromis-letourneuxi.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QW5pbWFs'); return false;">
+Animal
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('QWN0aW5vcHRlcnlnaWk='); return false;">
+Actinopterygii
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q2ljaGxpZm9ybWVz'); return false;">
+Cichliformes
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q2ljaGxpZGFl'); return false;">
+Cichlidae
+</div>
+</div>
+<div class="listing-description">
+<a href="./species/rubricatochromis-letourneuxi.html" class="no-external">Photo: garccy (CC BY-NC 4.0) via iNaturalist</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./species/rubricatochromis-letourneuxi.html" class="no-external"></a></p><a href="./species/rubricatochromis-letourneuxi.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="UGxhbnRzJTJDTGlsaW9wc2lkYSUyQ1BvYWxlcyUyQ1BvYWNlYWU=" data-listing-file-modified-sort="1758829642046" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
 <div class="thumbnail">
 <p><a href="./species/anatherum-subtile.html" class="no-external"></a></p><a href="./species/anatherum-subtile.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/55388769/medium.jpeg" class="thumbnail-image" alt="Nash&amp;#039;s Bluestem"></p>
@@ -668,7 +741,7 @@ Poaceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="QW5pbWFsJTJDQW1waGliaWElMkNBbnVyYSUyQ0J1Zm9uaWRhZQ==" data-listing-file-modified-sort="1758817966509" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
+<div class="quarto-post image-right" data-index="14" data-categories="QW5pbWFsJTJDQW1waGliaWElMkNBbnVyYSUyQ0J1Zm9uaWRhZQ==" data-listing-file-modified-sort="1758817966509" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
 <div class="thumbnail">
 <p><a href="./species/anaxyrus-quercicus.html" class="no-external"></a></p><a href="./species/anaxyrus-quercicus.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/354685712/original.jpg" class="thumbnail-image" alt="Oak Toad"></p>
@@ -704,7 +777,7 @@ Bufonidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="QW5pbWFsJTJDSW5zZWN0YSUyQ0xlcGlkb3B0ZXJhJTJDRXJlYmlkYWU=" data-listing-file-modified-sort="1758836255950" data-listing-reading-time-sort="1" data-listing-word-count-sort="171">
+<div class="quarto-post image-right" data-index="15" data-categories="QW5pbWFsJTJDSW5zZWN0YSUyQ0xlcGlkb3B0ZXJhJTJDRXJlYmlkYWU=" data-listing-file-modified-sort="1758836255950" data-listing-reading-time-sort="1" data-listing-word-count-sort="171">
 <div class="thumbnail">
 <p><a href="./species/utetheisa-ornatrix.html" class="no-external"></a></p><a href="./species/utetheisa-ornatrix.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475134151/large.jpeg" class="thumbnail-image" alt="Ornate Bella Moth"></p>
@@ -740,7 +813,7 @@ Erebidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="QW5pbWFsJTJDQXZlcyUyQ1Bhc3Nlcmlmb3JtZXMlMkNQYXJ1bGlkYWU=" data-listing-file-modified-sort="1758810930131" data-listing-reading-time-sort="1" data-listing-word-count-sort="155">
+<div class="quarto-post image-right" data-index="16" data-categories="QW5pbWFsJTJDQXZlcyUyQ1Bhc3Nlcmlmb3JtZXMlMkNQYXJ1bGlkYWU=" data-listing-file-modified-sort="1758810930131" data-listing-reading-time-sort="1" data-listing-word-count-sort="155">
 <div class="thumbnail">
 <p><a href="./species/setophaga-pinus.html" class="no-external"></a></p><a href="./species/setophaga-pinus.html" class="no-external">
 <p><img loading="lazy" src="https://static.inaturalist.org/photos/475061161/large.jpeg" class="thumbnail-image" alt="Pine Warbler"></p>
@@ -776,7 +849,7 @@ Parulidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="QW5pbWFsJTJDQW1waGliaWElMkNBbnVyYSUyQ0h5bGlkYWU=" data-listing-file-modified-sort="1758810410530" data-listing-reading-time-sort="1" data-listing-word-count-sort="176">
+<div class="quarto-post image-right" data-index="17" data-categories="QW5pbWFsJTJDQW1waGliaWElMkNBbnVyYSUyQ0h5bGlkYWU=" data-listing-file-modified-sort="1758810410530" data-listing-reading-time-sort="1" data-listing-word-count-sort="176">
 <div class="thumbnail">
 <p><a href="./species/hyla-femoralis.html" class="no-external"></a></p><a href="./species/hyla-femoralis.html" class="no-external">
 <p><img loading="lazy" src="https://static.inaturalist.org/photos/474895230/large.jpeg" class="thumbnail-image" alt="Pine Woods Tree Frog"></p>
@@ -812,7 +885,7 @@ Hylidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="UGxhbnQlMkNNYWdub2xpb3BzaWRhJTJDQ2FyeW9waHlsbGFsZXMlMkNEcm9zZXJhY2VhZQ==" data-listing-file-modified-sort="1758808509440" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
+<div class="quarto-post image-right" data-index="18" data-categories="UGxhbnQlMkNNYWdub2xpb3BzaWRhJTJDQ2FyeW9waHlsbGFsZXMlMkNEcm9zZXJhY2VhZQ==" data-listing-file-modified-sort="1758808509440" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
 <div class="thumbnail">
 <p><a href="./species/drosera-capillaris.html" class="no-external"></a></p><a href="./species/drosera-capillaris.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/476398852/large.jpg" class="thumbnail-image" alt="Pink Sundew"></p>
@@ -848,7 +921,7 @@ Droseraceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="UGxhbnRzJTJDTWFnbm9saW9wc2lkYSUyQ1NhcGluZGFsZXMlMkNTYXBpbmRhY2VhZQ==" data-listing-file-modified-sort="1758815099588" data-listing-reading-time-sort="1" data-listing-word-count-sort="153">
+<div class="quarto-post image-right" data-index="19" data-categories="UGxhbnRzJTJDTWFnbm9saW9wc2lkYSUyQ1NhcGluZGFsZXMlMkNTYXBpbmRhY2VhZQ==" data-listing-file-modified-sort="1758815099588" data-listing-reading-time-sort="1" data-listing-word-count-sort="153">
 <div class="thumbnail">
 <p><a href="./species/acer-rubrum.html" class="no-external"></a></p><a href="./species/acer-rubrum.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475900386/original.jpeg" class="thumbnail-image" alt="Red Maple"></p>
@@ -884,7 +957,43 @@ Sapindaceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="UGxhbnRzJTJDTWFnbm9saW9wc2lkYSUyQ0ZhZ2FsZXMlMkNGYWdhY2VhZQ==" data-listing-file-modified-sort="1758824051477" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
+<div class="quarto-post image-right" data-index="20" data-categories="UGxhbnRzJTJDTGlsaW9wc2lkYSUyQ1BvYWxlcyUyQ1BvYWNlYWU=" data-listing-file-modified-sort="1758886140171" data-listing-reading-time-sort="1" data-listing-word-count-sort="143">
+<div class="thumbnail">
+<p><a href="./species/anatherum-brachystachyum.html" class="no-external"></a></p><a href="./species/anatherum-brachystachyum.html" class="no-external">
+<p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475106925/original.jpg" class="thumbnail-image" alt="Shortspike Bluestem"></p>
+</a><p><a href="./species/anatherum-brachystachyum.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./species/anatherum-brachystachyum.html" class="no-external">Shortspike Bluestem (Anatherum brachystachyum)</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./species/anatherum-brachystachyum.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('UGxhbnRz'); return false;">
+Plants
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TGlsaW9wc2lkYQ=='); return false;">
+Liliopsida
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UG9hbGVz'); return false;">
+Poales
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UG9hY2VhZQ=='); return false;">
+Poaceae
+</div>
+</div>
+<div class="listing-description">
+<a href="./species/anatherum-brachystachyum.html" class="no-external">Photo: billpranty (CC BY-NC 4.0) via iNaturalist</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./species/anatherum-brachystachyum.html" class="no-external"></a></p><a href="./species/anatherum-brachystachyum.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="21" data-categories="UGxhbnRzJTJDTWFnbm9saW9wc2lkYSUyQ0ZhZ2FsZXMlMkNGYWdhY2VhZQ==" data-listing-file-modified-sort="1758824051477" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
 <div class="thumbnail">
 <p><a href="./species/quercus-virginiana.html" class="no-external"></a></p><a href="./species/quercus-virginiana.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/474812731/original.jpg" class="thumbnail-image" alt="Southern Live Oak"></p>
@@ -920,7 +1029,7 @@ Fagaceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="QW5pbWFsJTJDQXZlcyUyQ0NhdGhhcnRpZm9ybWVzJTJDQ2F0aGFydGlkYWU=" data-listing-file-modified-sort="1758820089825" data-listing-reading-time-sort="1" data-listing-word-count-sort="169">
+<div class="quarto-post image-right" data-index="22" data-categories="QW5pbWFsJTJDQXZlcyUyQ0NhdGhhcnRpZm9ybWVzJTJDQ2F0aGFydGlkYWU=" data-listing-file-modified-sort="1758820089825" data-listing-reading-time-sort="1" data-listing-word-count-sort="169">
 <div class="thumbnail">
 <p><a href="./species/cathartes-aura.html" class="no-external"></a></p><a href="./species/cathartes-aura.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475893324/original.jpeg" class="thumbnail-image" alt="Turkey Vulture"></p>
@@ -956,7 +1065,7 @@ Cathartidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="UGxhbnRzJTJDTWFnbm9saW9wc2lkYSUyQ1ZpdGFscyUyQ1ZpdGFjZWFl" data-listing-file-modified-sort="1758818887403" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
+<div class="quarto-post image-right" data-index="23" data-categories="UGxhbnRzJTJDTWFnbm9saW9wc2lkYSUyQ1ZpdGFscyUyQ1ZpdGFjZWFl" data-listing-file-modified-sort="1758818887403" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
 <div class="thumbnail">
 <p><a href="./species/parthenocissus-quinquefolia.html" class="no-external"></a></p><a href="./species/parthenocissus-quinquefolia.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/474766417/original.jpeg" class="thumbnail-image" alt="Virginia Creeper"></p>
@@ -992,7 +1101,7 @@ Vitaceae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="QW5pbWFsJTJDSW5zZWN0YSUyQ1B0ZXJ5Z290YSUyQ0h5bWVub3B0ZXJh" data-listing-file-modified-sort="1758836436827" data-listing-reading-time-sort="1" data-listing-word-count-sort="183">
+<div class="quarto-post image-right" data-index="24" data-categories="QW5pbWFsJTJDSW5zZWN0YSUyQ1B0ZXJ5Z290YSUyQ0h5bWVub3B0ZXJh" data-listing-file-modified-sort="1758836436827" data-listing-reading-time-sort="1" data-listing-word-count-sort="183">
 <div class="thumbnail">
 <p><a href="./species/apis-mellifera.html" class="no-external"></a></p><a href="./species/apis-mellifera.html" class="no-external">
 <p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/475157015/large.jpg" class="thumbnail-image" alt="Western Honey Bee"></p>
@@ -1028,10 +1137,10 @@ Hymenoptera
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="QW5pbWFsJTJDSW5zZWN0YSUyQ0xlcGlkb3B0ZXJhJTJDSGVzcGVyaWlkYWU=" data-listing-file-modified-sort="1758836413536" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
+<div class="quarto-post image-right" data-index="25" data-categories="QW5pbWFsJTJDSW5zZWN0YSUyQ0xlcGlkb3B0ZXJhJTJDSGVzcGVyaWlkYWU=" data-listing-file-modified-sort="1758836413536" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
 <div class="thumbnail">
 <p><a href="./species/polites-vibex.html" class="no-external"></a></p><a href="./species/polites-vibex.html" class="no-external">
-<p><img loading="lazy" src="https://static.inaturalist.org/photos/475058254/large.jpeg" class="thumbnail-image" alt="Whirlabout"></p>
+<p><img loading="lazy" data-src="https://static.inaturalist.org/photos/475058254/large.jpeg" class="thumbnail-image" alt="Whirlabout"></p>
 </a><p><a href="./species/polites-vibex.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -1064,10 +1173,10 @@ Hesperiidae
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="QW5pbWFsJTJDQXZlcyUyQ0dhbGxpZm9ybWVzJTJDUGhhc2lhbmlkYWU=" data-listing-file-modified-sort="1758822434251" data-listing-reading-time-sort="1" data-listing-word-count-sort="166">
+<div class="quarto-post image-right" data-index="26" data-categories="QW5pbWFsJTJDQXZlcyUyQ0dhbGxpZm9ybWVzJTJDUGhhc2lhbmlkYWU=" data-listing-file-modified-sort="1758822434251" data-listing-reading-time-sort="1" data-listing-word-count-sort="166">
 <div class="thumbnail">
 <p><a href="./species/meleagris-gallopavo.html" class="no-external"></a></p><a href="./species/meleagris-gallopavo.html" class="no-external">
-<p><img loading="lazy" src="https://inaturalist-open-data.s3.amazonaws.com/photos/354604572/original.jpg" class="thumbnail-image" alt="Wild Turkey"></p>
+<p><img loading="lazy" data-src="https://inaturalist-open-data.s3.amazonaws.com/photos/354604572/original.jpg" class="thumbnail-image" alt="Wild Turkey"></p>
 </a><p><a href="./species/meleagris-gallopavo.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -1104,6 +1213,9 @@ Phasianidae
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

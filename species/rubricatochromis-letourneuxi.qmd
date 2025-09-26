@@ -1,0 +1,49 @@
+---
+title: "Letourneux's Jewel Cichlid (Rubricatochromis letourneuxi)"
+slug: "rubricatochromis-letourneuxi"
+group: "Actinopterygii"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476397561/original.jpg"        # keep for thumbnails
+image-alt: "Letourneux's Jewel Cichlid"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Cichliformes"
+tax_order: "Cichliformes"
+tax_family: "Cichlidae"
+categories: ["Animal", "Actinopterygii", "Cichliformes", "Cichlidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476397561/original.jpg" alt="Letourneux's Jewel Cichlid" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/garccyy">garccy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265241374">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Actinopterygii
+-   **Order:** Cichliformes
+-   **Family:** Cichlidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=26159&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Introduced
+-   **Rarity note:** Found commonly in freshwater rivers and lakes in Northern Africa.
+
+## Natural history notes
+
+Letourneux’s Jewel Cichlid (Rubricatochromis letourneuxi) is a brightly colored freshwater fish native to rivers and lakes of northern Africa. It is known for its vibrant red body speckled with iridescent blue spots, which become even more striking during breeding season. This species is highly territorial, with pairs fiercely defending nests where eggs and fry are guarded by both parents. Though valued in the aquarium trade, it can become invasive outside its native range, competing with local fish for food and habitat.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1439791-Rubricatochromis-letourneuxi)
+-   [Local profile](https://fishbase.se/summary/Hemichromis-letourneuxi.html)
