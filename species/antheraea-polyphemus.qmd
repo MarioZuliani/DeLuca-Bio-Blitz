@@ -1,0 +1,50 @@
+---
+title: "Polyphemus Moth (Antheraea polyphemus)"
+slug: "antheraea-polyphemus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354888615/large.jpeg"        # keep for thumbnails
+image-alt: "Polyphemus Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Saturniidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Saturniidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354888615/large.jpeg" alt="Polyphemus Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">gaudettelaura</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/201078413">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Leidoptera
+-   **Family:** Saturniidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=47919)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** Inhabits forests and woodlands and can be found in urban environments.
+
+## Natural history notes
+
+The Polyphemus moth (Antheraea polyphemus) is a large silk moth found across North America, ranging from Canada to Mexico. It ranks among Florida’s largest moth species. Each wing has a distinctive eyespot pattern, which the moth can flash open to startle predators. The species is named after Polyphemus, the one-eyed cyclops from Greek mythology, in reference to these prominent spots.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/47919-Antheraea-polyphemus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/173004714/173004732)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN945)
