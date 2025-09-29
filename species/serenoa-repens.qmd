@@ -36,8 +36,8 @@ Photo: <a href="https://www.inaturalist.org/people/shelleydee">shelleydee</a> (C
 
 ## Conservation & rarity context
 
--   IUCN: N/A; Florida: managed
--   **Rarity note:** 
+-   IUCN: Not listed; Florida: Not specified
+-   **Rarity note:** Commonly found in Florida
 
 ## Natural history notes
 
@@ -46,5 +46,4 @@ Saw Palmetto (Serona repens) is an evergreen palm named after American botanist 
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/83102-Serenoa-repens)
--   [IUCN Red List]()
 -   [Local profile](https://www.fnps.org/plant/serenoa-repens)

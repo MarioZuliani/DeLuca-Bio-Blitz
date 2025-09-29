@@ -36,8 +36,8 @@ Photo: <a href="https://www.inaturalist.org/people/megankimreid">megankimreid</a
 
 ## Conservation & rarity context
 
--   IUCN: N/A; Florida: N/A
--   **Rarity note:** 
+-   IUCN: Not listed; Florida: Not specified
+-   **Rarity note:** Commonly found in Florida
 
 ## Natural history notes
 
@@ -46,5 +46,4 @@ Shiny Blueberry (Vaccinium myrsinites) is an evergreen shrub that thrives in dry
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/170106-Vaccinium-myrsinites)
--   [IUCN Red List]()
 -   [Local profile](https://www.fnps.org/plant/vaccinium-myrsinites)
