@@ -32,7 +32,7 @@ Photo: <a href="https://www.inaturalist.org/people/jayhorn">jayhorn</a> (CC BY) 
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=1617306)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=5063)
 
 ## Conservation & rarity context
 
