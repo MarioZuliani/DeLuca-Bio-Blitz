@@ -1,0 +1,50 @@
+---
+title: "Shiny Blueberry (Vaccinium myrsinites)"
+slug: "vaccinium-myrsinites"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476621575/large.jpeg"        # keep for thumbnails
+image-alt: "Shiny Blueberry"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Ericales"
+tax_family: "Ericaceae"
+categories: ["Plants", "Magnoliopsida", "Ericales", "Ericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476621575/large.jpeg" alt="Shiny Blueberry" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/megankimreid">megankimreid</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265355073">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Ericales
+-   **Family:** Ericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=170106&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: N/A; Florida: N/A
+-   **Rarity note:** 
+
+## Natural history notes
+
+Shiny Blueberry (Vaccinium myrsinites) is an evergreen shrub that thrives in dry, sandy soils in scrub, prairie, and flatwood habitats. The Seminole in Florida consumed the berries, and also used the leaves as an analgesic drug to treat heat sickness, high fevers, and headaches. Using underground rhizomes to reproduce, Shiny Blueberry can form huge, contiguous colonies that span over 1km in diameter.   
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170106-Vaccinium-myrsinites)
+-   [IUCN Red List]()
+-   [Local profile](https://www.fnps.org/plant/vaccinium-myrsinites)
