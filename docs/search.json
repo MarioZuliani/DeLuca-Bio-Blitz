@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (11)Liliopsida (3)OrdersPoales(3)FamiliesPoaceae(3)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (15)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (6)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)Suliformes(1)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phalacrocoracidae(1)Phasianidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (4)OrdersLepidoptera(3)Pterygota(1)FamiliesErebidae(1)Hesperiidae(2)Hymenoptera(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (11)Liliopsida (3)OrdersPoales(3)FamiliesPoaceae(3)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (16)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (6)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)Suliformes(1)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phalacrocoracidae(1)Phasianidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (5)OrdersLepidoptera(4)Pterygota(1)FamiliesErebidae(1)Hesperiidae(2)Hymenoptera(1)Saturniidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -1130,6 +1130,48 @@
     "objectID": "species/nannopterum-auritum.html#references-links",
     "href": "species/nannopterum-auritum.html#references-links",
     "title": "Double-crested Cormorant (Nannopterum auritum)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/antheraea-polyphemus.html",
+    "href": "species/antheraea-polyphemus.html",
+    "title": "Polyphemus Moth (Antheraea polyphemus)",
+    "section": "",
+    "text": "Photo: gaudettelaura (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/antheraea-polyphemus.html#taxonomy",
+    "href": "species/antheraea-polyphemus.html#taxonomy",
+    "title": "Polyphemus Moth (Antheraea polyphemus)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Insecta\nOrder: Leidoptera\nFamily: Saturniidae"
+  },
+  {
+    "objectID": "species/antheraea-polyphemus.html#occurrence-at-deluca-preserve",
+    "href": "species/antheraea-polyphemus.html#occurrence-at-deluca-preserve",
+    "title": "Polyphemus Moth (Antheraea polyphemus)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/antheraea-polyphemus.html#conservation-rarity-context",
+    "href": "species/antheraea-polyphemus.html#conservation-rarity-context",
+    "title": "Polyphemus Moth (Antheraea polyphemus)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern; Florida: Common native\nRarity note: Inhabits forests and woodlands and can be found in urban environments."
+  },
+  {
+    "objectID": "species/antheraea-polyphemus.html#natural-history-notes",
+    "href": "species/antheraea-polyphemus.html#natural-history-notes",
+    "title": "Polyphemus Moth (Antheraea polyphemus)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Polyphemus moth (Antheraea polyphemus) is a large silk moth found across North America, ranging from Canada to Mexico. It ranks among Florida’s largest moth species. Each wing has a distinctive eyespot pattern, which the moth can flash open to startle predators. The species is named after Polyphemus, the one-eyed cyclops from Greek mythology, in reference to these prominent spots."
+  },
+  {
+    "objectID": "species/antheraea-polyphemus.html#references-links",
+    "href": "species/antheraea-polyphemus.html#references-links",
+    "title": "Polyphemus Moth (Antheraea polyphemus)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
   }
