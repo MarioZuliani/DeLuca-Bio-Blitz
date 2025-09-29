@@ -1,0 +1,50 @@
+---
+title: "Bald Eagle (Haliaeetus leucocephalus)"
+slug: "haliaeetus-leucocephalus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475894068/large.jpeg"        # keep for thumbnails
+image-alt: "Bald Eagle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Aves"
+tax_order: "Accipitriformes"
+tax_family: "Accipitridae"
+categories: ["Animalia", "Aves", "Accipitriformes", "Accipitridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475894068/large.jpeg" alt="Bald Eagle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264988711">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Accipitriformes
+-   **Family:** Accipitridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=5305)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Protected
+-   **Rarity note:** Increasing populations led to the removal of this species from the USFWS endangered species list in 2007 and from the FWC imperiled species list in 2008.
+
+## Natural history notes
+
+The Bald Eagle (Haliaeetus leucocephalus), the national bird of the United States, once faced near extinction. Thanks to extensive conservation efforts, their populations have rebounded, and in 2007 the species was formally removed from the endangered species list. Today, Florida hosts one of the densest concentrations of bald eagle nests in the lower 48 states. Bald eagles have a broad range, occurring throughout most of Alaska and the contiguous United States. Their diet consists primarily of fish. While they are capable hunters, they often take advantage of other birds of prey, such as ospreys, or fishing mammals to steal fish.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/5305-Haliaeetus-leucocephalus#taxonomy-tab)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22695144/264598530)
+-   [Local profile](https://myfwc.com/wildlifehabitats/wildlife/bald-eagle/)
