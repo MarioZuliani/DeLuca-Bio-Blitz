@@ -1,0 +1,49 @@
+---
+title: "Fetterbush Lyonia (Lyonia lucida)"
+slug: "lyonia-lucida"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476386893/large.jpg"        # keep for thumbnails
+image-alt: "Fetterbush Lyonia"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Ericales"
+tax_family: "Ericaceae"
+categories: ["Plants", "Magnoliopsida", "Ericales", "Ericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476386893/large.jpg" alt="Fetterbush Lyonia" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/garccyy">garccyy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265236166">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Ericales
+-   **Family:** Ericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=129433&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Not specified
+-   **Rarity note:** Commonly found in Florida
+
+## Natural history notes
+
+Fetterbush Lyonia (Lyonia lucida) is an evergeen shrub native to the Coastal Plain of the United States from Virginia to Florida. Although capable of living in dry soil conditions, it prefers wet soils that are periodically flooded. Fetterbush Lyonia produces large pink flowers, however it reproduces mostly through rhizomes forming large clonal colonies--in poor soil conditions this plant doesn't produce flowers at all. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/129433-Lyonia-lucida)
+-   [Local profile](https://www.fnps.org/plant/lyonia-lucida)
