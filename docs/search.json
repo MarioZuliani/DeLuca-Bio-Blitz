@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (11)Liliopsida (3)OrdersPoales(3)FamiliesPoaceae(3)Magnoliopsida (8)OrdersCaryophyllales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (16)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (6)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)Suliformes(1)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phalacrocoracidae(1)Phasianidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (5)OrdersLepidoptera(4)Pterygota(1)FamiliesErebidae(1)Hesperiidae(2)Hymenoptera(1)Saturniidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (14)Liliopsida (4)OrdersArecales(1)Poales(3)FamiliesArecaceae(1)Poaceae(3)Magnoliopsida (10)OrdersCaryophyllales(1)Ericales(1)Fabales(1)Fagales(1)Gentianales(1)Malpighiales(2)Santalales(1)Sapindales(1)Vitals(1)FamiliesChrysobalanaceae(1)Droseraceae(1)Ericaceae(1)Fagaceae(1)Hypericaceae(1)Olacaceae(1)Polygalaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (16)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (6)OrdersCathartiformes(1)Galliformes(1)Passeriformes(3)Suliformes(1)FamiliesCathartidae(1)Mimidae(1)Parulidae(1)Phalacrocoracidae(1)Phasianidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (5)OrdersLepidoptera(4)Pterygota(1)FamiliesErebidae(1)Hesperiidae(2)Hymenoptera(1)Saturniidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -1174,5 +1174,131 @@
     "title": "Polyphemus Moth (Antheraea polyphemus)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/vaccinium-myrsinites.html",
+    "href": "species/vaccinium-myrsinites.html",
+    "title": "Shiny Blueberry (Vaccinium myrsinites)",
+    "section": "",
+    "text": "Photo: megankimreid (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/vaccinium-myrsinites.html#taxonomy",
+    "href": "species/vaccinium-myrsinites.html#taxonomy",
+    "title": "Shiny Blueberry (Vaccinium myrsinites)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Ericales\nFamily: Ericaceae"
+  },
+  {
+    "objectID": "species/vaccinium-myrsinites.html#occurrence-at-deluca-preserve",
+    "href": "species/vaccinium-myrsinites.html#occurrence-at-deluca-preserve",
+    "title": "Shiny Blueberry (Vaccinium myrsinites)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/vaccinium-myrsinites.html#conservation-rarity-context",
+    "href": "species/vaccinium-myrsinites.html#conservation-rarity-context",
+    "title": "Shiny Blueberry (Vaccinium myrsinites)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Not specified\nRarity note: Commonly found in Florida"
+  },
+  {
+    "objectID": "species/vaccinium-myrsinites.html#natural-history-notes",
+    "href": "species/vaccinium-myrsinites.html#natural-history-notes",
+    "title": "Shiny Blueberry (Vaccinium myrsinites)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nShiny Blueberry (Vaccinium myrsinites) is an evergreen shrub that thrives in dry, sandy soils in scrub, prairie, and flatwood habitats. The Seminole in Florida consumed the berries, and also used the leaves as an analgesic drug to treat heat sickness, high fevers, and headaches. Using underground rhizomes to reproduce, Shiny Blueberry can form huge, contiguous colonies that span over 1km in diameter."
+  },
+  {
+    "objectID": "species/vaccinium-myrsinites.html#references-links",
+    "href": "species/vaccinium-myrsinites.html#references-links",
+    "title": "Shiny Blueberry (Vaccinium myrsinites)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/serenoa-repens.html",
+    "href": "species/serenoa-repens.html",
+    "title": "Saw Palmetto (Serenoa repens)",
+    "section": "",
+    "text": "Photo: shelleydee (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/serenoa-repens.html#taxonomy",
+    "href": "species/serenoa-repens.html#taxonomy",
+    "title": "Saw Palmetto (Serenoa repens)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Liliopsida\nOrder: Arecales\nFamily: Arecaceae"
+  },
+  {
+    "objectID": "species/serenoa-repens.html#occurrence-at-deluca-preserve",
+    "href": "species/serenoa-repens.html#occurrence-at-deluca-preserve",
+    "title": "Saw Palmetto (Serenoa repens)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/serenoa-repens.html#conservation-rarity-context",
+    "href": "species/serenoa-repens.html#conservation-rarity-context",
+    "title": "Saw Palmetto (Serenoa repens)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Not specified\nRarity note: Commonly found in Florida"
+  },
+  {
+    "objectID": "species/serenoa-repens.html#natural-history-notes",
+    "href": "species/serenoa-repens.html#natural-history-notes",
+    "title": "Saw Palmetto (Serenoa repens)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nSaw Palmetto (Serona repens) is an evergreen palm named after American botanist Sereno Watson. The petiole, or leaf stem, famously has spiky teeth giving this plant it’s namesake, Saw Palmetto. The Saw Palmetto serves as the host plant for the Monk Skipper and Palmetto Skipper butterflies, and the berries are a food source for over 100 different animals in Florida."
+  },
+  {
+    "objectID": "species/serenoa-repens.html#references-links",
+    "href": "species/serenoa-repens.html#references-links",
+    "title": "Saw Palmetto (Serenoa repens)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/senega-lutea.html",
+    "href": "species/senega-lutea.html",
+    "title": "Orange Milkwort (Senega lutea)",
+    "section": "",
+    "text": "Photo: coreytcallaghan (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/senega-lutea.html#taxonomy",
+    "href": "species/senega-lutea.html#taxonomy",
+    "title": "Orange Milkwort (Senega lutea)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Liliopsida\nOrder: Arecales\nFamily: Arecaceae"
+  },
+  {
+    "objectID": "species/senega-lutea.html#occurrence-at-deluca-preserve",
+    "href": "species/senega-lutea.html#occurrence-at-deluca-preserve",
+    "title": "Orange Milkwort (Senega lutea)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/senega-lutea.html#conservation-rarity-context",
+    "href": "species/senega-lutea.html#conservation-rarity-context",
+    "title": "Orange Milkwort (Senega lutea)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Not specified\nRarity note: Commonly found adjacent to wetlands in Florida"
+  },
+  {
+    "objectID": "species/senega-lutea.html#natural-history-notes",
+    "href": "species/senega-lutea.html#natural-history-notes",
+    "title": "Orange Milkwort (Senega lutea)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nOrange Milkwort (Senega lutea) is an herbaceous plant with yellow-orange flowers that bloom between April and October. Affectionately known as a Swamp Cheeto, you can see the bright flowers in damp sandy soils, typically adjacent to a wetland in the summer months in Florida. Orange Milkwort flowers are self-pollinating, but are spread by ants who consume fleshy elaisomes around the seed, but leave the seed itself in tact to germinate."
+  },
+  {
+    "objectID": "species/senega-lutea.html#references-links",
+    "href": "species/senega-lutea.html#references-links",
+    "title": "Orange Milkwort (Senega lutea)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
   }
 ]
