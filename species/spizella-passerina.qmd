@@ -1,0 +1,50 @@
+---
+title: "Chipping Sparrow (Spizella passerina)"
+slug: "spizella-passerina"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474785935/large.jpg"        # keep for thumbnails
+image-alt: "Chipping Sparrow"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Passerellidae"
+categories: ["Animalia", "Aves", "Passeriformes", "Passerellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474785935/large.jpg" alt="Chipping Sparrow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264346343">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Passerellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=9135)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common winter visitor
+-   **Rarity note:** This bird is commonly found in north and central Florida during the winter.
+
+## Natural history notes
+
+The Chipping Sparrow (Spizella passerina) is a small songbird with a broad range that includes parts of Alaska, Canada, nearly all of the lower 48 states, Mexico, and the Caribbean. It inhabits forests and primarily feeds on seeds. In Florida, the Chipping Sparrow is a winter visitor. Adults are easily recognized by their distinctive rufous cap.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/9135-Spizella-passerina#taxonomy-tab)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22721162/138527131)
+-   [Local profile](https://myfwc.com/media/19668/bba_chsp.pdf)
