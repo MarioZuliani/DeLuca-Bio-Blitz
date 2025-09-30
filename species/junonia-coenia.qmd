@@ -1,0 +1,50 @@
+---
+title: "Common Buckeye (Junonia coenia)"
+slug: "junonia-coenia"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474865367/original.jpg"        # keep for thumbnails
+image-alt: "Common Buckeye"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Nymphalidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Nymphalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474865367/original.jpg" alt="Common Buckeye" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/melimel_76">melimel_76</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264435752">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Nymphalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=48505&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern
+-   **Rarity note:** Common butterfly species found in many habitats including forest margins, pastures, roadsides, and beaches
+
+## Natural history notes
+
+The Common Buckeye (Junonia coenia) is characterized by their brown forewing that includes orange bars and a white band surrounding a large eyespot. The hindwing similarly has a large eyespot with an orange band near the edge. As the name suggests, Common Buckeyes are quite common and can be found year round. Some of their host plants include: Plantains (Plantago spp.), Florida Toadflax (Linaria floridana), and Frogfruit (Phyla nodiflora) 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48505-Junonia-coenia#map-tab)
+-   [IUCN Red List](https://www.iucnredlist.org/species/173004520/173053306)
+-   [Local profile](https://www.floridamuseum.ufl.edu/wildflowers/butterfly/buckeye-common/)
