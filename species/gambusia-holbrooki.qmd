@@ -1,0 +1,50 @@
+---
+title: "Eastern Mosquitofish (Gambusia holbrooki)"
+slug: "gambusia-holbrooki"
+group: "Actinopterygii"
+image: "https://static.inaturalist.org/photos/475867157/large.jpg"        # keep for thumbnails
+image-alt: "Eastern Mosquitofish"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Actinopterygii"
+tax_order: "Cyprinodontiformes"
+tax_family: "Poeciliidae"
+categories: ["Animal", "Actinopterygii", "Cyprinodontiformes", "Poeciliidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475867157/large.jpg" alt="Eastern Mosquitofish" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264975900">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Actinopterygii
+-   **Order:** Cyprinodontiformes
+-   **Family:** Poeciliidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=101204&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern
+-   **Rarity note:** Common freshwater fish species found on the surface and edges of ponds, lakes, canals, and streams in the Eastern United States. 
+
+## Natural history notes
+
+Eastern Mosquitofish (Gambusia holbrooki) are characterized by their silver to forest green coloring on their top and sides with their sclaes outlined. They additionally have an upturned mouth and a rounded tail fin. Melanistic males are also possible and can been seen with large black spotting throughout its body and fins. Eastern Mosquitofish are hardy fish as they can tolerate variation in the temperature, salinty, and dissolved oxygen in the water. They feed on insects, such as mosquito larvae, along with crustaceans and plants. Like most mosquitofish, Eastern Mosquitofish will give birth to 40-60 live offspring.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/101204-Gambusia-holbrooki)
+-   [IUCN Red List](https://www.iucnredlist.org/species/202394/18232445)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/FA202)

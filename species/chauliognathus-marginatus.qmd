@@ -1,0 +1,49 @@
+---
+title: "Margined Leatherwing Beetle (Chauliognathus marginatus)"
+slug: "chauliognathus-marginatus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475129562/large.jpeg"        # keep for thumbnails
+image-alt: "Margined Leatherwing Beetle"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Cantharidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Cantharidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475129562/large.jpeg" alt="Margined Leatherwing Beetle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264595598">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Cantharidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=84040&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common, beneficial beetle found in prairies and grasslands across the Eastern United States.
+
+## Natural history notes
+
+Margined Leatherwing Beetles (Chauliognathus marginatus) are characterized from their distinctive appearance. They typically have an orange outline around its black body and wings. However, coloration can vary. Margined Leatherwing Beetles get their name from their "leather-like" wings as they are soft rather than hard. Adults often feed on pollen and nectar. While both the adult and larval stages are known to be predatory.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/84040-Chauliognathus-marginatus#map-tab)
+-   [Local profile](https://bugguide.net/node/view/2668)

@@ -1,0 +1,50 @@
+---
+title: "Brown-belted Bumble Bee (Bombus griseocollis)"
+slug: "bombus-griseocollis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475157017/large.jpg"        # keep for thumbnails
+image-alt: "Brown-belted Bumble Bee"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Apidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Apidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475157017/large.jpg" alt="Brown-belted Bumble Bee" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264609650">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Apidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=120215&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern
+-   **Rarity note:** Broad range across the United States from February to August
+
+## Natural history notes
+
+Brown-belted Bumble Bees (Bombus griseocollis) are characterized by their black wings, black head, short dense hairs on their thorax with a belt of brown hairs. The Queen is much larger than both the males and workers. Brown-belted Bumble Bees emerge early in the spring and cease activity early in the fall. Their food and hosts include numerous families of flowering plants. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/120215-Bombus-griseocollis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/44937645/46440221)
+-   [Local profile](https://www.discoverlife.org/mp/20q?act=x_ant&name=Bombus+griseocollis&path=Insecta/Hymenoptera/Apoidea/Apidae/Bombus/griseocollis&authority=(DeGeer,+1773)&common_name=Bombus+separatus;Bombus+mormonorum&xml=Apoidea_species;Bombus;Bumblebees;&btxt=Discover+Life&burl=http:/www.discoverlife.org)
