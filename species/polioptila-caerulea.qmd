@@ -1,0 +1,50 @@
+---
+title: "Blue-gray Gnatcatcher (Polioptila caerulea)"
+slug: "polioptila-caerulea"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474753647/original.jpg"        # keep for thumbnails
+image-alt: "Blue-gray Gnatcatcher"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"        # add
+tax_family: "Polioptilidae"      # add
+categories: ["Animal","Aves", "Passeriformes", "Polioptilidae"]
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474753647/original.jpg" alt="Blue-gray Gnatcatcher" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264306652">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Polioptilidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=7493)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: not listed
+-   **Rarity note:** Common species in Florida found in hardwood swamps, pine flatwoods, mesic forests, sandhills, and suburban areas.
+
+## Natural history notes
+
+The Blue-gray Gnatcatcher (Polioptila caerulea) is a tiny, restless songbird of woodlands and thickets across much of North America. It flits constantly through foliage, wagging its long tail as it snaps up insects and spiders. Its high, thin calls and buzzy song are often heard before the bird is seen. During breeding season, pairs build delicate, lichen-covered nests that resemble small knots on tree branches.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/7493-Polioptila-caerulea#map-tab)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22711581/94302237)
+-   [Local profile](https://myfwc.com/media/19637/bba_bggn.pdf)

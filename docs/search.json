@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (18)Liliopsida (5)OrdersArecales(1)Poales(4)FamiliesArecaceae(1)Eriocaulaceae(1)Poaceae(3)Magnoliopsida (13)OrdersCaryophyllales(1)Ericales(2)Fabales(1)Fagales(1)Gentianales(1)Magnoliales(1)Malpighiales(3)Santalales(1)Sapindales(1)Vitals(1)FamiliesAnnonaceae(1)Chrysobalanaceae(1)Droseraceae(1)Ericaceae(2)Fagaceae(1)Hypericaceae(2)Olacaceae(1)Polygalaceae(1)Rubiaceae(1)Sapindaceae(1)Vitaceae(1)Animals (30)Actinopterygii (1)OrdersCyprinodontiformes(1)FamiliesPoeciliidae(1)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (11)OrdersAccipitriformes(1)Cathartiformes(1)Galliformes(1)Passeriformes(6)Suliformes(2)FamiliesAccipitridae(1)Anhingidae(1)Cathartidae(1)Corvidae(1)Icteridae(1)Mimidae(1)Parulidae(1)Passerellidae(1)Phalacrocoracidae(1)Phasianidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (13)OrdersColeoptera(1)Hymenoptera(2)Lepidoptera(7)Odonata(1)Orthoptera(1)Pterygota(1)FamiliesAcrididae(1)Apidae(1)Cantharidae(1)Coenagrionidae(1)Erebidae(1)Hesperiidae(2)Hymenoptera(1)Nymphalidae(2)Papilionidae(1)Saturniidae(1)Scoliidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (19)Liliopsida (5)OrdersArecales(1)Poales(4)FamiliesArecaceae(1)Eriocaulaceae(1)Poaceae(3)Magnoliopsida (14)OrdersCaryophyllales(1)Ericales(2)Fabales(1)Fagales(1)Gentianales(2)Magnoliales(1)Malpighiales(3)Santalales(1)Sapindales(1)Vitals(1)FamiliesAnnonaceae(1)Chrysobalanaceae(1)Droseraceae(1)Ericaceae(2)Fagaceae(1)Hypericaceae(2)Olacaceae(1)Polygalaceae(1)Rubiaceae(2)Sapindaceae(1)Vitaceae(1)Animals (31)Actinopterygii (1)OrdersCyprinodontiformes(1)FamiliesPoeciliidae(1)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (12)OrdersAccipitriformes(1)Cathartiformes(1)Galliformes(1)Passeriformes(7)Suliformes(2)FamiliesAccipitridae(1)Anhingidae(1)Cathartidae(1)Corvidae(1)Icteridae(1)Mimidae(1)Parulidae(1)Passerellidae(1)Phalacrocoracidae(1)Phasianidae(1)Polioptilidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (13)OrdersColeoptera(1)Hymenoptera(2)Lepidoptera(7)Odonata(1)Orthoptera(1)Pterygota(1)FamiliesAcrididae(1)Apidae(1)Cantharidae(1)Coenagrionidae(1)Erebidae(1)Hesperiidae(2)Hymenoptera(1)Nymphalidae(2)Papilionidae(1)Saturniidae(1)Scoliidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -2056,5 +2056,89 @@
     "title": "Chipping Sparrow (Spizella passerina)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/polioptila-caerulea.html",
+    "href": "species/polioptila-caerulea.html",
+    "title": "Blue-gray Gnatcatcher (Polioptila caerulea)",
+    "section": "",
+    "text": "Photo: levihoskins (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/polioptila-caerulea.html#taxonomy",
+    "href": "species/polioptila-caerulea.html#taxonomy",
+    "title": "Blue-gray Gnatcatcher (Polioptila caerulea)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Aves\nOrder: Passeriformes\nFamily: Polioptilidae"
+  },
+  {
+    "objectID": "species/polioptila-caerulea.html#occurrence-at-deluca-preserve",
+    "href": "species/polioptila-caerulea.html#occurrence-at-deluca-preserve",
+    "title": "Blue-gray Gnatcatcher (Polioptila caerulea)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/polioptila-caerulea.html#conservation-rarity-context",
+    "href": "species/polioptila-caerulea.html#conservation-rarity-context",
+    "title": "Blue-gray Gnatcatcher (Polioptila caerulea)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Least Concern; Florida: not listed\nRarity note: Common species in Florida found in hardwood swamps, pine flatwoods, mesic forests, sandhills, and suburban areas."
+  },
+  {
+    "objectID": "species/polioptila-caerulea.html#natural-history-notes",
+    "href": "species/polioptila-caerulea.html#natural-history-notes",
+    "title": "Blue-gray Gnatcatcher (Polioptila caerulea)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Blue-gray Gnatcatcher (Polioptila caerulea) is a tiny, restless songbird of woodlands and thickets across much of North America. It flits constantly through foliage, wagging its long tail as it snaps up insects and spiders. Its high, thin calls and buzzy song are often heard before the bird is seen. During breeding season, pairs build delicate, lichen-covered nests that resemble small knots on tree branches."
+  },
+  {
+    "objectID": "species/polioptila-caerulea.html#references-links",
+    "href": "species/polioptila-caerulea.html#references-links",
+    "title": "Blue-gray Gnatcatcher (Polioptila caerulea)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/richardia-grandiflora.html",
+    "href": "species/richardia-grandiflora.html",
+    "title": "Largeflower Pusley (Richardia grandiflora)",
+    "section": "",
+    "text": "Photo: dbond (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/richardia-grandiflora.html#taxonomy",
+    "href": "species/richardia-grandiflora.html#taxonomy",
+    "title": "Largeflower Pusley (Richardia grandiflora)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Gentianales\nFamily: Rubiaceae"
+  },
+  {
+    "objectID": "species/richardia-grandiflora.html#occurrence-at-deluca-preserve",
+    "href": "species/richardia-grandiflora.html#occurrence-at-deluca-preserve",
+    "title": "Largeflower Pusley (Richardia grandiflora)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/richardia-grandiflora.html#conservation-rarity-context",
+    "href": "species/richardia-grandiflora.html#conservation-rarity-context",
+    "title": "Largeflower Pusley (Richardia grandiflora)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Common Introduced\nRarity note: Commonly found in distrubed open areas such as lawns and road-sides."
+  },
+  {
+    "objectID": "species/richardia-grandiflora.html#natural-history-notes",
+    "href": "species/richardia-grandiflora.html#natural-history-notes",
+    "title": "Largeflower Pusley (Richardia grandiflora)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Largeflower Pusley (Richardia grandiflora) is a low-growing perennial native to Central/South America but naturalized in the southeastern United States. It produces clusters of showy pink to lavender flowers that attract bees and butterflies throughout much of the year. Often found in sandy soils, roadsides, and disturbed areas, it spreads quickly and can form dense mats. Though sometimes considered a weed, it provides nectar resources for pollinators in open habitats."
+  },
+  {
+    "objectID": "species/richardia-grandiflora.html#references-links",
+    "href": "species/richardia-grandiflora.html#references-links",
+    "title": "Largeflower Pusley (Richardia grandiflora)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
   }
 ]

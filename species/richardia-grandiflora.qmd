@@ -1,0 +1,49 @@
+---
+title: "Largeflower Pusley  (Richardia grandiflora)"
+slug: "richardia-grandiflora"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354630434/medium.jpg"        # keep for thumbnails
+image-alt: "Largeflower Pusley"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Rubiaceae"
+categories: ["Plants", "Magnoliopsida", "Gentianales", "Rubiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354630434/medium.jpg" alt="Largeflower Pusley " class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dbond">dbond</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200947151">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Rubiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=52078)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common Introduced
+-   **Rarity note:** Commonly found in distrubed open areas such as lawns and road-sides.
+
+## Natural history notes
+
+The Largeflower Pusley (Richardia grandiflora) is a low-growing perennial native to Central/South America but naturalized in the southeastern United States. It produces clusters of showy pink to lavender flowers that attract bees and butterflies throughout much of the year. Often found in sandy soils, roadsides, and disturbed areas, it spreads quickly and can form dense mats. Though sometimes considered a weed, it provides nectar resources for pollinators in open habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/52078-Richardia-grandiflora)
+-   [Local profile](https://fsus.ncbg.unc.edu/show-taxon-detail.php?taxonid=4799)
