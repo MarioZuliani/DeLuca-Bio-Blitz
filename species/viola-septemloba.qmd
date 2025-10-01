@@ -1,0 +1,49 @@
+---
+title: "Southern Coastal Violet (Viola septemloba)"
+slug: "viola-septemloba"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354613952/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Coastal Violet"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Violaceae"
+categories: ["Plants", "Magnoliopsida", "Malpighiales", "Violaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354613952/medium.jpg" alt="Southern Coastal Violet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/katpturethis">katpturethis</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200938997">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Violaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=170261)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common 
+-   **Rarity note:** Commonly found in pine and oak woodlands and savanahs.
+
+## Natural history notes
+
+The Southern Coastal Violet (Viola septemloba) is a low-growing wildflower native to sandy soils and open woodlands of the southeastern United States. It is easily recognized by its deep purple, five-petaled flowers and distinctive, lobed leaves. Blooming in early spring, it provides an important nectar source for bees and other pollinators. Like many violets, its leaves also serve as host plants for fritillary butterfly caterpillars.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170261-Viola-septemloba)
+-   [Local profile](https://fsus.ncbg.unc.edu/show-taxon-detail.php?taxonid=3626)
