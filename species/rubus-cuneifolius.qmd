@@ -1,0 +1,49 @@
+---
+title: "Sand Blackberry (Rubus cuneifolius)"
+slug: "rubus-cuneifolius"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354728455/medium.jpg"        # keep for thumbnails
+image-alt: "Sand Blackberry"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Rosales"
+tax_family: "Rosaceae"
+categories: ["Plants", "Magnoliopsida", "Rosales", "Rosaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354728455/medium.jpg" alt="Sand Blackberry" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/emmystew">emmystew</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200995734">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Rosales
+-   **Family:** Rosaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=128854)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common 
+-   **Rarity note:** Commonly found in sandy soils, pinewood flats, woodland egdges, and open fields.
+
+## Natural history notes
+
+The Sand Blackberry (Rubus cuneifolius) is a native bramble of the southeastern United States, thriving in sandy soils, pine flatwoods, and open fields. It produces arching, thorny canes and sweet black fruits that are eaten by people, birds, and mammals alike. Its flowers provide nectar for bees and butterflies, while the dense thickets offer shelter for small animals. As both a food source and habitat plant, it plays a valuable role in supporting wildlife in dry, open ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/128854-Rubus-cuneifolius)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2116)

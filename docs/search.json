@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (20)Liliopsida (6)OrdersAlismatales(1)Arecales(1)Poales(4)FamiliesAlismataceae(1)Arecaceae(1)Eriocaulaceae(1)Poaceae(3)Magnoliopsida (14)OrdersCaryophyllales(1)Ericales(2)Fabales(1)Fagales(1)Gentianales(2)Magnoliales(1)Malpighiales(3)Santalales(1)Sapindales(1)Vitals(1)FamiliesAnnonaceae(1)Chrysobalanaceae(1)Droseraceae(1)Ericaceae(2)Fagaceae(1)Hypericaceae(2)Olacaceae(1)Polygalaceae(1)Rubiaceae(2)Sapindaceae(1)Vitaceae(1)Animals (31)Actinopterygii (1)OrdersCyprinodontiformes(1)FamiliesPoeciliidae(1)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (12)OrdersAccipitriformes(1)Cathartiformes(1)Galliformes(1)Passeriformes(7)Suliformes(2)FamiliesAccipitridae(1)Anhingidae(1)Cathartidae(1)Corvidae(1)Icteridae(1)Mimidae(1)Parulidae(1)Passerellidae(1)Phalacrocoracidae(1)Phasianidae(1)Polioptilidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (13)OrdersColeoptera(1)Hymenoptera(2)Lepidoptera(7)Odonata(1)Orthoptera(1)Pterygota(1)FamiliesAcrididae(1)Apidae(1)Cantharidae(1)Coenagrionidae(1)Erebidae(1)Hesperiidae(2)Hymenoptera(1)Nymphalidae(2)Papilionidae(1)Saturniidae(1)Scoliidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (21)Liliopsida (6)OrdersAlismatales(1)Arecales(1)Poales(4)FamiliesAlismataceae(1)Arecaceae(1)Eriocaulaceae(1)Poaceae(3)Magnoliopsida (15)OrdersCaryophyllales(1)Ericales(2)Fabales(1)Fagales(1)Gentianales(2)Magnoliales(1)Malpighiales(3)Rosales(1)Santalales(1)Sapindales(1)Vitals(1)FamiliesAnnonaceae(1)Chrysobalanaceae(1)Droseraceae(1)Ericaceae(2)Fagaceae(1)Hypericaceae(2)Olacaceae(1)Polygalaceae(1)Rosaceae(1)Rubiaceae(2)Sapindaceae(1)Vitaceae(1)Animals (31)Actinopterygii (1)OrdersCyprinodontiformes(1)FamiliesPoeciliidae(1)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (12)OrdersAccipitriformes(1)Cathartiformes(1)Galliformes(1)Passeriformes(7)Suliformes(2)FamiliesAccipitridae(1)Anhingidae(1)Cathartidae(1)Corvidae(1)Icteridae(1)Mimidae(1)Parulidae(1)Passerellidae(1)Phalacrocoracidae(1)Phasianidae(1)Polioptilidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (13)OrdersColeoptera(1)Hymenoptera(2)Lepidoptera(7)Odonata(1)Orthoptera(1)Pterygota(1)FamiliesAcrididae(1)Apidae(1)Cantharidae(1)Coenagrionidae(1)Erebidae(1)Hesperiidae(2)Hymenoptera(1)Nymphalidae(2)Papilionidae(1)Saturniidae(1)Scoliidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (1)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -2180,6 +2180,48 @@
     "objectID": "species/sagittaria-graminea.html#references-links",
     "href": "species/sagittaria-graminea.html#references-links",
     "title": "Grass-leaved Arrowhead (Sagittaria graminea)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/rubus-cuneifolius.html",
+    "href": "species/rubus-cuneifolius.html",
+    "title": "Sand Blackberry (Rubus cuneifolius)",
+    "section": "",
+    "text": "Photo: emmystew (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/rubus-cuneifolius.html#taxonomy",
+    "href": "species/rubus-cuneifolius.html#taxonomy",
+    "title": "Sand Blackberry (Rubus cuneifolius)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Rosales\nFamily: Rosaceae"
+  },
+  {
+    "objectID": "species/rubus-cuneifolius.html#occurrence-at-deluca-preserve",
+    "href": "species/rubus-cuneifolius.html#occurrence-at-deluca-preserve",
+    "title": "Sand Blackberry (Rubus cuneifolius)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/rubus-cuneifolius.html#conservation-rarity-context",
+    "href": "species/rubus-cuneifolius.html#conservation-rarity-context",
+    "title": "Sand Blackberry (Rubus cuneifolius)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Common\nRarity note: Commonly found in sandy soils, pinewood flats, woodland egdges, and open fields."
+  },
+  {
+    "objectID": "species/rubus-cuneifolius.html#natural-history-notes",
+    "href": "species/rubus-cuneifolius.html#natural-history-notes",
+    "title": "Sand Blackberry (Rubus cuneifolius)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Sand Blackberry (Rubus cuneifolius) is a native bramble of the southeastern United States, thriving in sandy soils, pine flatwoods, and open fields. It produces arching, thorny canes and sweet black fruits that are eaten by people, birds, and mammals alike. Its flowers provide nectar for bees and butterflies, while the dense thickets offer shelter for small animals. As both a food source and habitat plant, it plays a valuable role in supporting wildlife in dry, open ecosystems."
+  },
+  {
+    "objectID": "species/rubus-cuneifolius.html#references-links",
+    "href": "species/rubus-cuneifolius.html#references-links",
+    "title": "Sand Blackberry (Rubus cuneifolius)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nLocal profile"
   }
