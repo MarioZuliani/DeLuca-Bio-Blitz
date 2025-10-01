@@ -1,0 +1,49 @@
+---
+title: "Combleaf Yellow False Foxglove (Aureolaria pectinata)"
+slug: "aureolaria-pectinata"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474741047/medium.jpeg"        # keep for thumbnails
+image-alt: "Combleaf Yellow False Foxglove"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Orobanchaceae"
+categories: ["Plants", "Magnoliopsida", "Lamiales", "Orobanchaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474741047/medium.jpeg" alt="Combleaf Yellow False Foxglove" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/bri_summa">bri_summa</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264293809">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Orobanchaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=148877)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Endemic species
+-   **Rarity note:** Commonly found in sandy pine woods in Florida
+
+## Natural history notes
+
+The Combleaf Yellow False Foxglove (Aureolaria pectinata) is a native wildflower of the southeastern United States, typically found in sandy pine woods. Its bright yellow, tubular flowers bloom in late summer and attract bees, butterflies, and hummingbirds. Like other false foxgloves, it is a hemiparasite, drawing some of its nutrients from the roots of nearby oak trees while still photosynthesizing on its own. This unique strategy helps it thrive in nutrient-poor soils where many plants cannot.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/148877-Aureolaria-pectinata)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/842)

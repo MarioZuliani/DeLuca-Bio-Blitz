@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (23)Liliopsida (6)OrdersAlismatales(1)Arecales(1)Poales(4)FamiliesAlismataceae(1)Arecaceae(1)Eriocaulaceae(1)Poaceae(3)Magnoliopsida (17)OrdersBrassicales(1)Caryophyllales(1)Ericales(2)Fabales(1)Fagales(1)Gentianales(2)Magnoliales(1)Malpighiales(4)Rosales(1)Santalales(1)Sapindales(1)Vitals(1)FamiliesAnnonaceae(1)Brassicaceae(1)Chrysobalanaceae(1)Droseraceae(1)Ericaceae(2)Fagaceae(1)Hypericaceae(2)Olacaceae(1)Polygalaceae(1)Rosaceae(1)Rubiaceae(2)Sapindaceae(1)Violaceae(1)Vitaceae(1)Animals (31)Actinopterygii (1)OrdersCyprinodontiformes(1)FamiliesPoeciliidae(1)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (12)OrdersAccipitriformes(1)Cathartiformes(1)Galliformes(1)Passeriformes(7)Suliformes(2)FamiliesAccipitridae(1)Anhingidae(1)Cathartidae(1)Corvidae(1)Icteridae(1)Mimidae(1)Parulidae(1)Passerellidae(1)Phalacrocoracidae(1)Phasianidae(1)Polioptilidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (13)OrdersColeoptera(1)Hymenoptera(2)Lepidoptera(7)Odonata(1)Orthoptera(1)Pterygota(1)FamiliesAcrididae(1)Apidae(1)Cantharidae(1)Coenagrionidae(1)Erebidae(1)Hesperiidae(2)Hymenoptera(1)Nymphalidae(2)Papilionidae(1)Saturniidae(1)Scoliidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (2)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)Lecanoromycetes (1)OrdersLecanorales(1)FamiliesCladoniaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (24)Liliopsida (6)OrdersAlismatales(1)Arecales(1)Poales(4)FamiliesAlismataceae(1)Arecaceae(1)Eriocaulaceae(1)Poaceae(3)Magnoliopsida (18)OrdersBrassicales(1)Caryophyllales(1)Ericales(2)Fabales(1)Fagales(1)Gentianales(2)Lamiales(1)Magnoliales(1)Malpighiales(4)Rosales(1)Santalales(1)Sapindales(1)Vitals(1)FamiliesAnnonaceae(1)Brassicaceae(1)Chrysobalanaceae(1)Droseraceae(1)Ericaceae(2)Fagaceae(1)Hypericaceae(2)Olacaceae(1)Orobanchaceae(1)Polygalaceae(1)Rosaceae(1)Rubiaceae(2)Sapindaceae(1)Violaceae(1)Vitaceae(1)Animals (32)Actinopterygii (1)OrdersCyprinodontiformes(1)FamiliesPoeciliidae(1)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (12)OrdersAccipitriformes(1)Cathartiformes(1)Galliformes(1)Passeriformes(7)Suliformes(2)FamiliesAccipitridae(1)Anhingidae(1)Cathartidae(1)Corvidae(1)Icteridae(1)Mimidae(1)Parulidae(1)Passerellidae(1)Phalacrocoracidae(1)Phasianidae(1)Polioptilidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (14)OrdersColeoptera(1)Hymenoptera(2)Lepidoptera(8)Odonata(1)Orthoptera(1)Pterygota(1)FamiliesAcrididae(1)Apidae(1)Cantharidae(1)Coenagrionidae(1)Erebidae(1)Hesperiidae(3)Hymenoptera(1)Nymphalidae(2)Papilionidae(1)Saturniidae(1)Scoliidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (2)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)Lecanoromycetes (1)OrdersLecanorales(1)FamiliesCladoniaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -2350,5 +2350,89 @@
     "title": "Virginia Pepperweed (Lepidium virginicum)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/aureolaria-pectinata.html",
+    "href": "species/aureolaria-pectinata.html",
+    "title": "Combleaf Yellow False Foxglove (Aureolaria pectinata)",
+    "section": "",
+    "text": "Photo: bri_summa (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/aureolaria-pectinata.html#taxonomy",
+    "href": "species/aureolaria-pectinata.html#taxonomy",
+    "title": "Combleaf Yellow False Foxglove (Aureolaria pectinata)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Lamiales\nFamily: Orobanchaceae"
+  },
+  {
+    "objectID": "species/aureolaria-pectinata.html#occurrence-at-deluca-preserve",
+    "href": "species/aureolaria-pectinata.html#occurrence-at-deluca-preserve",
+    "title": "Combleaf Yellow False Foxglove (Aureolaria pectinata)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/aureolaria-pectinata.html#conservation-rarity-context",
+    "href": "species/aureolaria-pectinata.html#conservation-rarity-context",
+    "title": "Combleaf Yellow False Foxglove (Aureolaria pectinata)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Endemic species\nRarity note: Commonly found in sandy pine woods in Florida"
+  },
+  {
+    "objectID": "species/aureolaria-pectinata.html#natural-history-notes",
+    "href": "species/aureolaria-pectinata.html#natural-history-notes",
+    "title": "Combleaf Yellow False Foxglove (Aureolaria pectinata)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Combleaf Yellow False Foxglove (Aureolaria pectinata) is a native wildflower of the southeastern United States, typically found in sandy pine woods. Its bright yellow, tubular flowers bloom in late summer and attract bees, butterflies, and hummingbirds. Like other false foxgloves, it is a hemiparasite, drawing some of its nutrients from the roots of nearby oak trees while still photosynthesizing on its own. This unique strategy helps it thrive in nutrient-poor soils where many plants cannot."
+  },
+  {
+    "objectID": "species/aureolaria-pectinata.html#references-links",
+    "href": "species/aureolaria-pectinata.html#references-links",
+    "title": "Combleaf Yellow False Foxglove (Aureolaria pectinata)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/oligoria-maculata.html",
+    "href": "species/oligoria-maculata.html",
+    "title": "Twin-spot Skipper (Oligoria maculata)",
+    "section": "",
+    "text": "Photo: dmfraser (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/oligoria-maculata.html#taxonomy",
+    "href": "species/oligoria-maculata.html#taxonomy",
+    "title": "Twin-spot Skipper (Oligoria maculata)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Insecta\nOrder: Lepidoptera\nFamily: Hesperiidae"
+  },
+  {
+    "objectID": "species/oligoria-maculata.html#occurrence-at-deluca-preserve",
+    "href": "species/oligoria-maculata.html#occurrence-at-deluca-preserve",
+    "title": "Twin-spot Skipper (Oligoria maculata)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/oligoria-maculata.html#conservation-rarity-context",
+    "href": "species/oligoria-maculata.html#conservation-rarity-context",
+    "title": "Twin-spot Skipper (Oligoria maculata)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Common\nRarity note: Commonly found in marsh edges and grassy openings."
+  },
+  {
+    "objectID": "species/oligoria-maculata.html#natural-history-notes",
+    "href": "species/oligoria-maculata.html#natural-history-notes",
+    "title": "Twin-spot Skipper (Oligoria maculata)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Twin-spot Skipper (Oligoria maculata) is a small butterfly of the southeastern United States, usually found in moist meadows, marsh edges, and grassy openings. It is named for the distinctive paired white spots on its forewings, which help distinguish it from similar skipper species. Adults feed on nectar from a variety of flowers, while the caterpillars develop on grasses. Although often overlooked due to its quick, darting flight, it plays a quiet role in pollination and grassland food webs."
+  },
+  {
+    "objectID": "species/oligoria-maculata.html#references-links",
+    "href": "species/oligoria-maculata.html#references-links",
+    "title": "Twin-spot Skipper (Oligoria maculata)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
   }
 ]
