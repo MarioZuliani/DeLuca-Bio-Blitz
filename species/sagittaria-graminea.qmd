@@ -1,0 +1,49 @@
+---
+title: "Grass-leaved Arrowhead  (Sagittaria graminea)"
+slug: "sagittaria-graminea"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474877798/medium.jpg"        # keep for thumbnails
+image-alt: "Grass-leaved Arrowhead"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Alismatales"
+tax_family: "Alismataceae"
+categories: ["Plants", "Liliopsida", "Alismatales", "Alismataceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474877798/medium.jpg" alt="Grass-leaved Arrowhead" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264447159">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Alismatales
+-   **Family:** Alismataceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=69810)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common 
+-   **Rarity note:** Commonly found in ponds, marshes, and ditches.
+
+## Natural history notes
+
+The Grass-leaved Arrowhead (Sagittaria graminea) is an aquatic plant found in shallow ponds, marshes, and slow-moving streams across eastern North America. Unlike many other arrowheads, its leaves are long and grasslike, rising above the water’s surface. It produces delicate white flowers with three petals, which provide nectar for pollinators such as bees and flies. Its submerged parts offer shelter for aquatic invertebrates and small fish, making it an important component of wetland ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/69810-Sagittaria-graminea)
+-   [Local profile](https://www.fnps.org/plant/sagittaria-graminea)
