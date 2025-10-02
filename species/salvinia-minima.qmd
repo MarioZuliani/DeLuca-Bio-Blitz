@@ -1,0 +1,49 @@
+---
+title: "Water Spangles (Salvinia minima)"
+slug: "salvinia-minima"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476625355/medium.jpeg"       # keep for thumbnails
+image-alt: "Water Spangles"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Polypodiopsida"
+tax_order: "Salviniales"
+tax_family: "Salviniaceae"
+categories: ["Plants", "Polypodiopsida", "Salviniales", "Salviniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476625355/medium.jpeg" alt="Water Spangles" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/megankimreid">megankimreid</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/265357087">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Salviniales
+-   **Family:** Salviniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=78975)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common High Risk Invasive
+-   **Rarity note:** Commonly found in ponds, lakes, canals and ditches.
+
+## Natural history notes
+
+Water Spangles (Salvinia minima) is a small, free-floating aquatic fern native to Central and South America but widely introduced in the southeastern United States. It forms dense mats of overlapping, oval leaves covered in tiny water-repelling hairs, giving them a velvety appearance. These mats provide shelter for aquatic invertebrates and small fish but can also block sunlight and reduce oxygen levels when they spread excessively. Because of its rapid growth, it is considered invasive in many regions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/78975-Salvinia-minima)
+-   [Local profile](https://www.iucngisd.org/gisd/species.php?sc=570)

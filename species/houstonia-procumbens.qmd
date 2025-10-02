@@ -1,0 +1,49 @@
+---
+title: "Roundleaf Bluet (Houstonia procumbens)"
+slug: "houstonia-procumbens"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474852680/medium.jpg"       # keep for thumbnails
+image-alt: "Roundleaf Bluet"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Rubiaceae"
+categories: ["Plants", "Magnoliopsida", "Gentianales", "Rubiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474852680/medium.jpg" alt="Roundleaf Bluet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kikibird56">kikibird56</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264402838">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Rubiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=133305)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in sandhills, flatwoods, and disturbed sites.
+
+## Natural history notes
+
+The Roundleaf Bluet (Houstonia procumbens) is a tiny, low-growing wildflower of the southeastern United States, often carpeting sandy soils, lawns, and open woodlands. It produces small white flowers with yellow centers in early spring, sometimes forming dense mats that brighten the ground. Its rounded leaves form tight rosettes close to the soil, helping it tolerate dry, open habitats. Though delicate in appearance, it plays a role in supporting early-season pollinators like bees and flies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/133305-Houstonia-procumbens)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1480)
