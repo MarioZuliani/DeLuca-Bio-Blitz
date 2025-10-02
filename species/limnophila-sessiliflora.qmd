@@ -1,0 +1,50 @@
+---
+title: "Sessile Marshweed (Limnophila sessiliflora)"
+slug: "limnophila-sessiliflora"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475181646/medium.jpg"        # keep for thumbnails
+image-alt: "Sessile Marshweed"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Plantaginaceae"
+categories: ["Plants", "Magnoliopsida", "Lamiales", "Plantaginaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475181646/medium.jpg" alt="Sessile Marshweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">sebento</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264619993">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Plantaginaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=199375)
+
+## Conservation & rarity context
+
+-   IUCN: Least concern; Florida: Common non-native
+-   **Rarity note:** Common non-native found in ponds, ditches, lakes, swamps, and marshes.
+
+## Natural history notes
+
+Sessile Marshweed (Limnophila sessiliflora) is an aquatic plant native to Asia but now naturalized in parts of the southeastern United States. It has finely divided, feathery underwater leaves and whorls of broader leaves at the water’s surface, making it popular in aquariums. In the wild, it grows rapidly in ponds, ditches, and wetlands, where it can form dense mats. While it provides shelter for fish and invertebrates, it may also compete with native aquatic plants when it spreads aggressively.
+
+## References / links
+
+-   [iNaturalist species page](http://inaturalist.org/taxa/199375-Limnophila-sessiliflora)
+-   [IUCN Red List](https://www.iucnredlist.org/species/168617/6523542)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1480)
