@@ -1,0 +1,50 @@
+---
+title: "Everglades Crayfish (Procambarus alleni)"
+slug: "procambarus-alleni"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354969283/medium.jpg"        # keep for thumbnails
+image-alt: "Everglades Crayfish"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Malacostraca"
+tax_order: "Decapoda"
+tax_family: "Cambaridae"
+categories: ["Animal", "Malacostraca", "Decapoda", "Cambaridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354969283/medium.jpg" alt="Everglades Crayfish" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201118908">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Malacostraca
+-   **Order:** Decapoda
+-   **Family:** Cambaridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=110407)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: not listed
+-   **Rarity note:** Crayfish native to Florida wetlands
+
+## Natural history notes
+
+Also called the Florida crayfish, the Everglades crayfish (Procambarus alleni) is a native crayfish found in freshwater systems in central and south Florida. These are endemic to Florida, which means that this species can only be found in this state! It is a popular prey item of a variety of wading birds and sportfish, including white ibises, little blue herons, and largemouth bass. It can have a striking blue color, which makes it popular in the aquarium trade.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/110407-Procambarus-alleni)
+-   [IUCN Red List](https://www.iucnredlist.org/species/153828/4550642)
+-   [Local profile](https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=2812)

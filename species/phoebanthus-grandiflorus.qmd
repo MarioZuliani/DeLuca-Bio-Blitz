@@ -1,0 +1,50 @@
+---
+title: "Florida False Sunflower (Phoebanthus grandiflorus)"
+slug: "phoebanthus-grandiflorus"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354549199/medium.jpg"        # keep for thumbnails
+image-alt: "Florida False Sunflower"  # keep for a11y
+tax_kingdom: "Plant"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plant", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354549199/medium.jpg" alt="Florida False Sunflower" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/pclark2591">pclark2591</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200905293">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=126614)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Not Listed
+-   **Rarity note:** Native daisy found only in Florida
+
+## Natural history notes
+
+The Florida false sunflower (Phoebanthus grandiflorus) is a native flower in the daisy (Asteraceae) family. Despite being much smaller, this flower gained its name due to its visual similarities to sunflowers (Helianthus spp.). Florida false sunflowers are endemic to Florida, meaning that it is only found in this state. Currently, this plant has only been found in 26 counties! 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126614-Phoebanthus-grandiflorus)
+-   [IUCN Red List]()
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2316#plant-photos)

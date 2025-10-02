@@ -1,0 +1,50 @@
+---
+title: "Horned Passalid (Odontotaenius disjunctus)"
+slug: "odontotaenius-disjunctus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355126559/medium.jpg"        # keep for thumbnails
+image-alt: "Horned Passalid"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Passalidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Passalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355126559/medium.jpg" alt="Horned Passalid" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201203400">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Passalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=122214)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Not Listed
+-   **Rarity note:** Native, large beetle found throughout the state
+
+## Natural history notes
+
+The horned passalid (Odontotaenius disjunctus) is a native beetle found throughout the southeastern, northeastern, and midwestern parts of the United States. In Florida, their range stops in the central part of the state. These shiny black beetles can be identified by their tiny horn on the very top of their head, between their eyes. These beetles can be large (over 3cm in length), and adults have large mandible mouthparts. While they have wings, this animal rarely uses them, preferring to walk instead of fly when travelling long distances. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/122214-Odontotaenius-disjunctus)
+-   [IUCN Red List]()
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN879)

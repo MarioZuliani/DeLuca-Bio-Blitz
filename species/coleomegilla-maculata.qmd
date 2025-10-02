@@ -1,0 +1,50 @@
+---
+title: "Spotted Pink Lady Beetle (Coleomegilla maculata)"
+slug: "coleomegilla-maculata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355522000/medium.jpeg"        # keep for thumbnails
+image-alt: "Spotted Pink Lady Beetle"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Coccinellidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Coccinellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355522000/medium.jpeg" alt="Spotted Pink Lady Beetle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201403312">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Coccinellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=126267)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Not Listed
+-   **Rarity note:** Native, colorful ladybug that eats aphids and pollen
+
+## Natural history notes
+
+The spotted pink lady beetle (Coleomegilla maculata) is a native beetle in the ladybug (Coccinellidae) family. It can be anywhere from pink to red in color. These beetles, like most ladybugs, prey on aphids, making it a popular species for biological control for crops like wheat, soybeans, and potatoes. Pollen also makes up a significant portion of this animal’s diet, which is unusual for ladybugs. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126267-Coleomegilla-maculata)
+-   [IUCN Red List]()
+-   [Local profile](https://biocontrol.entomology.cornell.edu/predators/Coleomegilla.php)
