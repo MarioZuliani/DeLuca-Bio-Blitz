@@ -11,7 +11,7 @@
     "href": "index.html#species",
     "title": "Species Index",
     "section": "Species",
-    "text": "Species\n\n\nBrowse by Class\nPlants (25)Liliopsida (7)OrdersAlismatales(1)Arecales(1)Poales(5)FamiliesAlismataceae(1)Arecaceae(1)Cyperaceae(1)Eriocaulaceae(1)Poaceae(3)Magnoliopsida (18)OrdersBrassicales(1)Caryophyllales(1)Ericales(2)Fabales(1)Fagales(1)Gentianales(2)Lamiales(1)Magnoliales(1)Malpighiales(4)Rosales(1)Santalales(1)Sapindales(1)Vitals(1)FamiliesAnnonaceae(1)Brassicaceae(1)Chrysobalanaceae(1)Droseraceae(1)Ericaceae(2)Fagaceae(1)Hypericaceae(2)Olacaceae(1)Orobanchaceae(1)Polygalaceae(1)Rosaceae(1)Rubiaceae(2)Sapindaceae(1)Violaceae(1)Vitaceae(1)Animals (33)Actinopterygii (2)OrdersCyprinodontiformes(2)FamiliesFundulidae(1)Poeciliidae(1)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (12)OrdersAccipitriformes(1)Cathartiformes(1)Galliformes(1)Passeriformes(7)Suliformes(2)FamiliesAccipitridae(1)Anhingidae(1)Cathartidae(1)Corvidae(1)Icteridae(1)Mimidae(1)Parulidae(1)Passerellidae(1)Phalacrocoracidae(1)Phasianidae(1)Polioptilidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (14)OrdersColeoptera(1)Hymenoptera(2)Lepidoptera(8)Odonata(1)Orthoptera(1)Pterygota(1)FamiliesAcrididae(1)Apidae(1)Cantharidae(1)Coenagrionidae(1)Erebidae(1)Hesperiidae(3)Hymenoptera(1)Nymphalidae(2)Papilionidae(1)Saturniidae(1)Scoliidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (2)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)Lecanoromycetes (1)OrdersLecanorales(1)FamiliesCladoniaceae(1)"
+    "text": "Species\n\n\nBrowse by Class\nPlants (26)Liliopsida (7)OrdersAlismatales(1)Arecales(1)Poales(5)FamiliesAlismataceae(1)Arecaceae(1)Cyperaceae(1)Eriocaulaceae(1)Poaceae(3)Magnoliopsida (19)OrdersApiales(1)Brassicales(1)Caryophyllales(1)Ericales(2)Fabales(1)Fagales(1)Gentianales(2)Lamiales(1)Magnoliales(1)Malpighiales(4)Rosales(1)Santalales(1)Sapindales(1)Vitals(1)FamiliesAnnonaceae(1)Apiaceae(1)Brassicaceae(1)Chrysobalanaceae(1)Droseraceae(1)Ericaceae(2)Fagaceae(1)Hypericaceae(2)Olacaceae(1)Orobanchaceae(1)Polygalaceae(1)Rosaceae(1)Rubiaceae(2)Sapindaceae(1)Violaceae(1)Vitaceae(1)Animals (34)Actinopterygii (3)OrdersCyprinodontiformes(3)FamiliesCyprinodontidae(1)Fundulidae(1)Poeciliidae(1)Amphibia (2)OrdersAnura(2)FamiliesBufonidae(1)Hylidae(1)Aves (12)OrdersAccipitriformes(1)Cathartiformes(1)Galliformes(1)Passeriformes(7)Suliformes(2)FamiliesAccipitridae(1)Anhingidae(1)Cathartidae(1)Corvidae(1)Icteridae(1)Mimidae(1)Parulidae(1)Passerellidae(1)Phalacrocoracidae(1)Phasianidae(1)Polioptilidae(1)Turdidae(1)Cichliformes (1)OrdersCichliformes(1)FamiliesCichlidae(1)Insecta (14)OrdersColeoptera(1)Hymenoptera(2)Lepidoptera(8)Odonata(1)Orthoptera(1)Pterygota(1)FamiliesAcrididae(1)Apidae(1)Cantharidae(1)Coenagrionidae(1)Erebidae(1)Hesperiidae(3)Hymenoptera(1)Nymphalidae(2)Papilionidae(1)Saturniidae(1)Scoliidae(1)Mammalia (1)OrdersLagomorpha(1)FamiliesLeporidae(1)Reptilia (1)OrdersCrocodylia(1)FamiliesAlligatoridae(1)Fungi (2)Agaricomycetes (1)OrdersPolyporales(1)FamiliesPolyporaceae(1)Lecanoromycetes (1)OrdersLecanorales(1)FamiliesCladoniaceae(1)"
   },
   {
     "objectID": "species/polites-vibex.html",
@@ -2516,6 +2516,90 @@
     "objectID": "species/cyperus-blepharoleptos.html#references-links",
     "href": "species/cyperus-blepharoleptos.html#references-links",
     "title": "Cuban Bulrush (Cyperus blepharoleptos)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
+  },
+  {
+    "objectID": "species/eryngium-aromaticum.html",
+    "href": "species/eryngium-aromaticum.html",
+    "title": "Fragrant Eryngo (Eryngium aromaticum)",
+    "section": "",
+    "text": "Photo: cpgibson (CC BY-NC) via iNaturalist"
+  },
+  {
+    "objectID": "species/eryngium-aromaticum.html#taxonomy",
+    "href": "species/eryngium-aromaticum.html#taxonomy",
+    "title": "Fragrant Eryngo (Eryngium aromaticum)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Magnoliopsida\nOrder: Apiales\nFamily: Apiaceae"
+  },
+  {
+    "objectID": "species/eryngium-aromaticum.html#occurrence-at-deluca-preserve",
+    "href": "species/eryngium-aromaticum.html#occurrence-at-deluca-preserve",
+    "title": "Fragrant Eryngo (Eryngium aromaticum)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/eryngium-aromaticum.html#conservation-rarity-context",
+    "href": "species/eryngium-aromaticum.html#conservation-rarity-context",
+    "title": "Fragrant Eryngo (Eryngium aromaticum)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not listed; Florida: Uncommon\nRarity note: Found growing low to the ground in sandy soils."
+  },
+  {
+    "objectID": "species/eryngium-aromaticum.html#natural-history-notes",
+    "href": "species/eryngium-aromaticum.html#natural-history-notes",
+    "title": "Fragrant Eryngo (Eryngium aromaticum)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nThe Fragrant Eryngo (Eryngium aromaticum) is a spiny, thistle-like wildflower native to the sandy soils of the southeastern United States. Despite its prickly appearance, it produces clusters of tiny, fragrant flowers that attract a wide range of pollinators, especially bees and butterflies. Its tough, drought-tolerant growth allows it to thrive in dry, open habitats where few other plants persist. As both a nectar source and a hardy ground cover, it supports pollinator diversity in fragile ecosystems."
+  },
+  {
+    "objectID": "species/eryngium-aromaticum.html#references-links",
+    "href": "species/eryngium-aromaticum.html#references-links",
+    "title": "Fragrant Eryngo (Eryngium aromaticum)",
+    "section": "References / links",
+    "text": "References / links\n\niNaturalist species page\nLocal profile"
+  },
+  {
+    "objectID": "species/jordanella-floridae.html",
+    "href": "species/jordanella-floridae.html",
+    "title": "American Flagfish (Jordanella floridae)",
+    "section": "",
+    "text": "Photo: chadkeates (CC BY-NC 4.0) via iNaturalist"
+  },
+  {
+    "objectID": "species/jordanella-floridae.html#taxonomy",
+    "href": "species/jordanella-floridae.html#taxonomy",
+    "title": "American Flagfish (Jordanella floridae)",
+    "section": "Taxonomy",
+    "text": "Taxonomy\n\nClass: Actinopterygii\nOrder: Cyprinodontiformes\nFamily: Cyprinodontidae"
+  },
+  {
+    "objectID": "species/jordanella-floridae.html#occurrence-at-deluca-preserve",
+    "href": "species/jordanella-floridae.html#occurrence-at-deluca-preserve",
+    "title": "American Flagfish (Jordanella floridae)",
+    "section": "Occurrence at DeLuca Preserve",
+    "text": "Occurrence at DeLuca Preserve\n\nDeLuca Bio Blitz Species Observations"
+  },
+  {
+    "objectID": "species/jordanella-floridae.html#conservation-rarity-context",
+    "href": "species/jordanella-floridae.html#conservation-rarity-context",
+    "title": "American Flagfish (Jordanella floridae)",
+    "section": "Conservation & rarity context",
+    "text": "Conservation & rarity context\n\nIUCN: Not Listed; Florida: Not listed\nRarity note: small native fish of freshwater systems"
+  },
+  {
+    "objectID": "species/jordanella-floridae.html#natural-history-notes",
+    "href": "species/jordanella-floridae.html#natural-history-notes",
+    "title": "American Flagfish (Jordanella floridae)",
+    "section": "Natural history notes",
+    "text": "Natural history notes\nAmerican Flagfish (Jordanella floridae) is a small, native fish found in Florida, though it has been found as a nonnative in a few small areas in the southeast. A colorful, iridescent fish, flagfish are common in the aquarium trade, and its nonnative introductions are likely the result of its popularity there. A type of killifish, these fish like shallow, warm water and can be found near aquatic plants. These fish earned the name “flagfish” because males have a red and white striped pattern, resembling the American flag."
+  },
+  {
+    "objectID": "species/jordanella-floridae.html#references-links",
+    "href": "species/jordanella-floridae.html#references-links",
+    "title": "American Flagfish (Jordanella floridae)",
     "section": "References / links",
     "text": "References / links\n\niNaturalist species page\nIUCN Red List\nLocal profile"
   }

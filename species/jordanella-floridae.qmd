@@ -1,0 +1,50 @@
+---
+title: "American Flagfish (Jordanella floridae)"
+slug: "jordanella-floridae"
+group: "Actinopterygii"
+image: "https://static.inaturalist.org/photos/475866888/medium.jpg"        # keep for thumbnails
+image-alt: "American Flagfish"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Actinopterygii"
+tax_order: "Cyprinodontiformes"
+tax_family: "Cyprinodontidae"
+categories: ["Animal", "Actinopterygii", "Cyprinodontiformes", "Cyprinodontidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475866888/medium.jpg" alt="American Flagfish" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264975894">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Actinopterygii
+-   **Order:** Cyprinodontiformes
+-   **Family:** Cyprinodontidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=103632)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Not listed
+-   **Rarity note:** small native fish of freshwater systems
+
+## Natural history notes
+
+American Flagfish (Jordanella floridae) is a small, native fish found in Florida, though it has been found as a nonnative in a few small areas in the southeast. A colorful, iridescent fish, flagfish are common in the aquarium trade, and its nonnative introductions are likely the result of its popularity there. A type of killifish, these fish like shallow, warm water and can be found near aquatic plants. These fish earned the name “flagfish” because males have a red and white striped pattern, resembling the American flag.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/103632-Jordanella-floridae)
+-   [IUCN Red List]()
+-   [Local profile](https://www.floridamuseum.ufl.edu/discover-fish/florida-fishes-gallery/flagfish/)

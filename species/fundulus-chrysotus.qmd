@@ -32,7 +32,7 @@ Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=101051&verifiable=any)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=101051y)
 
 ## Conservation & rarity context
 

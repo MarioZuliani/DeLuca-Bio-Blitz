@@ -1,0 +1,49 @@
+---
+title: "Fragrant Eryngo (Eryngium aromaticum)"
+slug: "eryngium-aromaticum"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257816755/medium.jpeg"        # keep for thumbnails
+image-alt: "Fragrant Eryngo"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Apiales"
+tax_family: "Apiaceae"
+categories: ["Plants", "Magnoliopsida", "Apiales", "Apiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257816755/medium.jpeg" alt="Fragrant Eryngo" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/cpgibson">cpgibson</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/149605079">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Apiales
+-   **Family:** Apiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=162698)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Uncommon
+-   **Rarity note:** Found growing low to the ground in sandy soils.
+
+## Natural history notes
+
+The Fragrant Eryngo (Eryngium aromaticum) is a spiny, thistle-like wildflower native to the sandy soils of the southeastern United States. Despite its prickly appearance, it produces clusters of tiny, fragrant flowers that attract a wide range of pollinators, especially bees and butterflies. Its tough, drought-tolerant growth allows it to thrive in dry, open habitats where few other plants persist. As both a nectar source and a hardy ground cover, it supports pollinator diversity in fragile ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162698-Eryngium-aromaticum)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2329)
