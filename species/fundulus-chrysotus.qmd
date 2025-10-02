@@ -1,0 +1,50 @@
+---
+title: "Golden Topminnow (Fundulus chrysotus)"
+slug: "fundulus-chrysotus"
+group: "Actinopterygii"
+image: "https://static.inaturalist.org/photos/475144156/medium.jpeg"        # keep for thumbnails
+image-alt: "Golden Topminnow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Actinopterygii"
+tax_order: "Cyprinodontiformes"
+tax_family: "Fundulidae"
+categories: ["Animal", "Actinopterygii", "Cyprinodontiformes", "Fundulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475144156/medium.jpeg" alt="Golden Topminnow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264601483">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Actinopterygii
+-   **Order:** Cyprinodontiformes
+-   **Family:** Fundulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=101051&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: not listed
+-   **Rarity note:** Small native fish of freshwater systems.
+
+## Natural history notes
+
+Golden topminnow (Fundulus chrysotus) is a small, native fish found in freshwater systems throughout the southeastern United States. This species loves warm, shallow water and is often found near aquatic plants, where it can hide from predators like bass and sunfish. This species is sexually dimorphic, meaning that males and females look different; while both have a vibrant yellow body, the males will often have red scales on the body and caudal fin, while the females will have white scales. Given its bright colors, this minnow is also a popular aquarium fish!
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/101051-Fundulus-chrysotus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/202379/18231308)
+-   [Local profile](https://www.floridamuseum.ufl.edu/discover-fish/florida-fishes-gallery/golden-topminnow/)
