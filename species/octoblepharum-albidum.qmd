@@ -1,0 +1,49 @@
+---
+title: "White Octoblepharum Moss (Octoblepharum albidum)"
+slug: "octoblepharum-albidum"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474877124/medium.jpg"        # keep for thumbnails
+image-alt: "White Octoblepharum Moss"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Bryopsida"
+tax_order: "Dicranales"
+tax_family: "Octoblepharaceae"
+categories: ["Plants", "Bryopsida", "Dicranales", "Octoblepharaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474877124/medium.jpg" alt="White Octoblepharum Moss" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/saherron">saherron</a> (CC0) via <a href="https://www.inaturalist.org/observations/264446516">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Bryopsida
+-   **Order:** Dicranales
+-   **Family:** Octoblepharaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=165771)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common 
+-   **Rarity note:** Commonly found in humid forests.
+
+## Natural history notes
+
+The White Octoblepharum Moss (Octoblepharum albidum) is a distinctive tropical moss found in humid forests, where it often grows on tree trunks, logs, and shaded soil. It forms loose, pale green to whitish tufts that stand out against darker vegetation. Like other mosses, it lacks true roots, instead absorbing water and nutrients directly through its leaves, which makes it sensitive to moisture conditions. By helping retain humidity and providing microhabitats for tiny invertebrates, it contributes to the health of forest ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/165771-Octoblepharum-albidum)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.124475/Octoblepharum_albidum)
