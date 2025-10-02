@@ -1,0 +1,50 @@
+---
+title: "Red-headed Woodpecker (Melanerpes erythrocephalus)"
+slug: "melanerpes-erythrocephalus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355369697/large.jpeg"        # keep for thumbnails
+image-alt: "Red-headed Woodpecker"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Aves"
+tax_order: "Piciformes"
+tax_family: "Picidae"
+categories: ["Animalia", "Aves", "Piciformes", "Picidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355369697/large.jpeg" alt="Red-headed Woodpecker" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201323435">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Piciformes
+-   **Family:** Picidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=18204&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: uncommon, native
+-   **Rarity note:** This species is widespread but uncommon, which can be attributed to habitat loss and changes to food availablity.
+
+## Natural history notes
+
+The red-headed woodpecker (Melanerpes erythrocephalus) primarily inhabits open woodlands and feeds on a wide variety of food, including insects, fruits, and seeds. Unlike most other woodpecker species, it is particularly skilled at catching insects in flight. Adults are strikingly patterned, with a vivid red head and a contrasting black-and-white body. In Florida, the species is uncommon and has a patchy breeding distribution. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/18204-Melanerpes-erythrocephalus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22680810/1313907833)
+-   [Local profile](https://myfwc.com/media/19770/bba_rhwo.pdf)

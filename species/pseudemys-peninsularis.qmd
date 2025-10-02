@@ -1,0 +1,50 @@
+---
+title: "Peninsular Cooter (Pseudemys peninsularis)"
+slug: "pseudemys-peninsularis"
+group: "Amphibia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474794307/large.jpeg"        # keep for thumbnails
+image-alt: "Peninsular Cooter"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Reptilia"
+tax_order: "Testudines"
+tax_family: "Emydidae"
+categories: ["Animalia", "Reptilia", "Testudines", "Emydidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474794307/large.jpeg" alt="Peninsular Cooter" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/luna101">luna101</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264354916">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Testudines
+-   **Family:** Emydidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=39825&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common, native
+-   **Rarity note:** Common species found throughout Florida.
+
+## Natural history notes
+
+The peninsular cooter (Pseudemys peninsularis) is one of three cooter species found in Florida, along with the Florida red-bellied cooter (Pseudemys nelsoni) and the river cooter (Pseudemys concinna). Widespread across the state, the peninsular cooter inhabits a variety of freshwater bodies and feeds primarily on aquatic plants. They are most often spotted basking along shorelines, on logs, or among other debris.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/39825-Pseudemys-peninsularis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/170496/97427004)
+-   [Local profile](https://myfwc.com/wildlifehabitats/profiles/reptiles/freshwater-turtles/cooters/)

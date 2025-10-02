@@ -1,0 +1,50 @@
+---
+title: "Green Treefrog (Hyla cinerea)"
+slug: "hyla-cinerea"
+group: "Amphibia"
+image: "https://static.inaturalist.org/photos/475867765/large.jpg"        # keep for thumbnails
+image-alt: "Green Treefrog"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Amphibia"
+tax_order: "Anura"
+tax_family: "Hylinae"
+categories: ["Animalia", "Amphibia", "Anura", "Hylinae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475867765/large.jpg" alt="Green Treefrog" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264975915">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Amphibia
+-   **Order:** Anura
+-   **Family:** Hylidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=23969&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common, native
+-   **Rarity note:** Common species found throughout Florida.
+
+## Natural history notes
+
+The green treefrog (Hyla cinerea) is a bright green species found throughout Florida. It closely resembles the squirrel treefrog (Hyla squirella), which is also common in the state, but can usually be distinguished by a white stripe along its side, often bordered in black. In some individuals this stripe may be absent, in which case size and coloration help with identification. Green treefrogs primarily feed on insects and are typically found near water, including marshes, swamps, ponds, and lakes.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/23969-Hyla-cinerea)
+-   [IUCN Red List](https://www.iucnredlist.org/species/55449/118978218)
+-   [Local profile](https://ufwildlife.ifas.ufl.edu/frogs/greentreefrog.shtml)
