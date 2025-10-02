@@ -1,0 +1,50 @@
+---
+title: "Rosy Camphorweede (Pluchea baccharis)"
+slug: "pluchea-baccharis"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474985812/medium.jpeg"       # keep for thumbnails
+image-alt: "Rosy Camphorweed"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plants", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474985812/medium.jpeg" alt="Rosy Camphorweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/vita-sativum">vita-sativum</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264520903">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=143150)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Common non-native found in ponds, ditches, lakes, swamps, and marshes.
+
+## Natural history notes
+
+The Rosy Camphorweed (Pluchea baccharis) is a perennial wildflower native to wetlands, marshes, and moist meadows of the southeastern United States. It produces clusters of small, rosy-purple flower heads that attract butterflies, bees, and other pollinators. The leaves give off a distinctive camphor-like aroma when crushed, a trait that inspired its common name. By thriving in wet soils, it helps support pollinator diversity in swamp and marsh ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/143150-Pluchea-baccharis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/168617/6523542)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1480)
