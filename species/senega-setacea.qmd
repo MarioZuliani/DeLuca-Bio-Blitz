@@ -1,0 +1,49 @@
+---
+title: "Coastal Plain Milkwort (Senega setacea)"
+slug: "Senega setacea"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354549719/medium.jpg"       # keep for thumbnails
+image-alt: "Coastal Plain Milkwort"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Polygalaceae"
+categories: ["Plants", "Magnoliopsida", "Fabales", "Polygalaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354549719/medium.jpg" alt="Coastal Plain Milkwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/animalgrljen">animalgrljen</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200905536">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Polygalaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=1569062)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in moist pine flats, savannas, praries, and other open wetlands.
+
+## Natural history notes
+
+The Coastal Plain Milkwort (Senega setacea) is a delicate wildflower native to the sandy soils and pine flatwoods of the southeastern United States. It produces slender spikes of small pink to purple flowers that bloom in summer, attracting bees and other pollinators. This species is adapted to dry, fire-maintained habitats, where it contributes to the rich diversity of groundcover plants. Though easily overlooked, it plays a role in supporting pollinator communities in fragile ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1569062-Senega-setacea)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2980)
