@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/lizch">lizch</a> (CC BY-NC 4.
 
 ## Conservation & rarity context
 
--   IUCN: Least Convern; Florida: Common
+-   IUCN: Least Concern; Florida: Common
 -   **Rarity note:** Found in freshwater areas such as ponds, lakes, and marshes.
 
 ## Natural history notes
