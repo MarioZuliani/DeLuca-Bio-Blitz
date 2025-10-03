@@ -1,24 +1,24 @@
 ---
-title: "Lanceleaf Arrowhead (Sagittaria lancifolia)"
-slug: "sagittaria-lancifolia"
+title: "Tracy's Silkgrass (Pityopsis tracyi)"
+slug: "pityopsis-tracyi"
 group: "Plants"
-image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476407882/medium.jpg"       # keep for thumbnails
-image-alt: "Lanceleaf Arrowhead"  # keep for a11y
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475168506/medium.jpg"       # keep for thumbnails
+image-alt: "Tracy's Silkgrass"  # keep for a11y
 tax_kingdom: "Plants"
-tax_class: "Liliopsida"
-tax_order: "Alismatales"
-tax_family: "Alismataceae"
-categories: ["Plants", "Liliopsida", "Alismatales", "Alismataceae"]   # these drive the chips + filtering
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plants", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
 freeze: true
 ---
 
 <figure class="species-figure">
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476407882/medium.jpg" alt="Lanceleaf Arrowhead" class="species-photo"/>
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475168506/medium.jpg" alt="Tracy's Silkgrass" class="species-photo"/>
 
 <figcaption class="photo-credit">
 
-Photo: <a href="https://www.inaturalist.org/people/lmcconachie">lmcconachie</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/265246534">iNaturalist</a>
+Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264613397">iNaturalist</a>
 
 </figcaption>
 
@@ -26,24 +26,24 @@ Photo: <a href="https://www.inaturalist.org/people/lmcconachie">lmcconachie</a> 
 
 ## Taxonomy
 
--   **Class:** Liliopsida
--   **Order:** Alismatales
--   **Family:** Alismataceae
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=131570)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=1364688)
 
 ## Conservation & rarity context
 
 -   IUCN: Not listed; Florida: Common
--   **Rarity note:** Commonly found in wetlands, marshes, and ditches.
+-   **Rarity note:** Commonly found in pine sandhills, scrbby flatwoods, and mesic to wet-mesic savannas.
 
 ## Natural history notes
 
-The Lanceleaf Arrowhead (Sagittaria lancifolia) is a tall aquatic plant native to wetlands, marshes, and ditches of the southeastern United States. It is named for its long, lance-shaped leaves that rise well above the water’s surface. In summer, it produces white, three-petaled flowers that attract pollinators such as bees and flies. Its tubers and seeds provide food for ducks, muskrats, and other wetland wildlife, making it an important species in aquatic ecosystems.
+Tracy’s Silkgrass (Pityopsis tracyi) is a perennial wildflower native to the sandy soils and pine flatwoods of the southeastern United States. It produces bright yellow, daisy-like flowers in late summer and fall that provide nectar for bees and butterflies. Its narrow, silvery leaves are covered in fine hairs that give the plant a silky sheen and help it conserve moisture. Like other silkgrasses, it is well adapted to fire-prone habitats, contributing to the resilience of longleaf pine ecosystems.
 
 ## References / links
 
--   [iNaturalist species page](https://www.inaturalist.org/taxa/69813-Sagittaria-lancifolia)
--   [Local profile](https://www.fnps.org/plant/sagittaria-lancifolia)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1364688-Pityopsis-tracyi)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon-detail.php&taxonid=6269)
