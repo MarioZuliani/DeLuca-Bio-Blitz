@@ -2,7 +2,7 @@
 title: "Yellow Colicroot (Aletris lutea)"
 slug: "aletris-lutea"
 group: "Plants"
-image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474985857/medium.jpegg"       # keep for thumbnails
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474985857/medium.jpeg"       # keep for thumbnails
 image-alt: "Yellow Colicroot"  # keep for a11y
 tax_kingdom: "Plants"
 tax_class: "Liliopsida"
