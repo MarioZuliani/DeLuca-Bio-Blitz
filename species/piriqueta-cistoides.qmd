@@ -1,0 +1,49 @@
+---
+title: "Pitted Stripeseed(Piriqueta cistoides)"
+slug: "piriqueta-cistoides"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354874359/medium.jpg"       # keep for thumbnails
+image-alt: "Pitted Stripeseed"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Passifloraceae"
+categories: ["Plants", "Magnoliopsida", "Malpighiales", "Passifloraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354874359/medium.jpg" alt="Pitted Stripeseed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/charismartell">charismartell</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/201071381">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Passifloraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=166910)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in sandy areas such as pine flatwoods, sandhills, and the edge of marshes.
+
+## Natural history notes
+
+The Pitted Stripeseed (Piriqueta cistoides) is a delicate wildflower of the southeastern United States and the Caribbean, thriving in sandy soils and open habitats. It produces bright yellow, five-petaled flowers that open for a single day, attracting bees and other pollinators. Its seeds have a distinctive pitted surface, giving the plant its common name. Though small and often overlooked, it contributes to the rich diversity of dry, coastal ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/166910-Piriqueta-cistoides)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-piriqueta-cistoides/)
