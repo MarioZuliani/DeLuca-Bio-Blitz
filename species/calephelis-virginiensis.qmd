@@ -1,0 +1,49 @@
+---
+title: "Little Metalmark (Calephelis virginiensis)"
+slug: "calephelis-virginiensis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475572356/medium.jpeg"        # keep for thumbnails
+image-alt: "Little Metalmark"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Riodinidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Riodinidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475572356/medium.jpeg" alt="Little Metalmark" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lizch">lizch</a> (CC BY-NC 4.0) via <a href="http://inaturalist.org/observations/264822077">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Riodinidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=215703)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Found in low-lying, wet, grassy areas.
+
+## Natural history notes
+
+The Little Metalmark (Calephelis virginiensis) is one of the smallest butterflies in North America, recognized by the tiny metallic silver spots that shimmer on its orange-brown wings. It inhabits open sandy areas, pine flatwoods, and coastal plains of the southeastern United States. Adults feed on nectar from asters and other small wildflowers, while caterpillars specialize on plants in the aster family. Though inconspicuous in flight, its glittering wing spots give it a jewel-like appearance when seen up close.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/215703-Calephelis-virginiensis)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Neonympha-areolatus)
