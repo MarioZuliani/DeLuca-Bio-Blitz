@@ -1,0 +1,49 @@
+---
+title: "American Frogbit (Limnobium spongia)"
+slug: "limnobium-spongia"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475181066/medium.jpg"       # keep for thumbnails
+image-alt: "American Frogbit"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Alismatales"
+tax_family: "Hydrocharitaceae"
+categories: ["Plants", "Liliopsida", "Alismatales", "Hydrocharitaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475181066/medium.jpg" alt="American Frogbit" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">sebento</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264619693">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Alismatales
+-   **Family:** Hydrocharitaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=77751)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in marshes, lakes, ponds, and bayous.
+
+## Natural history notes
+
+The American Frogbit (Limnobium spongia) is a floating aquatic plant native to the southeastern United States, often found in ponds, bayous, and slow-moving rivers. Its round, floating leaves resemble small water lilies, while spongy undersides help them stay buoyant. In summer, it produces small white flowers with yellow centers that rise just above the water’s surface. By providing shelter for fish and invertebrates, it plays an important role in healthy wetland ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/77751-Limnobium-spongia)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-piriqueta-cistoides/)
