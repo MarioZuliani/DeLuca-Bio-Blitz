@@ -1,6 +1,6 @@
 ---
 title: "Eastern Bluebird (Sialia sialis)"
-slug: "eastern-bluebird"
+slug: "sialia-sialis"
 group: "Aves"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474786284/large.jpg"        # keep for thumbnails
 image-alt: "Eastern Bluebird"  # keep for a11y
@@ -14,7 +14,7 @@ freeze: true
 
 <figure class="species-figure">
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474786284/large.jpg" alt="Eastern Bluebird" class="species-photo"/>
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474786284/large.jpg" alt="Sialia sialis" class="species-photo"/>
 
 <figcaption class="photo-credit">
 
