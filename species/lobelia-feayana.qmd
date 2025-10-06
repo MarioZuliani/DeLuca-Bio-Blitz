@@ -1,6 +1,6 @@
 ---
 title: "Bay lobelia (Lobelia feayana)"
-slug: "Lobelia feayana"
+slug: "lobelia-feayana"
 group: "Plants"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474759144/medium.jpg"       # keep for thumbnails
 image-alt: "Bay lobelia"  # keep for a11y
