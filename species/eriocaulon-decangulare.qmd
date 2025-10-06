@@ -1,0 +1,49 @@
+---
+title: "Ten-angled Pipewort (Eriocaulon decangulare)"
+slug: "eriocaulon-decangulare"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475025873/medium.jpeg"       # keep for thumbnails
+image-alt: "Ten-angled Pipewort"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Eriocaulaceae"
+categories: ["Plants", "Liliopsida", "Poales", "Eriocaulaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475025873/medium.jpeg" alt="Ten-angled Pipewort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/tpalmer">tpalmer</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264540964">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Eriocaulaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=162557)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in flatwoods, bogs, and marshes.
+
+## Natural history notes
+
+The Ten-angled Pipewort (Eriocaulon decangulare) is an aquatic or semi-aquatic wildflower found in bogs, wet meadows, and shallow ponds across the southeastern United States. It produces slender stalks topped with small, button-like white flower heads that resemble tiny cotton balls. The species’ name refers to the ten subtle ridges, or “angles,” on its flower stalks. Adapted to nutrient-poor, acidic wetlands, it contributes to the delicate plant communities of bog ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162557-Eriocaulon-decangulare)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-eriocaulon-decangulare/)
