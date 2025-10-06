@@ -1,0 +1,50 @@
+---
+title: "Torpedo Grass (Panicum repens)"
+slug: "panicum-repens"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180778749/large.jpeg"        # keep for thumbnails
+image-alt: "Torpedo Grass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180778749/large.jpeg" alt="Torpedo Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lyngettys">lyngettys</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107480298">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=166096&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Maybe exotic, common
+-   **Rarity note:** Native to Africa and Asia
+
+## Natural history notes
+
+The Torpedo Grass (Panicum repens) is a perennial rhizomatous grass. It spreads primarily through creeping, sharply pointed rhizomes that can penetrate deep into soil and waterlogged sediments, forming dense monocultures in wetlands, ditches, and along lakeshores. It thrives under a wide range of conditions, tolerating drought, periodic flooding, salinity, and nutrient-poor soils. First introduced to the U.S. for forage and erosion control, it quickly became one of Florida’s worst invasive grasses, now covering tens of thousands of acres.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/166096-Panicum-repens)
+-   [IUCN Red List](https://www.iucnredlist.org/species/164447/140435906)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Panicum+repens)

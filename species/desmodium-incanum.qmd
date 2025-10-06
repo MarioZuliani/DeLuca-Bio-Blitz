@@ -1,0 +1,50 @@
+---
+title: "Creeping Beggarweed (Desmodium incanum)"
+slug: "desmodium-incanum"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180776208/large.jpg"        # keep for thumbnails
+image-alt: "Creeping Beggarweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Fabaceae"
+categories: ["Plantae", "Magnoliopsida", "Fabales", "Fabaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180776208/large.jpg" alt="Creeping Beggarweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rboughton">rboughton</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107478886">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Fabaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=116694&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Exotic common
+-   **Rarity note:** A pantropical weedy species presumably introduced or adventive from tropical America
+
+## Natural history notes
+
+The Creeping Beggarweed (Desmodium incanum) is a perennial (or subshrubby) legume in the family Fabaceae, spreading via both stolons/runners and seed. Because it is a nitrogen-fixing legume, the Creeping Beggarweed can improve soil fertility (adding nitrogen to soils via root symbiosis with rhizobia), which is why it was once promoted as a forage or cover plant in tropical and subtropical regions. Though useful in some systems, it is considered a weed in many places (including Florida), partly because of its aggressive vegetative spread and capacity to colonize lawns, gardens, and turf.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/116694-Desmodium-incanum)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Desmodium+incanum)

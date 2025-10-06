@@ -1,0 +1,50 @@
+---
+title: "Castor Bean (Ricinus communis)"
+slug: "ricinus-communis"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474775703/large.jpg"        # keep for thumbnails
+image-alt: "Castor Bean"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Euphorbiaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Euphorbiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474775703/large.jpg" alt="Castor Bean" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marktancig">marktancig</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264334544">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Euphorbiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=56739&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Exotic common in central and south Florida
+-   **Rarity note:** Native of Subsaharan Africa
+
+## Natural history notes
+
+The Castor Bean (Ricinus communis) is a fast-growing perennial shrub or small tree in the spurge family (Euphorbiaceae), native to Africa but now naturalized in warm regions worldwide. It can reach 2–5 m tall, with large, star-shaped leaves that are glossy and deeply lobed, giving it a tropical appearance. It produces spiny seed capsules containing mottled seeds that yield castor oil, used in medicine, cosmetics, and industry. Despite this utility, the seeds also contain ricin, a highly toxic protein. Ricin is so potent that just a few chewed seeds can be lethal, yet the purified oil is safe because ricin is water-soluble and not carried into the oil.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/56739-Ricinus-communis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/18435603/18435609)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Ricinus+communis)

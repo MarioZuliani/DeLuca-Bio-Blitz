@@ -1,0 +1,50 @@
+---
+title: "Walter's Viburnum (Viburnum obovatum)"
+slug: "viburnum-obovatum"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180780352/original.jpg"        # keep for thumbnails
+image-alt: "Walter's Viburnum"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Dipsacales"
+tax_family: "Viburnaceae"
+categories: ["Plantae", "Magnoliopsida", "Dipsacales", "Viburnaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180780352/original.jpg" alt="Walter's Viburnum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/tindall">tindall</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107481087">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Dipsacales
+-   **Family:** Viburnaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=170202&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native.
+-   **Rarity note:** It occurs primarily in Florida, except the Keys.
+
+## Natural history notes
+
+The Walter’s viburnum (Viburnum obovatum) makes a great addition to the Florida landscape as a small tree or large shrub. Pollinators are attracted to its showy spring flower clusters, while birds and other wildlife feast on its abundant summer and fall fruit production and use its dense foliage for nesting and cover. Some cultivars have been bred to have compact form or other desirable traits, making this species quite versatile in landscaping (hedges, screens, specimen plantings). In more northern parts of its range or during cold winters, V. obovatum may drop leaves briefly (become semi-deciduous) before leafing out again.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170202-Viburnum-obovatum)
+-   [IUCN Red List](https://www.iucnredlist.org/species/227590497/227708003)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-viburnum-obvatum/)

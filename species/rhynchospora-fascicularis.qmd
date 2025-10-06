@@ -1,0 +1,50 @@
+---
+title: "Fascicled Beaksedge (Rhynchospora fascicularis)"
+slug: "rhynchospora-fascicularis"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180773762/large.jpg"        # keep for thumbnails
+image-alt: "Fascicled Beaksedge"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Cyperaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Cyperaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180773762/large.jpg" alt="Fascicled Beaksedge" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/steff_leigh">steff_leigh</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107477621">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Cyperaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=167865&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** Endemic in United States
+
+## Natural history notes
+
+The Fascicled Beaksedge (Rhynchospora fascicularis) is a perennial sedge native to the southeastern United States. The spikelets are range between 3.5 to 5 mm in size and are reddish brown in color. It can be found growing within sandy and peaty soils. It commonly inhabits pine savana habitat, but also coastal plains.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167865-Rhynchospora-fascicularis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/192158003/192158005)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Rhynchospora+fascicularis)

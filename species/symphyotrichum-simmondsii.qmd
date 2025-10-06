@@ -1,0 +1,50 @@
+---
+title: "Simmonds' Aster (Symphyotrichum simmondsii)"
+slug: "symphyotrichum-simmondsii"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354876188/original.jpg"        # keep for thumbnails
+image-alt: "Simmonds' Aster"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354876188/original.jpg" alt="Simmonds' Aster" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/charismartell">charismartell</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201072288">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=169488&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Common native
+-   **Rarity note:** Endemic to the Southeastern Coastal Plain
+
+## Natural history notes
+
+The Simmonds' Aster (Symphyotrichum simmondsii) is a perennial plant native to the Southeastern Coastal Plain of the U.S and most prevalent throughout peninsular Florida. Occupying various habitats from moist to dry, it forms colonies via long underground rhizomes and typically blooms from October through January. The species was first described as Aster simmondsii Small. The genus name Symphyotrichum is from the Greek sýmphysis, meaning “growing together”.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/169488-Symphyotrichum-simmondsii)
+
+-   [Local profile](https://www.flawildflowers.org/flower-friday-symphyotrichum-simmondsii/)

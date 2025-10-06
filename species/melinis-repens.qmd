@@ -1,0 +1,50 @@
+---
+title: "Natal Grass (Melinis repens)"
+slug: "melinis-repens"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475900801/large.jpeg"        # keep for thumbnails
+image-alt: "Natal Grass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475900801/large.jpeg" alt="Natal Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264990554">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=77987&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Exotic common
+-   **Rarity note:** Native of Africa
+
+## Natural history notes
+
+The Natal Grass (Melinis repens) is a perennial (often short-lived) tufted grass in the family Poaceae, native to southern Africa but widely naturalized across warm regions including Florida, the Caribbean, and the southern U.S. It is easily recognized by its silky, reddish-pink flower clusters (panicles), which mature to a silvery white as the seeds ripen, giving fields a shimmering appearance in sunlight. Its name Natal grass comes from the Natal region of South Africa, its place of origin. In Florida, it is listed as invasive species.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/77987-Melinis-repens)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Melinis+repens)

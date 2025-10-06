@@ -1,0 +1,50 @@
+---
+title: "Running Oak (Quercus pumila)"
+slug: "quercus-pumila"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354651230/large.jpg"        # keep for thumbnails
+image-alt: "Running Oak"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Fagaceae"
+categories: ["Plantae", "Magnoliopsida", "Fagales", "Fagaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354651230/large.jpg" alt="Running Oak" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/cpgibson">cpgibson</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200958360">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Fagaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=167663&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** Endemic
+
+## Natural history notes
+
+The Running Oak (Quercus pumila) is a low, spreading oak native to the southeastern United States. Unlike most oaks, it grows as a prostrate or low, shrubby plant (usually under 1 m tall) that spreads by underground rhizomes, forming colonies. Acorns are small, borne singly or in pairs, and serve as food for wildlife including birds and small mammals. It is well adapted to drought, nutrient-poor sandy soils, and fire-maintained ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167663-Quercus-pumila)
+-   [IUCN Red List](https://www.iucnredlist.org/species/194224/2304962)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon-detail.php&taxonid=3342)

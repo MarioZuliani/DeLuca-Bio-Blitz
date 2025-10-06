@@ -1,0 +1,50 @@
+---
+title: "Saw Greenbrier (Smilax bona-nox)"
+slug: "smilax-bona-nox"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474855571/large.jpg"        # keep for thumbnails
+image-alt: "Saw Greenbrier"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Liliales"
+tax_family: "Smilacaceae"
+categories: ["Plantae", "Liliopsida", "Liliales", "Smilacaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474855571/large.jpg" alt="Saw Greenbrier" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ansleyburtch">ansleyburtch</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264425015">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Liliales
+-   **Family:** Smilacaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=125677&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native
+-   **Rarity note:** Native
+
+## Natural history notes
+
+The Saw Greenbrier (Smilax bona-nox) is a rampant vine from thickened and knotty rhizome with stems and branches are four-ridge. Native Americans historically used parts of this plant: its large rhizome was cooked or ground for food, and roots were sometimes used medicinally. Its Acadian French name for all the members of the genus Smilax is "cantaque". This name comes from the Choctaw name for greenbriar (Holmes 1990).
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/125677-Smilax-bona-nox)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&&plantname=Smilax+bona-nox&limit=1&offset=0&taxonid=691)

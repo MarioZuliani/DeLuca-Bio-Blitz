@@ -1,0 +1,50 @@
+---
+title: "Whitesnow (Drymaria cordata)"
+slug: "drymaria-cordata"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474977679/large.jpg"        # keep for thumbnails
+image-alt: "Whitesnow"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Caryophyllales"
+tax_family: "Caryophyllaceae"
+categories: ["Plantae", "Magnoliopsida", "Caryophyllales", "Caryophyllaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474977679/large.jpg" alt="Whitesnow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/saherron">saherron</a> (CC0) via <a href="https://www.inaturalist.org/observations/264514606">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Caryophyllales
+-   **Family:** Caryophyllaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=48556&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Exotic common in central and south Florida; Uncommon in other parts of Florida
+-   **Rarity note:** Arrived in the region via anthropogenic means
+
+## Natural history notes
+
+The Whitesnow (Drymaria cordata) is native to moist habitats in Latin America and sub-Saharan Africa, and has been introduced to many places in the tropics and subtropics, including the southeast US. It is known as one of the most aggressive weeds of the tropical and subtropical parts of the world. The North American distribution probably all adventive (not reported for the Southeastern US by Chapman 1883, Mohr 1901, or Small 1903). Its weed is weak-stemmed, breaking easily and effortlessly spreading to other areas. Seeds and fruit will stick to clothing, shoes, pets and other items from the yard. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48556-Drymaria-cordata)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Drymaria+cordata)

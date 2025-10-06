@@ -1,0 +1,50 @@
+---
+title: "White-edged Witchgrass (Dichanthelium tenue)"
+slug: "dichanthelium-tenue"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/185243439/large.jpg"        # keep for thumbnails
+image-alt: "White-edged Witchgrass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/185243439/large.jpg" alt="White-edged Witchgrass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brettbudach">brettbudach</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/109864054">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=956612&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native
+-   **Rarity note:** Native
+
+## Natural history notes
+
+The White-edged Witchgrass (Dichanthelium tenue) is a perennial member of the grass family. It grows in moist to dry, sandy woods, savannahs, and disturbed sites. Its fine texture and subtle inflorescences make it an inconspicuous but ecologically important component of native groundcover. The genus name Dichanthelium means “twice-flowering,” referring to its dual blooming strategy.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/956612-Dichanthelium-tenue#taxonomy-tab)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon-detail.php&taxonid=1954)

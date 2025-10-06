@@ -1,0 +1,50 @@
+---
+title: "Marsh Pink (Sabatia stellaris)"
+slug: "sabatia-stellaris"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257790790/large.jpeg"        # keep for thumbnails
+image-alt: "Marsh Pink"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Gentianaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Gentianaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257790790/large.jpeg" alt="Marsh Pink" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/alt_janel">alt_janel</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/149588914">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Gentianaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=126339&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native
+-   **Rarity note:** Endemic to the Eastern United States
+
+## Natural history notes
+
+The Marsh Pink (Sabatia stellaris) is an annual wildflower native to coastal salt marshes and brackish shores of the eastern United States, from New England to Florida. It thrives in moist, sandy, or muddy soils influenced by tides, often forming showy colonies in open marshes. Unlike many wildflowers, it is strongly tied to coastal salt marshes, making it an indicator of healthy tidal wetland ecosystems. It is short-lived: each plant completes its life cycle in one season, relying on abundant seed production. The fruit is a dry capsule containing up to 600 seeds.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126339-Sabatia-stellaris)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Sabatia+stellaris)

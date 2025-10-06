@@ -1,0 +1,50 @@
+---
+title: "Slender Yellow Woodsorrel (Oxalis dillenii)"
+slug: "oxalis-dillenii"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474975864/large.jpg"        # keep for thumbnails
+image-alt: "Slender Yellow Woodsorrel"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Oxalidales"
+tax_family: "Oxalidaceae"
+categories: ["Plantae", "Magnoliopsida", "Oxalidales", "Oxalidaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474975864/large.jpg" alt="Slender Yellow Woodsorrel" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264517790">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Oxalidales
+-   **Family:** Oxalidaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=84772&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native
+-   **Rarity note:** Native to eastern and central North America
+
+## Natural history notes
+
+The Slender Yellow Woodsorrel (Oxalis dillenii) is a small, low-growing perennial (sometimes annual) herb in the wood-sorrel family (Oxalidaceae), native to eastern and central North America but now found widely in disturbed sites, lawns, gardens, and roadsides. Its bright yellow, five-petaled flowers bloom through spring and summer, often closing in the evening or on overcast days. Like other Oxalis, it exhibits ballistic seed dispersal — the seed capsules burst open and can fling seeds several feet. Its epithet dillenii honors German botanist Johann Jacob Dillenius (1684–1747).
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/84772-Oxalis-dillenii)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Oxalis+dillenii)

@@ -1,0 +1,49 @@
+---
+title: "Pondcypress (Taxodium ascendens)"
+slug: "taxodium-ascendens"
+group: "Pinopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/56881941/large.jpg"        # keep for thumbnails
+image-alt: "Pondcypress"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Pinopsida"
+tax_order: "Pinales"
+tax_family: "Cupressaceae"
+categories: ["Plantae", "Pinopsida", "Pinales", "Cupressaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/56881941/large.jpg" alt="Pondcypress" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/delaneyjanetl">delaneyjanetl</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/36019223">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Pinopsida
+-   **Order:** Pinales
+-   **Family:** Cupressaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=169570&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native
+-   **Rarity note:** Endemic
+
+## Natural history notes
+
+The Pondcypress (Taxodium ascendens) is classified as a perennial gymnosperm that is native to the southeastern United States. It reaches on average 15–18 metres (49–59 ft) in height. It is typically used for ornamental purposes or decoration in more urban environments unlike the bald cypress which can be used in heavy duty construction. Pond cypress are also used in wetland restoration and enhancement. It is susceptible to fires during the drier arid seasons where ponds lose the majority of their water but these trees have developed a thicker bark to better survive these conditions.
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/169570-Taxodium-ascendens)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Taxodium+ascendens)

@@ -1,0 +1,50 @@
+---
+title: "Carolina Ponysfoot (Dichondra carolinensis)"
+slug: "dichondra-carolinensis"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474975481/large.jpg"        # keep for thumbnails
+image-alt: "Carolina Ponysfoot"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Solanales"
+tax_family: "Convolvulaceae"
+categories: ["Plantae", "Magnoliopsida", "Solanales", "Convolvulaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474975481/large.jpg" alt="Carolina Ponysfoot" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/saherron">saherron</a> (CC0) via <a href="https://www.inaturalist.org/observations/264513217">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Solanales
+-   **Family:** Convolvulaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=128939&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** This plant is rarely seen in a "natural" habitat, but is very common and weedy in lawns and other mowed grassy areas in the Southeastern Coastal Plain.
+
+## Natural history notes
+
+The Carolina Ponysfoot (Dichondra carolinensis) is a perennial, mat-forming groundcover native to the southeastern United States and the Caribbean. It grows prostrate, rooting at the nodes, and forms dense carpets of small, kidney- to horseshoe-shaped leaves. Its dense mats can help suppress weeds. Because of its soft leaves and low growth, it is sometimes grown deliberately in gardens as a “living mulch”.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/128939-Dichondra-carolinensis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/170656520/192160248)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Dichondra+carolinensis)

@@ -1,0 +1,50 @@
+---
+title: "Climbing Dayflower (Commelina diffusa)"
+slug: "commelina-diffusa"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180801669/large.jpg"        # keep for thumbnails
+image-alt: "Climbing Dayflower"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Commelinales"
+tax_family: "Commelinaceae"
+categories: ["Plantae", "Liliopsida", "Commelinales", "Commelinaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180801669/large.jpg" alt="Climbing Dayflower" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/alreyes">alreyes</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107486854">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Commelinales
+-   **Family:** Commelinaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=160818&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common
+-   **Rarity note:** Probably native in Florida, but sometimes regarded as an exotic species. Encountered very early inland, so plausible as native or as an early introduction.
+
+## Natural history notes
+
+Climbing Dayflower (Commelina diffusa) is a creeping, mat-forming annual or short-lived perennial herb. It produces distinctive blue flowers with two large upper petals and one small, inconspicuous lower petal, usually opening in the morning and fading by afternoon. Its mucilaginous stems and leaves have been used in folk medicine in Asia and the Pacific for fevers, sore throats, and skin ailments. In some regions it is used as a fodder plant for livestock, though in others it is considered a noxious weed.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/160818-Commelina-diffusa)
+-   [IUCN Red List](https://www.iucnredlist.org/species/177028/67776407)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Commelina+diffusa)

@@ -1,0 +1,50 @@
+---
+title: "Little Ironweed (Cyanthillium cinereum)"
+slug: "cyanthillium-cinereum"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474726968/large.jpg"        # keep for thumbnails
+image-alt: "Little Ironweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474726968/large.jpg" alt="Little Ironweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264277324">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=130374&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Exotic uncommon
+-   **Rarity note:** Original from E. and se. Asia
+
+## Natural history notes
+
+The Little Ironweed (Cyanthillium cinereum)  is a species of perennial plants. The species is native to tropical Africa and to tropical Asia and has become naturalized in the US State of Florida. It has been used for smoking cessation in Thailand and other countries, and as relief for the common cold. It is a special medicinal plant used in Ayurveda, helping boost the body's immune system.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/130374-Cyanthillium-cinereum)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Cyanthillium+cinereum)
