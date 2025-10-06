@@ -1,0 +1,50 @@
+---
+title: "American Elm (Ulmus americana)"
+slug: "ulmus-americana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180824785/large.jpg"        # keep for thumbnails
+image-alt: "American Elm"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Rosales"
+tax_family: "Ulmaceae"
+categories: ["Plantae", "Magnoliopsida", "Rosales", "Ulmaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180824785/large.jpg" alt="American Elm" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/scarnevale">scarnevale</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/107505714">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Rosales
+-   **Family:** Ulmaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations/?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=53547)
+
+## Conservation & rarity context
+
+-   IUCN: Endangered; Florida: Uncommon in the wild
+-   **Rarity note:** The Dutch elm disease has caused dramatic declines in this species.
+
+## Natural history notes
+
+The American elm (Ulmus americana) is a large tree that can live for over 300 years. However, the introduction of Dutch elm disease has caused major declines in this species, placing it on the endangered species list. The American elm can be incorporated into native plant gardens, but careful monitoring for Dutch elm disease is necessary to maintain the tree’s health.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/53547-Ulmus-americana)
+-   [IUCN Red List](https://www.iucnredlist.org/species/61966619/180057317)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/ST649)
