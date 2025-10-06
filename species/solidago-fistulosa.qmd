@@ -1,0 +1,49 @@
+---
+title: "Pine-barren Goldenrod (Solidago fistulosa)"
+slug: "solidago-fistulosa"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474931943/medium.jpg"       # keep for thumbnails
+image-alt: "Pine-barren Goldenrod"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plants", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474931943/medium.jpg" alt="Pine-barren Goldenrod" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264490137">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=169104)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in pine flatwoods, pine savannas, and other mesic upland habitats.
+
+## Natural history notes
+
+The Pine-barren Goldenrod (Solidago fistulosa) is a tall, showy wildflower native to the wetlands and pine flatwoods of the southeastern United States. In late summer and fall, it produces dense clusters of bright yellow flowers that attract bees, butterflies, and other pollinators. Unlike many upland goldenrods, it thrives in moist, sandy soils and along pond margins. As a late-season nectar source, it plays an essential role in supporting pollinators before winter.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/169104-Solidago-fistulosa)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1023)
