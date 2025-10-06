@@ -1,0 +1,49 @@
+---
+title: "Bay lobelia (Lobelia feayana)"
+slug: "Lobelia feayana"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474759144/medium.jpg"       # keep for thumbnails
+image-alt: "Bay lobelia"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Campanulaceae"
+categories: ["Plants", "Magnoliopsida", "Asterales", "Campanulaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474759144/medium.jpg" alt="Bay lobelia" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kekebird56">kekebird56</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264313465">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Campanulaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=129325)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in wet meadows, flatwoods, near marshes, and forests.
+
+## Natural history notes
+
+The Bay Lobelia (Lobelia feayana) is a delicate wildflower native to moist flatwoods, bogs, and roadside ditches of the southeastern United States. It produces clusters of small, lavender to light blue flowers that bloom in spring and attract bees and butterflies. Its low, sprawling growth helps it thrive in seasonally wet soils and along pond edges. Though modest in size, it adds a splash of color to wetland landscapes and supports a variety of native pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/129325-Lobelia-feayana)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-lobelia-feayana/)
