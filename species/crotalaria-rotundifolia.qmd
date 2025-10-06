@@ -1,0 +1,49 @@
+---
+title: "Rabbitbells (Crotalaria rotundifolia)"
+slug: "crotalaria-rotundifolia"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474962241/medium.jpeg"       # keep for thumbnails
+image-alt: "Rabbitbells"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Fabaceae"
+categories: ["Plants", "Magnoliopsida", "Fabales", "Fabaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474962241/medium.jpeg" alt="Rabbitbells" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kekebird56">kekebird56</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264506545">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Fabaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=131570)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in sandy areas including pinelands, sandhills, and disturbed sites.
+
+## Natural history notes
+
+Rabbitbells (Crotalaria rotundifolia) is a low, spreading legume native to the sandy soils of the southeastern United States. It produces small, bright yellow, pea-like flowers that bloom through much of the growing season. As a nitrogen-fixer, it enriches poor soils while providing nectar for bees and other pollinators. Its seeds are contained in small pods that rattle when dry, a trait common to the rattlepods in the genus Crotalaria.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/131570-Crotalaria-rotundifolia)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-crotalaria-rotundifolia/)

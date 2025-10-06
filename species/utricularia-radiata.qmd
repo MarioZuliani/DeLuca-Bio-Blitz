@@ -1,0 +1,50 @@
+---
+title: "Small Swollen Bladderwort (Utricularia radiata)"
+slug: "utricularia-radiata"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354657483/large.jpg"        # keep for thumbnails
+image-alt: "Small Swollen Bladderwort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Lentibulariaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Lentibulariaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354657483/large.jpg" alt="Small Swollen Bladderwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200960108">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Lentibulariaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=170090&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Uncommon native
+-   **Rarity note:** 
+
+## Natural history notes
+
+The Small Swollen Bladderwort (Utricularia radiata) is a small, free-floating aquatic carnivorous plant native to eastern North America. The name radiata means “rayed” or “radiating,” referring to the whorl of inflated float structures. It was once considered a variety of Utricularia inflata (U. inflata var. minor) before being recognized as a distinct species. Although the inflated spokes look like flotation organs, their main role is to stabilize and elevate the inflorescence, while the plant relies on its internal buoyancy for floating.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170090-Utricularia-radiata)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Utricularia+radiata)

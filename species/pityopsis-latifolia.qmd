@@ -1,0 +1,50 @@
+---
+title: "Broad-leaved Goldenaster (Pityopsis latifolia)"
+slug: "pityopsis-latifolia"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474812608/large.jpg"        # keep for thumbnails
+image-alt: "Broad-leaved Goldenaster"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474812608/large.jpg" alt="Broad-leaved Goldenaster" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264373725">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=1024515&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Rare native in central and south Florida
+-   **Rarity note:** Endemic in Florida, US: native and occurs nowhere else
+
+## Natural history notes
+
+The Broad-leaved Goldenaster (Pityopsis latifolia) is a rhizomatous perennial herb in the aster family. This taxon has a tangled taxonomic history: it has been placed in genera like Chrysopsis, Heterotheca, and has been considered a variety of Pityopsis graminifolia. More recent treatments have elevated a narrowly defined Pityopsis latifolia as a Florida endemic, restricting its circumscription. It is adapted to fire-managed ecosystems: regular, low-intensity burns favor it by reducing competition from woody plants and encouraging flowering and resource allocation to belowground parts.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1024515-Pityopsis-latifolia)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Pityopsis+latifolia)

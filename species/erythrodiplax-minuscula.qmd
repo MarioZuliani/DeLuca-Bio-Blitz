@@ -1,0 +1,50 @@
+---
+title: "Little Blue Dragonlet (Erythrodiplax minuscula)"
+slug: "erythrodiplax-minuscula"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474987222/medium.jpg"        # keep for thumbnails
+image-alt: "Little Blue Dragonlet"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animal", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474987222/medium.jpg" alt="Little Blue Dragonlet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264522174">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=100403)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common
+-   **Rarity note:** Found in warm, shallow environments such as ponds, lakes, and marshes.
+
+## Natural history notes
+
+The Little Blue Dragonlet (Erythrodiplax minuscula) is one of the smallest dragonflies in North America, commonly found around ponds, marshes, and slow streams in the southeastern United States. Males are powdery blue, while females are brownish with subtle markings, making them less conspicuous. Despite their tiny size, they are agile hunters of mosquitoes and other small insects. Their presence is often an indicator of healthy freshwater habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/100403-Erythrodiplax-minuscula)
+-   [IUCN Red List](https://www.iucnredlist.org/species/51273365/80680357)
+-   [Local profile](https://bugguide.net/node/view/590)

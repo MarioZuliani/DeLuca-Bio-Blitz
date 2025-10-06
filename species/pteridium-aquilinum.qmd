@@ -1,0 +1,50 @@
+---
+title: "Common Bracken (Pteridium aquilinum)"
+slug: "pteridium-aquilinum"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475257306/medium.jpg"       # keep for thumbnails
+image-alt: "Common Bracken"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Dennstaedtiaceae"
+categories: ["Plants", "Polypodiopsida", "Polypodiales", "Dennstaedtiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475257306/medium.jpg" alt="Common Bracken" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">sebento</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264658810">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Dennstaedtiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=52681)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common
+-   **Rarity note:** Commonly found in woodlands, hammocks, and thickets.
+
+## Natural history notes
+
+The Common Bracken (Pteridium aquilinum) is one of the most widespread ferns in the world, thriving in dry woodlands, fields, and disturbed soils. Its large, triangular fronds can form dense colonies that provide cover for wildlife but can also outcompete other plants. Adapted to fire, it quickly resprouts from underground rhizomes after burns. Though sometimes considered invasive, it plays an important role in stabilizing soils and providing early successional habitat.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/52681-Pteridium-aquilinum)
+-   [IUCN Red List](https://www.iucnredlist.org/species/73691742/85427115)
+-   [Local profile](https://www.fnps.org/plant/pteridium-aquilinum)

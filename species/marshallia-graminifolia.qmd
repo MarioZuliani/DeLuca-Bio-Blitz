@@ -1,0 +1,50 @@
+---
+title: "Grassleaf Barbara's-Buttons (Marshallia graminifolia)"
+slug: "marshallia-graminifolia"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180847582/large.jpeg"        # keep for thumbnails
+image-alt: "Grassleaf Barbara's-Buttons"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180847582/large.jpeg" alt="Grassleaf Barbara's-Buttons" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/deanna_d">deanna_d</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107518321">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=165158&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Native
+-   **Rarity note:** Endemic to the Southeaster United States
+
+## Natural history notes
+
+The Grassleaf Barbara's-Buttons (Marshallia graminifolia) is a perennial wildflower native to the southeastern United States, where it grows in pine flatwoods, savannas, wet meadows, and along pond margins. It is easily recognized by its dense, globe-shaped flower heads of white to pale pink florets, which bloom atop wiry stems in late spring and summer. The common name Barbara’s buttons comes from the rounded, button-like flower clusters. Because of its showy blooms, it is sometimes used in native wildflower gardens, especially in pollinator-friendly plantings.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/165158-Marshallia-graminifolia)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Marshallia+graminifolia)

@@ -1,0 +1,49 @@
+---
+title: "Myrtleleaf St. John's Wort (Hypericum myrtifolium)"
+slug: "hypericum-myrtifolium"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354975325/medium.jpg"       # keep for thumbnails
+image-alt: "Myrtleleaf St. John's Wort"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Hypericaceae"
+categories: ["Plants", "Magnoliopsida", "Malpighiales", "Hypericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354975325/medium.jpg" alt="Myrtleleaf St. John's Wort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/201122225">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Hypericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=163980)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Uncommon
+-   **Rarity note:**  Can be found in wet pine flatwoods, wet prairies, seeps, margins of cypress swamps and ponds, roadside ditches, and other wetland areas with sandy or peaty soils
+
+## Natural history notes
+
+The Myrtleleaf St. John’s Wort (Hypericum myrtifolium) is a shrub native to wetlands and moist flatwoods of the southeastern United States. It bears glossy, myrtle-like leaves and bright yellow flowers that bloom through the summer, attracting a wide range of pollinators. Its tolerance for periodic flooding makes it an important stabilizer of wetland soils. The plant’s dense growth and long flowering season add color and structure to swamp and marsh edges.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/163980-Hypericum-myrtifolium)
+-   [Local profile](https://www.fnps.org/plant/hypericum-myrtifolium)

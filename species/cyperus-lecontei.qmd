@@ -1,0 +1,50 @@
+---
+title: "Le Conte's Flatsedge (Cyperus lecontei)"
+slug: "cyperus-lecontei"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475899812/large.jpeg"        # keep for thumbnails
+image-alt: "Le Conte's Flatsedge"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Cyperaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Cyperaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475899812/large.jpeg" alt="Le Conte's Flatsedge" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264990355">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Cyperaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=161456&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native in central Florida. Uncommon in other parts of Floria
+-   **Rarity note:** Endemic
+
+## Natural history notes
+
+The Le Conte's Flatsedge (Cyperus lecontei) is a species of sedge that is native to south eastern parts of the United States. It is typically found in wet pine savannas, bogs, and seasonally wet flatwoods. As a native sedge, it contributes to wetland biodiversity, providing cover and food for insects, birds, and small mammals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/161456-Cyperus-lecontei)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Cyperus+lecontei)

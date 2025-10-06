@@ -1,0 +1,50 @@
+---
+title: "Manyflower Marshpennywort (Hydrocotyle umbellata)"
+slug: "hydrocotyle-umbellata"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474764851/medium.jpeg"       # keep for thumbnails
+image-alt: "Manyflower Marshpennywort"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Apiales"
+tax_family: "Araliaceae"
+categories: ["Plants", "Magnoliopsida", "Apiales", "Araliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474764851/medium.jpeg" alt="Manyflower Marshpennywort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sdwsdw">swdswd</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264320612">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Apiales
+-   **Family:** Araliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=58792)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common
+-   **Rarity note:**  Often found in moist grassy areas, often on disturbed soil or in lawns.
+
+## Natural history notes
+
+The Manyflower Marshpennywort (Hydrocotyle umbellata) is a creeping aquatic or semi-aquatic plant found in marshes, ponds, and wet meadows across the southeastern United States. Its round, umbrella-like leaves grow on long stalks, floating on or just above the water’s surface. Clusters of tiny white flowers form in rounded umbels, giving the species its name. By spreading across wet soils, it helps prevent erosion and provides shelter for small aquatic animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58792-Hydrocotyle-umbellata)
+-   [IUCN Red List](https://www.iucnredlist.org/species/120121950/120121955)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/hydrocotyle-species/)

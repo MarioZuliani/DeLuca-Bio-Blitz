@@ -1,0 +1,50 @@
+---
+title: "Florida Toadflax (Linaria floridana)"
+slug: "linaria-floridana"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474833503/large.jpg"        # keep for thumbnails
+image-alt: "Florida Toadflax"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Plantaginaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Plantaginaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474833503/large.jpg" alt="Florida Toadflax" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/willforestbeck">willforestbeck</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264403320">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Plantaginaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=1608737&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common Native in central and north Florida, Uncommon in south Florida and Florida panhandle
+-   **Rarity note:** Endemic to the southeastern United States
+
+## Natural history notes
+
+The Florida Toadflax (Linaria floridana) is an herbaceous annual or biennial in the plantain family, native to the southeastern United States. It typically grows on dry, sandy soils in habitats such as sandhills, scrub, dunes, and open woodlands. One way to distinguish L. floridana from other Toadflaxes in Florida is that its pedicels are densely glandular-pubescent and are at least twice as long as the calyx, and its spur is shorter than the calyx. Linaria species often are cultivated and some become naturalized.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1608737-Linaria-floridana)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=linaria+floridana)

@@ -1,0 +1,49 @@
+---
+title: "Spurge Nettle (Cnidoscolus stimulosus)"
+slug: "cnidoscolus-stimulosus"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474984606/medium.jpeg"       # keep for thumbnails
+image-alt: "Spurge Nettle"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Euphorbiaceae"
+categories: ["Plants", "Magnoliopsida", "Malpighiales", "Euphorbiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474984606/medium.jpeg" alt="Spurge Nettle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/vita-sativum">vita-sativum</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264520836">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Euphorbiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=160765)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in sandhills, pine and scrubby flatwoods, open woods, and dry sandy areas.
+
+## Natural history notes
+
+The Spurge Nettle (Cnidoscolus stimulosus) is a native wildflower of the southeastern United States, commonly found in dry, sandy soils and open pinelands. Despite its attractive white, five-petaled flowers, the plant is covered in stinging hairs that can cause a painful rash on contact. It produces small, spiny fruits and serves as a host plant for several butterfly species, including the gray hairstreak. Its striking mix of beauty and defense makes it a memorable component of sandy upland habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/160765-Cnidoscolus-stimulosus)
+-   [Local profile](https://www.fnps.org/plant/cnidoscolus-stimulosus)

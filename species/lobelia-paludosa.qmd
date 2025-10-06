@@ -1,0 +1,50 @@
+---
+title: "White Lobelia (Lobelia paludosa)"
+slug: "lobelia-paludosa"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/308411946/large.jpg"        # keep for thumbnails
+image-alt: "White Lobelia"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Campanulaceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Campanulaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/308411946/large.jpg" alt="White Lobelia" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jgneckow">jgneckow</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/177334302">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Campanulaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=224068&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native
+-   **Rarity note:** Endemic
+
+## Natural history notes
+
+The White Lobelia (Lobelia paludosa) is a perennial wetland wildflower. It typically grows in wet pine flatwoods, savannas, ditches, swamp edges, and dune swales. In Florida, it is considered endemic (or nearly so) and is assigned the wetland indicator status OBL (obligate wetland species) in the Atlantic & Gulf Coastal Plain region, meaning it almost always occurs in wetlands. The species epithet paludosa comes from Latin paludosus, meaning “boggy” or “swampy,” reflecting the plant’s preference for wet habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/224068-Lobelia-paludosa)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Lobelia+paludosa)

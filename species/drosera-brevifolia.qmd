@@ -1,0 +1,49 @@
+---
+title: "Dwarf Sundew (Drosera brevifolia)"
+slug: "drosera-brevifolia"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354556313/medium.jpg"       # keep for thumbnails
+image-alt: "Dwarf Sundew"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Caryophyllales"
+tax_family: "Droseraceae"
+categories: ["Plants", "Magnoliopsida", "Caryophyllales", "Droseraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354556313/medium.jpg" alt="Dwarf Sundew" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/syrza">vita-syrza</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/200909084">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Caryophyllales
+-   **Family:** Droseraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=162093)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in moist, sandy pinelands and along roadsides.
+
+## Natural history notes
+
+The Dwarf Sundew (Drosera brevifolia) is one of the smallest carnivorous plants in North America, typically found in sandy, nutrient-poor soils of the southeastern United States. Its tiny, red, spoon-shaped leaves are covered in sticky hairs that trap and digest insects to supplement its nutrient intake. The plant produces delicate pink flowers that rise just above the leaves in spring. Despite its miniature size, it plays an important role in balancing insect populations in its fragile habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162093-Drosera-brevifolia)
+-   [Local profile](https://fsus.ncbg.unc.edu/show-taxon-detail.php?taxonid=4223)

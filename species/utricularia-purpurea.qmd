@@ -1,0 +1,51 @@
+---
+title: "Purple Bladderwort (Utricularia purpurea)"
+slug: "utricularia-purpurea"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354657358/large.jpg"        # keep for thumbnails
+image-alt: "Purple Bladderwort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Lentibulariaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Lentibulariaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354657358/large.jpg" alt="Purple Bladderwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200960045">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Lentibulariaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=170089&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native
+-   **Rarity note:** 
+
+## Natural history notes
+
+The Purple Bladderwort (Utricularia purpurea) is a submersed aquatic plant. The epithet purpurea means “purple,” referencing the distinctive purple or lavender coloration of its flowers. In some northern parts of its range (e.g. Wisconsin), it has sometimes grown into dense surface mats that impair recreation (tangled boats, etc.), especially in years when populations “boom”. In such dense masses, many plants may not flower; flowering seems tied to conditions that let the floral stalk maintain elevation above water (sometimes aided by surrounding vegetation like water lilies).
+
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170089-Utricularia-purpurea)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Utricularia+purpurea)

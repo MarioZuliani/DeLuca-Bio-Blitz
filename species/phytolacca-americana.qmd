@@ -1,0 +1,50 @@
+---
+title: "American Pokeweed (Phytolacca americana)"
+slug: "phytolacca-americana"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474767997/large.jpg"        # keep for thumbnails
+image-alt: "American Pokeweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Caryophyllales"
+tax_family: "Phytolaccaceae"
+categories: ["Plantae", "Magnoliopsida", "Caryophyllales", "Phytolaccaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474767997/large.jpg" alt="American Pokeweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/benito42">benito42</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264313949">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Caryophyllales
+-   **Family:** Phytolaccaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=48599&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Uncommon native in most part of Florida
+-   **Rarity note:** Native weed occurring throughout Southeastern North America
+
+## Natural history notes
+
+The American Pokeweed (Phytolacca americana) is widely dispersed by birds and quickly colonizes exposed mineral soil even in undisturbed forests, such as on tree-fall tip-up mounds or flood scours. It is most abundant, however, as a weed of urban, suburban, and agricultural disturbances. Be carefule! Its berries and mature stems are poisonous; the young stems have been used as a potherb and the purple berries as a source of ink. Although all parts of the Pokeweed are poisonous to humans, some folks take the risk of eating poke salad each spring.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48599-Phytolacca-americana)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Phytolacca+americana)

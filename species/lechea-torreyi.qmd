@@ -1,0 +1,50 @@
+---
+title: "Sandhill Pinweed (Lechea torreyi)"
+slug: "lechea-torreyi"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474871912/large.jpg"        # keep for thumbnails
+image-alt: "Sandhill Pinweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malvales"
+tax_family: "Cistaceae"
+categories: ["Plantae", "Magnoliopsida", "Malvales", "Cistaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474871912/large.jpg" alt="Sandhill Pinweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/saherron">saherron</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264442241">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malvales
+-   **Family:** Cistaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=164469&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Apparently secure (S4) in Florida, US (NatureServe)
+-   **Rarity note:** Endemic
+
+## Natural history notes
+
+The Sandhill Pinweed (Lechea torreyi) is a species of perennial flowering plant native to the U.S. southeast coastal plain. It occurs in sandy, fire-dependent pine habitats of the southeast including pine flatwoods, longleaf pine sandhill, and pine barrens. The genus name Lechea honors Johan Leche (1704–1764), a Swedish botanist and meteorologist. It has two recognized varieties: var. torreyi and var. congesta, differing in how tightly the floral panicles are clustered and the coloration of inner sepals in fruit.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/164469-Lechea-torreyi#taxonomy-tab)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&&plantname=Lechea+torreyi&limit=1&offset=1&taxonid=3945)

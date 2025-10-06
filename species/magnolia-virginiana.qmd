@@ -1,0 +1,50 @@
+---
+title: "Sweetbay Magnolia (Magnolia virginiana)"
+slug: "magnolia-virginiana"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/181304870/large.jpeg"        # keep for thumbnails
+image-alt: "Sweetbay Magnolia"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Magnoliales"
+tax_family: "Magnoliaceae"
+categories: ["Plantae", "Magnoliopsida", "Magnoliales", "Magnoliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/181304870/large.jpeg" alt="Sweetbay Magnolia" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lygodium63">lygodium63</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107760207">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Magnoliales
+-   **Family:** Magnoliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=127906&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** Endemic in United States
+
+## Natural history notes
+
+The Sweetbay Magnolia (Magnolia virginiana) is a semi-evergreen to evergreen tree native to the southeastern United States, often found in swamps, wet woods, and along streams. It typically grows 10–20 m tall, with smooth gray bark and glossy, lanceolate leaves that are dark green above and silvery-white beneath. It is sometimes called “beaver tree” because trappers used its twigs as bait for beaver traps, taking advantage of the species’ sweet fragrance. It is widely planted in landscapes for its fragrance, attractive foliage, and tolerance of wet soils.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/127906-Magnolia-virginiana)
+-   [IUCN Red List](https://www.iucnredlist.org/species/194018/2294506)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&&plantname=Magnolia+virginiana&limit=1&offset=0&taxonid=329)

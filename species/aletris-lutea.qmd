@@ -1,0 +1,49 @@
+---
+title: "Yellow Colicroot (Aletris lutea)"
+slug: "aletris-lutea"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474985857/medium.jpeg"       # keep for thumbnails
+image-alt: "Yellow Colicroot"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Dioscoreales"
+tax_family: "Nartheciaceae"
+categories: ["Plants", "Liliopsida", "Dioscoreales", "Nartheciaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474985857/medium.jpeg" alt="Yellow Colicroot" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/vita-sativum">vita-sativum</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264520910">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Dioscoreales
+-   **Family:** Nartheciaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=1316608)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in wet pine flatwoods, savannas, bogs, wet praries, and moist roadsides.
+
+## Natural history notes
+
+The Yellow Colicroot (Aletris lutea) is a perennial wildflower native to the sandy pinelands and savannas of the southeastern United States. It produces a tall spike of small, yellow, tubular flowers that bloom in late spring and summer. The plant is adapted to dry, fire-prone habitats and is often found alongside other specialist wildflowers. Historically, its bitter roots were used in folk medicine, giving rise to the name “colicroot.”
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/131660-Aletris-lutea)
+-   [Local profile](https://www.fnps.org/plant/aletris-lutea)

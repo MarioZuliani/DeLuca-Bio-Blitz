@@ -1,0 +1,50 @@
+---
+title: "Creeping Little Bluestem (Schizachyrium stoloniferum)"
+slug: "schizachyrium-stoloniferum"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180806368/large.jpg"        # keep for thumbnails
+image-alt: "Creeping Little Bluestem"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180806368/large.jpg" alt="Creeping Little Bluestem" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rboughton">rboughton</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107495507">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=168604&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native
+-   **Rarity note:** Endemic
+
+## Natural history notes
+
+The Creeping Little Bluestem (Schizachyrium stoloniferum) is a tall perennial, with long creeping rootstocks and long extravaginal innovations. The genus Schizachyrium means “split chaff,” referring to the split lemma of its spikelets. As a warm-season grass, it provides forage for wildlife and stabilizes sandy soils in its native range.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/168604-Schizachyrium-stoloniferum)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Schizachyrium+stoloniferum)

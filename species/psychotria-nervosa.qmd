@@ -1,0 +1,50 @@
+---
+title: "Shiny-leaved Wild Coffee (Psychotria nervosa)"
+slug: "psychotria-nervosa"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474893375/large.jpg"        # keep for thumbnails
+image-alt: "Shiny-leaved Wild Coffee"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Rubiaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Rubiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474893375/large.jpg" alt="Shiny-leaved Wild Coffee" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/saherron">saherron</a> (CC0) via <a href="https://www.inaturalist.org/observations/264461054">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Rubiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=51599&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** Florida native shrub
+
+## Natural history notes
+
+The Shiny-leaved Wild Coffee (Psychotria nervosa) is a Florida native shrub that gets its common name from the small, red, ellipsoid fruit it produces. It typically grows in shady, moist but well-drained habitats such as hammocks, pine flatwoods edges, coastal uplands, and sandy soils, tolerating partial sun in cultivation. Despite its common name “wild coffee,” P. nervosa is not known to contain caffeine, and efforts to brew it as a coffee substitute are reported to yield poor taste and even headaches. One host interaction: the larvae of the moth Metriochroa psychotriella feed on the leaves of P. nervosa, mining them internally.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/51599-Psychotria-nervosa)
+-   [IUCN Red List](https://www.iucnredlist.org/species/152910002/223053123)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Psychotria+nervosa)

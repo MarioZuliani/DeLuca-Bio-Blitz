@@ -1,0 +1,50 @@
+---
+title: "Manatee River airplant (Tillandsia simulata)"
+slug: "tillandsia-simulata"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475299124/large.jpg"        # keep for thumbnails
+image-alt: "Manatee River airplant"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Bromeliaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Bromeliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475299124/large.jpg" alt="Manatee River airplant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264680918">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Bromeliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=465196&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common native in central Florida
+-   **Rarity note:** Endemic in Florida, US: native and occurs nowhere else
+
+## Natural history notes
+
+The Manatee River airplant (Tillandsia simulata) is an epiphyte growing on the branches of various trees and shrubs in the region, mostly in swamps and other moist locations. It can be distinguished by its narrowly elliptic leaf sheath, up to 2 cm wide. It produces inflorescences up to 15 cm long, with rose-colored bracts and conspicuous violet flowers.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/465196-Tillandsia-simulata)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Tillandsia+simulata)

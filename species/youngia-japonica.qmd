@@ -1,0 +1,50 @@
+---
+title: "Oriental False Hawksbeard (Youngia japonica)"
+slug: "youngia-japonica"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180792258/large.jpg"        # keep for thumbnails
+image-alt: "Oriental False Hawksbeard"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180792258/large.jpg" alt="Oriental False Hawksbeard" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lucieb30">lucieb30</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107488060">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=127066&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Exotic common
+-   **Rarity note:** Native of se. Asia
+
+## Natural history notes
+
+The Oriental False Hawksbeard (Youngia japonica) is an annual that produces yellow flowers. It typically grows in disturbed sites, lawns, gardens, roadsides, and cracks in pavement, forming basal rosettes of lobed leaves before sending up slender flowering stems up to 30–60 cm tall. Its epithet japonica means “of Japan,” where the species was first described scientifically. This species has spread rapidly in southeastern region, and is now moving into minimally-disturbed natural areas.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/127066-Youngia-japonica#taxonomy-tab)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Youngia+japonica)

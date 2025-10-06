@@ -1,0 +1,51 @@
+---
+title: "Colombian Waxweed (Cuphea carthagenensis)"
+slug: "cuphea-carthagenensis"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474797895/large.jpg"        # keep for thumbnails
+image-alt: "Colombian Waxweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Myrtales"
+tax_family: "Lythraceae"
+categories: ["Plantae", "Magnoliopsida", "Myrtales", "Lythraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474797895/large.jpg" alt="Colombian Waxweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/acdcarroll">acdcarroll</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264358551">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Myrtales
+-   **Family:** Lythraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=161255&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Exotic common.
+-   **Rarity note:** Native of South America.
+
+## Natural history notes
+
+The Colombian Waxweed (Cuphea carthagenensis) is a somewhat erect to sprawling herb (sometimes becoming weakly woody at the base) that often reaches about 30–60 cm in height, with many branches. The seed dispersal mechanism is rather unusual: a thickened “placenta” inside the fruit can elongate and force open the flower tube, ejecting seeds — somewhat like a little mechanical catapult. In its seed oil, it contains a very high proportion of lauric acid. It has a long history of use in traditional medicine: in South America it has been used as a diuretic, hypotensive, blood purifier, antiprotozoal, laxative, etc.
+
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/161255-Cuphea-carthagenensis)
+
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Cuphea+carthagenensis)

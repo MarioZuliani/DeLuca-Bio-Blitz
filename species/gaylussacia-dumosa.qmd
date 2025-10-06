@@ -1,0 +1,49 @@
+---
+title: "Dwarf Huckleberry (Gaylussacia dumosa)"
+slug: "gaylussacia-dumosa"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474757117/medium.jpeg"       # keep for thumbnails
+image-alt: "Dwarf Huckleberry"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Ericales"
+tax_family: "Ericaceae"
+categories: ["Plants", "Magnoliopsida", "Ericales", "Ericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474757117/medium.jpeg" alt="Dwarf Huckleberry" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/mikeowenswamp">mikeowenswamp</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264310984">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Ericales
+-   **Family:** Ericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=84171)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in sandhills, flatwoods, and scrubs.
+
+## Natural history notes
+
+The Dwarf Huckleberry (Gaylussacia dumosa) is a low, deciduous shrub native to the sandy pine forests and scrublands of the southeastern United States. In spring, it produces clusters of small, bell-shaped white or pink flowers that attract bees. By summer, these give way to dark blue berries that are eaten by birds, mammals, and people alike. Its dense, shrubby growth helps stabilize soils and contributes to the rich understory diversity of fire-adapted ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/84171-Gaylussacia-dumosa)
+-   [Local profile](https://www.fnps.org/plant/gaylussacia-dumosa)

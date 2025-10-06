@@ -1,0 +1,49 @@
+---
+title: "Bottlebrush Threeawn (Aristida spiciformis)"
+slug: "Aristida spiciformis"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474878926/medium.jpeg"       # keep for thumbnails
+image-alt: "Bottlebrush Threeawn"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plants", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474878926/medium.jpeg" alt="Bottlebrush Threeawn" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/donna38629">donna38629</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264448373">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=158671)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Commonly found in pine savannahs and flatwoods.
+
+## Natural history notes
+
+The Bottlebrush Threeawn (Aristida spiciformis) is a native grass of the southeastern United States, typically growing in dry, sandy soils and open pine habitats. It gets its name from its distinctive seed heads, which resemble tiny bottlebrushes with their long, bristly awns. This hardy grass helps stabilize soil and provides cover for insects and small wildlife. Adapted to fire-maintained ecosystems, it flourishes in the open conditions created by periodic burns.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/158671-Aristida-spiciformis)
+-   [Local profile](https://regionalconservation.org/ircs/Database/plants/PlantPage.asp?TXCODE=Arisspic)

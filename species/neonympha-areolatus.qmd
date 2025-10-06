@@ -1,0 +1,49 @@
+---
+title: "Georgia Satyr (Neonympha areolatus)"
+slug: "neonympha-areolatus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475900359/medium.jpeg"        # keep for thumbnails
+image-alt: "Georgia Satyr"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Nymphalidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Nymphalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475900359/medium.jpeg" alt="Georgia Satyr" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264990470">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Nymphalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=225675)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Fairly Common
+-   **Rarity note:** Found in wet meadows, pine flatwoods, and wetlands.
+
+## Natural history notes
+
+The Georgia Satyr (Neonympha areolatus) is a small, brown butterfly native to the southeastern United States, typically found in wet pine savannas and grassy wetlands. Its wings are patterned with subtle eye spots, which help deter predators. Adults fly low to the ground, feeding on nectar from small flowers, while the caterpillars feed on native sedges and grasses. Because it depends on fire-maintained habitats, its survival is closely tied to healthy longleaf pine ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/225675-Neonympha-areolatus)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Neonympha-areolatus)

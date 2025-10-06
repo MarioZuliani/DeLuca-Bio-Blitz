@@ -1,0 +1,50 @@
+---
+title: "Knotted Spikerush (Eleocharis interstincta)"
+slug: "eleocharis-interstincta"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474779002/large.jpg"        # keep for thumbnails
+image-alt: "Knotted Spikerush"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Cyperaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Cyperaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474779002/large.jpg" alt="Knotted Spikerush" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marktancig">marktancig</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264338473">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Cyperaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=162246&place_id=any&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common native
+-   **Rarity note:** 
+
+## Natural history notes
+
+The Knotted Spikerush (Eleocharis interstincta) is a robust perennial sedge native to the southeastern U.S. It typically grows in marshes, ditches, swamps, and shallow wetlands, forming dense clumps up to 1.5 m tall. The stems are cylindrical, hollow, and jointed, with distinct swollen “nodes” (interstices), giving rise to its common name. Dense stands help stabilize soils in wetlands and provide cover for fish, amphibians, and invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162246-Eleocharis-interstincta)
+-   [IUCN Red List](https://www.iucnredlist.org/species/192141032/192141034)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&plantname=Eleocharis+interstincta)
