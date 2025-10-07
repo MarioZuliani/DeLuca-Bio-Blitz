@@ -37,7 +37,7 @@ Photo: <a href="https://www.inaturalist.org/people/kekebird56">kekebird56</a> (C
 ## Conservation & rarity context
 
 -   IUCN: Not listed; Florida: Common
--   **Rarity note:**  Found in disturbed habitats such as roadsides, grassy areas, pinelands, and prairies
+-   **Rarity note:**  Found in disturbed habitats such as roadsides, grassy areas, pinelands, and prairies.
 
 ## Natural history notes
 

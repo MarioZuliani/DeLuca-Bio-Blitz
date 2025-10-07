@@ -1,0 +1,50 @@
+---
+title: "Appressed Bog Clubmoss (Lycopodiella appressa)"
+slug: "lycopodiella-appressa"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354876477/medium.jpg"       # keep for thumbnails
+image-alt: "Appressed Bog Clubmoss"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Lycopodiopsida"
+tax_order: "Lycopodiales"
+tax_family: "Lycopodiaceae"
+categories: ["Plants", "Lycopodiopsida", "Lycopodiales", "Lycopodiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354876477/medium.jpg" alt="Appressed Bog Clubmosse" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/201072385">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lycopodiopsida
+-   **Order:** Lycopodiales
+-   **Family:** Lycopodiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=62315)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Uncommon
+-   **Rarity note:**  Found in wet, sandy, acidic soils in various wetland environments, including pine savannas, wet pine flatwoods, bogs, wet prairies, seepage areas, marshes, and lakeshores.
+
+## Natural history notes
+
+The Appressed Bog Clubmoss (Lycopodiella appressa) is a primitive, fern-like plant native to bogs, wet pine savannas, and marshes of the southeastern United States. It spreads by creeping stems that root along the ground, forming dense mats in moist, acidic soils. Its upright, cone-bearing shoots release spores rather than seeds, reflecting its ancient lineage. By stabilizing soils and contributing to bog structure, it plays a quiet but vital role in wetland ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/62315-Lycopodiella-appressa)
+-   [IUCN Red List](https://www.iucnredlist.org/species/64317511/67730022)
+-   [Local profile](https://www.fnps.org/plant/erigeron-quercifolius)
