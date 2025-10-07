@@ -1,0 +1,49 @@
+---
+title: "Bearded Grasspink (Calopogon barbatus)"
+slug: "calopogon-barbatus"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354564092/medium.jpg"       # keep for thumbnails
+image-alt: "Bearded Grasspink"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Asparagales"
+tax_family: "Orchidaceae"
+categories: ["Plants", "Liliopsida", "Asparagales", "Orchidaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354564092/medium.jpg" alt="Bearded Grasspink" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/pclark2591">pclark2591</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/200913168">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Asparagales
+-   **Family:** Orchidaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=159699)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Rare
+-   **Rarity note:**  Commonly found in wet pine savannas, wet pine flatwoods, prairies, and roadside ditches.
+
+## Natural history notes
+
+The Bearded Grasspink (Calopogon barbatus) is a striking native orchid of the southeastern United States, found in wet pine savannas, bogs, and wet meadows. It produces vibrant pink to magenta flowers with a distinctive, beard-like cluster of yellow-tipped hairs on the upper petal that attract pollinators. Interestingly, the flower is non-rewarding—it tricks visiting bees into aiding pollination without offering nectar. This beautiful species thrives in open, sunny, fire-maintained wetlands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/159699-Calopogon-barbatus)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-calopogon-barbatus/)

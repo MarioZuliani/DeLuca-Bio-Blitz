@@ -1,0 +1,50 @@
+---
+title: "Swamp Shield-Fern (Cyclosorus interruptus)"
+slug: "cyclosorus-interruptus"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354969733/medium.jpg"       # keep for thumbnails
+image-alt: "Swamp Shield-Fern"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Thelypteridaceae"
+categories: ["Plants", "Polypodiopsida", "Polypodiales", "Thelypteridaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354969733/medium.jpg" alt="Swamp Shield-Fern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/201119181">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Thelypteridaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=369393)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common
+-   **Rarity note:**  Found in wet roadside ditches, riverbanks, marshes, cypress swamps, and bogs.
+
+## Natural history notes
+
+The Swamp Shield-Fern (Cyclosorus interruptus) is a robust, moisture-loving fern native to wetlands, swamps, and marsh edges of the southeastern United States. It forms dense clumps of bright green fronds that can reach over a meter tall, providing shelter for small animals and amphibians. Reproducing by spores, it thrives in consistently wet, shaded environments. Its presence is often a good indicator of healthy, undisturbed wetland habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/369393-Cyclosorus-interruptus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/164350/120230697)
+-   [Local profile](https://www.fnps.org/plant/erigeron-quercifolius)

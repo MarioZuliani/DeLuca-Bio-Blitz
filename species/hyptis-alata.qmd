@@ -1,0 +1,49 @@
+---
+title: "Musky Mint (Hyptis alata)"
+slug: "hyptis-alata"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354694311/medium.jpg"       # keep for thumbnails
+image-alt: "Musky Mint"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Lamiaceae"
+categories: ["Plants", "Magnoliopsida", "Lamiales", "Lamiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354694311/medium.jpg" alt="Musky Mint" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">billpranty</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/200978125">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Lamiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=132078)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:**  Commonly found in ponds, pinelands, ditches, and margines of swamp forests.
+
+## Natural history notes
+
+The Musky Mint (Hyptis alata) is a fragrant, mint-family wildflower native to wetlands, marsh edges, and moist meadows of the southeastern United States. It produces spikes of pale lavender flowers that bloom from summer into fall, attracting bees, butterflies, and other pollinators. The plant’s square stems and aromatic leaves give off a musky scent when crushed. By thriving in damp soils, it contributes to the diversity and productivity of wetland plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/132078-Hyptis-alata)
+-   [Local profile](https://www.fnps.org/plant/hyptis-alata)

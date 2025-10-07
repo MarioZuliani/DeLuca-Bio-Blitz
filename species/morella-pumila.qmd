@@ -1,0 +1,49 @@
+---
+title: "Dwarf Bayberry (Morella pumila)"
+slug: "morella-pumila"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257736941/medium.jpeg"       # keep for thumbnails
+image-alt: "Dwarf Bayberry"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Myricaceae"
+categories: ["Plants", "Magnoliopsida", "Fagales", "Myricaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257736941/medium.jpeg" alt="Dwarf Bayberry" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/almeat557">almeat557</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/149559857">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Myricaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=516701)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common - Uncommon
+-   **Rarity note:**  Commonly found in Florida savanna and pine flatwoods.
+
+## Natural history notes
+
+The Dwarf Bayberry (Morella pumila) is a small, aromatic shrub native to the sandy pinelands and coastal plains of the southeastern United States. It produces clusters of tiny, waxy berries that are an important winter food source for birds, especially tree swallows and yellow-rumped warblers. Like other bayberries, it enriches poor soils by fixing nitrogen through symbiotic root bacteria. Its low, dense growth helps stabilize sandy soils and contributes to the structure of fire-maintained ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/516701-Morella-pumila)
+-   [Local profile](https://fsus.ncbg.unc.edu/cust/2023/main.php?pg=show-taxon-detail.php&lsid=urn:lsid:ncbg.unc.edu:taxon:%7B75AD2F1D-2557-4185-BEE9-F9C7104C2ACB%7D)

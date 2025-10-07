@@ -1,0 +1,49 @@
+---
+title: "Narrow-leaved Blue-eyed Grass (Sisyrinchium angustifolium)"
+slug: "sisyrinchium-angustifolium"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474986838/medium.jpeg"       # keep for thumbnails
+image-alt: "Narrow-leaved Blue-eyed Grass"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Liliopsida"
+tax_order: "Asparagales"
+tax_family: "Iridaceae"
+categories: ["Plants", "Liliopsida", "Asparagales", "Iridaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474986838/medium.jpeg" alt="Narrow-leaved Blue-eyed Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/vita-sativum">vita-sativum</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264520992">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Asparagales
+-   **Family:** Iridaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=49916)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:**  Commonly found in wet flatwoods and prairies, meadows, swamp edges, and along grassy roadsides.
+
+## Natural history notes
+
+The Narrow-leaved Blue-eyed Grass (Sisyrinchium angustifolium) is a delicate perennial in the iris family, native to meadows, open woods, and moist prairies across eastern North America. Despite its name, it isn’t a true grass—its slender leaves simply resemble one. In spring, it produces small, star-shaped blue to violet flowers with bright yellow centers that attract bees and other pollinators. This charming wildflower adds subtle color and ecological value to grassy habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49916-Sisyrinchium-angustifolium)
+-   [Local profile](https://www.fnps.org/plant/sisyrinchium-angustifolium)
