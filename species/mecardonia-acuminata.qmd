@@ -1,0 +1,49 @@
+---
+title: "Common Axil-Flower (Mecardonia acuminata)"
+slug: "mecardonia-acuminata"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474850942/medium.jpg"       # keep for thumbnails
+image-alt: "Common Axil-Flower"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Plantaginaceae"
+categories: ["Plants", "Magnoliopsida", "Lamiales", "Plantaginaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474850942/medium.jpg" alt="Common Axil-Flower" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kekebird56">kekebird56</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264421213">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Plantaginaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=132746)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Rare
+-   **Rarity note:**  Can be found in marshes, wet pine savannas, bottomland forests, ditches, and pond margins.
+
+## Natural history notes
+
+The Common Axil-Flower (Mecardonia acuminata) is a small, creeping wildflower native to moist sandy soils, ditches, and open wetlands across the southeastern United States. It produces bright yellow, tubular flowers nestled in the leaf axils, giving the plant its common name. Blooming from spring through fall, it attracts small bees and other pollinators. Its low, spreading growth helps stabilize soil and adds subtle color to wetland edges and damp meadows.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/132746-Mecardonia-acuminata)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-mecardonia-acuminata/)
