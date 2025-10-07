@@ -1,0 +1,49 @@
+---
+title: "Tropical Milkweed (Asclepias curassavica)"
+slug: "asclepias-curassavica"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474773946/large.jpg"        # keep for thumbnails
+image-alt: "Tropical Milkweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Hylinae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Apocynaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474773946/large.jpg" alt="Tropical Milkweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/staceyyeehaw">staceyyeehaw</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264328656">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Apocynaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=75602&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: NA; Florida: Common, Non-native
+-   **Rarity note:** Introduced species found across Florida.
+
+## Natural history notes
+
+The tropical milkweed (Asclepias curassavica) is a commonly grown ornamental plant in Florida and serves as a host plant for monarch butterflies (Danaus plexippus). However, because it is non-native to Florida, it is not considered as beneficial for monarchs as native milkweed species, and some sources warn against planting it. Although tropical milkweed has escaped cultivation and established in some natural areas, it is classified as a non-native rather than an invasive species.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/75602-Asclepias-curassavica#taxonomy-tab)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1400)

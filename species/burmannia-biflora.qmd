@@ -1,0 +1,49 @@
+---
+title: "Northern Bluethread (Burmannia biflora)"
+slug: "burmannia-biflora"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474788726/large.jpeg"        # keep for thumbnails
+image-alt: "Northern Bluethread"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Dioscoreales"
+tax_family: "Burmanniaceae"
+categories: ["Plantae", "Liliopsida", "Dioscoreales", "Burmanniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474788726/large.jpeg" alt="Northern Bluethread" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/luna101">luna101</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264348730">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Dioscoreales
+-   **Family:** Burmanniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=159606&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: NA; Florida: Apparently Secure
+-   **Rarity note:** The NatureServe ranks this species as Apparently Secure in Florida
+
+## Natural history notes
+
+Northern bluethread (Burmannia biflora) is found across much of Florida, though it has not been documented in every county. Endemic to the southeastern United States, it inhabits pinelands, savannas, bogs, and coastal plains. This species flowers from July through March, producing small, iridescent purple blooms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/159606-Burmannia-biflora#taxonomy-tab)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3509)
