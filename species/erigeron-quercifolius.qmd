@@ -1,0 +1,49 @@
+---
+title: "Oakleaf Fleabane (Erigeron quercifolius)"
+slug: "erigeron-quercifolius"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474851058/medium.jpg"       # keep for thumbnails
+image-alt: "Oakleaf Fleabane"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plants", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474851058/medium.jpg" alt="Oakleaf Fleabane" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kekebird56">kekebird56</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264421285">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=131153)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:**  Found in disturbed habitats such as roadsides, grassy areas, pinelands, and prairies
+
+## Natural history notes
+
+The Oakleaf Fleabane (Erigeron quercifolius) is a native wildflower of the southeastern United States, commonly found in moist meadows, ditches, and open woodlands. It produces delicate white to pinkish daisy-like flowers with yellow centers that bloom through spring and summer. Its lobed, oak-shaped leaves give the plant its name. By providing nectar for bees and butterflies, it plays a valuable role in supporting pollinators across a variety of wetland and upland habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/131153-Erigeron-quercifolius)
+-   [Local profile](https://www.fnps.org/plant/erigeron-quercifolius)
