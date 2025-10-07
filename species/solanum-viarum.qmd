@@ -1,0 +1,50 @@
+---
+title: "Tropical Soda-Apple (Solanum viarum)"
+slug: "solanum-viarum"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474853545/medium.jpg"       # keep for thumbnails
+image-alt: "Tropical Soda-Apple"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Solanales"
+tax_family: "Solanaceae"
+categories: ["Plants", "Magnoliopsida", "Solanales", "Solanaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474853545/medium.jpg" alt="Tropical Soda-Apple" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rodrg81">rodrg81</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264423096">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Solanales
+-   **Family:** Solanaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=169088)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common
+-   **Rarity note:**  Commonly found in pastures, citrus groves, and roadsides, but can invade flatwoods, swamps, pinelands, and hammocks.
+
+## Natural history notes
+
+The Tropical Soda-Apple (Solanum viarum) is an invasive shrub native to South America that has spread widely across the southeastern United States. It forms dense, thorny thickets that crowd out native vegetation and reduce pasture quality. The plant produces round, mottled green-and-white fruits resembling tiny watermelons, which are eaten by wildlife and livestock, aiding seed dispersal. Because of its rapid growth and persistence, it is considered a serious agricultural and ecological pest.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/169088-Solanum-viarum)
+-   [IUCN Red List](https://www.iucnredlist.org/species/101534565/101534580) 
+-   [Local profile](https://www.fdacs.gov/Agriculture-Industry/Pests-and-Diseases/Plant-Pests-and-Diseases/Noxious-Weeds/Solanum-viarum)
