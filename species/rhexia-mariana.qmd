@@ -1,0 +1,49 @@
+---
+title: "Maryland meadowbeauty (Rhexia mariana)"
+slug: "rhexia-mariana"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475296891/medium.jpeg"       # keep for thumbnails
+image-alt: "Maryland meadowbeauty"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Myrtales"
+tax_family: "Melastomataceae"
+categories: ["Plants", "Magnoliopsida", "Myrtales", "Melastomataceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475296891/medium.jpeg" alt="Maryland meadowbeauty" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/megankimreid">megankimreid</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/264679691">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Myrtales
+-   **Family:** Melastomataceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=126318)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:**  Commonly found in wet pinewood flats, meadows, bog margines, marshes, and ditches.
+
+## Natural history notes
+
+The Maryland Meadowbeauty (Rhexia mariana) is a showy wildflower native to moist meadows, bogs, and pond edges across the eastern United States. It produces bright pink to lavender, four-petaled flowers with striking yellow stamens that bloom through the summer. The plant thrives in sandy, acidic soils and adds vibrant color to wetland landscapes. Its flowers attract bees and other pollinators, making it an important part of late-season wetland communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126318-Rhexia-mariana)
+-   [Local profile](https://www.fnps.org/plant/rhexia-spp)
