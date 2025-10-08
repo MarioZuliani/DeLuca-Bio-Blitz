@@ -1,0 +1,50 @@
+---
+title: "Dune Groundcherry (Physalis walteri)"
+slug: "physalis-walteri"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354681344/medium.jpg"        # keep for thumbnails
+image-alt: "Dune Groundcherry"  # keep for a11y
+tax_kingdom: "Plant"
+tax_class: "Magnoliopsida"
+tax_order: "Solanales"
+tax_family: "Solanaceae"
+categories: ["Plant", "Magnoliopsida", "Solanales", "Solanaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354681344/medium.jpg" alt="Dune Groundcherry" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200971154">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Solanales
+-   **Family:** Solanaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=131208)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Not Listed
+-   **Rarity note:** Nightshade native to the southeastern United States
+
+## Natural history notes
+
+The dune groundcherry (Physalis walteri) is a native plant found in the southeastern United States. A member of the nightshade (Solanaceae) family, this plant produces a fruit that, when ripe, is said to be edible, but it can be toxic if eaten before that. It likes drier conditions with sandy or rocky soils. This plant was named after Thomas Walter, the first botanist in North America to publish a book on plants using the two-part scientific naming system. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/131208-Physalis-walteri)
+-   [IUCN Red List]()
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/841)
