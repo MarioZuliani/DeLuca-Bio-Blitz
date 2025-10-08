@@ -1,0 +1,49 @@
+---
+title: "Io Moth (Automeris io)"
+slug: "automeris-io"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355402579/large.jpeg"        # keep for thumbnails
+image-alt: "Io Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Saturniidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Saturniidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355402579/large.jpeg" alt="Io Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201341051">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Saturniidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=82279&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: NA; Florida: Common, Native
+-   **Rarity note:** Can be found throughout Florida.
+
+## Natural history notes
+
+The Io Moth (Automeris io) is a large and striking species, with wings that may be yellow or brown. Its forewings feature bold eyespot patterns, which the moth flashes when threatened. These eyespots resemble the eyes of large predators and can startle birds and other potential threats. In Florida, the Io Moth is widely distributed and uses a variety of host plants, including Florida fishpoison tree, royal poinciana, hibiscus, Washington fan palm, nettletree, and red mangrove.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/82279-Automeris-io#map-tab)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN1065)

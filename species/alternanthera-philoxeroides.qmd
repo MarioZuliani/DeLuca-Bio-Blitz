@@ -1,0 +1,49 @@
+---
+title: "Alligatorweed (Alternanthera philoxeroides)"
+slug: "alternanthera-philoxeroides"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/356664982/large.jpeg"        # keep for thumbnails
+image-alt: "Alligatorweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Caryophyllales"        # add
+tax_family: "Amaranthaceae"      # add
+categories: ["Plantae","Magnoliopsida", "Caryophyllales", "Amaranthaceae"]
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/356664982/large.jpeg" alt="Alligatorweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lmcconachie">lmcconachie</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201994127">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Caryophyllales
+-   **Family:** Amaranthaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations/?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=75386)
+
+## Conservation & rarity context
+
+-   IUCN: NA; Florida: Common Non-native
+-   **Rarity note:** Introduced species from South America that has found in almost every county in Florida.
+
+## Natural history notes
+
+Alligatorweed (Alternanthera philoxeroides) is an invasive plant that first arrived in Florida over 100 years ago. Originally from South America, it has spread widely across the state and often takes over shorelines, where it harms native habitats. In the 1960s and 1970s, scientists brought in three insects from its native range—a flea beetle, a thrips, and a stem borer—to help keep it under control. These insects have done a good job of reducing alligatorweed in many places, and managers can still use them when needed. But even with these efforts, the plant has never been completely removed from Florida and remains a problem today.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/75386-Alternanthera-philoxeroides)
+-   [Local profile](https://blogs.ifas.ufl.edu/caip/2021/05/01/the-invasive-alligatorweed-alternanthera-philoxeroides/)
