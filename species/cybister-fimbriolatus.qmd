@@ -1,0 +1,49 @@
+---
+title: "Fringed Diving Beetle (Cybister fimbriolatus)"
+slug: "cybister-fimbriolatus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/356000064/large.jpg"        # keep for thumbnails
+image-alt: "Fringed Diving Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Dytiscidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Dytiscidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/356000064/large.jpg" alt="Fringed Diving Beetle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/201651370">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Dytiscidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations/?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=124844)
+
+## Conservation & rarity context
+
+-   IUCN: NA; Florida: Common Native
+-   **Rarity note:** Native species found throughout Florida.
+
+## Natural history notes
+
+The fringed diving beetle (Cybister fimbriolatus) is an aquatic insect in the diving beetle family. This scavenger feeds on dead insects, small fish, and snails. It is widespread in the eastern United States and occurs throughout Florida. Fringed diving beetles inhabit small freshwater bodies and are most easily observed using a dip net.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/124844-Cybister-fimbriolatus#taxonomy-tab)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/FR398)

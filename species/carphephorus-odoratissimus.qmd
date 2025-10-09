@@ -1,0 +1,49 @@
+---
+title: "Vanillaleaf (Carphephorus odoratissimus)"
+slug: "carphephorus-odoratissimus"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/180825225/large.jpg"        # keep for thumbnails
+image-alt: "Vanillaleaf"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/180825225/large.jpg" alt="Vanillaleaf" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damonmoore">damonmoore</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/107505926">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations/?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=160157)
+
+## Conservation & rarity context
+
+-   IUCN: NA; Florida: Endemic Native
+-   **Rarity note:** Native plant that is endemic to the southeast. 
+
+## Natural history notes
+
+Vanillaleaf (Carphephorus odoratissimus) is a perennial wildflower recognized for its clusters of small purple flowers. It can be found in habitats such as hydric pine flatwoods, moist sandhills, and bogs, and typically blooms from late summer into fall. The plant’s common name comes from the sweet, vanilla-like fragrance released when its dried leaves are crushed. Vanillaleaf is widespread across Florida, and at DeLuca the subspecies present is the Pineland Purple (Carphephorus odoratissimus var. subtropicanus).
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/160157-Carphephorus-odoratissimus#map-tab)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-carphephorus-odoratissimus/)
