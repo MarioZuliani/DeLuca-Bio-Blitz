@@ -1,0 +1,49 @@
+---
+title: "Mohr's Thoroughwort (Eupatorium mohrii)"
+slug: "eupatorium-mohrii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474861207/large.jpg"       # keep for thumbnails
+image-alt: "Mohr's Thoroughwort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plants", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474861207/large.jpg" alt="Mohr's Thoroughwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/saherron">saherron</a> (Public Domain) via <a href="https://www.inaturalist.org/observations/264431382">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=127350&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Common Native
+-   **Rarity note:** Can be found throughout Florida.
+
+## Natural history notes
+
+Mohr's Thoroughwort (Eupatorium mohrii) is a perennial wildflower native to Florida and coastal habitats of the southeastern United States. It is most often found in pinelands and savannas. The plant emerges in spring and produces clusters of small white flowers during summer and fall.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/127350-Eupatorium-mohrii)
+-   [Local profile](https://hawthornhillwildflowers.blogspot.com/2012/11/mohrs-thoroughwort-eupatorium-mohrii.html)
