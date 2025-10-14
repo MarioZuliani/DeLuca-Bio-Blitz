@@ -1,0 +1,50 @@
+---
+title: "Creeping Primrose-Willow (Ludwigia repens)"
+slug: "ludwigia-repens"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180965134/large.jpg"       # keep for thumbnails
+image-alt: "Creeping Primrose-Willow"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Myrtales"
+tax_family: "Onagraceae"
+categories: ["Plants", "Magnoliopsida", "Myrtales", "Onagraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180965134/large.jpg" alt="Creeping Primrose-Willow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kylelawthayer">kylelawthayer</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/107581024">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Myrtales
+-   **Family:** Onagraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=77841)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Native, somewhat common
+-   **Rarity note:** Distributed across Florida.
+
+## Natural history notes
+
+Creeping primrose-willow (Ludwigia repens) is an annual wildflower that grows in moist soils near freshwater habitats. It serves as a food source for hawk moths and attracts a variety of insects. The species is widely distributed in Florida, and its range extends across the southeastern United States, Mexico, and parts of the Caribbean.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/77841-Ludwigia-repens)
+-   [ICUN Red List](https://www.iucnredlist.org/species/66834710/192133702)
+-   [Local profile](https://www.fnps.org/plant/ludwigia-repens)
