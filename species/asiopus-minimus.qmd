@@ -1,0 +1,48 @@
+---
+title: "Asiopus minimus"
+slug: "asiopus-minimus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354682298/large.jpg"        # keep for thumbnails
+image-alt: "Asiopus minimus"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Tenebrionidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Tenebrionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354682298/large.jpg" alt="Asiopus minimus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200971569">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Tenebrionidae=
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=1422384&verifiable=any)
+
+## Conservation & rarity context
+
+-   Nature Serve: No Status Rank
+
+## Natural history notes
+
+As a member of Tenebrionidae (darkling beetles), they are likely scavengers and feed on decaying matter.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1422384-Asiopus-minimus#taxonomy-tab)
+-   [Nature Serve](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.808538/Asiopus_minimus)

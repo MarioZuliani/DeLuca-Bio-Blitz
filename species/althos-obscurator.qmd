@@ -1,0 +1,47 @@
+---
+title: "Althos obscurator"
+slug: "althos-obscurator"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474987115/large.jpg"        # keep for thumbnails
+image-alt: "Althos obscurator"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Coreidae"
+categories: ["Animal", "Insecta", "Hemiptera", "Coreidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354587262/large.jpg" alt="Althos obscurator" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/syrza">syrza</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200925539">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Coreidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=495274&verifiable=any)
+
+## Conservation & rarity context
+
+-   **Rarity note:** Found in the Caribbean, Central America, North America, and South America
+
+## Natural history notes
+
+NA
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/495274-Althos-obscurator)

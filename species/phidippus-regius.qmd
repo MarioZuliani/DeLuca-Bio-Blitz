@@ -1,0 +1,49 @@
+---
+title: "Regal Jumping Spider (Phidippus regius)"
+slug: "phidippus-regius"
+group: "Arachnida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476060666/large.jpg"        # keep for thumbnails
+image-alt: "Regal Jumping Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Salticidae"
+categories: ["Animal", "Arachnida", "Araneae", "Salticidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476060666/large.jpg" alt="Regal Jumping Spider" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/tylerjonesphotog">tylerjonesphotog</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265073138">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Salticidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=179749)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Large jumping spider found in field and open woodlands in the Southeastern United States. 
+
+## Natural history notes
+
+Regal Jumping Spiders (Phidippus regius) may be sexually dimorphic with the males always being black with white fringes on their legs, a white band and spots on their abdomen. They also have enlarged and green/blue iridescent chelicerae. Females may have this same patterning or their scales on their back may be gray, tan, brown, orange, or a combination. While immature Regal Jumping Spiders are often found in herbaceous zones, adults tend to favor palms and palmettos. Like other jumping spiders, Regal Jumping Spdiers do not use webs to catch prey, but they do use silk. They are also known to feed on a wide variety of other arthropods.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/179749-Phidippus-regius)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN309)

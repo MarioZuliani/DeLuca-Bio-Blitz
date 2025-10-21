@@ -1,0 +1,47 @@
+---
+title: "Callirhytis quercusventricosa"
+slug: "callirhytis-quercusventricosa"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354677857/large.jpeg"        # keep for thumbnails
+image-alt: "Callirhytis quercusventricosa"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Cynipidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Cynipidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354677857/large.jpeg" alt="Callirhytis quercusventricosa" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lmcconachie">lmcconachie</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200969702">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Cynipidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=1041193&verifiable=any)
+
+## Conservation & rarity context
+
+-   **Rarity note:** Host on the stem of plants from the genus Quercus (oaks).
+
+## Natural history notes
+
+Species is found in the eastern half of the United States.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1041193-Callirhytis-quercusventricosa#articles-tab)

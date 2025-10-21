@@ -1,0 +1,50 @@
+---
+title: "Blue Dasher (Pachydiplax longipennis)"
+slug: "pachydiplax-longipennis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474987115/large.jpg"        # keep for thumbnails
+image-alt: "Blue Dasher"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animal", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474987115/large.jpg" alt="Blue Dasher" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">jsfrancis</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264522135">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=59774&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern
+-   **Rarity note:** Small, sexually-dimorphic dragonfly
+
+## Natural history notes
+
+Commonly spotted dragonfly around any wetland, and is slowly spreading northward in lower parts of Canada.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/59774-Pachydiplax-longipennis#articles-tab)
+-   [IUCN Red List](https://www.iucnredlist.org/species/51279390/65836579)
+-   [Local profile](https://wildsouthflorida.com/blue.dasher.dragonfly.html)

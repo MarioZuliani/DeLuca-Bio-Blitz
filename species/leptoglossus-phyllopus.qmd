@@ -1,0 +1,49 @@
+---
+title: "Eastern Leaf-footed Bug (Leptoglossus phyllopus)"
+slug: "leptoglossus-phyllopus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475794444/large.jpeg"        # keep for thumbnails
+image-alt: "Eastern Leaf-footed Bug"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Coreidae"
+categories: ["Animal", "Insecta", "Hemiptera", "Coreidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475794444/large.jpeg" alt="Eastern Leaf-footed Bug" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/shelleydee">shelleydee</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264935233">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Coreidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=61256&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common insect found in the Southeastern United States, with observations reaching as far north as New York and west to Texas.
+
+## Natural history notes
+
+Eastern Leaf-footed Bugs (Leptoglossus phyllopus) is characterized by it's unique body shape, brown coloration, and horizontal white bar across its back. Nymphs have a similar shape as the adults, however are an red-orange color with black limbs and spotting. Unlike adults, nymphs lack the "leaf-like foot" or flattened hind tibial expansions. Their primary host plants are thistles (Cirsium spp.). However, Eastern Leaf-footed Bugs can be found on other flowering plants we commonly use for agriculture, such as citrus, pecans, apples, blueberries, etc, and cause the fruits to drop early. Due to being an agricultural pest, they are usually controlled in these areas through insecticides, cultural practices, and hand picking. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/61256-Leptoglossus-phyllopus#map-tab)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN229)

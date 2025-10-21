@@ -1,0 +1,47 @@
+---
+title: "Bleptina flavivena"
+slug: "bleptina-flavivena"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354913650/large.jpg"        # keep for thumbnails
+image-alt: "Bleptina flavivena"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354913650/large.jpg" alt="Bleptina flavivena" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">brittanymmason</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/201090710">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=1136805&verifiable=any)
+
+## Conservation & rarity context
+
+-   **Rarity note:** Range is restricted to Penisular Florida north to Gainesville.
+
+## Natural history notes
+
+Small brown moth with two black dots on the wings.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1136805-Bleptina-flavivena#articles-tab)

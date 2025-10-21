@@ -1,0 +1,49 @@
+---
+title: "Mischievous Bird Grasshopper (Schistocerca damnifica)"
+slug: "schistocerca-damnifica"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475897738/large.jpeg"        # keep for thumbnails
+image-alt: "Mischievous Bird Grasshopper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Acrididae"
+categories: ["Animal", "Insecta", "Orthoptera", "Acrididae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475897738/large.jpeg" alt="Mischievous Bird Grasshopper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264988809">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Orthoptera
+-   **Family:** Acrididae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=230586&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Grasshopper species found in open fields and open woodlands in the Southeastern United States.
+
+## Natural history notes
+
+Mischievous Bird Grasshoppers (Schistocerca damnifica) have a brown coloration, thick antennae, and distinct pronotal ridge. Ocassionally, a lighter mid-dorsal stripe is present on the head and pronotum. They may also have irregular darker spotting on their sides. Females are typically larger than males reaching lengths of 37-47 mm and 25-35 mm, respectively. Mischievous Bird Grasshoppers can also be found year round and will commonly overwinter as an adult in the South. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/230586-Schistocerca-damnifica#articles-tab)
+-   [Local profile](https://bugguide.net/node/view/15597)

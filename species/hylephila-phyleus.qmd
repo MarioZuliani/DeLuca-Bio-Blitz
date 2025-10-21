@@ -1,0 +1,49 @@
+---
+title: "Fiery Skipper (Hylephila phyleus)"
+slug: "hylephila-phyleus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475896873/large.jpeg"        # keep for thumbnails
+image-alt: "Fiery Skipper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475896873/large.jpeg" alt="Fiery Skipper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264988747">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=50340&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common skipper found along roadsides and in old fields, pastures, lawns, and gardens in South America and most of the United States except the Northwest.
+
+## Natural history notes
+
+The Fiery Skipper (Hylephila phyleus) is sexually dimorphic with the male being a bright orange color with a black border. Females are a darker brown color with orange spots. Both sexes have a yellow-orange ventral hindwing that has dark brown spots that are more numerous in females. They can found in flight year round. Their primary hostplants are grasses such as Bermudagrass (Cynodon dactylon) and St. Augustinegrass (Stenotaphrum secundatum). 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/50340-Hylephila-phyleus#map-tab)
+-   [Local profile](https://www.floridamuseum.ufl.edu/wildflowers/butterfly/fiery-skipper/)

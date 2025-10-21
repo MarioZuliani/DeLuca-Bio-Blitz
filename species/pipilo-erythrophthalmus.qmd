@@ -1,0 +1,50 @@
+---
+title: "Eastern Towhee (Pipilo erythrophthalmus)"
+slug: "pipilo-erythrophthalmus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474753935/large.jpg"        # keep for thumbnails
+image-alt: "Eastern Towhee"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Passerellidae"
+categories: ["Animal", "Aves", "Passeriformes", "Passerellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474753935/large.jpg" alt="Eastern Towhee" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264307038">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Passerellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=9424)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern
+-   **Rarity note:** Large, declining sparrow found in fields, woodlands, and forest edges in the Eastern United States.
+
+## Natural history notes
+
+Eastern Towhees (Pipilo erythrophthalmus) are characterized as a large sparrow with a thick, triangular beak for cracking seeds. Males are black above and on the breast with orange sides and a white belly. Females are similar but a brown color where the males are black. Their diet consists of seeds, fruit, insects, as well as flower buds in the spring. They usually nest on the ground in fallen leaves, laying around 2-6 eggs. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/9424-Pipilo-erythrophthalmus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22721310/136948895)
+-   [Local profile](https://www.allaboutbirds.org/guide/Eastern_Towhee/lifehistory)

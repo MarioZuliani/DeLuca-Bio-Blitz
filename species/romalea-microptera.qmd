@@ -1,0 +1,49 @@
+---
+title: "Eastern Lubber Grasshopper (Romalea microptera)"
+slug: "Romalea-microptera"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/475069532/original.jpeg"        # keep for thumbnails
+image-alt: "Eastern Lubber Grasshopper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Romaleidae"
+categories: ["Animal", "Insecta", "Orthoptera", "Romaleidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475069532/original.jpeg" alt="Eastern Lubber Grasshopper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a> (CC BY 4.0) via <a href="https://www.inaturalist.org/observations/264566377">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Orthoptera
+-   **Family:** Romaleidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=466003)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Large grasshopper found in low, wet areas in pastures and woods in the Southeastern United States.
+
+## Natural history notes
+
+Eastern Lubber Grasshoppers (Romalea microptera) are characterized by their distinct coloring as adults. However, this coloring can differ from a yellow or orange color to black. Nymphs differ in appearance from adults as they are almost completely black with a yellow, orange, or red stripe down their back. Nymphs continuously change in appearance depending on which stage of life they are in as there are typically 5 or 6 instars that occur. Natural predators are few as they will produce toxic secretions. However, Loggerhead Shrikes (Lanius ludovicianus) will leave them to degrade for 1-2 days after capturing. They additionally have a wide range of host plants including at least 100 different species. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/466003-Romalea-microptera)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN132)

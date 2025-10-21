@@ -1,0 +1,48 @@
+---
+title: "Sundew Plume Moth (Buckleria parvulus)"
+slug: "buckleria-parvulus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475892090/large.jpeg"        # keep for thumbnails
+image-alt: "Sundew Plume Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Pterophoridae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Pterophoridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475892090/large.jpeg" alt="Sundew Plume Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallaghan</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264986045">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Pterophoridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=765019&verifiable=any)
+
+## Conservation & rarity context
+
+-   **Rarity note:** The wings are divided into several feather-like lobes.
+
+## Natural history notes
+
+The larvae feed on carnivorous plants in the genus Drosera (sundews). It will even eat the sticky hairs of the plant, which normally acts as trap for insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/765019-Buckleria-parvulus#articles-tab)
+-   [Local profile](https://www.floridamuseum.ufl.edu/elegance-science/art/2008-entries/235d3a3edec965f93f389a358df8062b_f6981/)
