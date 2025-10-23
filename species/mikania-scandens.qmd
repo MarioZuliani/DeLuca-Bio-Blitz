@@ -1,0 +1,49 @@
+---
+title: "Climbing Hempvine (Mikania scandens)"
+slug: "mikania-scandens"
+group: "Plants"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257732756/large.jpeg"       # keep for thumbnails
+image-alt: "Climbing Hempvine"  # keep for a11y
+tax_kingdom: "Plants"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plants", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257732756/large.jpeg" alt="Climbing Hempvine" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/mmcmillian">mmcmillian</a> (CC-BY-NC) via <a href="https://www.inaturalist.org/observations/149557651">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Fabaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&taxon_id=119145)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed; Florida: Common
+-   **Rarity note:** Widely distributed throughout Florida.
+
+## Natural history notes
+
+The Climbing Hempvine (Mikania scandens) is a vine commonly found in wet forests, marshes, and prairies. This vine produces small flowerheads that are highly valuable to wildlife. This is the host plant of the little metalmark (Calephelis virginiensis) butterfly and it is a nector plant for a variety of pollinators. This plant is widely distributed across Florida. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/119145-Mikania-scandens)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-mikania-scandens/)
