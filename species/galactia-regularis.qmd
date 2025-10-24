@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/rboughton">rboughton</a> (CC 
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native
 -   **Rarity note:** Herbaecous plant native to the southeastern U.S.
 
 ## Natural history notes
@@ -46,5 +46,4 @@ The eastern milkpea (Galactia regularis) is a native legume found in the southea
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/127897-Galactia-regularis)
--   [IUCN Red List]()
 -   [Local profile](https://biogator.org/taxa/index.php?tid=3953&taxauthid=1&clid=34)

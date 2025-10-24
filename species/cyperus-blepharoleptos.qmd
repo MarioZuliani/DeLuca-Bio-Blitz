@@ -32,11 +32,11 @@ Photo: <a href="https://www.inaturalist.org/people/awschulken">awschulken</a> (C
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=2025-uf-deluca-bioblitz&subview=table&taxon_id=583228&verifiable=any)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=583228)
 
 ## Conservation & rarity context
 
--   IUCN: Least Concern; Florida: Not Native, FISC Category 1 Invasive
+-   IUCN: Least Concern; Florida: Not Native, FISC Category 1 Invasive, Common
 -   **Rarity note:** Invasive, nonnative sedge found in wetland areas
 
 ## Natural history notes

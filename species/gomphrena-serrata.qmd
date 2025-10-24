@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/tiasilvasy">tiasilvasy</a> (C
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Nonnative, common
 -   **Rarity note:** Small, non-native plant found through most of Florida
 
 ## Natural history notes

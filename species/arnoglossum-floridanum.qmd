@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">gaudettelaura<
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, endemic, uncommon
 -   **Rarity note:** Native flower endemic to Florida
 
 ## Natural history notes
@@ -46,5 +46,4 @@ The Florida false sunflower is a native flower in the Asteraceae family, which a
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/127071-Arnoglossum-floridanum)
--   [IUCN Red List]()
 -   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2312)

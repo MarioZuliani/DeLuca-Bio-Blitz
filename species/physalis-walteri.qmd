@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy<
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, common
 -   **Rarity note:** Nightshade native to the southeastern United States
 
 ## Natural history notes
@@ -46,5 +46,4 @@ The dune groundcherry (Physalis walteri) is a native plant found in the southeas
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/131208-Physalis-walteri)
--   [IUCN Red List]()
 -   [Local profile](https://florida.plantatlas.usf.edu/plant/species/841)

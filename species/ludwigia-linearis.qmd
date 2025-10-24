@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy<
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, common
 -   **Rarity note:** Native, small wetland willow found in the southeastern United States
 
 ## Natural history notes
@@ -46,5 +46,4 @@ The narrowleaf primrose-willow (Ludwigia lineris) is a native willow found in we
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/130811-Ludwigia-linearis)
--   [IUCN Red List]()
 -   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3315)

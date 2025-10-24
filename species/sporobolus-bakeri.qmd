@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/mmcmillian">mmcmillian</a> (C
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: native, not listed
+-   IUCN: Not Listed; Florida: Native, common
 -   **Rarity note:** Native, tall grass found throughout the state
 
 ## Natural history notes
@@ -46,5 +46,4 @@ Sand cordgrass (Sporobolus bakeri), also called marsh grass, is a native grass f
 ## References / links
 
 -   [iNaturalist species page](https://plant-directory.ifas.ufl.edu/plant-directory/spartina-bakeri/)
--   [IUCN Red List]()
 -   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/spartina-bakeri/)

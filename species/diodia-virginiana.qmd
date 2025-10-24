@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/betseyboughton">betseyboughto
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, Common
 -   **Rarity note:** Native wetland plant, often with tiny white flowers
 
 ## Natural history notes

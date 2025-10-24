@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a
 
 ## Conservation & rarity context
 
--   IUCN: Least Concern; Florida: not listed
+-   IUCN: Least Concern; Florida: Native, common
 -   **Rarity note:** Small native fish of freshwater systems.
 
 ## Natural history notes

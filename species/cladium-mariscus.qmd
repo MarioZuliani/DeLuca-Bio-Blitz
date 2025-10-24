@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/tim_towles">timtowles</a> (CC
 
 ## Conservation & rarity context
 
--   IUCN: Least Concern; Florida: Not Listed
+-   IUCN: Least Concern; Florida: Native, Common
 -   **Rarity note:** Tall, native, sharp grass found in the southeastern United States
 ## Natural history notes
 

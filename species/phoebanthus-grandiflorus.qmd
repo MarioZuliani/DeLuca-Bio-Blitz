@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/pclark2591">pclark2591</a> (C
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, endemic, uncommon
 -   **Rarity note:** Native daisy found only in Florida
 
 ## Natural history notes
@@ -46,5 +46,4 @@ The Florida false sunflower (Phoebanthus grandiflorus) is a native flower in the
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/126614-Phoebanthus-grandiflorus)
--   [IUCN Red List]()
 -   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2316#plant-photos)

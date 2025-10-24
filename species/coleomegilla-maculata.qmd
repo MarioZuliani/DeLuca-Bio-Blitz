@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">coreytcallag
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, Common
 -   **Rarity note:** Native, colorful ladybug that eats aphids and pollen
 
 ## Natural history notes
@@ -46,5 +46,4 @@ The spotted pink lady beetle (Coleomegilla maculata) is a native beetle in the l
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/126267-Coleomegilla-maculata)
--   [IUCN Red List]()
 -   [Local profile](https://biocontrol.entomology.cornell.edu/predators/Coleomegilla.php)

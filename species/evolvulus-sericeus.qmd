@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (C
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, common
 -   **Rarity note:** Small native flower found in dry habitats
 
 ## Natural history notes
@@ -46,5 +46,4 @@ Also called silver dwarf morning-glory, silky evolvulus (Evolvulus sericeus) is 
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/122576-Evolvulus-sericeus)
--   [IUCN Red List]()
 -   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2827)

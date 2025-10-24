@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/benito42">https://www.inatura
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, common
 -   **Rarity note:** Native herbaceous wetland plant
 
 ## Natural history notes
@@ -46,5 +46,4 @@ Stinking camphorweed (Pluchea foetida) is a native wetland plant found throughou
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/131170-Pluchea-foetida)
--   [IUCN Red List]()
 -   [Local profile](https://florida.plantatlas.usf.edu/plant/species/875)

@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/brittanymmason">brittanymmaso
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, Common
 -   **Rarity note:** Native, large beetle found throughout the state
 
 ## Natural history notes
@@ -46,5 +46,4 @@ The horned passalid (Odontotaenius disjunctus) is a native beetle found througho
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/122214-Odontotaenius-disjunctus)
--   [IUCN Red List]()
 -   [Local profile](https://edis.ifas.ufl.edu/publication/IN879)

@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">gaudettelaura<
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not Listed
+-   IUCN: Not Listed; Florida: Native, common
 -   **Rarity note:** Sedge native to the southeastern United States
 
 ## Natural history notes
@@ -46,5 +46,4 @@ Sandyfield Beaksedge (Rhynchospora megalocarpa) is a native sedge found in the s
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/143504-Rhynchospora-megalocarpa)
--   [IUCN Red List]()
 -   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2402)

@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/chadkeates">chadkeates</a> (C
 
 ## Conservation & rarity context
 
--   IUCN: Not Listed; Florida: Not listed
+-   IUCN: Not Listed; Florida: Native, Common
 -   **Rarity note:** small native fish of freshwater systems
 
 ## Natural history notes
@@ -46,5 +46,4 @@ American Flagfish (Jordanella floridae) is a small, native fish found in Florida
 ## References / links
 
 -   [iNaturalist species page](https://www.inaturalist.org/taxa/103632-Jordanella-floridae)
--   [IUCN Red List]()
 -   [Local profile](https://www.floridamuseum.ufl.edu/discover-fish/florida-fishes-gallery/flagfish/)
