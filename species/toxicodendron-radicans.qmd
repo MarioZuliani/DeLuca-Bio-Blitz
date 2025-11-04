@@ -1,0 +1,50 @@
+---
+title: "Eastern Poison Ivy (Toxicodendron radicans)"
+slug: "toxicodendron-radicans"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474990610/large.jpg"        # keep for thumbnails
+image-alt: "Eastern Poison Ivy"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Sapindales"
+tax_family: "Anacardiaceae"
+categories: ["Plantae", "Magnoliopsida", "Sapindales", "Anacardiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474990610/large.jpg" alt="Eastern Poison Ivy" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/nateduerr">nateduerr</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264521023</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Sapindales
+-   **Family:** Anacardiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=58732&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: common
+-   **Rarity note:** Flowering vine found in many habitats throughout Florida 
+
+## Natural history notes
+
+Eastern Poison Ivy is a flowering plant of the cashew and sumac family. It is a common native vine that grows throughout Florida, but grows best in moist, well-drained soil with high organic matter content. Its range is vast, expanding beyond Florida to much of the eastern United States as well as Mexico, Canada, Japan, and China. Many birds and mammals eat the fruits from this plant, dispersing the seeds in the process. Although it is safe for many animals to consume parts of Eastern Poison Ivy, this plant produces an irritant called urushiol, which causes a itchy and potentially painful rash in people. A good way to avoid accidentally touching this plant is to pay attention to its leaf arrangement and remember the phrase: "Leaflets of three, leave it be!" 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58732-Toxicodendron-radicans#taxonomy-tab)
+-   [IUCN Red List](https://www.iucnredlist.org/species/124270453/192137361)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/EP609)

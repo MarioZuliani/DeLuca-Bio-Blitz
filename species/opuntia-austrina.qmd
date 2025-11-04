@@ -1,0 +1,50 @@
+---
+title: "Florida Pricklypear (Opuntia austrina)"
+slug: "opuntia-austrina"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474743973/large.jpg"        # keep for thumbnails
+image-alt: "Florida Pricklypear"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Plantae"
+tax_order: "Caryophyllales"
+tax_family: "Cactaceae"
+categories: ["Plantae", "Magnoliopsida", "Caryophyllales", "Cactaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474743973/large.jpg" alt="Florida Pricklypear" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/hogg2000">hogg2000</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264297090">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Plantae
+-   **Order:** Caryophyllales
+-   **Family:** Cactaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=441411&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: common endemic 
+-   **Rarity note:** Cactus that is most commonly found in South Florida
+
+## Natural history notes
+
+The Florida Pricklypear (Opuntia austrina), also known as Devil's-tongue, is a cactus that is endemic to Florida. It is most commonly found in xeric (dry), sandy habitats of South Florida, such as scrub, scrubby flatwoods, and inland dunes. The flower from this cactus is very attractive to pollinators, such as the dotted skipper (Hesperia attalus).The spines, however, are something to watch out for: they can grow 2-3 centimeters in length! Some people eat the purple/red fruit that this plant produces, making jams and syrups or slicing and grilling it with lime. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/441411-Opuntia-austrina)
+-   [IUCN Red List](https://www.iucnredlist.org/species/199642/121620558)
+-   [Local profile](https://www.fnps.org/plant/opuntia-austrina)
