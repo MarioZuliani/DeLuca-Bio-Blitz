@@ -1,24 +1,24 @@
 ---
-title: "American Alligator (Alligator mississippiensis)"
-slug: "alligator-mississippiensis"
-group: "Reptilia"
-image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476060613/large.jpg"        # keep for thumbnails
-image-alt: "American Alligator"  # keep for a11y
-tax_kingdom: "Animal"
-tax_class: "Reptilia"
-tax_order: "Crocodylia"
-tax_family: "Alligatoridae"
-categories: ["Animal", "Reptilia", "Crocodylia", "Alligatoridae"]   # these drive the chips + filtering
+title: "Common Water Hyacinth (Pontederia crassipes)"
+slug: "pontederia-crassipes"
+group: "Liliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257818089/large.jpg"        # keep for thumbnails
+image-alt: "Common Water Hyacinth"  # keep for a11y
+tax_kingdom: "Plant"
+tax_class: "Liliopsida"
+tax_order: "Commelinales"
+tax_family: "Pontederiaceae"
+categories: ["Plant", "Liliopsida", "Commelinales", "Pontederiaceae"]   # these drive the chips + filtering
 freeze: true
 ---
 
 <figure class="species-figure">
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476060613/large.jpg" alt="American Alligator" class="species-photo"/>
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257818089/large.jpg" alt="Common Water Hyacinth" class="species-photo"/>
 
 <figcaption class="photo-credit">
 
-Photo: <a href="https://www.inaturalist.org/people/tylerjonesphotog">tylerjonesphotog</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265073124">iNaturalist</a>
+Photo: <a href="https://www.inaturalist.org/people/emilycbell">emilycbell</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/149603585">iNaturalist</a>
 
 </figcaption>
 
@@ -26,25 +26,24 @@ Photo: <a href="https://www.inaturalist.org/people/tylerjonesphotog">tylerjonesp
 
 ## Taxonomy
 
--   **Class:** Reptilia
--   **Order:** Crocodylia
--   **Family:** Alligatoridae
+-   **Class:** Liliopsida
+-   **Order:** Commelinales
+-   **Family:** Pontederiaceae
 
 ## Occurrence at DeLuca Preserve
 
--   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&taxon_id=26159&place_id=any&verifiable=any)
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=962637&verifiable=any)
 
 ## Conservation & rarity context
 
--   IUCN: Least Concern; Florida: managed
--   **Rarity note:** Large apex predator of freshwater wetlands
+-   IUCN: Not Listed; Florida: Common
+-   **Rarity note:** Free-floating plant that inhabits a variety of warm freshwater systems
 
 ## Natural history notes
 
-Recovered after conservation; basks on banks; eats fish, turtles, mammals.
+The Common Water Hyacinth (Pontederia crassipes) is an aquatic plant native to the Amazon River in Brazil. This free-floating freshwater plant prefers temperatures above 50°F, and can reproduce either sexually or by cloning itself. It grows quickly and often forms mats that sit in the surface layer of the water. It was introduced to New Orleans in 1884, and has since spread throughout the southeastern United States, with year-round growth in South Florida. Because of its prolific growth and tendency to form mats, Common Water Hyacinth can block waterways and reduce oxygen levels in the water, which can be dangerous to native aquatic plants and animals. This plant is considered invasive in Florida, and many methods have been used to reduce its impact, such as biocontrol and chemical treatments. 
 
 ## References / links
 
--   [iNaturalist species page](https://www.inaturalist.org/taxa/26159-Alligator-mississippiensis)
--   [IUCN Red List](https://www.iucnredlist.org/species/46583/3009637)
--   [Local profile](https://myfwc.com/wildlifehabitats/profiles/reptiles/alligator/)
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/962637-Pontederia-crassipes)
+-   [Local profile](https://myfwc.com/wildlifehabitats/habitat/invasive-plants/weed-alerts/water-hyacinth/)

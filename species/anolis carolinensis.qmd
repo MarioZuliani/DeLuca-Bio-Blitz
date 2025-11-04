@@ -1,0 +1,50 @@
+---
+title: "Green Anole (Anolis carolinensis)"
+slug: "anolis-carolinensis"
+group: "Reptilia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257906944/large.jpeg"        # keep for thumbnails
+image-alt: "Green Anole"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Reptilia"
+tax_order: "Squamata"
+tax_family: "Anolidae"
+categories: ["Animal", "Reptilia", "Squamata", "Anolidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257906944/large.jpeg" alt="Green Anole" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/149652911">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Squamata
+-   **Family:** Anolidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=annual-uf-ifas-deluca-bioblitz-data&subview=table&taxon_id=36514&verifiable=any)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Common
+-   **Rarity note:** Small arboreal lizard found in both canopies and man-made structures 
+
+## Natural history notes
+
+The Green Anole (Anolis carolinensis) is a primarily arboreal species of lizard that is native to much of the Southeastern United States. Although its natural habitat is shaded tree branches, this lizard has readily adapted to urban habitats and can be found on man-made structures, such as fences. They are also not picky eaters: green anoles will eat anything smaller than their heads. Both male and female anoles are territorial, but males exhibit stronger territorial behaviors and maintain larger territories than females. Adult male anoles will bob their heads and extend a colorful dewlap both when they are trying to attract mates and when they are attempting to scare off another male. Females of this species exhibit the relatively uncommon ability to retain sperm in their bodies for up to seven months before fertilizing and laying eggs. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/36514-Anolis-carolinensis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/64188/18972474)
+-   [Local profile](https://animaldiversity.org/accounts/Anolis_carolinensis/)
