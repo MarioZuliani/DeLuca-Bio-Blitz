@@ -18,7 +18,7 @@ freeze: true
 
 <figcaption class="photo-credit">
 
-Photo: <a href="https://www.inaturalist.org/people/nateduerr">nateduerr</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264521023</a>
+Photo: <a href="https://www.inaturalist.org/people/nateduerr">nateduerr</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264521023">iNaturalist</a>
 
 </figcaption>
 
