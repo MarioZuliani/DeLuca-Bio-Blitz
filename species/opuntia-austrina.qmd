@@ -4,11 +4,11 @@ slug: "opuntia-austrina"
 group: "Magnoliopsida"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474743973/large.jpg"        # keep for thumbnails
 image-alt: "Florida Pricklypear"  # keep for a11y
-tax_kingdom: "Animal"
-tax_class: "Plantae"
+tax_kingdom: "Plant"
+tax_class: "Magnoliopsida"
 tax_order: "Caryophyllales"
 tax_family: "Cactaceae"
-categories: ["Plantae", "Magnoliopsida", "Caryophyllales", "Cactaceae"]   # these drive the chips + filtering
+categories: ["Plant", "Magnoliopsida", "Caryophyllales", "Cactaceae"]   # these drive the chips + filtering
 freeze: true
 ---
 
@@ -36,7 +36,7 @@ Photo: <a href="https://www.inaturalist.org/people/hogg2000">hogg2000</a> (CC BY
 
 ## Conservation & rarity context
 
--   IUCN: Least Concern; Florida: common endemic 
+-   IUCN: Least Concern; Florida: Common Endemic 
 -   **Rarity note:** Cactus that is most commonly found in South Florida
 
 ## Natural history notes
