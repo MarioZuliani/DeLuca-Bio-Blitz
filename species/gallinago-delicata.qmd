@@ -1,0 +1,50 @@
+---
+title: "Wilson's Snipe (Gallinago delicata)"
+slug: "gallinago-delicata"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474793025/medium.jpeg"        # keep for thumbnails
+image-alt: "Wilson's Snipe"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Charadriiformes"
+tax_family: "Scolopacidae"
+categories: ["Animal", "Aves", "Charadriiformes", "Scolopacidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474793025/medium.jpeg" alt="Wilson's Snipe" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/west_wildlifer">west_wildlifer</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264353200">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Charadriiformes
+-   **Family:** Scolopacidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=144496)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: Migratory, common in winter
+-   **Rarity note:** Seasonal native wetland bird found in the winter
+
+## Natural history notes
+
+The Wilson's snipe (Gallinago delicata) is a migratory bird that winters in the southern United States, Mexico, Central America, and northern South America. It spends its summers in the northern U.S. and Canada. This bird is typically found in wetland areas, and it is a popular bird for hunting. In fact, the word "sniper" actually comes from snipe hunting, as these birds can be incredibly difficult to hunt due to their flight pattern and fast flying speeds. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/144496-Gallinago-delicata)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22729867/182637179)
+-   [Local profile](https://www.audubon.org/field-guide/bird/wilsons-snipe)

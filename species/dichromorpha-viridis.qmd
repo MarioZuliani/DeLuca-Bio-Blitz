@@ -1,0 +1,49 @@
+---
+title: "Short-winged Green Grasshopper (Dichromorpha viridis)"
+slug: "dichromorpha-viridis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354979164/medium.jpg"        # keep for thumbnails
+image-alt: "Short-winged Green Grasshopper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Acrididae"
+categories: ["Animal", "Insecta", "Orthoptera", "Acrididae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354979164/medium.jpg" alt="Short-winged Green Grasshopper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201124376">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Orthoptera
+-   **Family:** Acrididae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=146635)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed; Florida: Common
+-   **Rarity note:** Common, native grasshopper found throughout Florida
+
+## Natural history notes
+
+The short-winged green grasshopper (Dichromorpha viridis) is a grasshopper found in areas of the eastern United States and Canada. In Florida, this is one of the most common species of grasshopper, often found in grasses and lawns. However, there are conservation concerns for this species in other areas, including Wisconsin and Ontario. This species is also typically sexually dimorphic; the males are usually green, and the females are usually brown. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/146635-Dichromorpha-viridis)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN010)
