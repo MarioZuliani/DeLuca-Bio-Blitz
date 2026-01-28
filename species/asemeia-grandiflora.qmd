@@ -1,0 +1,49 @@
+---
+title: "Showy Milkwort (Asemeia grandiflora)"
+slug: "asemeia-grandiflora"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474880024/large.jpg"        # keep for thumbnails
+image-alt: "Showy Milkwort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Polygalaceae"
+categories: ["Plantae", "Magnoliopsida", "Fabales", "Polygalaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474880024/large.jpg" alt="Showy Milkwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">damien6868</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264449339">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Polygalaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=355607)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Small herbaceous wildflower found in Longleaf Pine sandhills and dry, sandy soils in the Southeastern United States.
+
+## Natural history notes
+
+Showy Milkwort (Asemeia grandiflora) is characterized by their single stem from a taproot, alternate, linear leaves, and pink flowers. The flowers are loosely spaced in narrow, terminal raceme.They can reach a height between 8-20 inches. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/355607-Asemeia-grandiflora)
+-   [Local profile](https://fsus.ncbg.unc.edu/main.php?pg=show-taxon-detail.php&taxonid=3032)

@@ -1,0 +1,49 @@
+---
+title: "Golden Silk Spider (Trichonephila clavipes)"
+slug: "trichonephila-clavipes"
+group: "Arachnida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474862702/large.jpg"        # keep for thumbnails
+image-alt: "Golden Silk Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Nephilidae"
+categories: ["Animal", "Arachnida", "Araneae", "Nephilidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474862702/large.jpg" alt="Golden Silk Spider" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/scarnevale">scarnevale</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264432876">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Nephilidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=904336)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Large spider found in the Southeastern United States into Central and South America.
+
+## Natural history notes
+
+The Golden Silk Spider (Trichonephila clavipes) is characterized by its large orange and brown body with feathery tufts on its legs. Feamles are much larger than males and are more brightly colored than the inconspicuous male. Adult males are found between July and September while females mature in Augsut until the late fall. They create very large webs to catch prey including flies, bees, and small moths. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/904336-Trichonephila-clavipes)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/IN467)

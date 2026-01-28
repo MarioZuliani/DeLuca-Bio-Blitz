@@ -1,0 +1,49 @@
+---
+title: "Florida Ivory Millipede (Chicobolus spinigerus)"
+slug: "chicobolus-spinigerus"
+group: "Diplopoda"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475184480/large.jpg"        # keep for thumbnails
+image-alt: "Florida Ivory Millipede"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Diplopoda"
+tax_order: "Spirobolida"
+tax_family: "Spirobolidae"
+categories: ["Animal", "Diplopoda", "Spirobolida", "Spirobolidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475184480/large.jpg" alt="Florida Ivory Millipede" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264621642">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Diplopoda
+-   **Order:** Spirobolida
+-   **Family:** Spirobolidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=81543)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Millipede species found across Florida into coastal parts of South Carolina. 
+
+## Natural history notes
+
+Like most millipedes, the Florida Ivory Millipede (Chicobolus spinigerus) has a long, cylindrical body with two pairs of legs per segment. They can get up to 4 inches in length. Their coloration ranges from different shades of browns to bold yellow stripes. When threatened, they will curl up into a spiral. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/81543-Chicobolus-spinigerus)
+-   [Local profile](https://www.hofferpest.com/blog/2025/july/millipedes-in-florida-identification-control-gui/)

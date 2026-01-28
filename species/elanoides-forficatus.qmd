@@ -1,0 +1,49 @@
+---
+title: "Swallow-tailed Kite (Elanoides forficatus)"
+slug: "elanoides-forficatus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474880887/original.jpeg"        # keep for thumbnails
+image-alt: "Swallow-tailed Kite"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Accipitriformes"
+tax_family: "Accipitridae"
+categories: ["Animal", "Aves", "Accipitriformes", "Accipitridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474880887/original.jpeg" alt="Swallow-tailed Kite" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jackapu">jackapu</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264450217">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Accipitriformes
+-   **Family:** Accipitridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=5301)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern
+-   **Rarity note:** Black-and-white raptor found soaring or in canopies from South America to the South Eastern United States.
+
+## Natural history notes
+
+Swallow-tailed Kites (Elanoides forficatus) are black-and-white raptors known for their deeply forked tail. They spend the fall and winter in South America, then migrate north in early March to breed. Their nests are composed of small sticks and spanish moss high in cypress and pine trees. Their diet consists of primarily insects and small animals. They catch their prey by "hawking". Historically, Swallow-tailed Kites could be found up along the Mississippi River in Minnesota, however due to habitat destruction, they are now mainly found in Florida and a couple other southern states.
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/5301-Elanoides-forficatus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22695017/281035088)
+-   [Local profile](https://myfwc.com/wildlifehabitats/profiles/birds/raptors-and-vultures/swallow-tailed-kite/)

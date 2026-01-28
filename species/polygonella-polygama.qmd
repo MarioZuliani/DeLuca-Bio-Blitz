@@ -1,0 +1,49 @@
+---
+title: "October Flower (Polygonella polygama)"
+slug: "polygonella-polygama"
+group: "Magnoliopsida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474840694/large.jpg"        # keep for thumbnails
+image-alt: "October Flower"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Caryophyllales"
+tax_family: "Polygonaceae"
+categories: ["Plantae", "Magnoliopsida", "Caryophyllales", "Polygonaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474840694/large.jpg" alt="October Flower" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/saherron">saherron</a> (CC0 1.0) via <a href="https://www.inaturalist.org/observations/264411825">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Caryophyllales
+-   **Family:** Polygonaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=167222)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Flowering plant found in dune and scrub plant communities throughout Florida and some in coastal states west to Texas.
+
+## Natural history notes
+
+October Flower (Polygonella polygama) is a herbaceous perennial plant that can reach a height of 3 feet. Their leaves are simple, alternate, linear, stipulate with parallel veins. Flowers are white to pink with both male and female parts and superior ovaries. This plant makes for a desireable ornamental due to its attractiveness. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167222-Polygonella-polygama#taxonomy-tab)
+-   [Local profile](https://edis.ifas.ufl.edu/publication/SG181)

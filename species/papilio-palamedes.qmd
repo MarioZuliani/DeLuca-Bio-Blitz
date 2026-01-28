@@ -1,0 +1,49 @@
+---
+title: "Palamedes Swallowtail (Papilio palamedes)"
+slug: "papilio-palamedes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475246354/large.jpeg"        # keep for thumbnails
+image-alt: "Palamedes Swallowtail"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Papilionidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Papilionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475246354/large.jpeg" alt="Palamedes Swallowtail" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264658010">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Papilionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=68232)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Large swallowtail butterfly found in wooded swamps, moist woodlands, and forest margins in the Southeastern United States.
+
+## Natural history notes
+
+The Palamedes Swallowtail () is characterized by its brownish-black color, yellow band across forewing and hindwing, and yellow spots along the edges of the wings. Close to the body are blue spots surrounded by black and orange. The abdomen and thorax additionally have yellow stripes. They can be found in flight from February to November. Their host plants include Red Bay (Persea borbonia), Swamp Bay (Persea palustris), and Silk Bay (Persea humilis). 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/68232-Papilio-palamedes)
+-   [Local profile](https://www.floridamuseum.ufl.edu/wildflowers/butterfly/palamedes-swallowtail/)

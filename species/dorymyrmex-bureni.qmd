@@ -1,0 +1,49 @@
+---
+title: "Buren's Pyramid Ant (Dorymyrmex bureni)"
+slug: "dorymyrmex-bureni"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/475138098/original.jpeg"        # keep for thumbnails
+image-alt: "Buren's Pyramid Ant"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475138098/original.jpeg" alt="Buren's Pyramid Ant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">stevecollins</a> (CC BY 4.0) via <a href="https://www.inaturalist.org/observations/264599533">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=319444)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Small ant species found in open, sunny areas, such as sand dunes and fields in the Southeastern United States.
+
+## Natural history notes
+
+Buren's Pyramid Ants (Dorymyrmex bureni) are characterized by their reddish-brown color and pyramid-like projection on their thorax. Only reproductive males and females will have wings present during the mating seasons. Colonies consist of a few thousand ants. Buren's Pyramid Ants are diurnal foragers and will typically feed on insects. Although they pose no harm to humans, they will fight against fire ants to defend their territory.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/319444-Dorymyrmex-bureni)
+-   [Local profile](https://www.hofferpest.com/blog/2025/june/pyramid-ants-in-florida-signs-solutions/)

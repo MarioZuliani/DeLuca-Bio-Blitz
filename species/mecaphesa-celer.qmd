@@ -1,0 +1,49 @@
+---
+title: "Swift Crab Spider (Mecaphesa celer)"
+slug: "mecaphesa-celer"
+group: "Arachnida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475129442/original.jpeg"        # keep for thumbnails
+image-alt: "Swift Crab Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Thomisidae"
+categories: ["Animal", "Arachnida", "Araneae", "Thomisidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475129442/original.jpeg" alt="Swift Crab Spider" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264595574">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Thomisidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=202572)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Crab spider found in shrubs, bushes, and small trees throughout North America. 
+
+## Natural history notes
+
+The Swift Crab Spider (Mecaphesa celer), like most crab spiders in the Thomisidae family, have long front 2 pairs of legs and short back two pairs of legs. Males are often darker than females with red bands on their legs. Males are also half the size of female Swift Crab Spiders. Females may display sexual cannibalism, eating their male mates. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/202572-Mecaphesa-celer)
+-   [Local profile](https://bugguide.net/node/view/25892)

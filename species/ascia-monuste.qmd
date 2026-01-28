@@ -1,0 +1,49 @@
+---
+title: "Great Southern White (Ascia monuste)"
+slug: "ascia-monuste"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474783211/large.jpg"        # keep for thumbnails
+image-alt: "Great Southern White"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Pieridae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Pieridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474783211/large.jpg" alt="Great Southern White" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskins">levihoskins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264343930">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Pieridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=51536)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common butterfly found in salt marshes, beaches, and roadsides from Florida & Texas into South America
+
+## Natural history notes
+
+Greater Southern Whites (Ascia monuste) are sexually dimorphic. Males are white with black forewing apex, while females are white to gray with black forewing apex and cell spot. Males have a white-yellow ventral hindwing, while females have a gray ventral hindwing. They can be found in flight year round. Their primary host plants include Virginia Pepper Grass (Lepidium virginicum) and Saltwort (Batis maritima), along with various others. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/51536-Ascia-monuste)
+-   [Local profile](https://www.floridamuseum.ufl.edu/wildflowers/butterfly/great-southern-white/)

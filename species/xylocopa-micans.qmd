@@ -1,0 +1,49 @@
+---
+title: "Southern Carpenter Bee (Xylocopa micans)"
+slug: "xylocopa-micans"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474987123/original.jpg"        # keep for thumbnails
+image-alt: "Southern Carpenter Bee"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Apidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Apidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474987123/original.jpg" alt="Southern Carpenter Bee" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264522139">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Apidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=133788)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Large bee found in the Southeastern United States.
+
+## Natural history notes
+
+Southern Carpenter Bees (Xylocopa micans) look similar to the more widespread Eastern Carpenter Bee (Xylocopa virginica) howver, males have a greenish-blue abdomen rather than purple. Female Southern Carpenter Bees are black with a purple body unlike Eastern Carpenter Bees which are all black. They are mostly found from March to November. They will take nectar from various different flowers by biting through the base of the flower. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/133788-Xylocopa-micans)
+-   [Local profile](https://bugguide.net/node/view/7697)

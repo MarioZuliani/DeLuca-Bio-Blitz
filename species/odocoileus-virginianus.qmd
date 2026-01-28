@@ -1,0 +1,50 @@
+---
+title: "White-tailed Deer (Odocoileus virginianus)"
+slug: "odocoileus-virginianus"
+group: "Mammalia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476060660/large.jpg"        # keep for thumbnails
+image-alt: "White-tailed Deer"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Mammalia"
+tax_order: "Artiodactyla"
+tax_family: "Cervidae"
+categories: ["Animal", "Mammalia", "Artiodactyla", "Cervidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476060660/large.jpg" alt="White-tailed Deer" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/tylerjonesphotog">tylerjonesphotog</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265073134">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Mammalia
+-   **Order:** Artiodactyla
+-   **Family:** Cervidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=222437&subview=table&taxon_id=42223)
+
+## Conservation & rarity context
+
+-   IUCN: Least Concern; Florida: managed
+-   **Rarity note:** Common deer found in most habitats including, forests, savannas, and wetlands throughout the United States, parts of Canada, and Central & South America.
+
+## Natural history notes
+
+White-tailed Deer (Odocoileus virginianus) are characterized by the white on the underside of their tail that contrasts with the rest of their brown fur. The easiest way to tell the difference between males and females are through the presence of antlers. Males grow a new set of antlers in the spring and will shed them in late winter or early spring following the breeding season. When frightened, White-tailed Deer will put their tail up and wave it to warn other deer. Their diet typically consists of leaves, shrubs, flowers, and fruits.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/42223-Odocoileus-virginianus#taxonomy-tab)
+-   [IUCN Red List](https://www.iucnredlist.org/species/42394/22162580
+-   [Local profile](https://myfwc.com/wildlifehabitats/profiles/mammals/land/deer/)
