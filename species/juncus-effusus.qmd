@@ -1,0 +1,50 @@
+---
+title: "Soft Rush (Juncus effusus)"
+slug: "juncus-effusus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180789274/medium.jpeg"        # keep for thumbnails
+image-alt: "Soft Rush"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Juncaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Juncaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180789274/medium.jpeg" alt="Soft Rush" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lyngettys">
+lyngettys</a> (CC BY) via <a href="https://www.inaturalist.org/observations/107485984">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Juncaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=56153)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common in Florida found in marshes, swamps and pond edges.
+## Natural history notes
+
+A clump-forming, grass-like plant characterized by its smooth, cylindrical stems and diffuse clusters of small brownish flowers that appear to emerge from the side of the stem. In Florida, it is commonly found in moist to wet habitats such as marshes, ditches, pond margins, and wetlands. It grows throughout much of the year in warm conditions and provides structure and cover for wetland wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/56153-Juncus-effusus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/164223/65914179)
+-   [Local profile](https://pfaf.org/user/Plant.aspx?LatinName=Juncus+Effusus)

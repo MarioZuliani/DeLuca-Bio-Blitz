@@ -1,0 +1,50 @@
+---
+title: "Peppervine (Nekemias arborea)"
+slug: "nekemias-arborea"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622303269/medium.jpg"        # keep for thumbnails
+image-alt: "Peppervine"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Vitales"
+tax_family: "Vitaceae"
+categories: ["Plantae", "Magnoliopsida", "Vitales", "Vitaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622303269/medium.jpg" alt="Peppervine" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/katedolamore">
+katedolamore</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341741561">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Vitales
+-   **Family:** Vitaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=551846)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+A vigorous climbing vine characterized by its compound leaves and clusters of small berries that ripen from green to dark purple. In Florida, it is commonly found in a variety of habitats including forests, fencerows, and disturbed areas where it climbs over shrubs and trees. It flowers in late spring to summer, and its fruits are eaten by birds and other wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/551846-Nekemias-arborea)
+-   [Local profile](https://www.fnps.org/plant/nekemias-arborea#gsc.tab=0)

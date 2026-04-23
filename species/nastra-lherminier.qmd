@@ -1,0 +1,50 @@
+---
+title: "Swarthy Skipper (Nastra lherminier)"
+slug: "nastra-lherminier"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622459997/medium.jpg"        # keep for thumbnails
+image-alt: "Swarthy Skipper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622459997/medium.jpg" alt="Swarthy Skipper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sandybauerschmidt">
+sandybauerschmidt</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341928879">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=143664)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed
+-   **Rarity note:** Uncommon across Florida.
+
+## Natural history notes
+
+A small, dark butterfly characterized by its dusky brown coloration and rapid, low flight. In Florida, it is found in grassy, open habitats such as fields, lawns, and roadside edges where its larvae feed on grasses. Adults are active during the warmer months and visit small flowers for nectar.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/143664-Nastra-lherminier)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Nastra-lherminier)

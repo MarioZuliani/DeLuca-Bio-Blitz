@@ -1,0 +1,50 @@
+---
+title: "American turkey oak (Quercus laevis)"
+slug: "quercus-laevis"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474803131/medium.jpg"        # keep for thumbnails
+image-alt: "American turkey oak"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Fagaceae"
+categories: ["Plantae", "Magnoliopsida", "Fagales", "Fagaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474803131/medium.jpg" alt="American turkey oak" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marktancig">
+marktancig</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264365014">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Fagaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=128752)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+A medium-sized oak characterized by its distinctive, irregularly lobed leaves and dark, furrowed bark. In Florida, it is commonly found in dry, sandy habitats such as scrub and sandhills. It produces acorns that are an important food source for wildlife and serves as a host plant for a wide variety of insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/128752-Quercus-laevis)
+-   [Local profile](https://www.fnps.org/plant/quercus-laevis)

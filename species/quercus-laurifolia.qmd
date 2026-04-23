@@ -1,0 +1,49 @@
+---
+title: "Swamp Laurel Oakl (Quercus laurifolia)"
+slug: "quercus-laurifolia"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/622639748/medium.jpg"        # keep for thumbnails
+image-alt: "Swamp Laurel Oak"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Fagaceae"
+categories: ["Plantae", "Magnoliopsida", "Fagales", "Fagaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622639748/medium.jpg" alt="Swamp Laurel Oak" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341966057">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Fagaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=69845)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common in Florida found in drained soils, riverbanks, floodplains, and edges of swamps
+## Natural history notes
+
+A large oak tree characterized by its narrow, laurel-like leaves and smooth gray bark that becomes furrowed with age. In Florida, it is commonly found in moist to wet habitats such as floodplains, swamp edges, and along rivers and lakes. It produces acorns that are an important food source for wildlife and serves as a host plant for a wide variety of insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/69845-Quercus-laurifolia)
+-   [Local profile](https://www.fnps.org/plant/quercus-laurifolia#gsc.tab=0)

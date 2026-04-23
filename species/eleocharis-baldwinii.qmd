@@ -1,0 +1,49 @@
+---
+title: "Baldwin's Spikerush (Eleocharis baldwinii)"
+slug: "eleocharis-baldwinii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622289952/medium.jpg"        # keep for thumbnails
+image-alt: "Baldwin's Spikerush"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Cyperaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Cyperaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622289952/medium.jpg" alt="Baldwin's Spikerush" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/plantmanryan">
+plantmanryan</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341791631">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Cyperaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=162230)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common in Florida found in lake margins, in ditches, and in shallow water.
+## Natural history notes
+
+A slender, grass-like wetland plant characterized by its fine, upright stems and small terminal spikelets. In Florida, it is found in shallow water and along the edges of ponds, marshes, and wet depressions, often in sandy soils. It grows during the warmer months and contributes to vegetation structure in aquatic and wetland habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162230-Eleocharis-baldwinii)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2629)

@@ -1,0 +1,50 @@
+---
+title: "Lesser Roundleaf (Hyptis brevipes)"
+slug: "hyptis-brevipes"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/475137938/medium.jpeg"        # keep for thumbnails
+image-alt: "Lesser Roundleaf"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Lamiaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Lamiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475137938/medium.jpeg" alt="Lesser Roundleaf" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264599509">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Lamiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=285150)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+A low-growing herb characterized by its square stems, opposite leaves, and small, rounded clusters of pale purple to white flowers. In Florida, it is commonly found in disturbed areas such as lawns, roadsides, and fields. It can flower throughout much of the year in warm conditions and is visited by small pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/285150-Hyptis-brevipes)
+-   [Local profile](https://www.fnai.org/species-communities/invasives/invasive-species?ID=74)

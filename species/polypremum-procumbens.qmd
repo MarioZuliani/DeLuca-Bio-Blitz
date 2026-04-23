@@ -1,0 +1,50 @@
+---
+title: "Rust Weed (Polypremum procumbens)"
+slug: "polypremum-procumbens"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624351935/medium.jpg"        # keep for thumbnails
+image-alt: "Rust Weed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Tetrachondraceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Tetrachondraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624351935/medium.jpg" alt="Rust Weed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kellyobear">
+kellyobear</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342820131">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Tetrachondraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=285150)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+A small, low-growing plant characterized by its wiry, branching stems and tiny opposite leaves that often turn reddish in dry conditions. In Florida, it is commonly found in sandy, open habitats such as scrub, flatwoods, and disturbed areas. It typically grows during the warmer months and can form scattered patches on bare ground.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/131588-Polypremum-procumbens)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3616)

@@ -1,0 +1,50 @@
+---
+title: "Groundsel Tree (Baccharis halimifolia)"
+slug: "baccharis-halimifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622303269/medium.jpg"        # keep for thumbnails
+image-alt: "Groundsel Tree"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622303269/medium.jpg" alt="Groundsel Tree" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341825455">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=131178)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+A shrubby plant characterized by its thick, toothed leaves and fluffy white seed heads produced by female plants. In Florida, it is commonly found in coastal habitats, marsh edges, and disturbed areas. It typically blooms in fall and is an important late-season nectar source for a variety of pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/84813-Baccharis-halimifolia)
+-   [Local profile](https://www.fnps.org/plant/baccharis-halimifolia#gsc.tab=0)

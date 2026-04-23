@@ -1,0 +1,50 @@
+---
+title: "Savannah Yellow-eyed Grass (Xyris flabelliformis)"
+slug: "xyris-flabelliformis"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475106239/medium.jpg"        # keep for thumbnails
+image-alt: "Savannah Yellow-eyed Grass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Xyridaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Xyridaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475106239/medium.jpg" alt="Savannah Yellow-eyed Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY) via <a href="https://www.inaturalist.org/observations/264590990">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Xyridaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=170364)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Rare across Florida.
+
+## Natural history notes
+
+A slender wetland plant characterized by its fan-shaped arrangement of narrow, grass-like leaves and small yellow flower heads borne on upright stalks. In Florida, it is found in wet flatwoods, savannas, and other moist, sandy habitats. It typically blooms during the warmer months and is most noticeable when in flower, attracting small pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170364-Xyris-flabelliformis)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2439)
