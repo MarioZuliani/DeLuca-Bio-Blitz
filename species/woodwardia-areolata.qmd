@@ -1,0 +1,50 @@
+---
+title: "Netted Chain Fern (Woodwardia areolata)"
+slug: "woodwardia-areolata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625737229/medium.jpg"        # keep for thumbnails
+image-alt: "Netted Chain Fern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Blechnaceae"
+categories: ["Plantae", "Polypodiopsida", "Polypodiales", "Blechnaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625737229/medium.jpg" alt="Netted Chain Fern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/duanecher">
+duanecher</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/343504019">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Blechnaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=118731)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+A medium-sized fern characterized by its finely divided fronds and distinctive net-like vein pattern. In Florida, it is found in moist to wet habitats such as swamps, marshes, and along stream margins. It reproduces by spores rather than flowers and provides cover in shaded wetland environments.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/118731-Woodwardia-areolata)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/woodwardia-areolata/)

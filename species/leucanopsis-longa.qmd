@@ -1,0 +1,50 @@
+---
+title: "Long-streaked Tussock Moth (Leucanopsis longa)"
+slug: "leucanopsis-longa"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623569956/medium.jpg"        # keep for thumbnails
+image-alt: "Long-streaked Tussock Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Noctuoidea"
+categories: ["Animal", "Insecta", "Lepidoptera", "Noctuoidea"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623569956/medium.jpg" alt="Long-streaked Tussock Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento>
+sebento</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342424189">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Noctuoidea
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=505582)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+A fuzzy, light-colored moth characterized by elongated forewings with subtle streaking. In Florida, it is found in a variety of habitats including woodlands and suburban areas where its larvae feed on a range of plants. Adults are active during the warmer months and are attracted to light at night.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/505582-Leucanopsis-longa)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Leucanopsis-longa)

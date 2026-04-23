@@ -1,0 +1,50 @@
+---
+title: "Coastal Plain Honeycombhead (Balduina angustifolia)"
+slug: "balduina-angustifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621974322/medium.jpg"        # keep for thumbnails
+image-alt: "Coastal Plain Honeycombhead"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621974322/medium.jpg" alt="Coastal Plain Honeycombhead" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341634653">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Plantae
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=127348)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+Low-growing wildflower characterized by its bright yellow, button-like flower heads and narrow leaves. In Florida, it is found in sandy habitats such as scrub, flatwoods, and coastal dunes. It typically blooms from late summer into fall and attracts a variety of pollinators, including bees and butterflies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/127348-Balduina-angustifolia)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-balduina-angustifolia/)

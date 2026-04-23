@@ -1,0 +1,49 @@
+---
+title: "Florida Harvester Ant (Pogonomyrmex badius)"
+slug: "pogonomyrmex-badius"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622332668/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Harvester Ant"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622332668/medium.jpg" alt="Florida Harvester Ant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">jcarcache</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341825638">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=218723)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+Large, reddish ants known for constructing conspicuous sandy nest mounds, often surrounded by a cleared “disk” of bare ground. They are found throughout much of Florida in dry, sandy habitats such as pine flatwoods and scrub. These ants primarily collect and store seeds but will also scavenge insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/228477-Pogonomyrmex-badius)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN536)

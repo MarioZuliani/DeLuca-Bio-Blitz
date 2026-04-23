@@ -1,0 +1,50 @@
+---
+title: "Chapman's Oak (Quercus chapmanii)"
+slug: "quercus-chapmanii"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/622641920/medium.jpg"        # keep for thumbnails
+image-alt: "Chapman's Oak"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Fagaceae"
+categories: ["Plantae", "Magnoliopsida", "Fagales", "Fagaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622641920/medium.jpg" alt="Chapman's Oak" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341967185">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Fagaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=167642)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+A small, often shrubby oak characterized by its thick, leathery leaves with a pale, sometimes fuzzy underside. In Florida, it is commonly found in dry, sandy habitats such as scrub and sandhills. It produces acorns that serve as an important food source for wildlife, and like other oaks, it is a host plant for a wide variety of insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167642-Quercus-chapmanii)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/644)

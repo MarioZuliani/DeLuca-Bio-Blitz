@@ -1,0 +1,50 @@
+---
+title: "Dahoon Holly (Ilex cassine)"
+slug: "ilex-cassine"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622182700/medium.jpg"        # keep for thumbnails
+image-alt: "Dahoon Holly"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Aquifoliales"
+tax_family: "Aquifoliaceae"
+categories: ["Plantae", "Magnoliopsida", "Aquifoliales", "Aquifoliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622182700/medium.jpg" alt="Dahoon Holly" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="http://inaturalist.org/people/hoskissbirder">
+hoskissbirder</a> (CC BY-NC) via <a href="inaturalist.org/people/hoskissbirder">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Aquifoliales
+-   **Family:** Aquifoliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=164035)
+
+## Conservation & rarity context
+
+-   IUCN: Not available
+-   **Rarity note:** Common across Florida.
+
+## Natural history notes
+
+Small evergreen tree characterized by its smooth gray bark, glossy dark green leaves, and bright red berries produced on female plants. In Florida, it is commonly found in wet habitats such as swamps, marsh edges, and along rivers and lakes. It flowers in spring, and the fruits persist into winter, providing an important food source for birds and other wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/164035-Ilex-cassine)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-ilex-cassine/)
