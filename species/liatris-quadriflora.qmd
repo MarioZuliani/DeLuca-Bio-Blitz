@@ -1,0 +1,50 @@
+---
+title: "Shortleaf Gayfeather (Liatris quadriflora)"
+slug: "liatris-quadriflora"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354555550/medium.jpg"        # keep for thumbnails
+image-alt: "Shortleaf Gayfeather"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354555550/medium.jpg" alt="Shortleaf Gayfeather" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/animalgrljen">
+animalgrljen</a> (CC BY) via <a href="https://www.inaturalist.org/observations/200908776">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=53168)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Uncommon in Florida found in dry, well-drained pine flatwoods and scrub
+
+## Natural history notes
+
+A slender wildflower characterized by its narrow leaves and spikes of purple flower heads arranged along the stem. In Florida, it is found in dry, sandy habitats such as scrub, sandhills, and open pinelands. It typically blooms in late summer to fall and attracts a variety of pollinators, including butterflies and bees.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/915157-Liatris-quadriflora)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-liatris-tenuifolia/)

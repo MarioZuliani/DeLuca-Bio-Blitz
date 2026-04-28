@@ -1,0 +1,50 @@
+---
+title: "Clustered Mille Graines (Edrastima uniflora)"
+slug: "edrastima-uniflora"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621961510/medium.jpg"        # keep for thumbnails
+image-alt: "Clustered Mille Graines"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Rubiaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Rubiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621961510/medium.jpg" alt="Clustered Mille Graines" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341576491">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Rubiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=950303)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare/Uncommon to Florida and found in moist, shaded habitats, such as wetlands and swamps.
+
+## Natural history notes
+
+A low-growing wildflower characterized by its small, opposite leaves and tiny white to pinkish flowers borne singly or in small clusters. In Florida, it is found in moist, sandy habitats such as flatwoods, savannas, and wet prairies. It grows during the warmer months and often occurs as a subtle component of groundcover vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/950303-Edrastima-uniflora)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/957)

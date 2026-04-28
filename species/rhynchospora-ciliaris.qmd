@@ -1,0 +1,50 @@
+---
+title: "Fringed Beaksedge (Rhynchospora ciliaris)"
+slug: "rhynchospora-ciliaris"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/518551760/medium.jpg"        # keep for thumbnails
+image-alt: "Fringed Beaksedge"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Cyperaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Cyperaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/518551760/medium.jpg" alt="Fringed Beaksedge" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/luna101">
+luna101</a> (CC BY) via <a href="https://www.inaturalist.org/observations/264491314">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Cyperaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=167854)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common in the Panhandle and Northern Florida found in wet pine savannas, longleaf pine sandhill seeps, and boggy areas.
+
+## Natural history notes
+
+A grass-like wetland plant characterized by its slender stems and small clusters of spikelets, often with bristly or fringed scales. In Florida, it is found in moist to wet habitats such as flatwoods, bogs, and savannas, typically in sandy soils. It grows during the warmer months and contributes to vegetation structure in wetland communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167854-Rhynchospora-ciliaris)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2551)
