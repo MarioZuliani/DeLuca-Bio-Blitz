@@ -1,0 +1,50 @@
+---
+title: "Bermuda Grass (Cynodon dactylon)"
+slug: "cynodon-dactylon"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180793257/medium.jpg"        # keep for thumbnails
+image-alt: "Bermuda Grass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180793257/medium.jpg" alt="Bermuda Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/betseyboughton">
+betseyboughton</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/107488757">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58371)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in lawns, roadsides, fields, and other disturbed areas.
+
+## Natural history notes
+
+A low-growing, spreading grass characterized by its fine blades and creeping stems that form dense mats. In Florida, it is commonly found in lawns, roadsides, fields, and other disturbed areas. It grows vigorously during the warmer months and spreads by both seeds and runners, making it a dominant and often invasive species in managed and natural habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58371-Cynodon-dactylon)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1640)

@@ -1,0 +1,50 @@
+---
+title: "Redflower Ragleaf (Crassocephalum crepidioides)"
+slug: "crassocephalum-crepidioides"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474976029/medium.jpg"        # keep for thumbnails
+image-alt: "Redflower Ragleaf"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474976029/medium.jpg" alt="Redflower Ragleaf" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264517831">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=160957)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas, pine rocklands, and hammocks.
+
+## Natural history notes
+
+A herbaceous plant characterized by its soft, lobed leaves and small reddish-orange tubular flower heads that hang downward. In Florida, it is commonly found in disturbed areas such as roadsides, gardens, and forest edges. It grows during the warmer months and can spread readily, often behaving as a weedy species in suitable habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/160957-Crassocephalum-crepidioides)
+-   [Local profile](https://mrec.ifas.ufl.edu/resources/weedsbyflowercolor/red/crassocephalumcrepidioides/)

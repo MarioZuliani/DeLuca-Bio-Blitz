@@ -1,0 +1,50 @@
+---
+title: "False Nettle (Boehmeria cylindrica)"
+slug: "boehmeria-cylindrica"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621834090/medium.jpg"        # keep for thumbnails
+image-alt: "False Nettle"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Rosales"
+tax_family: "Urticaceae"
+categories: ["Plantae", "Magnoliopsida", "Rosales", "Urticaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621834090/medium.jpg" alt="False Nettle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/onielalvarezabreu">
+onielalvarezabreu</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341567043">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Rosales
+-   **Family:** Urticaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=75832)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common in Florida found in moist to wet habitats, including swamps, marshes, and ditches.
+
+## Natural history notes
+
+A herbaceous plant characterized by its opposite, serrated leaves and small greenish flower clusters along the stems. In Florida, it is commonly found in moist to wet habitats such as floodplains, swamps, and along streams. It grows during the warmer months and provides habitat and food for various insects, including some butterfly larvae.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/75832-Boehmeria-cylindrica)
+-   [Local profile](https://www.fnps.org/plant/boehmeria-cylindrica#gsc.tab=0)

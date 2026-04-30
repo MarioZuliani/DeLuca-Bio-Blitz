@@ -1,0 +1,50 @@
+---
+title: "Common Ragweed (Ambrosia artemisiifolia)"
+slug: "ambrosia-artemisiifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622223010/medium.jpg"        # keep for thumbnails
+image-alt: "Common Ragweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622223010/medium.jpg" alt="Common Ragweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ism14">
+ism14</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341759093">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=53587)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common in Florida found in disturbed soils, roadsides, and agricultural areas.
+
+## Natural history notes
+
+An annual plant characterized by its deeply divided leaves and inconspicuous green flower spikes. In Florida, it is commonly found in disturbed areas such as fields, roadsides, and vacant lots. It grows during the warmer months and is well known for producing large amounts of wind-dispersed pollen, which is a major cause of seasonal allergies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/53587-Ambrosia-artemisiifolia)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3025)

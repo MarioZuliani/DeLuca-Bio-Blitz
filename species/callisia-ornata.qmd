@@ -1,0 +1,50 @@
+---
+title: "Scrub Roseling (Callisia ornata)"
+slug: "callisia-ornata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354562156/medium.jpg"        # keep for thumbnails
+image-alt: "Scrub Roseling"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Commelinales"
+tax_family: "Commelinaceae"
+categories: ["Plantae", "Liliopsida", "Commelinales", "Commelinaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354562156/medium.jpg" alt="Scrub Roseling" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/syrza">
+syrza</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200912330">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Commelinales
+-   **Family:** Commelinaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126335)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida found in dry, sandy scrublands.
+
+## Natural history notes
+
+A grass-like plant characterized by its narrow leaves and distinctive green and whitish spikelets. In Florida, it is found in moist to wet habitats such as swamps, marsh edges, and wet flatwoods. It grows during the cooler to warmer months and contributes to vegetation structure in wetland communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126335-Callisia-ornata)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-callisia-ornata/)

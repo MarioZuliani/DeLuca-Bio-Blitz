@@ -1,0 +1,50 @@
+---
+title: "White Screwstem (Bartonia verna)"
+slug: "bartonia-verna"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/617815537/medium.jpg"        # keep for thumbnails
+image-alt: "White Screwstem"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Gentianaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Gentianaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/617815537/medium.jpg" alt="White Screwstem" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kayleigh56991">
+kayleigh56991</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/339600008">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Gentianaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=159180)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida found in moist to wet, sandy habitats such as bogs, seepage areas, and wet flatwoods.
+
+## Natural history notes
+
+A delicate, leafless wildflower characterized by its slender, spiraled stems and small white flowers. In Florida, it is found in moist to wet, sandy habitats such as bogs, seepage areas, and wet flatwoods. It typically blooms in late summer to fall and is often overlooked due to its small size and subtle appearance.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/159180-Bartonia-verna)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-bartonia-verna/)

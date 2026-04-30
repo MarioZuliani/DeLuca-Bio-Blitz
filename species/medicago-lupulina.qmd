@@ -1,0 +1,50 @@
+---
+title: "Black Medickl (Medicago lupulina)"
+slug: "medicago-lupulina"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354630316/medium.jpg"        # keep for thumbnails
+image-alt: "Black Medick"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Fabaceae"
+categories: ["Plantae", "Magnoliopsida", "Fabales", "Fabaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354630316/medium.jpg" alt="Black Medick" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dbond">
+dbond</a> (CC BY) via <a href="https://www.inaturalist.org/observations/200947069">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Fabaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=57056)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common across Florida and found in lawns, landscapes, and disturbed areas.
+
+## Natural history notes
+
+A low-growing legume characterized by its trifoliate leaves and small yellow flower heads that resemble tiny clovers. In Florida, it is commonly found in lawns, roadsides, and other disturbed areas, often in compact or nutrient-poor soils. It grows during the cooler months and, like other legumes, helps improve soil by fixing nitrogen.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/57056-Medicago-lupulina)
+-   [Local profile](https://mrec.ifas.ufl.edu/resources/weedsbyflowercolor/yellow/medicagolupulina/)

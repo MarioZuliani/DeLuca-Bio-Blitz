@@ -1,0 +1,50 @@
+---
+title: "Southern Bogbutton (Paepalanthus beyrichianus)"
+slug: "paepalanthus-beyrichianus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257745173/medium.jpeg"        # keep for thumbnails
+image-alt: "Southern Bogbutton"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Eriocaulaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Eriocaulaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257745173/medium.jpeg" alt="Southern Bogbutton" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lou_waterbug">
+lou_waterbug</a> (CC BY) via <a href="https://www.inaturalist.org/observations/149564418">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Eriocaulaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1597261)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common across Florida and found in wet pine flatwoods, pocosin ecotones, and low areas of sandhill scrub.
+
+## Natural history notes
+
+A small wetland plant characterized by its tuft of narrow, grass-like leaves and tiny, rounded white flower heads held on slender stalks. In Florida, it is found in moist to wet, sandy habitats such as bogs, seepage slopes, and wet flatwoods. It typically blooms during the warmer months and is most noticeable when in flower, adding subtle texture to wetland plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1597261-Paepalanthus-beyrichianus)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/691)

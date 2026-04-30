@@ -1,0 +1,50 @@
+---
+title: "Dwarf Papyrus (Cyperus prolifer)"
+slug: "cyperus-prolifer"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/475138073/medium.jpeg"        # keep for thumbnails
+image-alt: "Dwarf Papyrus"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Cyperaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Cyperaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475138073/medium.jpeg" alt="Dwarf Papyrus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264599530">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Cyperaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=161477)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in shallow water, pond margins, and ditches.
+
+## Natural history notes
+
+A grass-like wetland plant characterized by its umbrella-like clusters of narrow leaves that radiate from the top of its stems. In Florida, it is commonly found in shallow water, pond margins, and ditches, and is also frequently cultivated as an ornamental. It grows during the warmer months and can spread to form dense stands in suitable aquatic habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/161477-Cyperus-prolifer)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/cyperus-prolifer/)

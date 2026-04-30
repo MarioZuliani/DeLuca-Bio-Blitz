@@ -1,0 +1,50 @@
+---
+title: "Savannah Milkweed (Asclepias pedicellata)"
+slug: "asclepias-pedicellata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474779170/medium.jpg"        # keep for thumbnails
+image-alt: "Savannah Milkweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474779170/medium.jpg" alt="Savannah Milkweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marktancig">
+marktancig</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264338670">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=158754)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Uncommon/rare species in Florida found in dry-to-wet pine savannas and flatwoods.
+
+## Natural history notes
+
+A slender wildflower characterized by its very narrow, grass-like leaves and small white to greenish-white flowers. In Florida, it is found in dry, sandy habitats such as flatwoods, sandhills, and open pine woodlands. It typically blooms during the warmer months and serves as a host plant for monarch and other milkweed butterflies, as well as a nectar source for pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/158754-Asclepias-pedicellata)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-asclepias-pedicellata/)

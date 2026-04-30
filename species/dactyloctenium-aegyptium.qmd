@@ -1,0 +1,50 @@
+---
+title: "Durban Crowfoot (Dactyloctenium aegyptium)"
+slug: "dactyloctenium-aegyptium"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/595328495/medium.jpg"        # keep for thumbnails
+image-alt: "Durban Crowfoot"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/595328495/medium.jpg" alt="Durban Crowfoot" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jessica81936">
+jessica81936</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/328524738">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=76599)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas such as lawns, roadsides, and sandy soils.
+
+## Natural history notes
+
+A low-growing grass characterized by its distinctive finger-like seed heads that radiate from a central point. In Florida, it is commonly found in disturbed areas such as lawns, roadsides, and sandy soils. It grows during the warmer months and can tolerate dry, compact conditions, often appearing as a weedy species.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/76599-Dactyloctenium-aegyptium)
+-   [Local profile](https://www.fnai.org/species-communities/invasives/invasive-species?ID=45)
