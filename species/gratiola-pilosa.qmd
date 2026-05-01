@@ -1,0 +1,50 @@
+---
+title: "Shaggy Hedgehyssop (Gratiola pilosa)"
+slug: "gratiola-pilosa"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180791228/medium.jpg"        # keep for thumbnails
+image-alt: "Shaggy Hedgehyssop"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Plantaginaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Plantaginaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180791228/medium.jpg" alt="Shaggy Hedgehyssop" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/snecksa">
+snecksa</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/107486476">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Plantaginaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=163367)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist areas, including wet pine savannas, marshes, and disturbed wet sites.
+
+## Natural history notes
+
+A small wetland plant characterized by its slender stems, narrow leaves, and tiny pale flowers that arise from the leaf axils. In Florida, it is found in moist to wet habitats such as marshes, pond margins, and wet flatwoods. It grows during the warmer months and is often overlooked due to its small size and inconspicuous appearance.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/163367-Gratiola-pilosa)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3302)

@@ -1,0 +1,50 @@
+---
+title: "Asthma Plant (Euphorbia hirta)"
+slug: "euphorbia-hirta"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474725496/medium.jpg"        # keep for thumbnails
+image-alt: "Asthma Plant"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Euphorbiaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Euphorbiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474725496/medium.jpg" alt="Asthma Plant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/hoskissbirder">
+hoskissbirder</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264275443">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Euphorbiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=131560)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas such as lawns, sidewalks, and roadsides.
+
+## Natural history notes
+
+A low-growing herb characterized by its hairy stems, opposite leaves with a reddish tint, and small clustered flowers. In Florida, it is commonly found in disturbed areas such as lawns, sidewalks, and roadsides. It grows during the warmer months and produces a milky sap typical of spurges, often forming spreading patches in compact or sandy soils.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/131560-Euphorbia-hirta)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/710)

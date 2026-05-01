@@ -1,0 +1,50 @@
+---
+title: "Pincushion Moss (Leucobryum glaucum)"
+slug: "leucobryum-glaucum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474803274/medium.jpeg"        # keep for thumbnails
+image-alt: "Pincushion Moss"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Bryopsida"
+tax_order: "Dicranales"
+tax_family: "Leucobryaceae"
+categories: ["Plantae", "Bryopsida", "Dicranales", "Leucobryaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474803274/medium.jpeg" alt="Pincushion Moss" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/luna101">
+luna101</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264356711">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Bryopsida
+-   **Order:** Dicranales
+-   **Family:** Leucobryaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=122658)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist, shaded habitats.
+
+## Natural history notes
+
+A cushion-forming moss characterized by its dense, rounded mounds of pale green to bluish-green leaves. In Florida, it is found in moist, shaded habitats such as forests, rotting logs, and sandy soils. It grows year-round in suitable conditions and helps retain moisture and stabilize soil in forest ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/122658-Leucobryum-glaucum)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.125297/Leucobryum_glaucum)

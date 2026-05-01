@@ -1,0 +1,50 @@
+---
+title: "Floating Marsh Pennywort (Hydrocotyle ranunculoides)"
+slug: "hydrocotyle-ranunculoides"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474863598/medium.jpg"        # keep for thumbnails
+image-alt: "Floating Marsh Pennywort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Apiales"
+tax_family: "Araliaceae"
+categories: ["Plantae", "Magnoliopsida", "Apiales", "Araliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474863598/medium.jpg" alt="Floating Marsh Pennywort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/elion592">
+elion592</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264433684">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Apiales
+-   **Family:** Araliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=60951)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in still or slow-moving freshwater habitats.
+
+## Natural history notes
+
+A creeping aquatic plant characterized by its round, scalloped leaves borne on long stems that float on the water’s surface. In Florida, it is commonly found in still or slow-moving freshwater habitats such as ponds, ditches, and marshes. It grows during the warmer months and can spread rapidly, forming dense mats that provide cover for aquatic organisms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/60951-Hydrocotyle-ranunculoides)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/hydrocotyle-species/)

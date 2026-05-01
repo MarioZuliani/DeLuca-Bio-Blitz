@@ -1,0 +1,50 @@
+---
+title: "Thalia Lovegrass (Eragrostis atrovirens)"
+slug: "eragrostis-atrovirens"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474780354/medium.jpg"        # keep for thumbnails
+image-alt: "Thalia Lovegrass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Magnoliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474780354/medium.jpg" alt="Thalia Lovegrass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/acdcarroll">
+acdcarroll</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264340272">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=162376)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas, sandy sites, and along road shoulders.
+
+## Natural history notes
+
+A tufted grass characterized by its fine leaves and airy, branching seed heads that often have a delicate appearance. In Florida, it is found in moist to wet habitats such as marsh edges, ditches, and low-lying fields. It grows primarily during the warmer months and contributes to ground cover and vegetation structure in wetland areas.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162376-Eragrostis-atrovirens)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1294)

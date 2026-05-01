@@ -1,0 +1,50 @@
+---
+title: "Loblolly Bay (Gordonia lasianthus)"
+slug: "gordonia-lasianthus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474747930/medium.jpg"        # keep for thumbnails
+image-alt: "Loblolly Bay"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Ericales"
+tax_family: "Theaceae"
+categories: ["Plantae", "Magnoliopsida", "Ericales", "Theaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474747930/medium.jpg" alt="Loblolly Bay" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ljbobletz">
+ljbobletz</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264300880">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Ericales
+-   **Family:** Theaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=81921)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Uncommon species in Florida found in moist to wet habitats such as swamps, baygalls, and along stream margins.
+
+## Natural history notes
+
+An evergreen tree characterized by its glossy, dark green leaves and large white flowers with prominent yellow stamens. In Florida, it is found in moist to wet habitats such as swamps, baygalls, and along stream margins. It typically blooms in late spring to summer, and its flowers provide a nectar source for pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/81921-Gordonia-lasianthus)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-gordonia-lasianthus/)

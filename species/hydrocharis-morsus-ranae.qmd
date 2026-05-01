@@ -1,0 +1,50 @@
+---
+title: "Narrowleaf Sunflower (Helianthus angustifolius)"
+slug: "helianthus-angustifolius"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474855255/medium.jpg"        # keep for thumbnails
+image-alt: "Narrowleaf Sunflower"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474855255/medium.jpg" alt="Narrowleaf Sunflower" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264424599">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126700)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in wet habitats like marshes, ditches, and flatwoods.
+
+## Natural history notes
+
+A tall wildflower characterized by its narrow leaves and bright yellow flower heads with dark centers. In Florida, it is commonly found in moist to wet habitats such as flatwoods, marsh edges, and roadside ditches. It typically blooms in fall and can form large, showy stands that provide an important late-season nectar source for pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126700-Helianthus-angustifolius)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-helianthus-angustifolius/)

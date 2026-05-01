@@ -1,0 +1,50 @@
+---
+title: "Common Persimmon (Diospyros virginiana)"
+slug: "diospyros-virginiana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474812377/medium.jpg"        # keep for thumbnails
+image-alt: "Common Persimmon"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Ericales"
+tax_family: "Ebenaceae"
+categories: ["Plantae", "Magnoliopsida", "Ericales", "Ebenaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474812377/medium.jpg" alt="Common Persimmon" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/hoskissbirder">
+hoskissbirder</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264374869">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Ericales
+-   **Family:** Ebenaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=83435)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in forests, old fields, and roadsides.
+
+## Natural history notes
+
+A deciduous tree characterized by its blocky, dark bark, oval leaves, and orange fruits that ripen in fall. In Florida, it is found in a variety of habitats including forests, old fields, and roadsides. It flowers in spring, and the fruits become sweet when fully ripe, providing an important food source for wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/83435-Diospyros-virginiana)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3858)

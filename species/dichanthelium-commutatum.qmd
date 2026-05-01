@@ -14,7 +14,7 @@ freeze: true
 
 <figure class="species-figure">
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474875116/medium.jpg" alt="Durban Crowfoot" class="species-photo"/>
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474875116/medium.jpg" alt="Variable Witchgrass" class="species-photo"/>
 
 <figcaption class="photo-credit">
 

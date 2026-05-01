@@ -1,0 +1,50 @@
+---
+title: "Lantana (Lantana strigocamara)"
+slug: "lantana-strigocamara"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475139606/medium.jpeg"        # keep for thumbnails
+image-alt: "Lantana"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Verbenaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Verbenaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475139606/medium.jpeg" alt="Lantana" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264601098">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Verbenaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=370492)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas such as roadsides, fields, and coastal habitats.
+
+## Natural history notes
+
+A shrubby plant characterized by its rough, aromatic leaves and clusters of small, multicolored flowers that often change color as they age. In Florida, it is commonly found in disturbed areas such as roadsides, fields, and coastal habitats. It grows throughout much of the year in warm conditions and can spread aggressively, sometimes forming dense thickets that impact native vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/370492-Lantana-strigocamara)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1789)

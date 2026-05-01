@@ -1,0 +1,50 @@
+---
+title: "Carolina Crane's-Bill (Geranium carolinianum)"
+slug: "geranium-carolinianum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622204477/medium.jpg"        # keep for thumbnails
+image-alt: "Carolina Crane's-Bill"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Geraniales"
+tax_family: "Geraniaceae"
+categories: ["Plantae", "Magnoliopsida", "Geraniales", "Geraniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622204477/medium.jpg" alt="Carolina Crane's-Bill" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341765973">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Geraniales
+-   **Family:** Geraniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58917)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry, sandy habitats such as fields, roadsides, and disturbed areas.
+
+## Natural history notes
+
+A small wildflower characterized by its deeply divided leaves and pale pink to lavender flowers with darker veins. In Florida, it is commonly found in dry, sandy habitats such as fields, roadsides, and disturbed areas. It grows primarily during the cooler months and often appears as a winter annual in open, sunny locations.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58917-Geranium-carolinianum)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/542)
