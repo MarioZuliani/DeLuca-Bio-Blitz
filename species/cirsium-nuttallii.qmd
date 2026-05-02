@@ -1,0 +1,50 @@
+---
+title: "Nuttall's Thistle (Cirsium nuttallii)"
+slug: "cirsium-nuttallii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622117374/medium.jpg"        # keep for thumbnails
+image-alt: "Nuttall's Thistle"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622117374/medium.jpg" alt="Nuttall's Thistle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341737355">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=129194)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A robust wildflower characterized by its spiny, deeply lobed leaves and large purple flower heads. In Florida, it is found in moist to wet habitats such as marshes, wet prairies, and roadside ditches. It typically blooms during the cooler to warmer months and provides an important nectar source for a variety of pollinators, including butterflies and bees.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/129194-Cirsium-nuttallii)
+-   [Local profile](https://www.flawildflowers.org/2026-spring-bloom-report/)

@@ -1,0 +1,50 @@
+---
+title: "Herbwilliam (Ptilimnium capillaceum)"
+slug: "ptilimnium-capillaceum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622183583/medium.jpg"        # keep for thumbnails
+image-alt: "Herbwilliam"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Apiales"
+tax_family: "Apiaceae"
+categories: ["Plantae", "Magnoliopsida", "Apiales", "Apiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622183583/medium.jpg" alt="Herbwilliam" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/hoskissbirder">
+hoskissbirder</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341752786">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Apiales
+-   **Family:** Apiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=128655)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida found in moist to wet, sandy habitats.
+
+## Natural history notes
+
+A delicate, finely textured wildflower characterized by its thread-like leaves and small white flower clusters arranged in airy umbels. In Florida, it is found in moist to wet, sandy habitats such as flatwoods, wet prairies, and seepage areas. It grows during the cooler to warmer months and often appears as a subtle component of groundcover vegetation in open wetlands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/128655-Ptilimnium-capillaceum)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-ptilimnium-capillaceum/)

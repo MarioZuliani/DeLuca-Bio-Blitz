@@ -1,0 +1,50 @@
+---
+title: "Frostweed (Verbesina virginica)"
+slug: "verbesina-virginica"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622319214/medium.jpgg"        # keep for thumbnails
+image-alt: "Frostweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622319214/medium.jpg" alt="Frostweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/morgan_wingo">
+morgan_wingo</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341806341">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=119982)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in woodlands, forest edges, and disturbed areas.
+
+## Natural history notes
+
+A tall perennial wildflower characterized by its winged stems, rough leaves, and clusters of small white flower heads. In Florida, it is found in a variety of habitats including woodlands, forest edges, and disturbed areas, often in moist to mesic soils. It typically blooms in fall and provides nectar for pollinators, while its stems can produce distinctive ice formations in colder regions outside of Florida.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/119982-Verbesina-virginica)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-verbesina-virginica/)

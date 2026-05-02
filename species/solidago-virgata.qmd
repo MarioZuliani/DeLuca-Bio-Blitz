@@ -1,0 +1,50 @@
+---
+title: "Wand Goldenrod (Solidago virgata)"
+slug: "solidago-virgata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354559060/medium.jpg"        # keep for thumbnails
+image-alt: "Wand Goldenrod"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354559060/medium.jpg" alt="Wand Goldenrod" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/animalgrljen">
+animalgrljen</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/200910713">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=855020)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in a variety of habitats including flatwoods, open woodlands, and disturbed areas.
+
+## Natural history notes
+
+A perennial wildflower characterized by its upright, wand-like stems and clusters of small yellow flower heads arranged along the upper portion of the plant. In Florida, it is found in a variety of habitats including flatwoods, open woodlands, and disturbed areas, often in sandy soils. It typically blooms in late summer to fall and provides an important nectar source for pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/855020-Solidago-virgata)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3967)

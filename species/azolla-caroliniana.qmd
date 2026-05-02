@@ -1,0 +1,50 @@
+---
+title: "Eastern mosquito fern (Azolla caroliniana)"
+slug: "azolla-caroliniana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621847021/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern mosquito fern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Salviniales"
+tax_family: "Salviniaceae"
+categories: ["Plantae", "Polypodiopsida", "Salviniales", "Salviniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621847021/medium.jpg" alt="Eastern mosquito fern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341573959">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Salviniales
+-   **Family:** Salviniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=68866)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found on the surface of still or slow-moving freshwater.
+
+## Natural history notes
+
+A tiny, free-floating aquatic fern characterized by its overlapping leaves that often appear green to reddish, especially in bright light. In Florida, it is commonly found on the surface of still or slow-moving freshwater habitats such as ponds, ditches, and marshes. It reproduces by spores and can rapidly form dense mats, providing cover for small aquatic organisms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/68866-Azolla-caroliniana)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/158)

@@ -1,0 +1,50 @@
+---
+title: "Florida Tickseed (Coreopsis floridana)"
+slug: "coreopsis-floridana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474862273/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Tickseed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474862273/medium.jpg" alt="Florida Tickseed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/scarnevale">
+scarnevale</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264432464">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=160891)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry to mesic sandy habitats such as scrub, sandhills, and open pine flatwoods.
+
+## Natural history notes
+
+A showy wildflower characterized by its bright yellow, daisy-like flower heads and finely divided leaves. In Florida, it is found in dry to mesic sandy habitats such as scrub, sandhills, and open pine flatwoods. It typically blooms in spring to early summer and provides a nectar source for a variety of pollinators, including bees and butterflies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/160891-Coreopsis-floridana)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-coreopsis-floridana/)
