@@ -1,0 +1,50 @@
+---
+title: "Brazilian Pepper (Schinus terebinthifolia)"
+slug: "schinus-terebinthifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622841537/medium.jpg"        # keep for thumbnails
+image-alt: "Brazilian Pepper"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Sapindales"
+tax_family: "Anacardiaceae"
+categories: ["Plantae", "Magnoliopsida", "Sapindales", "Anacardiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622841537/medium.jpg" alt="Brazilian Pepper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rsnyder11">
+rsnyder11</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342064022">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Sapindales
+-   **Family:** Anacardiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=130872)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida found in disturbed areas, wetlands, and coastal habitats.
+
+## Natural history notes
+
+A shrub or small tree characterized by its glossy compound leaves and clusters of small white flowers followed by bright red berries. In Florida, it is commonly found in disturbed areas, wetlands, and coastal habitats. It grows throughout the year in warm conditions and is a highly invasive species, often forming dense thickets that displace native vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/130872-Schinus-terebinthifolia)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/schinus-terebinthifolia/)

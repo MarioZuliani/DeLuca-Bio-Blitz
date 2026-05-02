@@ -1,0 +1,50 @@
+---
+title: "Monk Orchid (Eulophia maculata)"
+slug: "eulophia-maculata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622514809/medium.jpg"        # keep for thumbnails
+image-alt: "Monk Orchid"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Asparagales"
+tax_family: "Orchidaceae"
+categories: ["Plantae", "Liliopsida", "Asparagales", "Orchidaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622514809/medium.jpg" alt="Monk Orchid" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/willforestbeck">
+willforestbeck</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341902542">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Asparagales
+-   **Family:** Orchidaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1453469)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas, forests, and urban landscape.
+
+## Natural history notes
+
+A terrestrial orchid characterized by its pleated leaves and tall flowering stalks bearing numerous greenish to brownish flowers with purple markings. In Florida, it is commonly found in a variety of habitats including disturbed areas, forests, and urban landscapes, often in shaded or partially shaded sites. It grows during the warmer months and can spread in suitable conditions, sometimes forming noticeable colonies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1453469-Eulophia-maculata)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/oeceoclades-maculata/)

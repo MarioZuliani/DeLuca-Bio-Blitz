@@ -1,0 +1,50 @@
+---
+title: "Dwarf Plantain (Plantago virginica)"
+slug: "plantago-virginica"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621784475/medium.jpg"        # keep for thumbnails
+image-alt: "Dwarf Plantain"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Plantaginaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Plantaginaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621784475/medium.jpg" alt="Dwarf Plantain" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/tiasilvasy">
+tiasilvasy</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341542796">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Plantaginaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=78622)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in lawns, fields, and other disturbed areas.
+
+## Natural history notes
+
+A small herb characterized by its narrow, hairy leaves arranged in a basal rosette and slender spikes of tiny flowers. In Florida, it is commonly found in lawns, fields, and other disturbed areas, especially in sandy soils. It grows primarily during the cooler months and is often considered a common lawn weed.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/78622-Plantago-virginica)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/956)

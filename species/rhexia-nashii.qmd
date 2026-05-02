@@ -1,0 +1,50 @@
+---
+title: "Maid Marian (Rhexia nashii)"
+slug: "rhexia-nashii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/616100929/medium.jpg"        # keep for thumbnails
+image-alt: "Maid Marian"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Myrtales"
+tax_family: "Melastomataceae"
+categories: ["Plantae", "Magnoliopsida", "Myrtales", "Melastomataceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/616100929/medium.jpg" alt="Maid Marian" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/axevok87">
+axevok87</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/338751513">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Myrtales
+-   **Family:** Melastomataceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=167798)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A showy wildflower characterized by its square stems, narrow leaves, and bright pink to purple flowers with prominent yellow stamens. In Florida, it is found in moist to wet habitats such as flatwoods, wet prairies, and savannas. It typically blooms during the warmer months and attracts bees and other pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167798-Rhexia-nashii)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2496)

@@ -1,0 +1,50 @@
+---
+title: "Pale Tasselflower (Emilia praetermissa)"
+slug: "emilia-praetermissa"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474795359/medium.jpeg"        # keep for thumbnails
+image-alt: "Pale Tasselflower"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474795359/medium.jpeg" alt="Pale Tasselflower" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264356064">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=704278)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Uncommon species in Florida found in disturbed areas such as roadsides, fields, and lawns.
+
+## Natural history notes
+
+A small herb characterized by its slender stems and pale pink to purplish tassel-like flower heads. In Florida, it is found in disturbed areas such as roadsides, fields, and lawns. It grows during the warmer months and is visited by a variety of small pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/704278-Emilia-praetermissa)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/470)

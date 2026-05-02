@@ -1,0 +1,50 @@
+---
+title: "Florida Scrub Oak (Quercus inopina)"
+slug: "quercus-inopina"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622234962/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Scrub Oak"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Fagaceae"
+categories: ["Plantae", "Magnoliopsida", "Fagales", "Fagaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622234962/medium.jpg" alt="Florida Scrub Oak" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ism14">
+ism14</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341765038">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Fagaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=132052)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida is restricted to scrubland habitats.
+
+## Natural history notes
+
+A low-growing, shrubby oak characterized by its small, thick, evergreen leaves and dense, spreading growth form. In Florida, it is restricted to scrub habitats, particularly in central parts of the state, where it grows in deep, sandy soils. It produces acorns that serve as a food source for wildlife and is a characteristic species of fire-maintained scrub ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/132052-Quercus-inopina)
+-   [Local profile](https://www.fnps.org/plant/quercus-inopina#gsc.tab=0)

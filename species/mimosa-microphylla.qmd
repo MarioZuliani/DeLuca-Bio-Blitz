@@ -1,0 +1,50 @@
+---
+title: "Littleleaf Sensitive-Briar (Mimosa microphylla)"
+slug: "mimosa-microphylla"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354874386/medium.jpg"        # keep for thumbnails
+image-alt: "Littleleaf Sensitive-Briar"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Fabaceae"
+categories: ["Plantae", "Magnoliopsida", "Fabales", "Fabaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354874386/medium.jpg" alt="Littleleaf Sensitive-Briar" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/charismartell">
+charismartell</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/201071388">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Fabaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=84005)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry, sandy habitats such as scrub, sandhills, and open pinelands.
+
+## Natural history notes
+
+A low-growing, spiny legume characterized by its finely divided, sensitive leaves that fold when touched and its small pink, ball-like flower heads. In Florida, it is found in dry, sandy habitats such as scrub, sandhills, and open pinelands. It grows during the warmer months and produces seed pods, while also contributing to soil fertility through nitrogen fixation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/84005-Mimosa-microphylla)
+-   [Local profile](https://plants.sc.egov.usda.gov/plant-profile/mimi22)

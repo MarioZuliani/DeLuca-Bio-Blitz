@@ -1,0 +1,50 @@
+---
+title: "Smut Grass (Sporobolus indicus)"
+slug: "sporobolus-indicus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180794923/medium.jpg"        # keep for thumbnails
+image-alt: "Smut Grass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180794923/medium.jpg" alt="Smut Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/betseyboughton">
+betseyboughton</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/107489245">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=79187)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas such as pastures, roadsides, and fields.
+
+## Natural history notes
+
+A perennial grass characterized by its tall, upright stems and narrow leaves, with open, branching seed heads that can appear purplish when young. In Florida, it is commonly found in disturbed areas such as pastures, roadsides, and fields. It grows during the warmer months and is often considered a weedy species, sometimes forming dense stands in managed landscapes.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/79187-Sporobolus-indicus)
+-   [Local profile](https://extadmin.ifas.ufl.edu/media/extadminifasufledu/cflag/image/docs/pdfs/central-florida-pasture-weeds/2020/January.pdf)

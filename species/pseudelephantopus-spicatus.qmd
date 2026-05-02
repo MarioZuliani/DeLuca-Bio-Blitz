@@ -1,0 +1,50 @@
+---
+title: "Dog's-Tongue (Pseudelephantopus spicatus)"
+slug: "pseudelephantopus-spicatus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/649575721/medium.jpg"        # keep for thumbnails
+image-alt: "Dog's-Tongue"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/649575721/medium.jpg" alt="Dog's-Tongue" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/reedlindwurm">
+reedlindwurm</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/356201889">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=167476)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry to sandy habitats.
+
+## Natural history notes
+
+A low-growing wildflower characterized by its basal rosette of rough, lance-shaped leaves and clusters of small purple to pinkish flower heads. In Florida, it is commonly found in dry to sandy habitats such as fields, roadsides, and open disturbed areas. It grows during the warmer months and often occurs as a common component of weedy groundcover vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167476-Pseudelephantopus-spicatus)
+-   [Local profile](http://florida.plantatlas.usf.edu/plant/species/210)

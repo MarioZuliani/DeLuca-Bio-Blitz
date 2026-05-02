@@ -1,0 +1,50 @@
+---
+title: "Blushing Peat Moss (Sphagnum molle)"
+slug: "sphagnum-molle"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474862135/large.jpg"        # keep for thumbnails
+image-alt: "Blushing Peat Moss"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Sphagnopsida"
+tax_order: "Sphagnales"
+tax_family: "Sphagnaceae"
+categories: ["Plantae", "Sphagnopsida", "Sphagnales", "Sphagnaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474862135/large.jpg" alt="Blushing Peat Moss" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/scarnevale">
+scarnevale</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264432278">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Sphagnopsida
+-   **Order:** Sphagnales
+-   **Family:** Sphagnaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=120146)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Very rare species in Florida found in acidic, saturated habitats such as bogs, seepage areas, and wet flatwoods.
+
+## Natural history notes
+
+A soft, spongy moss characterized by its pale green to pinkish hues that can give it a “blushing” appearance. In Florida, it is found in acidic, saturated habitats such as bogs, seepage areas, and wet flatwoods. It grows year-round in suitable conditions and plays an important role in water retention and peat formation in wetland ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/120146-Sphagnum-molle)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/1623)

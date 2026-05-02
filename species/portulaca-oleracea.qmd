@@ -1,0 +1,50 @@
+---
+title: "Common Purslane (portulaca-oleracea)"
+slug: "plantago-virginica"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/474896206/medium.jpeg"        # keep for thumbnails
+image-alt: "Common Purslane"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Caryophyllales"
+tax_family: "Portulacaceae"
+categories: ["Plantae", "Magnoliopsida", "Caryophyllales", "Portulacaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/474896206/medium.jpeg" alt="Common Purslane" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/andrewkunik">
+andrewkunik</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264464765">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Caryophyllales
+-   **Family:** Portulacaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58991)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas such as gardens, sidewalks, and roadsides.
+
+## Natural history notes
+
+A low-growing, succulent plant characterized by its smooth, reddish stems, fleshy spoon-shaped leaves, and small yellow flowers. In Florida, it is commonly found in disturbed areas such as gardens, sidewalks, and roadsides. It grows during the warmer months and can spread rapidly, often forming dense mats in open, sunny habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58991-Portulaca-oleracea)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/997)

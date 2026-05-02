@@ -1,0 +1,50 @@
+---
+title: "Leavenworth's Goldenrod (Solidago leavenworthii)"
+slug: "solidago-leavenworthii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180843599/medium.jpg"        # keep for thumbnails
+image-alt: "Leavenworth's Goldenrod"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180843599/medium.jpg" alt="Leavenworth's Goldenrod" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rboughton">
+rboughton</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/107515354">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=169112)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Uncommon species in Florida found in moist to wet habitats such as flatwoods, wet prairies, and roadside ditches.
+
+## Natural history notes
+
+A perennial wildflower characterized by its slender stems and clusters of small yellow flower heads arranged along arching branches. In Florida, it is found in moist to wet habitats such as flatwoods, wet prairies, and roadside ditches. It typically blooms in fall and provides an important late-season nectar source for a variety of pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/169112-Solidago-leavenworthii)
+-   [Local profile](https://www.fnps.org/plant/solidago-leavenworthii#gsc.tab=0)

@@ -1,0 +1,50 @@
+---
+title: "Southern Redcedar (Juniperus virginiana)"
+slug: "juniperus-virginiana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622307676/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Redcedar"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Pinopsida"
+tax_order: "Pinales"
+tax_family: "Cupressaceae"
+categories: ["Plantae", "Pinopsida", "Pinales", "Cupressaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622307676/medium.jpg" alt="Southern Redcedar" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">
+damien6868</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341800691">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Pinopsida
+-   **Order:** Pinales
+-   **Family:** Cupressaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=49399)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in coastal dunes, hammocks, and upland areas.
+
+## Natural history notes
+
+An evergreen tree characterized by its dense, conical form, scale-like leaves, and bluish berry-like cones. In Florida, it is commonly found in a variety of habitats including coastal dunes, hammocks, and upland areas. It produces fruits that are an important food source for birds and other wildlife, and provides shelter in both natural and disturbed landscapes.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/241217-Juniperus-virginiana-silicicola)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3925)

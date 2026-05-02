@@ -1,0 +1,50 @@
+---
+title: "Southern Brackenfern (Pteridium caudatum)"
+slug: "pteridium-caudatum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/650373461/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Brackenfern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Dennstaedtiaceae"
+categories: ["Plantae", "Polypodiopsida", "Polypodiales", "Dennstaedtiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/650373461/medium.jpg" alt="Southern Brackenfern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/356647165">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Dennstaedtiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=167537)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in a variety of habitats including flatwoods, forests, and disturbed area.
+
+## Natural history notes
+
+A large fern characterized by its broad, triangular fronds that arise from underground rhizomes. In Florida, it is commonly found in a variety of habitats including flatwoods, forests, and disturbed areas, often forming extensive colonies. It grows during the warmer months and reproduces by spores, with its dense growth providing cover in open and semi-shaded environments.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167537-Pteridium-caudatum)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/1017)

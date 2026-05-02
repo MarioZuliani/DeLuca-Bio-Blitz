@@ -1,0 +1,50 @@
+---
+title: "Dotted Smartweed (Persicaria punctata)"
+slug: "persicaria-punctata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622306887/medium.jpg"        # keep for thumbnails
+image-alt: "Dotted Smartweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Caryophyllales"
+tax_family: "Polygonaceae"
+categories: ["Plantae", "Magnoliopsida", "Caryophyllales", "Polygonaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622306887/medium.jpg" alt="Dotted Smartweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">
+damien6868</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341800275">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Caryophyllales
+-   **Family:** Polygonaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=78456)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A wetland plant characterized by its lance-shaped leaves, often marked with dark spots, and slender spikes of small pink to white flowers. In Florida, it is commonly found in moist to wet habitats such as marshes, pond margins, and ditches. It grows during the warmer months and provides food and habitat for a variety of wetland insects and wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/78456-Persicaria-punctata)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3871)

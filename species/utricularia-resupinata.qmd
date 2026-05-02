@@ -1,0 +1,50 @@
+---
+title: "Northeastern Bladderwort (Utricularia resupinata)"
+slug: "utricularia-resupinata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621812351/medium.jpg"        # keep for thumbnails
+image-alt: "Northeastern Bladderwort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Lentibulariaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Lentibulariaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621812351/medium.jpg" alt="Northeastern Bladderwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/damien6868">
+damien6868</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341557011">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Lentibulariaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=170091)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida found in shallow, acidic wetlands such as bogs, seepage areas, and wet depressions.
+
+## Natural history notes
+
+A small aquatic carnivorous plant characterized by its fine, thread-like leaves and tiny bladder traps used to capture microscopic prey. In Florida, it is found in shallow, acidic wetlands such as bogs, seepage areas, and wet depressions. It typically blooms during the warmer months, producing delicate pink to lavender flowers, and obtains nutrients by trapping small aquatic organisms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170091-Utricularia-resupinata)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/752)

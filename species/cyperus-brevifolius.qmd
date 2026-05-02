@@ -1,0 +1,50 @@
+---
+title: "Shortleaf Spikesedge (Cyperus brevifolius)"
+slug: "cyperus-brevifolius"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/650087139/medium.jpg"        # keep for thumbnails
+image-alt: "Shortleaf Spikesedge"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Cyperaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Cyperaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/650087139/medium.jpg" alt="Shortleaf Spikesedge" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coolcrittersyt">
+coolcrittersyt</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/356477120">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Cyperaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=489795)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats such as lawns, ditches, and disturbed areas.
+
+## Natural history notes
+
+A small, grass-like sedge characterized by its short leaves and compact clusters of spikelets at the tops of its stems. In Florida, it is commonly found in moist to wet habitats such as lawns, ditches, and disturbed areas. It grows during the warmer months and can form low patches, often behaving as a common weedy species in suitable conditions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/489795-Cyperus-brevifolius)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/21)

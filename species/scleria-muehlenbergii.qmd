@@ -1,0 +1,50 @@
+---
+title: "Muehlenberg's Nutrush (Scleria muehlenbergii)"
+slug: "scleria-muehlenbergii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180812686/medium.jpg"        # keep for thumbnails
+image-alt: "Muehlenberg's Nutrush"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Cyperaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Cyperaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180812686/medium.jpg" alt="Muehlenberg's Nutrush" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/betseyboughton">
+betseyboughton</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/107498951">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Cyperaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=168660)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida found in moist to wet habitats such as flatwoods, marsh edges, and seepage areas.
+
+## Natural history notes
+
+A grass-like wetland plant characterized by its slender stems, narrow leaves, and small, rounded nut-like fruits. In Florida, it is found in moist to wet habitats such as flatwoods, marsh edges, and seepage areas, often in sandy soils. It grows during the warmer months and contributes to vegetation structure and diversity in wetland communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/168660-Scleria-muehlenbergii)
+-   [Local profile](https://fsus.ncbg.unc.edu/show-taxon-detail.php?lsid=urn:lsid:ncbg.unc.edu:taxon:%7BCB35FCCE-5335-4F09-B3BD-5EFEF5994CF9%7D)

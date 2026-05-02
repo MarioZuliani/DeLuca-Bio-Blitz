@@ -1,0 +1,50 @@
+---
+title: "Coastal Plain St. John's Wort (Hypericum brachyphyllum)"
+slug: "hypericum-brachyphyllum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474760786/medium.jpeg"        # keep for thumbnails
+image-alt: "Coastal Plain St. John's Wort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Hypericaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Hypericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474760786/medium.jpeg" alt="Coastal Plain St. John's Wort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/west_wildlifer">
+west_wildlifer</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264315546">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Hypericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=635321)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry to mesic sandy habitats.
+
+## Natural history notes
+
+A small shrub characterized by its narrow leaves and bright yellow, five-petaled flowers with numerous prominent stamens. In Florida, it is found in dry to mesic sandy habitats such as flatwoods, scrub, and pine barrens. It blooms during the warmer months and provides a nectar source for various pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/635321-Hypericum-brachyphyllum)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/647)

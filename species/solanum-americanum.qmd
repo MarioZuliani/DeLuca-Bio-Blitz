@@ -1,0 +1,50 @@
+---
+title: "American Black Nightshade (Solanum americanum)"
+slug: "solanum-americanum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475111459/medium.jpg"        # keep for thumbnails
+image-alt: "American Black Nightshade"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Solanales"
+tax_family: "Solanaceae"
+categories: ["Plantae", "Magnoliopsida", "Solanales", "Solanaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475111459/medium.jpg" alt="American Black Nightshade" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264591074">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Solanales
+-   **Family:** Solanaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=59035)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas such as gardens, fields, and roadsides.
+
+## Natural history notes
+
+A herbaceous plant characterized by its smooth, branching stems, ovate leaves, and small white star-shaped flowers with yellow centers. In Florida, it is commonly found in disturbed areas such as gardens, fields, and roadsides. It grows during the warmer months and produces clusters of small black berries, which are eaten by birds, though parts of the plant can be toxic if consumed.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/59035-Solanum-americanum)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/870)

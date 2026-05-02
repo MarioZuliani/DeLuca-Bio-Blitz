@@ -1,0 +1,50 @@
+---
+title: "Tall Yellow-eyed Grass (Xyris platylepis)"
+slug: "xyris-platylepis"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/258171202/medium.jpeg"        # keep for thumbnails
+image-alt: "Tall Yellow-eyed Grass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Xyridaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Xyridaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/258171202/medium.jpeg" alt="Tall Yellow-eyed Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lmcconachie">
+lmcconachie</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/149793056">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Xyridaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=170372)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A slender wetland plant characterized by its narrow, grass-like leaves and upright stems topped with small yellow flower heads. In Florida, it is found in moist to wet habitats such as flatwoods, bogs, and seepage areas, often in sandy, acidic soils. It grows during the warmer months and is most noticeable when in flower, contributing to the diversity of wetland plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170372-Xyris-platylepis)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/1305)
