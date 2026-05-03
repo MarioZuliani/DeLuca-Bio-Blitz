@@ -1,0 +1,50 @@
+---
+title: "American Royal Fern (Osmunda spectabilis)"
+slug: "osmunda-spectabilis"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622532938/medium.jpg"        # keep for thumbnails
+image-alt: "American Royal Fern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Osmundaceae"
+categories: ["Plantae", "Polypodiopsida", "Polypodiales", "Osmundaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622532938/medium.jpg" alt="American Royal Fern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/luna101">
+luna101</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341910968">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Osmundaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1002684)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in humid, shaded habitats.
+
+## Natural history notes
+
+A large fern characterized by its tall, upright fronds with broad leaflets and distinctive fertile segments that bear clusters of sporangia. In Florida, it is found in moist to wet habitats such as swamps, marshes, and along stream margins. It grows throughout much of the year in suitable conditions and often forms prominent clumps, contributing to structure and cover in wetland ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1002684-Osmunda-spectabilis)
+-   [Local profile](https://www.fnai.org/PDFs/FieldGuides/Osmunda_spectabilis.pdf)

@@ -1,0 +1,50 @@
+---
+title: "Flattened Pipewort (Eriocaulon compressum)"
+slug: "eriocaulon-compressum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622321853/medium.jpg"        # keep for thumbnails
+image-alt: "Flattened Pipewort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Eriocaulaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Eriocaulaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622321853/medium.jpg" alt="Flattened Pipewort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341825547">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Eriocaulaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=162556)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A small wetland plant characterized by its narrow, grass-like leaves and flattened stems topped with tiny, button-like white flower heads. In Florida, it is found in moist to wet habitats such as ponds, marshes, and wet flatwoods, often in shallow water or sandy soils. It grows during the warmer months and is most noticeable when in flower, contributing to the diversity of aquatic and wetland plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162556-Eriocaulon-compressum)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/834)

@@ -1,0 +1,50 @@
+---
+title: "Spatterdock (Nuphar advena)"
+slug: "nuphar-advena"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/631130593/medium.jpg"        # keep for thumbnails
+image-alt: "Spatterdock"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Nymphaeales"
+tax_family: "Nymphaeaceae"
+categories: ["Plantae", "Magnoliopsida", "Nymphaeales", "Nymphaeaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/631130593/medium.jpg" alt="Spatterdock" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/346249535">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Nymphaeales
+-   **Family:** Nymphaeaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=82504)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in still or slow-moving freshwater habitats.
+
+## Natural history notes
+
+An aquatic plant characterized by its large, heart-shaped floating leaves and yellow, cup-shaped flowers held above the water surface. In Florida, it is found in still or slow-moving freshwater habitats such as ponds, lakes, and marshes. It grows during the warmer months and provides cover and habitat for aquatic wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/82504-Nuphar-advena)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-nuphar-advena/)

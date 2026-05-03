@@ -1,0 +1,50 @@
+---
+title: "Largeflower Rose Gentian (Sabatia grandiflora)"
+slug: "sabatia-grandiflora"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476404024/medium.jpg"        # keep for thumbnails
+image-alt: "Largeflower Rose Gentian"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Gentianaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Gentianaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476404024/medium.jpg" alt="Largeflower Rose Gentian" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lmcconachie">
+lmcconachie</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/265245128">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Gentianaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=127442)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A showy wildflower characterized by its large, star-shaped pink flowers with contrasting yellow centers and prominent veins. In Florida, it is found in moist to wet habitats such as flatwoods, wet prairies, and roadside ditches. It typically blooms during the warmer months and attracts a variety of pollinators, especially bees and butterflies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/127442-Sabatia-grandiflora)
+-   [Local profile](https://www.wildflower.org/plants/result.php?id_plant=SAGR8)

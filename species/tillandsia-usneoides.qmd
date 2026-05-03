@@ -1,0 +1,50 @@
+---
+title: "Spanish Moss (Tillandsia usneoides)"
+slug: "tillandsia-usneoides"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624390846/medium.jpg"        # keep for thumbnails
+image-alt: "Spanish Moss"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Bromeliaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Bromeliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624390846/medium.jpg" alt="Spanish Moss" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kellyobear">
+kellyobear</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342839071">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Bromeliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=49569)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in a variety of habitats including hammocks, swamps, and along roadsides.
+
+## Natural history notes
+
+An epiphytic plant characterized by its long, gray, thread-like strands that hang from tree branches. In Florida, it is commonly found in a variety of habitats including hammocks, swamps, and along roadsides, especially in humid environments. It absorbs moisture and nutrients from the air rather than from soil and provides shelter and nesting material for wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49569-Tillandsia-usneoides)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2814)

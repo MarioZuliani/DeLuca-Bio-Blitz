@@ -1,0 +1,50 @@
+---
+title: "Shoestring Fern (Vittaria lineata)"
+slug: "vittaria-lineata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623532256/medium.jpg"        # keep for thumbnails
+image-alt: "Shoestring Fern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Pteridaceae"
+categories: ["Plantae", "Polypodiopsida", "Polypodiales", "Pteridaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623532256/medium.jpg" alt="Shoestring Fern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/aeheerema">
+aeheerema</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342404314">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Pteridaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=127044)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Uncommon species in Florida found in humid, shaded habitats.
+
+## Natural history notes
+
+An epiphytic fern characterized by its long, narrow, ribbon-like fronds that hang in clusters from tree trunks and branches. In Florida, it is found in humid, shaded habitats such as hammocks and swamps, often growing on the bark of live oaks and other trees. It reproduces by spores and thrives in consistently moist air, contributing to the diversity of epiphytic plant communities.
+
+## References / links
+
+-   [iNaturalist species page](http://inaturalist.org/taxa/127044-Vittaria-lineata)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2719)

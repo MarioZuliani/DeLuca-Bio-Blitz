@@ -1,0 +1,50 @@
+---
+title: "Virginia Chainfern (Woodwardia virginica)"
+slug: "woodwardia-virginica"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/622620803/medium.jpg"        # keep for thumbnails
+image-alt: "Virginia Chainfern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Blechnaceae"
+categories: ["Plantae", "Polypodiopsida", "Polypodiales", "Blechnaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622620803/medium.jpg" alt="Virginia Chainfern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341957706">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Blechnaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=122054)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A large fern characterized by its arching fronds and distinctive chain-like pattern of sori on the undersides of the leaves. In Florida, it is commonly found in moist to wet habitats such as swamps, marshes, and along stream margins. It grows year-round in suitable conditions and often forms dense stands, providing cover and structure in wetland ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/122054-Woodwardia-virginica)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3714)

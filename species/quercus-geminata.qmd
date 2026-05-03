@@ -1,0 +1,50 @@
+---
+title: "Sand Live Oak (Quercus geminata)"
+slug: "quercus-geminata"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/622605155/medium.jpg"        # keep for thumbnails
+image-alt: "Sand Live Oak"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Fagaceae"
+categories: ["Plantae", "Magnoliopsida", "Fagales", "Fagaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622605155/medium.jpg" alt="Sand Live Oak" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341948362">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Fagaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=121402)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry, sandy habitats.
+
+## Natural history notes
+
+An evergreen tree characterized by its thick, leathery leaves with pale, fuzzy undersides and a broad, spreading canopy. In Florida, it is commonly found in dry, sandy habitats such as coastal dunes, scrub, and sandhills. It produces acorns that serve as an important food source for wildlife and is well adapted to drought and salt exposure in coastal environments.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/121402-Quercus-geminata)
+-   [Local profile](https://www.fnps.org/plant/quercus-geminata#gsc.tab=0)

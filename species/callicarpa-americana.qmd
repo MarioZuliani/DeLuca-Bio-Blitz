@@ -1,0 +1,50 @@
+---
+title: "American Beautyberry (Callicarpa americana)"
+slug: "callicarpa-americana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621861063/medium.jpg"        # keep for thumbnails
+image-alt: "American Beautyberry"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Lamiaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Lamiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621861063/medium.jpg" alt="American Beautyberry" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/aline_morrow">
+aline_morrow</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341580933">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Lamiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=49193)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in forests, hammocks, and along edges of wooded areas.
+
+## Natural history notes
+
+A deciduous shrub characterized by its arching branches, broad leaves, and clusters of bright purple berries that encircle the stems. In Florida, it is commonly found in forests, hammocks, and along edges of wooded areas. It blooms in late spring to summer, and its fruits persist into fall, providing an important food source for birds and other wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49193-Callicarpa-americana)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-callicarpa-americana/)

@@ -1,0 +1,50 @@
+---
+title: "Toothache Grass (Ctenium aromaticum)"
+slug: "ctenium-aromaticum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622314250/medium.jpg"        # keep for thumbnails
+image-alt: "Toothache Grass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622314250/medium.jpg" alt="Toothache Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341825496">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=131640)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A perennial grass characterized by its narrow leaves and distinctive comb-like seed heads arranged along one side of the stem. In Florida, it is found in moist to wet habitats such as flatwoods, savannas, and marsh edges. It grows during the warmer months and is well adapted to fire-maintained ecosystems, contributing to the structure and diversity of native grasslands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/131640-Ctenium-aromaticum)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/383)

@@ -1,0 +1,50 @@
+---
+title: "Shrubby False Buttonweed (Spermacoce verticillata)"
+slug: "spermacoce-verticillata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476002930/medium.jpg"        # keep for thumbnails
+image-alt: "Shrubby False Buttonweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Rubiaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Rubiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476002930/medium.jpg" alt="Shrubby False Buttonweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lmcconachie">
+lmcconachie</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/265046713">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Rubiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=169171)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas such as roadsides, fields, and coastal site.
+
+## Natural history notes
+
+A woody, shrub-like herb characterized by its narrow leaves arranged in whorls and clusters of small white flowers at the nodes. In Florida, it is commonly found in disturbed areas such as roadsides, fields, and coastal sites, particularly in warmer regions. It grows throughout much of the year and can form dense patches, sometimes behaving as a weedy or invasive species in suitable habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/169171-Spermacoce-verticillata)
+-   [Local profile](https://dev.florida.plantatlas.usf.edu/plant/species/1530)

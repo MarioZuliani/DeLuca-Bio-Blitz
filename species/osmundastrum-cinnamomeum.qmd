@@ -1,0 +1,50 @@
+---
+title: "Cinnamon Fern (Osmundastrum cinnamomeum)"
+slug: "osmundastrum-cinnamomeum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622601170/medium.jpg"        # keep for thumbnails
+image-alt: "Cinnamon Fern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Osmundales"
+tax_family: "Osmundaceae"
+categories: ["Plantae", "Polypodiopsida", "Osmundales", "Osmundaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622601170/medium.jpg" alt="Cinnamon Fern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marykeim">
+marykeim</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341946607">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Osmundales
+-   **Family:** Osmundaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=204165)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A large fern characterized by its tall, arching green fronds and separate upright fertile fronds that turn a distinctive cinnamon-brown color. In Florida, it is found in moist to wet habitats such as swamps, marsh edges, and shaded wetlands. It grows throughout much of the year in suitable conditions and often forms dense clumps, contributing to structure and cover in wetland plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/204165-Osmundastrum-cinnamomeum)
+-   [Local profile](https://www.fnai.org/PDFs/FieldGuides/Osmundastrum_cinnamomeum.pdf)

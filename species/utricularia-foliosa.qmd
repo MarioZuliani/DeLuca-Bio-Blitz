@@ -1,0 +1,50 @@
+---
+title: "Leafy Bladderwort (Utricularia foliosa)"
+slug: "utricularia-foliosa"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623049887/medium.jpg"        # keep for thumbnails
+image-alt: "Leafy Bladderwort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fagales"
+tax_family: "Fagaceae"
+categories: ["Plantae", "Magnoliopsida", "Fagales", "Fagaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623049887/medium.jpg" alt="Leafy Bladderwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342169448">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fagales
+-   **Family:** Fagaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=170084)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in still or slow-moving freshwater habitats.
+
+## Natural history notes
+
+An aquatic carnivorous plant characterized by its finely divided, leafy stems and tiny bladder-like traps used to capture microscopic prey. In Florida, it is found in still or slow-moving freshwater habitats such as ponds, lakes, and marshes. It grows during the warmer months and produces yellow flowers, obtaining nutrients by trapping small aquatic organisms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/170084-Utricularia-foliosa)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2728)

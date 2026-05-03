@@ -1,0 +1,50 @@
+---
+title: "Shortleaf Yellow-eyed Grass (Xyris brevifolia)"
+slug: "xyris-brevifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621886340/medium.jpg"        # keep for thumbnails
+image-alt: "Shortleaf Yellow-eyed Grass"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Xyridaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Xyridaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621886340/medium.jpg" alt="Shortleaf Yellow-eyed Grass" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341593436">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Xyridaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=132683)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A slender wetland plant characterized by its short, narrow leaves and upright stalks bearing small yellow flower heads. In Florida, it is found in moist to wet habitats such as flatwoods, bogs, and seepage areas, often in sandy, acidic soils. It grows during the warmer months and is most noticeable when in flower, contributing to the diversity of wetland plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/132683-Xyris-brevifolia)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/1305)
