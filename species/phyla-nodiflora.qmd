@@ -1,0 +1,50 @@
+---
+title: "Turkey Tangle Frogfruit (Phyla nodiflora)"
+slug: "phyla-nodiflora"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180774974/medium.jpg"        # keep for thumbnails
+image-alt: "Turkey Tangle Frogfruit"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Verbenaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Verbenaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622183583/medium.jpg" alt="Turkey Tangle Frogfruit" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/betseyboughton">
+betseyboughton</a> (CC BY-NC) via <a href="https://inaturalist-open-data.s3.amazonaws.com/photos/180774974/medium.jpg0">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Verbenaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=59040)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in a variety of habitats including lawns, roadsides, coastal areas, and disturbed sites.
+
+## Natural history notes
+
+A low-growing, mat-forming plant characterized by its creeping stems, opposite leaves, and small, button-like flower heads with white to pale purple petals. In Florida, it is commonly found in a variety of habitats including lawns, roadsides, coastal areas, and disturbed sites. It grows during the warmer months and spreads readily, often forming dense groundcover that provides nectar for pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/59040-Phyla-nodiflora)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-phyla-nodiflora/)

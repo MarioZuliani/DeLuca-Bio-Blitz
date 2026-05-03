@@ -1,0 +1,50 @@
+---
+title: "False Fennel (Eupatorium leptophyllum)"
+slug: "eupatorium-leptophyllum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622145161/medium.jpg"        # keep for thumbnails
+image-alt: "False Fennel"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622145161/medium.jpg" alt="False Fennel" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/peaceinthewild">
+peaceinthewild</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341719105">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=162792)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Considered rare species in Florida found in disturbed areas such as fields, roadsides, and wetlands.
+
+## Natural history notes
+
+A tall, aromatic herb characterized by its finely divided, thread-like leaves and clusters of small white flower heads. In Florida, it is commonly found in disturbed areas such as fields, roadsides, and wetlands. It grows during the warmer months and can form dense stands, sometimes behaving as a weedy species in open habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162792-Eupatorium-leptophyllum)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1007)

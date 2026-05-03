@@ -1,0 +1,50 @@
+---
+title: "St. Andrew's Cross (Hypericum hypericoides)"
+slug: "hypericum-hypericoides"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622656000/medium.jpg"        # keep for thumbnails
+image-alt: "St. Andrew's Cross"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Hypericaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Hypericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622656000/medium.jpg" alt="St. Andrew's Cross" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marykeim">
+marykeim</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341973146">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Hypericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=120009)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry to mesic habitats.
+
+## Natural history notes
+
+A shrub characterized by its opposite leaves and bright yellow flowers with four petals arranged in a cross-like shape. In Florida, it is commonly found in dry to mesic habitats such as flatwoods, sandhills, and open woodlands. It typically blooms during the warmer months and provides a nectar source for various pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/120009-Hypericum-hypericoides)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-hypericum-hypericoides/)

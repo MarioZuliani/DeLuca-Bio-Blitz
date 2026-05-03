@@ -1,0 +1,50 @@
+---
+title: "Dwarf St. John's Wort (Hypericum mutilum)"
+slug: "hypericum-mutilum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622520479/medium.jpg"        # keep for thumbnails
+image-alt: "Dwarf St. John's Wort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Hypericaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Hypericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622520479/medium.jpg" alt="Dwarf St. John's Wort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/willforestbeck">
+willforestbeck</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341905278">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Hypericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](http://inaturalist.org/observations?project_id=191727&subview=map&taxon_id=62588)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A small, delicate wildflower characterized by its tiny opposite leaves and small yellow flowers with fine stamens. In Florida, it is commonly found in moist to wet habitats such as marsh edges, ditches, and seasonally flooded areas. It grows during the warmer months and is often overlooked due to its small size, occurring as a subtle component of wetland vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/62588-Hypericum-mutilum)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3508)

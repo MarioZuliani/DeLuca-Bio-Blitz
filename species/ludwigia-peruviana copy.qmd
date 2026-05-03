@@ -1,0 +1,50 @@
+---
+title: "Peruvian Primrose-Willow (Ludwigia peruviana)"
+slug: "ludwigia-peruviana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475119410/medium.jpg"        # keep for thumbnails
+image-alt: "Peruvian Primrose-Willow"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Myrtales"
+tax_family: "Onagraceae"
+categories: ["Plantae", "Magnoliopsida", "Myrtales", "Onagraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475119410/medium.jpg" alt="Peruvian Primrose-Willow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/264591141">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Myrtales
+-   **Family:** Onagraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=50338)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A tall, woody wetland plant characterized by its lance-shaped leaves and large, bright yellow flowers. In Florida, it is commonly found in moist to wet habitats such as marshes, ditches, and pond margins. It grows during the warmer months and can form dense stands, often behaving as an invasive species in disturbed wetlands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/50338-Ludwigia-peruviana)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3077)

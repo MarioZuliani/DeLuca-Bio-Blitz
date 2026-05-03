@@ -1,0 +1,50 @@
+---
+title: "American White Waterlily (Nymphaea odorata)"
+slug: "nymphaea-odorata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622091563/medium.jpg"        # keep for thumbnails
+image-alt: "American White Waterlily"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Nymphaeales"
+tax_family: "Nymphaeaceae"
+categories: ["Plantae", "Magnoliopsida", "Nymphaeales", "Nymphaeaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622091563/medium.jpg" alt="American White Waterlily" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341691843">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Nymphaeales
+-   **Family:** Nymphaeaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=51119)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in still or slow-moving freshwater habitats.
+
+## Natural history notes
+
+An aquatic plant characterized by its large, round floating leaves and showy white flowers with numerous petals and a yellow center. In Florida, it is found in still or slow-moving freshwater habitats such as ponds, lakes, and marshes. It blooms during the warmer months, and its flowers open during the day, providing habitat and shade for aquatic organisms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/51119-Nymphaea-odorata)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-nymphaea-odorata/)

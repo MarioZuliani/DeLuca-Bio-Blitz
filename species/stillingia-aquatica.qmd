@@ -1,0 +1,50 @@
+---
+title: "Water Toothleaf (Stillingia aquatica)"
+slug: "stillingia-aquatica"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257792104/medium.jpeg"        # keep for thumbnails
+image-alt: "Water Toothleaf"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Euphorbiaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Euphorbiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257792104/medium.jpeg" alt="Water Toothleaft" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/alt_janel">
+alt_janel</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/149589816">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Euphorbiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=169395)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A wetland plant characterized by its upright stems, narrow leaves, and small, inconspicuous flowers borne along the upper portions of the stem. In Florida, it is found in moist to wet habitats such as marshes, wet flatwoods, and pond margins, often in sandy or seasonally flooded soils. It grows during the warmer months and is a characteristic component of wetland plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/169395-Stillingia-aquatica)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2577)
