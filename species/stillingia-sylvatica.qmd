@@ -1,0 +1,50 @@
+---
+title: "Queen's Delight (Stillingia sylvatica)"
+slug: "stillingia-sylvatica"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622118197/medium.jpg"        # keep for thumbnails
+image-alt: "Queen's Delight"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Euphorbiaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Euphorbiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622118197/medium.jpg" alt="Queen's Delight" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341737528">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Euphorbiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1530846)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry to mesic sandy habitats.
+
+## Natural history notes
+
+A herbaceous plant characterized by its upright stems, narrow leaves, and small, inconspicuous flowers arranged along terminal spikes. In Florida, it is found in dry to mesic sandy habitats such as flatwoods, sandhills, and open pine woodlands. It grows during the warmer months and is often a subtle component of groundcover vegetation in fire-maintained ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1530846-Stillingia-sylvatica)
+-   [Local profile](https://fsus.ncbg.unc.edu/show-taxon-detail.php?taxonid=3530)

@@ -1,0 +1,50 @@
+---
+title: "Dogfennel (Eupatorium capillifolium)"
+slug: "eupatorium-capillifolium"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624260342/medium.jpg"        # keep for thumbnails
+image-alt: "Dogfennel"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624260342/medium.jpg" alt="Dogfennel" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/garccyy">
+garccyy</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342774276">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=131154)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in disturbed areas such as fields, pastures, and roadsides.
+
+## Natural history notes
+
+A tall, aromatic herb characterized by its finely divided, thread-like leaves and clusters of small white flower heads. In Florida, it is commonly found in disturbed areas such as fields, pastures, and roadsides. It grows during the warmer months and can form dense stands, often behaving as a weedy species in open habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/131154-Eupatorium-capillifolium)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3716)
