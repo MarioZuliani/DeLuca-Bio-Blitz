@@ -1,0 +1,50 @@
+---
+title: "Pineland Daisy (Chaptalia tomentosa)"
+slug: "chaptalia-tomentosa"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622524817/medium.jpg"        # keep for thumbnails
+image-alt: "Pineland Daisy"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622524817/medium.jpg" alt="Pineland Daisy" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/willforestbeck">
+willforestbeck</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341907356">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=160457)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry, sandy habitats.
+
+## Natural history notes
+
+A low-growing wildflower characterized by its basal rosette of hairy leaves and solitary daisy-like flower heads, often with pale pink to whitish rays. In Florida, it is found in dry, sandy habitats such as pine flatwoods, sandhills, and open disturbed areas. It typically blooms during the cooler to warmer months and occurs as a subtle component of groundcover vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/160457-Chaptalia-tomentosa)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-chaptalia-tomentosa/)

@@ -1,0 +1,50 @@
+---
+title: "Bristle Thistle (Cirsium horridulum)"
+slug: "cirsium-horridulum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622876795/medium.jpg"        # keep for thumbnails
+image-alt: "Bristle Thistle"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622876795/medium.jpg" alt="Bristle Thistle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rsnyder11">
+rsnyder11</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342081611">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=127269)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in a variety of habitats including fields, roadsides, and open woodlands.
+
+## Natural history notes
+
+A robust wildflower characterized by its spiny, deeply lobed leaves and large yellow to purple flower heads. In Florida, it is found in a variety of habitats including fields, roadsides, and open woodlands, often in sandy or disturbed soils. It typically blooms during the cooler to warmer months and provides an important nectar source for pollinators such as bees and butterflies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/127269-Cirsium-horridulum)
+-   [Local profile](https://www.fnps.org/plant/cirsium-horridulum#gsc.tab=0)

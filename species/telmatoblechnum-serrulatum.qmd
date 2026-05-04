@@ -1,0 +1,50 @@
+---
+title: "Toothed Midsorus Fern (Telmatoblechnum serrulatum)"
+slug: "telmatoblechnum-serrulatum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623569520/medium.jpg"        # keep for thumbnails
+image-alt: "Toothed Midsorus Fern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Blechnaceae"
+categories: ["Plantae", "Polypodiopsida", "Polypodiales", "Blechnaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623569520/medium.jpg" alt="Toothed Midsorus Fern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342423846">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Blechnaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=855610)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A wetland fern characterized by its long, arching fronds with finely toothed leaflets and a distinctive central line of spore-bearing structures. In Florida, it is commonly found in moist to wet habitats such as swamps, marshes, and along stream margins. It grows throughout much of the year in suitable conditions and often forms dense stands, contributing to structure and cover in wetland ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/855610-Telmatoblechnum-serrulatum)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/1736)

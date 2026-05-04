@@ -1,0 +1,50 @@
+---
+title: "Earleaf Greenbrier (Smilax auriculata)"
+slug: "smilax-auriculata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622942000/medium.jpg"        # keep for thumbnails
+image-alt: "Earleaf Greenbrier"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Liliales"
+tax_family: "Smilacaceae"
+categories: ["Plantae", "Liliopsida", "Liliales", "Smilacaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622942000/medium.jpg" alt="Earleaf Greenbrier" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342114074">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Liliales
+-   **Family:** Smilacaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=127910)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry, sandy habitats such as scrub, flatwoods, and coastal dunes.
+
+## Natural history notes
+
+A woody, climbing vine characterized by its tough, evergreen leaves with small ear-like lobes at the base and its thorny stems. In Florida, it is commonly found in dry, sandy habitats such as scrub, flatwoods, and coastal dunes. It grows year-round in warm conditions and produces dark berries that provide food for wildlife, while its dense growth offers cover in native plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/127910-Smilax-auriculata)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3157)

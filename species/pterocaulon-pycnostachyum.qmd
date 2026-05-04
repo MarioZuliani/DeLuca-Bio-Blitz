@@ -1,0 +1,50 @@
+---
+title: "Blackroot (Pterocaulon pycnostachyum)"
+slug: "pterocaulon-pycnostachyum"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/622641917/medium.jpg"        # keep for thumbnails
+image-alt: "Blackroot"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622641917/medium.jpg" alt="Blackroot" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341967181">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=127267)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A herbaceous plant characterized by its woolly, grayish stems and narrow leaves, with dense, spike-like clusters of small whitish flower heads. In Florida, it is found in moist to wet habitats such as flatwoods, marsh edges, and wet prairies. It grows during the warmer months and is often a subtle but distinctive component of native groundcover vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/127267-Pterocaulon-pycnostachyum)
+-   [Local profile](https://www.wildflower.org/plants/result.php?id_plant=PTPY2)

@@ -1,0 +1,50 @@
+---
+title: "Early Whitetop Fleabane (Erigeron vernus)"
+slug: "erigeron-vernus"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/622611139/medium.jpg"        # keep for thumbnails
+image-alt: "Early Whitetop Fleabane"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622611139/medium.jpg" alt="Early Whitetop Fleabane" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341952034">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=162547)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry to mesic habitats.
+
+## Natural history notes
+
+A small wildflower characterized by its narrow leaves and daisy-like flower heads with white rays and yellow centers. In Florida, it is found in dry to mesic habitats such as fields, roadsides, and open woodlands, often in sandy soils. It typically blooms during the cooler to warmer months and provides a nectar source for small pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/162547-Erigeron-vernus)
+-   [Local profile](https://www.wildflower.org/plants/result.php?id_plant=ERVE)

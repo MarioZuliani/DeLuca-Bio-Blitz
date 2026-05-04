@@ -1,0 +1,50 @@
+---
+title: "Florida Bluehearts (Buchnera floridana)"
+slug: "buchnera-floridana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622629670/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Bluehearts"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Orobanchaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Orobanchaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622629670/medium.jpg" alt="Florida Bluehearts" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341960374">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Orobanchaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=287356)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry to mesic sandy habitats.
+
+## Natural history notes
+
+A slender wildflower characterized by its narrow leaves and small blue to violet tubular flowers arranged along upright stems. In Florida, it is found in dry to mesic sandy habitats such as flatwoods, sandhills, and open pine woodlands. It typically blooms during the warmer months and, like other species in the genus, is hemiparasitic, obtaining some nutrients from the roots of nearby plants.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/287356-Buchnera-floridana)
+-   [Local profile](https://fsus.ncbg.unc.edu/show-taxon-detail.php?taxonid=5553)

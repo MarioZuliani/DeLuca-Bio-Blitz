@@ -1,0 +1,50 @@
+---
+title: "Drumheads Milkwort (Senega cruciata)"
+slug: "senega-cruciata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621892734/medium.jpg"        # keep for thumbnails
+image-alt: "Drumheads Milkwort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Polygalaceae"
+categories: ["Plantae", "Magnoliopsida", "Fabales", "Polygalaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621892734/medium.jpg" alt="Drumheads Milkwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/swagner23">
+swagner23</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341596550">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Polygalaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1569044)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet, sandy habitats.
+
+## Natural history notes
+
+A small wildflower characterized by its narrow leaves and compact, rounded clusters of tiny pink to purplish flowers that resemble small drumheads. In Florida, it is found in moist to wet, sandy habitats such as flatwoods, wet prairies, and seepage areas. It grows during the warmer months and is often a subtle component of groundcover vegetation in open wetlands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1569044-Senega-cruciata)
+-   [Local profile](https://florida.plantatlas.usf.edu/Genus/1821)

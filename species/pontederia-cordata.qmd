@@ -1,0 +1,50 @@
+---
+title: "Pickerelweed (Pontederia cordata)"
+slug: "pontederia-cordata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622713102/medium.jpg"        # keep for thumbnails
+image-alt: "Pickerelweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Commelinales"
+tax_family: "Pontederiaceae"
+categories: ["Plantae", "Liliopsida", "Commelinales", "Pontederiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622713102/medium.jpg" alt="Pickerelweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/hoodpooh">
+hoodpooh</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342001100">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Commelinales
+-   **Family:** Pontederiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=52599)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in shallow freshwater habitats.
+
+## Natural history notes
+
+An emergent aquatic plant characterized by its broad, heart-shaped leaves and spikes of bright blue to violet flowers. In Florida, it is commonly found in shallow freshwater habitats such as marshes, pond margins, and slow-moving streams. It grows during the warmer months and provides important habitat and nectar resources for aquatic insects and pollinators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/52599-Pontederia-cordata)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/993)

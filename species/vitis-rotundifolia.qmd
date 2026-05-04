@@ -1,0 +1,50 @@
+---
+title: "Muscadine (Vitis rotundifolia)"
+slug: "vitis-rotundifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624014486/medium.jpg"        # keep for thumbnails
+image-alt: "Muscadine"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Vitales"
+tax_family: "Vitaceae"
+categories: ["Plantae", "Magnoliopsida", "Vitales", "Vitaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624014486/medium.jpg" alt="Muscadine" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jacksonmartin336">
+jacksonmartin336</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342686983">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Vitales
+-   **Family:** Vitaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=82529)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in forests, thickets, and along edges of wooded areas.
+
+## Natural history notes
+
+A woody, climbing vine characterized by its thick, rounded leaves and tendrils that allow it to climb over trees and shrubs. In Florida, it is commonly found in forests, thickets, and along edges of wooded areas. It grows during the warmer months and produces dark purple to bronze grapes that provide an important food source for wildlife.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/82529-Vitis-rotundifolia)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/vitis-rotundifolia/)

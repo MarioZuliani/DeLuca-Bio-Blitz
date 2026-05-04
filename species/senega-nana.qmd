@@ -1,0 +1,50 @@
+---
+title: "Candyroot (Senega nana)"
+slug: "senega-nana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625195892/medium.jpg"        # keep for thumbnails
+image-alt: "Candyroot"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Polygalaceae"
+categories: ["Plantae", "Magnoliopsida", "Fabales", "Polygalaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625195892/medium.jpg" alt="Candyroot" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/343241026">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Polygalaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1568926)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry, sandy habitats.
+
+## Natural history notes
+
+A small wildflower characterized by its low-growing habit, narrow leaves, and clusters of tiny pink to purplish flowers. In Florida, it is found in dry, sandy habitats such as scrub, sandhills, and open pine flatwoods. It grows during the warmer months and is often a subtle component of groundcover vegetation in fire-maintained ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1568926-Senega-nana)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-senega-nana/)

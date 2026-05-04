@@ -1,0 +1,50 @@
+---
+title: "Climbing Maidenhair (Lygodium microphyllum)"
+slug: "lygodium-microphyllum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622942702/medium.jpg"        # keep for thumbnails
+image-alt: "Climbing Maidenhair"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Schizaeales"
+tax_family: "Lygodiaceae"
+categories: ["Plantae", "Polypodiopsida", "Schizaeales", "Lygodiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622942702/medium.jpg" alt="Climbing Maidenhair" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/342114354">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Schizaeales
+-   **Family:** Lygodiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=164986)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A twining fern characterized by its climbing fronds with many small leaflets that can grow extensively over surrounding vegetation. In Florida, it is found in moist to wet habitats such as swamps, wetlands, and forest edges. It grows year-round in suitable conditions and is considered a highly invasive species, capable of forming dense mats that smother native plants and alter natural ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/164986-Lygodium-microphyllum)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/lygodium-microphyllum/)

@@ -1,0 +1,50 @@
+---
+title: "Peelbark St. John's Wort (Hypericum fasciculatum)"
+slug: "hypericum-fasciculatum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622655985/medium.jpg"        # keep for thumbnails
+image-alt: "Peelbark St. John's Wort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Hypericaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Hypericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622655985/medium.jpg" alt="Peelbark St. John's Wort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marykeim">
+marykeim</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/341973131">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Hypericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=635336)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in moist to wet habitats.
+
+## Natural history notes
+
+A shrub characterized by its fine, needle-like leaves and distinctive peeling bark on older stems. In Florida, it is commonly found in moist to wet habitats such as flatwoods, marsh edges, and wet prairies. It typically blooms during the warmer months, producing bright yellow flowers, and is well adapted to fire-maintained ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/635336-Hypericum-fasciculatum)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-hypericum-fasciculatum/)

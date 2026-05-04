@@ -1,0 +1,50 @@
+---
+title: "Coastal Plain Staggerbush (Lyonia fruticosa)"
+slug: "lyonia-fruticosa"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625743803/medium.jpg"        # keep for thumbnails
+image-alt: "Coastal Plain Staggerbush"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Ericales"
+tax_family: "Ericaceae"
+categories: ["Plantae", "Magnoliopsida", "Ericales", "Ericaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625743803/medium.jpg" alt="Coastal Plain Staggerbush" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/duanecher">
+duanecher</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/343507025">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Ericales
+-   **Family:** Ericaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=164988)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in dry to mesic sandy habitats.
+
+## Natural history notes
+
+A deciduous shrub characterized by its slender branches, narrow leaves, and clusters of small, urn-shaped white to pinkish flowers. In Florida, it is found in dry to mesic sandy habitats such as flatwoods, scrub, and pine barrens. It typically blooms in spring and is well adapted to nutrient-poor, fire-maintained ecosystems, often occurring as part of native shrub communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/164988-Lyonia-fruticosa)
+-   [Local profile](https://www.fnps.org/plant/lyonia-fruticosa#gsc.tab=0)

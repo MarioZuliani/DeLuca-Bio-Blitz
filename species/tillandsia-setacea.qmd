@@ -1,0 +1,50 @@
+---
+title: "Southern Needleleaf Airplant (Tillandsia setacea)"
+slug: "tillandsia-setacea"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625745065/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Needleleaf Airplant"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Bromeliaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Bromeliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625745065/medium.jpg" alt="Southern Needleleaf Airplant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/duanecher">
+duanecher</a> (CC BY-NC) via <a href="https://www.inaturalist.org/observations/343507622">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Bromeliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=169768)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in humid habitats.
+
+## Natural history notes
+
+An epiphytic plant characterized by its thin, wiry, needle-like leaves that form airy clumps on tree branches. In Florida, it is found in humid habitats such as hammocks, swamps, and coastal forests. It absorbs moisture and nutrients from the air rather than soil and produces small flowers on slender spikes, contributing to the diversity of epiphytic plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/169768-Tillandsia-setacea)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/717)
