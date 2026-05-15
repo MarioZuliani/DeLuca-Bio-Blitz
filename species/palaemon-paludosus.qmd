@@ -1,0 +1,50 @@
+---
+title: "Eastern Grass Shrimp (Palaemon paludosus)"
+slug: "palaemon-paludosus"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354611608/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern Grass Shrimp"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Malacostraca"
+tax_order: "Decapoda"
+tax_family: "Palaemonidae"
+categories: ["Animalia", "Malacostraca", "Decapoda", "Palaemonidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354611608/medium.jpg" alt="Eastern Grass Shrimp" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200937702">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Malacostraca
+-   **Order:** Decapoda
+-   **Family:** Palaemonidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1072083)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in ponds, lakes, marshes, swamps, ditches, and slow-moving streams.
+
+## Natural history notes
+
+A small freshwater shrimp characterized by its nearly transparent body, long antennae, and slender legs. In Florida, it is found in ponds, lakes, marshes, swamps, ditches, and slow-moving streams with aquatic vegetation or submerged cover. It feeds on algae, detritus, and small organic particles, serving as an important food source for fish, wading birds, and other aquatic predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/41663-Procyon-lotor)
+-   [Local profile](https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1207)

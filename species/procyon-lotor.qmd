@@ -1,0 +1,51 @@
+---
+title: "Common Raccoon (Procyon lotor)"
+slug: "procyon-lotor"
+group: "Mammalia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622203850/medium.jpg"        # keep for thumbnails
+image-alt: "Common Raccoon"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Mammalia"
+tax_order: "Artiodactyla"
+tax_family: "Suidae"
+categories: ["Animalia", "Mammalia", "Artiodactyla", "Suidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622203850/medium.jpg" alt="Common Raccoon" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341750770">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Mammalia
+-   **Order:** Artiodactyla
+-   **Family:** Suidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=41663)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida found in forests, hammocks, wetlands, mangroves, agricultural areas, parks, yards, and urban or suburban areas.
+
+## Natural history notes
+
+A medium-sized mammal characterized by its grayish fur, black facial mask, ringed tail, dexterous front paws, and pointed snout. In Florida, it is found in a wide variety of habitats including forests, hammocks, wetlands, mangroves, agricultural areas, parks, yards, and urban or suburban areas. It is mostly active at night and feeds opportunistically on fruits, nuts, insects, crayfish, eggs, small animals, carrion, and human-associated food sources, often using tree cavities, logs, burrows, or sheltered structures for cover.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/41663-Procyon-lotor)
+-   [IUCN Red List](https://www.iucnredlist.org/ja/species/41686/45216638)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.100362/Procyon_lotor_auspicatus)

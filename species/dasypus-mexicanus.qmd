@@ -1,0 +1,51 @@
+---
+title: "Mexican Long-nosed Armadillo (Dasypus mexicanus)"
+slug: "sasypus-mexicanus"
+group: "Mammalia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355365220/medium.jpeg"        # keep for thumbnails
+image-alt: "Mexican Long-nosed Armadillo"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Mammalia"
+tax_order: "Cingulata"
+tax_family: "Dasypodidae"
+categories: ["Animalia", "Mammalia", "Cingulata", "Dasypodidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355365220/medium.jpeg" alt="Mexican Long-nosed Armadillo" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201321157">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Mammalia
+-   **Order:** Cingulata
+-   **Family:** Dasypodidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1647419)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida found in forests, pine flatwoods, hammocks, pastures, lawns, roadsides, and other disturbed areas.
+
+## Natural history notes
+
+A medium-sized burrowing mammal characterized by its armored body, pointed snout, short legs, strong claws, and long tapering tail. In Florida, it is commonly found in forests, pine flatwoods, hammocks, pastures, lawns, roadsides, and other disturbed areas with loose soils for digging. It is mostly active at night and feeds mainly on insects, grubs, worms, and other small invertebrates, often leaving shallow foraging holes as it searches through soil and leaf litter.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1647419-Dasypus-mexicanus)
+-   [IUCN Red List](https://www.iucnredlist.org/fr/species/6290/47440785)
+-   [Local profile](https://www.miamiherald.com/news/nation-world/national/article289577360.html)

@@ -1,0 +1,51 @@
+---
+title: "Eastern Mole (Scalopus aquaticus)"
+slug: "scalopus-aquaticus"
+group: "Mammalia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/511943117/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern Mole"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Mammalia"
+tax_order: "Eulipotyphla"
+tax_family: "Talpidae"
+categories: ["Animalia", "Mammalia", "Eulipotyphla", "Talpidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/511943117/medium.jpg" alt="Eastern Mole" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/mnd10">
+mnd10</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/284838436">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Mammalia
+-   **Order:** Eulipotyphla
+-   **Family:** Talpidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=47014)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida found in pine flatwoods, fields, lawns, gardens, pastures, and open woodlands.
+
+## Natural history notes
+
+A small burrowing mammal characterized by its cylindrical body, velvety gray to brown fur, pointed snout, tiny eyes, and broad front feet adapted for digging. In Florida, it is found in sandy or loose soils in habitats such as pine flatwoods, fields, lawns, gardens, pastures, and open woodlands. It spends most of its life underground, creating shallow tunnels while feeding mainly on earthworms, insects, and other soil invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/47014-Scalopus-aquaticus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/41471/115188304)
+-   [Local profile](https://research.fs.usda.gov/feis/species-reviews/scni)

@@ -1,0 +1,50 @@
+---
+title: "Cuban Tree Frog (Osteopilus septentrionalis)"
+slug: "osteopilus-septentrionalis"
+group: "Amphibia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354621039/medium.jpg"        # keep for thumbnails
+image-alt: "Cuban Tree Frog"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Amphibia"
+tax_order: "Anura"
+tax_family: "Hylidae"
+categories: ["Animalia", "Amphibia", "Anura", "Hylidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354621039/medium.jpg" alt="Cuban Tree Frog" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/katpturethis">
+katpturethis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200941988">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Amphibia
+-   **Order:** Anura
+-   **Family:** Hylidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=24382)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in urban and suburban areas.
+
+## Natural history notes
+
+A large nonnative treefrog characterized by its warty skin, large toe pads, bulging eyes, and variable gray, tan, brown, or green coloration. In Florida, it is commonly found in urban and suburban areas, gardens, yards, wetlands, tree cavities, buildings, and other moist sheltered habitats. It is mostly active at night and feeds on insects, small frogs, lizards, and other small animals, often outcompeting or preying on native treefrogs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/24382-Osteopilus-septentrionalis)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/UW259)

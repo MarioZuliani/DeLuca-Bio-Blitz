@@ -1,0 +1,51 @@
+---
+title: "American Black Bear (Ursus americanus)"
+slug: "ursus-americanus"
+group: "Mammalia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/509623392/medium.jpg"        # keep for thumbnails
+image-alt: "American Black Bear"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Mammalia"
+tax_order: "Carnivora"
+tax_family: "Ursidae"
+categories: ["Animalia", "Mammalia", "Carnivora", "Ursidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/509623392/medium.jpg" alt="American Black Bear" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coolcrittersyt">
+coolcrittersyt</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/283610065">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Mammalia
+-   **Order:** Carnivora
+-   **Family:** Ursidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=41638)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Rare species in Florida found in pine flatwoods, hardwood swamps, hammocks, and large natural areas.
+
+## Natural history notes
+
+A large native mammal characterized by its stocky body, black fur, short tail, rounded ears, and strong limbs with large claws. In Florida, it is found mainly in forested habitats such as pine flatwoods, hardwood swamps, hammocks, and large natural areas with dense cover. It is an omnivore that feeds on fruits, nuts, insects, small animals, and carrion, and it requires large connected habitats for foraging, denning, and movement.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/41638-Ursus-americanus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/41687/114251609)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.103279/Ursus_americanus_floridanus)
