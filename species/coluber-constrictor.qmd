@@ -1,0 +1,50 @@
+---
+title: "North American Racer (Coluber constrictor)"
+slug: "coluber-constrictor"
+group: "Amphibia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621774200/medium.jpg"        # keep for thumbnails
+image-alt: "North American Racer"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Reptilia"
+tax_order: "Squamata"
+tax_family: "Colubridae"
+categories: ["Animalia", "Reptilia", "Squamata", "Colubridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621774200/medium.jpg" alt="North American Racer" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sunshinesara">
+sunshinesara</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341537230">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Squamata
+-   **Family:** Colubridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=27137)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed
+-   **Rarity note:** Common species found throughout Florida.
+
+## Natural history notes
+
+A fast-moving, slender, nonvenomous snake characterized by its glossy black body, pale chin and throat, and smooth scales. In Florida, it is found in a wide variety of habitats including pine flatwoods, scrub, hardwood hammocks, marsh edges, fields, roadsides, and suburban areas. It is active during the day and feeds on small animals such as lizards, frogs, rodents, insects, birds, and other snakes, often relying on speed to capture prey and escape predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/27140-Coluber-constrictor-priapus)
+-   [Local profile](https://www.floridamuseum.ufl.edu/florida-snake-id/snake/north-american-racer/)

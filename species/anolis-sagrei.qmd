@@ -1,0 +1,50 @@
+---
+title: "Brown Anole (Anolis sagrei)"
+slug: "anolis-sagrei"
+group: "Amphibia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621823481/nedium.jpg"        # keep for thumbnails
+image-alt: "Brown Anole"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Reptilia"
+tax_order: "Squamata"
+tax_family: "Anolidae"
+categories: ["Animalia", "Reptilia", "Squamata", "Anolidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621823481/medium.jpg" alt="Brown Anole" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/onielalvarezabreu">
+onielalvarezabreu</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341562144">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Squamata
+-   **Family:** Anolidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=116461)
+
+## Conservation & rarity context
+
+-   IUCN: Not listed
+-   **Rarity note:** Common species found throughout Florida.
+
+## Natural history notes
+
+A small, nonnative lizard characterized by its brown to grayish body, variable darker markings, and a bright orange to red throat fan in males. In Florida, it is common in disturbed and urban habitats such as yards, gardens, sidewalks, parks, roadsides, and building edges. It is active during the day and often seen basking on low vegetation, fences, walls, and tree trunks, feeding mainly on small insects and other invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/116461-Anolis-sagrei)
+-   [Local profile](https://www.reptilesofecuador.com/anolis_sagrei.html)
