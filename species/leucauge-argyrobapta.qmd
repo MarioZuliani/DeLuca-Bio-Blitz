@@ -1,0 +1,50 @@
+---
+title: "Banded Garden Spider (Leucauge argyrobapta)"
+slug: "leucauge-argyrobapta"
+group: "Arachnida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623532438/medium.jpg"        # keep for thumbnails
+image-alt: "Banded Garden Spider"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Tetragnathidae"
+categories: ["Animalia", "Arachnida", "Araneae", "Tetragnathidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623532438/medium.jpg" alt="Banded Garden Spider" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/aeheerema">
+aeheerema</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342404397">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Tetragnathidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=776900)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in shaded areas such as forests, hammocks and wetlands.
+
+## Natural history notes
+
+A small orb-weaving spider characterized by its slender green body, long legs, and shiny silver to orange markings on the abdomen. In Florida, it is commonly found in forests, hammocks, gardens, yards, wetlands, and other shaded areas with shrubs or low vegetation. It builds delicate horizontal or angled webs and feeds on small flying insects caught in the web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/776900-Leucauge-argyrobapta)
+-   [Local profile](https://www.lsuagcenter.com/~/media/system/8/8/4/f/884fae15c02bc55c9cf8805ada55da97/orchard%20spiderpdf.pdf)

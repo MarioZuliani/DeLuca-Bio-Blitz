@@ -1,0 +1,49 @@
+---
+title: "Marpissa bina"
+slug: "marpissa-bina"
+group: "Arachnida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/505402420/medium.jpg"        # keep for thumbnails
+image-alt: "Marpissa bina"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Salticidae"
+categories: ["Animalia", "Arachnida", "Araneae", "Salticidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/505402420/medium.jpg" alt="Marpissa bina" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ajohnson2026">
+ajohnson2026</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/281354773">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Salticidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=824166)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Uncommon species in Florida found on tree trunks, branches, shrubs, grasses, fence posts, and other vertical surfaces.
+## Natural history notes
+
+A small to medium-sized jumping spider characterized by its flattened body, relatively long legs, and brown to gray mottled coloration that helps it blend into bark, stems, and dried vegetation. In Florida, it is found on tree trunks, branches, shrubs, grasses, fence posts, and other vertical or low surfaces where it actively searches for prey. It does not build a prey-capturing web; instead, it uses its sharp vision and quick jumping movements to stalk and capture small insects and other arthropods, often resting in crevices, under bark, or among vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/824166-Marpissa-bina)
+-   [Local profile](https://www.bugguide.net/node/view/37519)

@@ -1,0 +1,50 @@
+---
+title: "Six-spotted Fishing Spider (Dolomedes triton)"
+slug: "dolomedes-triton"
+group: "Arachnida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623049888/mediun.jpg"        # keep for thumbnails
+image-alt: "Six-spotted Fishing Spider"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Dolomedidae"
+categories: ["Animalia", "Arachnida", "Araneae", "Dolomedidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623049888/medium.jpg" alt="Six-spotted Fishing Spider" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342169450">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Dolomedidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=121437)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found around ponds, marshes, swamps, streams, lakes, and other wetlands.
+
+## Natural history notes
+
+A large semi-aquatic spider characterized by its long legs, brown body, pale side stripes, and six pale spots on the underside of the abdomen. In Florida, it is found around ponds, marshes, swamps, streams, lakes, and other wetlands with floating or emergent vegetation. It hunts near the water surface and feeds on aquatic insects, tadpoles, small fish, and other small animals, often resting on vegetation or running across the water when disturbed.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/121437-Dolomedes-triton)
+-   [Local profile](https://animalia.bio/six-spotted-fishing-spider)

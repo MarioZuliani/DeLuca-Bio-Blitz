@@ -1,0 +1,51 @@
+---
+title: "Blue-spotted Sunfish (Enneacanthus gloriosus)"
+slug: "enneacanthus-gloriosus"
+group: "Actinopterygii"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354607280/medium.jpg"        # keep for thumbnails
+image-alt: "Blue-spotted Sunfish"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Actinopterygii"
+tax_order: "Centrarchiformes"
+tax_family: "Centrarchidae"
+categories: ["Animalia", "Actinopterygii", "Centrarchiformes", "Centrarchidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354607280/medium.jpg" alt="Blue-spotted Sunfish" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200935306">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Actinopterygii
+-   **Order:** Centrarchiformes
+-   **Family:** Centrarchidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=99992)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida found in slow-moving freshwater habitats.
+
+## Natural history notes
+
+A native sunfish characterized by its deep, stocky body, large mouth, dark mottled coloration, and reddish eyes. In Florida, it is found in slow-moving freshwater habitats such as swamps, marshes, ponds, lakes, canals, and vegetated streams. It feeds on insects, crayfish, small fish, and other aquatic animals, often using dense vegetation, roots, logs, and other cover for ambush and shelter.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/104252-Lepomis-gulosus)
+-   [IUCN Red List](https://www.iucnredlist.org/ja/species/184103/15362108)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.102803/Lepomis_gulosus)

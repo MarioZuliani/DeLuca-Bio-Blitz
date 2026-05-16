@@ -1,0 +1,50 @@
+---
+title: "Spinybacked Orbweaver (Gasteracantha cancriformis)"
+slug: "gasteracantha-cancriformis"
+group: "Arachnida"
+image: "https://static.inaturalist.org/photos/622628109/medium.jpg"        # keep for thumbnails
+image-alt: "Spinybacked Orbweaver"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Araneidae"
+categories: ["Animalia", "Arachnida", "Araneae", "Araneidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622628109/medium.jpg" alt="Spinybacked Orbweaver" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341960906">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Araneidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=49540)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in forests, hammocks, gardens, yards, parks, and other areas with shrubs or trees.
+
+## Natural history notes
+
+A small orb-weaving spider characterized by its hard, flattened, brightly colored abdomen with black spots and short spine-like projections around the edges. In Florida, it is commonly found in forests, hammocks, gardens, yards, parks, and other areas with shrubs or trees for web attachment. It builds circular webs in open spaces and feeds on small flying insects caught in the web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49540-Gasteracantha-cancriformis)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN324)

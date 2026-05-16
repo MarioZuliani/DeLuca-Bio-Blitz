@@ -1,0 +1,50 @@
+---
+title: "Starbellied Orbweaver (Acanthepeira stellata)"
+slug: "acanthepeira-stellata"
+group: "Arachnida"
+image: "https://static.inaturalist.org/photos/622601049/medium.jpg"        # keep for thumbnails
+image-alt: "Starbellied Orbweaver"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Araneidae"
+categories: ["Animalia", "Arachnida", "Araneae", "Araneidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622601049/medium.jpg" alt="Starbellied Orbweaver" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341947048">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Araneidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](http://inaturalist.org/observations?project_id=191727&subview=map&taxon_id=51709)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in fields, prairies, marsh edges, gardens, roadsides, and other open areas.
+
+## Natural history notes
+
+A small orb-weaving spider characterized by its rounded abdomen with star-like projections, mottled brown coloration, and spiny outline. In Florida, it is found in fields, prairies, marsh edges, gardens, roadsides, and other open areas with grasses or low vegetation for web attachment. It builds circular webs to capture small flying insects and often rests in vegetation or near the edge of the web during the day.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/51709-Acanthepeira-stellata)
+-   [Local profile](https://www.bugguide.net/node/view/2037)

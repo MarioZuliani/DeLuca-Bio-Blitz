@@ -1,0 +1,50 @@
+---
+title: "Twin-flagged Jumping Spider (Anasaitis canosus)"
+slug: "anasaitis-canosus"
+group: "Arachnida"
+image: "https://static.inaturalist.org/photos/475061025/medium.jpeg"        # keep for thumbnails
+image-alt: "Twin-flagged Jumping Spider"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Salticidae"
+categories: ["Animalia", "Arachnida", "Araneae", "Salticidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475061025/medium.jpeg" alt="Twin-flagged Jumping Spider" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264561122">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Salticidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=311233)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found in leaf litter, gardens, yards, hammocks, and pine flatwoods.
+
+## Natural history notes
+
+A small jumping spider characterized by its compact body, short legs, dark coloration, and two pale “flag-like” markings on the abdomen. In Florida, it is found in leaf litter, gardens, yards, hammocks, pine flatwoods, forest edges, and other areas with low vegetation or ground cover. It is active during the day and hunts small insects and other invertebrates by stalking and jumping on prey rather than using a web to capture food.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/311233-Anasaitis-canosus)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN1395)

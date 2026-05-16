@@ -1,0 +1,49 @@
+---
+title: "Tigrosa annexa"
+slug: "tigrosa-annexa"
+group: "Arachnida"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474795017/medium.jpg"        # keep for thumbnails
+image-alt: "Tigrosa annexa"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Lycosidae"
+categories: ["Animalia", "Arachnida", "Araneae", "Lycosidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474795017/medium.jpg" alt="Tigrosa annexa" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/mocartner">
+mocartner</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264355681">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Lycosidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=477740)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Common species in Florida found at ground level in forest, fields, lawns and other areas with leaf litter.
+## Natural history notes
+
+A large wolf spider characterized by its robust body, long legs, and brown to grayish-brown coloration with darker striping on the cephalothorax and abdomen. In Florida, it is found in leaf litter, lawns, fields, pine flatwoods, forest edges, gardens, and other ground-level habitats with open space for hunting and nearby cover. It does not build a prey-capturing web; instead, it actively hunts insects and other arthropods on the ground, often moving at night and sheltering under debris, vegetation, or other cover during the day.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/477740-Tigrosa-annexa)
+-   [Local profile](https://spiderid.com/spider/lycosidae/tigrosa/annexa/)
