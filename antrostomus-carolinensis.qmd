@@ -1,0 +1,50 @@
+---
+title: "Chuck-will's-widow (Antrostomus carolinensis)"
+slug: "antrostomus-carolinensis"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/16038254/medium.jpeg"        # keep for thumbnails
+image-alt: "Chuck-will's-widow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Caprimulgiformes"
+tax_family: "Caprimulgidae"
+categories: ["Animal", "Aves", "Caprimulgiformes", "Caprimulgidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/16038254/medium.jpeg" alt="Chuck-will's-widow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/bcfl14">bcfl14</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/11280026">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Caprimulgiformes
+-   **Family:** Caprimulgidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=table&taxon_id=199833)
+
+## Conservation & rarity context
+
+-   IUCN: Near Threatened; Florida: Native, migratory
+-   **Rarity note:** Migratory bird found throughout Florida in the spring and fall
+
+## Natural history notes
+
+Chuck-will's-widow (Anthostomus carolinensis) is a migratory bird found throughout the southeastern United States, Mexico, Caribbean, and central and northern South America. It breeds in the U.S. and migrates south for the winter, with a year-round population found in South Florida. This nocturnal bird was named after its call and can be very vocal at night. It is typically seen at dawn and dusk, when it is out foraging for insects. 
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/199833-Antrostomus-carolinensis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22689778/154067182)
+-   [Local profile](https://florida4h.ifas.ufl.edu/florida-4-h-forest-ecology/forest-ecology-contest/contest-stations/wildlife-on-the-forest-hike/birds-/chucks-wills-widow/)
