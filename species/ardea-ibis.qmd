@@ -1,0 +1,51 @@
+---
+title: "Western Cattle-Egret (Ardea ibis)"
+slug: "ardea-ibis"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624014217/medium.jpg"        # keep for thumbnails
+image-alt: "Western Cattle-Egret"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Pelecaniformes"
+tax_family: "Ardeidae"
+categories: ["Animal", "Aves", "Pelecaniformes", "Ardeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624014217/medium.jpg" alt="Western Cattle-Egret" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jacksonmartin336">
+jacksonmartin336</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342686956">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Pelecaniformes
+-   **Family:** Ardeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=411086)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common throughout Florida, found in agricultural fields or near cattle.
+
+## Natural history notes
+
+A medium-sized white heron characterized by its compact body, short thick neck, yellow bill, and buff-orange plumes on the head, chest, and back during breeding season. In Florida, it is found in pastures, agricultural fields, lawns, roadsides, wetlands, marsh edges, and other open areas, often near cattle or other large animals. It feeds mainly on grasshoppers, crickets, flies, frogs, lizards, and other small animals, often walking through fields or following livestock and machinery that flush prey.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/411086-Ardea-ibis)
+-   [IUCN Red List](https://www.iucnredlist.org/ja/species/22697109/280979746)
+-   [Local profile](https://www.allaboutbirds.org/guide/Western_Cattle-Egret/overview)

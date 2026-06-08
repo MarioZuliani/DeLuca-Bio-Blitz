@@ -1,0 +1,50 @@
+---
+title: "Northern Bobwhite (Colinus virginianus)"
+slug: "colinus-virginianus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354877799/medium.jpg"        # keep for thumbnails
+image-alt: "Northern Bobwhite"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Galliformes"
+tax_family: "Odontophoridae"
+categories: ["Animal", "Aves", "Galliformes", "Odontophoridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354877799/medium.jpg" alt="Northern Bobwhite" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201073800">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Galliformes
+-   **Family:** Odontophoridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1280)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common throughout Florida, found in open woodlands, and early-successional habitats with grasses.
+
+## Natural history notes
+
+A small, chunky ground-dwelling quail characterized by its rounded body, short tail, mottled brown-and-rufous plumage, and bold facial pattern, with males showing a white throat and eyebrow stripe. In Florida, it is found in pine flatwoods, dry prairies, grasslands, agricultural edges, open woodlands, and early-successional habitats with grasses, forbs, and scattered shrubs for cover. It feeds mainly on seeds, leaves, insects, and other small invertebrates, usually foraging on the ground in coveys and relying on dense vegetation for nesting and escape cover.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1280-Colinus-virginianus)
+-   [Local profile](https://www.allaboutbirds.org/guide/Northern_Bobwhite/overview)

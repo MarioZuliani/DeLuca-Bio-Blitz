@@ -1,0 +1,51 @@
+---
+title: "Great Egret (Ardea alba)"
+slug: "ardea-alba"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624014198/medium.jpg"        # keep for thumbnails
+image-alt: "Great Egret"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Troglodytidae"
+categories: ["Animal", "Aves", "Passeriformes", "Troglodytidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624014198/medium.jpg" alt="Great Egret" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jacksonmartin336">
+jacksonmartin336</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342686952">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Troglodytidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=144455)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Migratory bird found throughout Florida in shallow-water habitats.
+
+## Natural history notes
+
+A large white wading bird characterized by its long neck, dagger-like yellow bill, black legs, and very long black feet. In Florida, it is found in marshes, swamps, ponds, lakes, mangroves, coastal lagoons, tidal flats, roadside ditches, and other shallow-water habitats. It feeds mainly on fish, frogs, crayfish, insects, and other small aquatic animals, usually hunting by standing still or slowly stalking through shallow water before striking quickly with its bill.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/144455-Ardea-alba)
+-   [IUCN Red List](https://www.iucnredlist.org/ja/species/22697043/280949218)
+-   [Local profile](https://www.audubon.org/field-guide/bird/great-egret)

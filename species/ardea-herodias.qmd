@@ -1,0 +1,51 @@
+---
+title: "Great Blue Heron (Ardea herodias)"
+slug: "ardea-herodias"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475900330/medium.jpeg"        # keep for thumbnails
+image-alt: "Great Blue Heron"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Pelecaniformes"
+tax_family: "Ardeidae"
+categories: ["Animal", "Aves", " Pelecaniformes", "Ardeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475900330/medium.jpeg" alt="Great Blue Heron" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264990422">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Pelecaniformes
+-   **Family:** Ardeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=4956)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in shallow water habitats.
+
+## Natural history notes
+
+A very large wading bird characterized by its blue-gray body, long neck, long legs, dagger-like bill, and dark head plume, often standing with its neck folded in an “S” shape. In Florida, it is found in marshes, swamps, ponds, lakes, rivers, mangroves, tidal flats, shorelines, roadside canals, and other shallow-water habitats. It feeds mainly on fish, frogs, crayfish, small reptiles, insects, and other aquatic animals, usually hunting by standing still or slowly stalking through shallow water before striking quickly with its bill.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/4956-Ardea-herodias)
+-   [IUCN Red List](https://www.iucnredlist.org/species/181500967/181565357)
+-   [Local profile](https://www.allaboutbirds.org/guide/Great_Blue_Heron/overview)

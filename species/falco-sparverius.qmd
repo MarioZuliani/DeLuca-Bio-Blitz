@@ -1,0 +1,51 @@
+---
+title: "American Kestrel (Falco sparverius)"
+slug: "falco-sparverius"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622838957/medium.jpg"        # keep for thumbnails
+image-alt: "American Kestrel"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Falconiformes"
+tax_family: "Falconidae"
+categories: ["Animal", "Aves", "Falconiformes", "Falconidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622838957/medium.jpg" alt="American Kestrel" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rsnyder11">
+rsnyder11</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342062790">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Falconiformes
+-   **Family:** Falconidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](http://inaturalist.org/observations?project_id=191727&subview=map&taxon_id=4665)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in open habitats.
+
+## Natural history notes
+
+A small falcon characterized by its pointed wings, long tail, rusty back and tail, blue-gray wings in males, and bold dark facial markings below the eyes. In Florida, it is found in open habitats such as dry prairies, pastures, fields, pine flatwoods, scrub, agricultural areas, roadsides, and utility corridors where perches and open hunting areas are available. It feeds mainly on grasshoppers, beetles, lizards, small birds, and small mammals, usually hunting from exposed perches or hovering briefly before dropping onto prey.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/4665-Falco-sparverius)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22696395/140950605)
+-   [Local profile](https://www.allaboutbirds.org/guide/American_Kestrel/overview)

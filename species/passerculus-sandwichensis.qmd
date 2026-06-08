@@ -1,0 +1,51 @@
+---
+title: "Savannah Sparrow (Passerculus sandwichensis)"
+slug: "passerculus-sandwichensis"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622214967/medium.jpg"        # keep for thumbnails
+image-alt: "Savannah Sparrow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Passerellidae"
+categories: ["Animal", "Aves", " Passeriformes", "Passerellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622214967/medium.jpg" alt="Savannah Sparrow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/joellikestophoto">
+joellikestophoto</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341755694">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Passerellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=9981)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in open grassy habitats.
+
+## Natural history notes
+
+A small streaky sparrow characterized by brown upperparts, pale underparts with fine dark streaking, a short notched tail, and often a yellowish spot in front of the eye. In Florida, it is mostly a winter visitor found in open grassy habitats, including prairies, pastures, marsh edges, coastal dunes, agricultural fields, roadsides, and sparse lawns. It feeds mainly on seeds during the nonbreeding season, but also takes insects and other small invertebrates, usually foraging low on the ground while staying close to grasses or other cover.
+
+## References / links
+
+-   [iNaturalist species page](http://inaturalist.org/taxa/9981-Passerculus-sandwichensis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/103780243/138559631)
+-   [Local profile](https://www.allaboutbirds.org/guide/Savannah_Sparrow/overview)

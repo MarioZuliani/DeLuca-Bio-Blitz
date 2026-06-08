@@ -1,0 +1,51 @@
+---
+title: "Northern Harrier (Circus hudsonius)"
+slug: "circus-hudsonius"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624014575/medium.jpg"        # keep for thumbnails
+image-alt: "Northern Harrier"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Accipitriformes"
+tax_family: "Accipitridae"
+categories: ["Animal", "Aves", " Accipitriformes", "Accipitridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624014575/medium.jpg" alt="Northern Harrier" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/mjw246">
+mjw246</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341930656">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Accipitriformes
+-   **Family:** Accipitridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=558446)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common wintering species in Florida, found in open marshes, agricultural fields and coastal flats.
+
+## Natural history notes
+
+A medium-sized raptor characterized by its long wings, long tail, owl-like facial disk, and distinctive white rump patch, with males gray above and pale below while females and juveniles are brown and streaked. In Florida, it is mostly a winter visitor found in open habitats such as marshes, wet prairies, grasslands, pastures, agricultural fields, and coastal flats. It feeds mainly on small mammals, birds, reptiles, and other small animals, usually hunting by flying low over open ground with slow, buoyant wingbeats while listening and watching for prey.
+
+## References / links
+
+-   [iNaturalist species page](http://inaturalist.org/taxa/558446-Circus-hudsonius)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22727740/152420106)
+-   [Local profile](https://www.allaboutbirds.org/guide/Northern_Harrier/overview)

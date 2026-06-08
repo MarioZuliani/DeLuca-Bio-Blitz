@@ -1,0 +1,51 @@
+---
+title: "Rock Pigeon (Columba livia)"
+slug: "columba-livia"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475899836/medium.jpeg"        # keep for thumbnails
+image-alt: "Rock Pigeon"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Columbiformes"
+tax_family: "Columbidae"
+categories: ["Animal", "Aves", " Columbiformes", "Columbidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475899836/medium,.jpeg" alt="Rock Pigeon" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264990383">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Columbiformes
+-   **Family:** Columbidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=558446)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in suburban areas.
+
+## Natural history notes
+
+A medium-sized dove characterized by its gray body, darker head, iridescent green and purple sheen on the neck, pale wing patches, and two dark bars across the wings. In Florida, it is found mainly in urban and suburban areas, including cities, parks, bridges, buildings, farms, parking lots, and waterfronts where ledges or structures provide nesting sites. It feeds mostly on seeds, grains, and human-associated food, usually foraging on the ground in flocks and nesting year-round on buildings or other sheltered structures.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/122767-Columba-livia-domestica)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22690066/281965783)
+-   [Local profile](https://ebird.org/species/rocpig)

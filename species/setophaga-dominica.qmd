@@ -1,0 +1,51 @@
+---
+title: "Yellow-throated Warbler (Setophaga dominica)"
+slug: "setophaga-dominica"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475896832/medium.jpeg"        # keep for thumbnails
+image-alt: "Yellow-throated Warbler"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Parulidae"
+categories: ["Animal", "Aves", " Passeriformes", "Parulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475896832/medium.jpeg" alt="Yellow-throated Warbler" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264988728">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Parulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=145246)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in pine forests, cypress swamps, hammocks, live oak woodlands, palm groves, parks, and wooded neighborhoods.
+
+## Natural history notes
+
+A small migratory songbird characterized by gray upperparts, black-and-white facial markings, a bright yellow throat, white underparts, and dark streaking along the sides. In Florida, it is found in pine forests, cypress swamps, hammocks, live oak woodlands, palm groves, parks, and wooded neighborhoods, often foraging high in trees or among palm fronds. It feeds mainly on insects, spiders, and other small arthropods, moving along branches, bark, Spanish moss, and foliage while searching for prey.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/145246-Setophaga-dominica)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22724793/138788318)
+-   [Local profile](https://www.audubon.org/field-guide/bird/yellow-throated-warbler)

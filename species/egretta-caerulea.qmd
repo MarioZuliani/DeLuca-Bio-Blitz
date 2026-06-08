@@ -1,0 +1,51 @@
+---
+title: "Little Blue Heron (Egretta caerulea)"
+slug: "egretta-caerulea"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622180970/medium.jpg"        # keep for thumbnails
+image-alt: "Little Blue Heron"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Pelecaniformes"
+tax_family: "Ardeidae"
+categories: ["Animal", "Aves", " Pelecaniformes", "Ardeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622180970/medium.jpg" alt="Little Blue Heron" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskiss">
+levihoskiss</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341752246">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Pelecaniformes
+-   **Family:** Ardeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=4937)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A medium-sized heron characterized by its slender body, long neck, bluish-gray plumage as an adult, and dark-tipped bill with a bluish base. Juveniles are mostly white and can resemble egrets, but they gradually molt into the darker adult plumage. In Florida, it is found in marshes, swamps, ponds, mangroves, tidal flats, wet prairies, and shallow coastal or freshwater wetlands. It feeds mainly on small fish, frogs, crayfish, insects, and other aquatic animals, usually hunting by slowly stalking through shallow water or standing still before striking with its bill.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/4937-Egretta-caerulea)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22696944/281845065)
+-   [Local profile](https://www.allaboutbirds.org/guide/Little_Blue_Heron/overview)

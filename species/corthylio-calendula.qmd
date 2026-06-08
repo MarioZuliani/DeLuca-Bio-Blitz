@@ -1,0 +1,51 @@
+---
+title: "Ruby-crowned Kinglet (Corthylio calendula)"
+slug: "corthylio-calendula"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622641438/medium.jpg"        # keep for thumbnails
+image-alt: "Ruby-crowned Kinglet"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Regulidae"
+categories: ["Animal", "Aves", " Passeriformes", "Regulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622641438/medium.jpg" alt="Ruby-crowned Kinglet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341967110">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Regulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1289388)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common wintering species in Florida, found in wooded or shrubby habitats.
+
+## Natural history notes
+
+A tiny, active songbird characterized by olive-gray upperparts, pale underparts, bold white eye ring, white wing bars, and a small red crown patch that is usually hidden except when excited. In Florida, it is mostly a winter visitor found in hammocks, pine forests, cypress swamps, mangroves, forest edges, parks, yards, and other wooded or shrubby habitats. It feeds mainly on tiny insects, spiders, and other small arthropods, foraging quickly among leaves, twigs, and branches and often flicking its wings as it moves.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1289388-Corthylio-calendula)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22712567/137575998)
+-   [Local profile](https://www.allaboutbirds.org/guide/Ruby-crowned_Kinglet/overview)

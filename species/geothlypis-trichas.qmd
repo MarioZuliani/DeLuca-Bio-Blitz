@@ -1,0 +1,51 @@
+---
+title: "Common Yellowthroat (Geothlypis trichas)"
+slug: "geothlypis-trichas"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622621366/medium.jpg"        # keep for thumbnails
+image-alt: "Common Yellowthroat"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Parulidae"
+categories: ["Animal", "Aves", " Passeriformes", "Parulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622621366/medium.jpg" alt="Common Yellowthroat" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341957790">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Parulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=9721)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in marshes, wetlands and other areas of dense low vegetation.
+
+## Natural history notes
+
+A small songbird characterized by its olive-brown upperparts, bright yellow throat and breast, and rounded tail, with males showing a distinctive black facial mask bordered by pale gray or whitish above. In Florida, it is found in marshes, wet prairies, pond edges, mangroves, brushy wetlands, ditches, fields, and other dense low vegetation, especially near water. It feeds mainly on insects, spiders, and other small invertebrates, usually foraging low in grasses, reeds, shrubs, and tangled vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/9721-Geothlypis-trichas)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22721836/137315462)
+-   [Local profile](https://www.audubon.org/field-guide/bird/common-yellowthroat)

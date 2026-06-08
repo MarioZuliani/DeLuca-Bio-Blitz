@@ -1,0 +1,51 @@
+---
+title: "Carolina Wren (Thryothorus ludovicianus)"
+slug: "thryothorus-ludovicianus"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622632675/medium.jpg"        # keep for thumbnails
+image-alt: "Carolina Wren"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Troglodytidae"
+categories: ["Animal", "Aves", "Passeriformes", "Troglodytidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622632675/medium.jpg" alt="Carolina Wren" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341962562">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Troglodytidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=7513)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Migratory bird found throughout Florida in areas of dense coverage.
+
+## Natural history notes
+
+A small, chunky songbird characterized by warm reddish-brown upperparts, buffy underparts, a long slightly curved bill, and a bold white eyebrow stripe. In Florida, it is found in dense shrubs, forest understory, hammocks, thickets, brushy yards, parks, swamps, and other areas with tangled vegetation or cover. It feeds mainly on insects, spiders, and other small invertebrates, often foraging low in vegetation, leaf litter, logs, and crevices, and is frequently detected by its loud, ringing song.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/7513-Thryothorus-ludovicianus)
+-   [IUCN Red List](https://www.iucnredlist.org/ja/species/103887192/139754660)
+-   [Local profile](https://www.audubon.org/field-guide/bird/carolina-wren)

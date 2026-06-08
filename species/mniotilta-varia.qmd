@@ -1,0 +1,51 @@
+---
+title: "Black-and-white Warbler (Mniotilta varia)"
+slug: "mniotilta-varia"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622181042/medium.jpg"        # keep for thumbnails
+image-alt: "Black-and-white Warbler"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Parulidae"
+categories: ["Animal", "Aves", " Passeriformes", "Parulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622181042/medium.jpg" alt="Black-and-white Warbler" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskiss">
+levihoskiss</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341752269">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Parulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=10286)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in forests, swampos, mangroves, and other habitats with mature forests.
+
+## Natural history notes
+
+A small creeping warbler characterized by its bold black-and-white striping, thin slightly downcurved bill, and nuthatch-like habit of moving along tree trunks and branches. In Florida, it is found in hammocks, pine forests, cypress swamps, mangroves, wooded parks, forest edges, and other habitats with mature trees. It feeds mainly on insects, spiders, and other small arthropods, foraging by creeping over bark, limbs, and mossy surfaces while probing into crevices for prey.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/10286-Mniotilta-varia)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22721758/137353554)
+-   [Local profile](https://www.audubon.org/field-guide/bird/black-and-white-warbler)

@@ -1,0 +1,51 @@
+---
+title: "White-eyed Vireo (Vireo griseus)"
+slug: "vireo-griseus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624014238/medium.jpg"        # keep for thumbnails
+image-alt: "White-eyed Vireo"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Vireonidae"
+categories: ["Animal", "Aves", "Passeriformes", "Vireonidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624014238/medium.jpg" alt="White-eyed Vireo" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jacksonmartin336">
+jacksonmartin336</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342686958">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Vireonidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](inaturalist.org/observations?project_id=191727&subview=map&taxon_id=17408)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Migratory bird found throughout Florida in areas with thick vegetation for cover.
+
+## Natural history notes
+
+A small songbird characterized by olive-green upperparts, yellowish sides, pale wing bars, and a bold white eye that gives the species its name. In Florida, it is found in dense shrubs, thickets, forest edges, hammocks, mangroves, scrub, and overgrown fields where thick vegetation provides cover for foraging and nesting. It feeds mainly on insects, spiders, and other small invertebrates, often moving actively through low branches and tangles, and may also eat small fruits or berries outside the breeding season.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/17408-Vireo-griseus)
+-   [IUCN Red List](https://www.iucnredlist.org/ja/species/22705188/137793946)
+-   [Local profile](https://www.audubon.org/field-guide/bird/white-eyed-vireo)

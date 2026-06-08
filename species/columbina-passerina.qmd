@@ -1,0 +1,51 @@
+---
+title: "Common Ground Dove (Columbina passerina)"
+slug: "columbina-passerina"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622639864/medium.jpg"        # keep for thumbnails
+image-alt: "Common Ground Dove"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Columbiformes"
+tax_family: "Columbidae"
+categories: ["Animal", "Aves", "Columbiformes", "Columbidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622639864/medium.jpg" alt="Common Ground Dove" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341966073">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Columbiformes
+-   **Family:** Columbidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=3545)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common throughout Florida, found in areas with sparse grass or low vegetation.
+
+## Natural history notes
+
+A tiny ground-dwelling dove characterized by its sandy brown coloration, scaled-looking breast and neck, short tail, and small dark bill. In Florida, it is found in open sandy habitats, scrub, pine flatwoods, prairies, roadsides, lawns, agricultural edges, and coastal areas with sparse grasses or low vegetation. It feeds mainly on small seeds, usually foraging on the ground in pairs or small groups, and often flies up with a soft whirring sound when disturbed.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/3545-Columbina-passerina)
+-   [IUCN Red List](https://www.iucnredlist.org/ja/species/22690774/139715551)
+-   [Local profile](https://www.allaboutbirds.org/guide/Common_Ground_Dove/overview)

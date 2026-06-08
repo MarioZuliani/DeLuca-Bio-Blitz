@@ -1,0 +1,51 @@
+---
+title: "American Crow (Corvus brachyrhynchos)"
+slug: "corvus-brachyrhynchos"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622120066/medium.jpg"        # keep for thumbnails
+image-alt: "American Crow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Corvidae"
+categories: ["Animal", "Aves", "Passeriformes", "Corvidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622120066/medium.jpg" alt="American Crow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341737750">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Corvidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=8021)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Migratory bird found throughout Florida in open and semi-open habitats with trees.
+
+## Natural history notes
+
+A large black songbird characterized by its glossy black plumage, stout bill, broad wings, and loud cawing calls. In Florida, it is found in forests, pine flatwoods, agricultural areas, wetlands, suburbs, parks, roadsides, and other open or semi-open habitats with trees for nesting and roosting. It is highly adaptable and omnivorous, feeding on insects, seeds, fruits, carrion, eggs, small animals, and human-associated food, often foraging on the ground or in small groups.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/8021-Corvus-brachyrhynchos)
+-   [IUCN Red List](https://www.iucnredlist.org/ja/species/22705990/131945410)
+-   [Local profile](https://www.audubon.org/field-guide/bird/american-crow)

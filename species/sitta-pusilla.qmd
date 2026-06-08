@@ -1,0 +1,51 @@
+---
+title: "Brown-headed Nuthatch (Sitta pusilla)"
+slug: "sitta-pusilla"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622613426/medium.jpg"        # keep for thumbnails
+image-alt: "Brown-headed Nuthatch"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Sittidae"
+categories: ["Animal", "Aves", " Passeriformes", "Sittidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622613426/medium.jpg" alt="Brown-headed Nuthatch" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341953251">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Sittidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=14825)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncoommon/Rare species in Florida, found in mature forests.
+
+## Natural history notes
+
+A tiny songbird characterized by its gray upperparts, whitish underparts, short tail, sharp pointed bill, and distinctive brown cap. In Florida, it is found mainly in mature pine forests, pine flatwoods, sandhills, and open pine woodlands, especially where standing dead trees or old woodpecker cavities provide nesting sites. It feeds mostly on insects, spiders, and other small arthropods, often climbing along pine trunks, branches, and cones while probing bark crevices, and may also eat pine seeds.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/14825-Sitta-pusilla)
+-   [IUCN Red List](https://www.iucnredlist.org/species/103881613/139818268)
+-   [Local profile](https://www.allaboutbirds.org/guide/Brown-headed_Nuthatch/overview)

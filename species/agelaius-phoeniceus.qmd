@@ -1,0 +1,51 @@
+---
+title: "Red-winged Blackbird (Agelaius phoeniceus)"
+slug: "agelaius-phoeniceus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622713095/medium.jpg"        # keep for thumbnails
+image-alt: "Red-winged Blackbird"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Icteridae"
+categories: ["Animal", "Aves", " Passeriformes", "Icteridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622713095/medium.jpg" alt="Red-winged Blackbird" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/hoodpooh">
+hoodpooh</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342001099">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Icteridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=9744)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in wetlands and open habitats.
+
+## Natural history notes
+
+A medium-sized blackbird characterized by its glossy black body in males and bright red shoulder patches edged with yellow, while females are brown and heavily streaked, resembling large sparrows. In Florida, it is common in marshes, wet prairies, pond edges, roadside ditches, agricultural fields, pastures, and other open habitats with grasses, reeds, or cattails. It feeds mainly on seeds, grains, insects, and other small invertebrates, often foraging in flocks and nesting in dense emergent vegetation near water.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/9744-Agelaius-phoeniceus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22724191/132027891)
+-   [Local profile](https://www.audubon.org/field-guide/bird/red-winged-blackbird)

@@ -1,0 +1,51 @@
+---
+title: "Blue-headed Vireo (Vireo solitarius)"
+slug: "vireo-solitarius"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622565744/medium.jpg"        # keep for thumbnails
+image-alt: "Blue-headed Vireo"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Vireonidae"
+categories: ["Animal", "Aves", " Passeriformes", "Vireonidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622565744/medium.jpg" alt="Blue-headed Vireo" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/mjw246">
+mjw246</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341928389">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Vireonidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=17402)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common migratory species in Florida, found in various mature wooded habitats.
+
+## Natural history notes
+
+A small migratory songbird characterized by olive-green upperparts, whitish underparts, a bluish-gray head, bold white eye rings, and two pale wing bars. In Florida, it is mostly a winter visitor found in hammocks, pine forests, cypress swamps, mangroves, wooded parks, forest edges, and other mature wooded habitats. It feeds mainly on insects, spiders, and other small arthropods, often foraging deliberately among leaves and branches, and may also eat small fruits during the nonbreeding season.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/17402-Vireo-solitarius)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22705234/137787829)
+-   [Local profile](https://www.allaboutbirds.org/guide/Blue-headed_Vireo/overview)

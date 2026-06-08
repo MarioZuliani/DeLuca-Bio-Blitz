@@ -1,0 +1,51 @@
+---
+title: "Pileated Woodpecker (Dryocopus pileatus)"
+slug: "dryocopus-pileatus"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622553582/medium.jpg"        # keep for thumbnails
+image-alt: "Pileated Woodpecker"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Piciformes"
+tax_family: "Picidae"
+categories: ["Animal", "Aves", " Piciformes", "Picidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622553582/medium.jpg" alt="Pileated Woodpecker" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/mjw246">
+mjw246</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341921657">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Piciformes
+-   **Family:** Picidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=17855)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in mature forests.
+
+## Natural history notes
+
+A very large woodpecker characterized by its black body, bold white stripes on the face and neck, long chisel-like bill, and prominent red crest. In Florida, it is found in mature forests, pine flatwoods, cypress swamps, hammocks, wooded parks, and forested wetlands where large trees and dead wood are available. It feeds mainly on carpenter ants, beetle larvae, termites, and other insects, often excavating large rectangular holes in trunks and logs, and may also eat fruits and nuts.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/17855-Dryocopus-pileatus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22681363/140984457)
+-   [Local profile](https://www.audubon.org/field-guide/bird/pileated-woodpecker)

@@ -1,0 +1,51 @@
+---
+title: "Crested Caracara (Caracara plancus)"
+slug: "caracara-plancus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622318854/medium.jpg"        # keep for thumbnails
+image-alt: "Crested Caracara"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Falconiformes"
+tax_family: "Falconidae"
+categories: ["Animal", "Aves", "Falconiformes", "Falconidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622318854/medium.jpg" alt="Crested Caracara" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/morgan_wingo">
+morgan_wingo</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341806168">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Falconiformes
+-   **Family:** Falconidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=4715)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Rare species in Florida, found in south-central prairie region.
+
+## Natural history notes
+
+A large, distinctive raptor characterized by its black cap and crest, pale neck, orange-red facial skin, heavy gray-blue bill, dark body, white wing patches, and long yellow legs. In Florida, it is found mainly in the south-central prairie region, especially open dry prairie, improved pasture, rangeland, cabbage palm areas, and other open habitats with scattered nesting trees. It feeds on carrion as well as live prey, including insects, reptiles, amphibians, birds, mammals, and eggs, often walking on the ground, patrolling roadsides for roadkill, or foraging in open fields. Its Florida population is listed as threatened, largely because of loss of dry prairie habitat.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/4715-Caracara-plancus)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22729784/232384538)
+-   [Local profile](https://www.allaboutbirds.org/guide/Crested_Caracara/overview)

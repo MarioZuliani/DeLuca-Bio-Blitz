@@ -1,0 +1,51 @@
+---
+title: "Northern Cardinal (Cardinalis cardinalis)"
+slug: "cardinalis-cardinalis"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624014575/medium.jpg"        # keep for thumbnails
+image-alt: "Northern Cardinal"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: " Passeriformes"
+tax_family: "Cardinalidae"
+categories: ["Animal", "Aves", " Passeriformes", "Cardinalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624014575/medium.jpg" alt="Northern Cardinal" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jacksonmartin336">
+jacksonmartin336</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342686990">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:**  Passeriformes
+-   **Family:** Cardinalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=9083)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in habitats with dense vegetation cover.
+
+## Natural history notes
+
+A medium-sized songbird characterized by its prominent crest, thick orange-red bill, and long tail, with males bright red overall and females warm brown with reddish highlights on the wings, tail, and crest. In Florida, it is common in shrubs, thickets, forest edges, hammocks, gardens, parks, yards, and other habitats with dense vegetation for cover and nesting. It feeds mainly on seeds, fruits, and insects, usually foraging in low vegetation or on the ground and often seen in pairs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/9083-Cardinalis-cardinalis)
+-   [IUCN Red List](https://www.iucnredlist.org/species/22723819/132024136)
+-   [Local profile](https://www.allaboutbirds.org/guide/Northern_Cardinal/overview)
