@@ -1,0 +1,50 @@
+---
+title: "Red-belted Palm Comma (Coniocarpon rubrocinctum)"
+slug: "coniocarpon-rubrocinctum"
+group: "Arthoniomycetes"
+image: "https://static.inaturalist.org/photos/475166934/medium.jpeg"        # keep for thumbnails
+image-alt: "Red-belted Palm Comma"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Arthoniomycetes"
+tax_order: "Arthoniales"
+tax_family: "Arthoniaceae"
+categories: ["Fungi", "Arthoniomycetes", "Arthoniales", "Arthoniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475166934/mediumjpeg" alt="Red-belted Palm Comma" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/andrewkunik">
+andrewkunik</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264615710">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arthoniomycetes
+-   **Order:**  Arthoniales
+-   **Family:** Arthoniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1530772)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on palm trunks or other smooth trees in subtropical habitats.
+
+## Natural history notes
+
+A crustose lichen characterized by a thin gray to greenish-gray thallus with striking red to pinkish-red bands or patches that help give it a “red-belted” appearance. In Florida, it is found growing on palm trunks and other smooth or lightly textured bark in humid subtropical habitats such as hammocks, swamps, mangroves, shaded forests, parks, and landscaped areas. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, growing tightly attached to bark and obtaining moisture and nutrients from the air rather than feeding on the tree itself.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1530772-Coniocarpon-rubrocinctum)
+-   [Local profile](https://lichenportal.org/portal/taxa/index.php?taxon=127081)

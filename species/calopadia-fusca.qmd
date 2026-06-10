@@ -1,0 +1,50 @@
+---
+title: "Palmetto-leaf Lichen (Calopadia fusca)"
+slug: "calopadia-fusca"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/356453798/medium.jpg"        # keep for thumbnails
+image-alt: "Palmetto-leaf Lichen"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Lecanorales"
+tax_family: "Pilocarpaceae"
+categories: ["Fungi", "Lecanoromycetes", "Lecanorales", "Pilocarpaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/356453798/medium.jpg" alt="Palmetto-leaf Lichen" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201884285">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:**  Lecanorales
+-   **Family:** Pilocarpaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=207869)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found on palmetto and other palm leaves.
+
+## Natural history notes
+
+A crustose lichen characterized by a thin brownish to olive-gray thallus with small dark fruiting structures scattered across the surface. In Florida, it is found growing on palmetto leaves and other palm or bark surfaces in humid habitats such as hammocks, swamps, pine flatwoods, shaded forests, and landscaped areas where palmettos are common. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, growing tightly attached to the plant surface and absorbing moisture and nutrients from the air rather than feeding on the plant itself.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/207869-Calopadia-fusca)
+-   [Local profile](https://www.floridamuseum.ufl.edu/science/rare-lichen-unique-to-florida-may-be-extinct/)

@@ -1,0 +1,50 @@
+---
+title: "Afzel's Script Lichen (Dyplolabia afzelii)"
+slug: "dyplolabia-afzelii"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355172535/medium.jpg"        # keep for thumbnails
+image-alt: "Afzel's Script Lichen"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Ostropales"
+tax_family: "Graphidaceae"
+categories: ["Fungi", "Lecanoromycetes", "Ostropales", "Graphidaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355172535/medium.jpg" alt="Afzel's Script Lichen" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201222665">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:**  Ostropales
+-   **Family:** Graphidaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=205079)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on tree trunks in moist/humid habitats.
+
+## Natural history notes
+
+A crustose script lichen characterized by a pale gray to greenish-gray thallus marked with dark, elongated, script-like fruiting lines that resemble tiny writing on bark. In Florida, it is found growing on tree trunks and branches in humid wooded habitats such as hammocks, swamps, shaded forests, parks, and other areas with moist bark surfaces. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, growing tightly attached to bark and absorbing moisture and nutrients from the air rather than feeding on the tree itself.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/462848-Dyplolabia-afzelii)
+-   [Local profile](https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/67/2024/10/Lichens-of-Florida-Rosentreter-et-al-2022.pdf)

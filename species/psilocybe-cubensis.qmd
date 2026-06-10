@@ -1,0 +1,50 @@
+---
+title: "Magic Mushroom (Psilocybe cubensis)"
+slug: "psilocybe-cubensis"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474834647/medium.jpg"        # keep for thumbnails
+image-alt: "Magic Mushroom"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: " Agaricales"
+tax_family: "Hymenogastraceae"
+categories: ["Fungi", "Agaricomycetes", " Agaricales", "Hymenogastraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474834647/medium.jpg" alt="Magic Mushroom" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/willforestbeck">
+willforestbeck</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264404765">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Agaricales
+-   **Family:** Hymenogastraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=328244)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in warm and humid open habitats.
+
+## Natural history notes
+
+A medium-sized gilled mushroom characterized by a tan to golden-brown cap, dark purplish-brown spores, and a tendency for the flesh to bruise bluish when handled or damaged. In Florida, it is most often associated with warm, humid open habitats such as pastures, grassy fields, and livestock areas, where it grows from dung-enriched soils. This species is psychoactive and should not be consumed; mushroom identification can be difficult and potentially dangerous, and possession or use may be legally restricted depending on location.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/328244-Psilocybe-cubensis)
+-   [Local profile](https://www.gbif.org/species/113537487)

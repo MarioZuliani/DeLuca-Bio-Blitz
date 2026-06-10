@@ -1,0 +1,50 @@
+---
+title: "Ganoderma sessile"
+slug: "ganoderma-sessile"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474772334/medium.jpeg"        # keep for thumbnails
+image-alt: "Ganoderma sessile"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Polyporales"
+tax_family: "Polyporaceae"
+categories: ["Fungi", "Agaricomycetes", "Polyporales", "Polyporaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474772334/medium.jpeg" alt="Ganoderma sessile" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264330021">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Polyporales
+-   **Family:** Polyporaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=350821)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found on dead or dying hardwood trees in wooded areas.
+
+## Natural history notes
+
+A varnished bracket fungus characterized by its shiny reddish-brown to chestnut cap, pale growing edge, and white pore surface underneath that may bruise brown when touched. In Florida, it is found on dead or declining hardwood trees, stumps, logs, root flares, and buried roots in forests, hammocks, parks, yards, and other wooded areas. It acts as a wood-decay fungus and can contribute to root or butt rot in living trees, while also helping break down dead wood and recycle nutrients back into the ecosystem.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/350821-Ganoderma-sessile)
+-   [Local profile](https://floridamycologicalsociety.org/blogs/mushroom-identification/florida-reishi-how-to-identify-ganoderma-in-florida?srsltid=AfmBOop_UGwzx4ILmAyrZCgToNn5nzYyn9CLjpWwjRVWLCfmld05sLEb)

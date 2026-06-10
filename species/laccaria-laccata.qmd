@@ -1,0 +1,50 @@
+---
+title: "Deceiver (Laccaria laccata)"
+slug: "laccaria-laccata"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355544556/medium.jpeg"        # keep for thumbnails
+image-alt: "Deceiver"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Agaricales"
+tax_family: "Hydnangiaceae"
+categories: ["Fungi", "Agaricomycetes", "Agaricales", "Hydnangiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355544556/medium.jpeg" alt="Deceiver" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201415255">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Agaricales
+-   **Family:** Hydnangiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=63236)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on soil, leaf litter, mossy ground, and other wooded or grassy habitats.
+
+## Natural history notes
+
+A small gilled mushroom characterized by its variable tan to orange-brown cap, widely spaced pale gills, slender fibrous stem, and highly changeable appearance as it dries or ages. In Florida, it is found on soil, leaf litter, mossy ground, lawns, pine flatwoods, hammocks, and other wooded or grassy habitats where it grows in association with plant roots. It is a mycorrhizal fungus, exchanging nutrients with nearby plants, and is often called the “deceiver” because its color and shape can vary enough to make identification difficult.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/63236-Laccaria-laccata)
+-   [Local profile](https://www.first-nature.com/fungi/laccaria-laccata.php)

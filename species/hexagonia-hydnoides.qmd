@@ -1,0 +1,50 @@
+---
+title: "Hairy Hexagonia (Hexagonia hydnoides)"
+slug: "hexagonia-hydnoides"
+group: "Agaricomycetes"
+image: "https://static.inaturalist.org/photos/622643652/medium.jpg"        # keep for thumbnails
+image-alt: "Hairy Hexagonia"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Polyporales"
+tax_family: "Polyporaceae"
+categories: ["Fungi", "Agaricomycetes", "Polyporales", "Polyporaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622643652/medium.jpg" alt="Hairy Hexagonia" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341971250">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Polyporales
+-   **Family:** Polyporaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=202438)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on dead trees in humid wooded habitats.
+
+## Natural history notes
+
+A bracket fungus characterized by thin, leathery, fan-shaped to semicircular caps with brown to tan upper surfaces that are often covered in coarse hairs or bristles. In Florida, it is found on dead hardwood branches, logs, stumps, and other decaying wood in hammocks, swamps, forests, parks, and other humid wooded habitats. It acts as a wood-decay fungus, helping break down dead plant material, and its underside has angular to honeycomb-like pores where spores are produced.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/202438-Hexagonia-hydnoides)
+-   [Local profile](https://www.mushroomexpert.com/hexagonia_hydnoides.html)

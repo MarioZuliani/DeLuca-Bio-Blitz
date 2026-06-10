@@ -1,0 +1,50 @@
+---
+title: "Panaeolus antillarum"
+slug: "panaeolus-antillarum"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180811528/medium.jpg"        # keep for thumbnails
+image-alt: "Panaeolus antillarum"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Agaricales"
+tax_family: "Galeropsidaceae"
+categories: ["Fungi", "Agaricomycetes", "Agaricales", "Galeropsidaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180811528/medium.jpg" alt="Panaeolus antillarum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/debbiecone">
+debbiecone</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107497033">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Agaricales
+-   **Family:** Galeropsidaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=348989)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in warm humid pastures, fields, and livestock areas.
+
+## Natural history notes
+
+A medium-sized dung-loving mushroom characterized by a pale gray to whitish cap, dark gills that become blackish as the spores mature, and a slender whitish stem. In Florida, it is most often found in warm, humid pastures, grassy fields, and livestock areas where it grows directly from dung or dung-enriched soil. It helps decompose animal waste and recycle nutrients, and while it may resemble other dung-associated mushrooms, it should not be consumed because similar species can be difficult to distinguish.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/348989-Panaeolus-antillarum)
+-   [Local profile](https://qldfungi.org.au/wp-content/uploads/2013/04/Panaeolus-antillarum.pdf)

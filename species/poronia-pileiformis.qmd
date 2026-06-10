@@ -1,0 +1,50 @@
+---
+title: "Poronia pileiformis"
+slug: "poronia-pileiformis"
+group: "Sordariomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474843899/medium.jpeg"        # keep for thumbnails
+image-alt: "Poronia pileiformis"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Sordariomycetes"
+tax_order: "Xylariales"
+tax_family: "Xylariaceae"
+categories: ["Fungi", "Sordariomycetes", "Xylariales", "Xylariaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474843899/medium.jpeg" alt="Poronia pileiformis" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/natureboyjamesphillips">
+natureboyjamesphillips</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264415028">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Sordariomycetes
+-   **Order:**  Xylariales
+-   **Family:** Xylariaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=525040)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in environments where suitable dung is present.
+
+## Natural history notes
+
+A small dung-associated ascomycete fungus characterized by tiny dark, disk-like to button-shaped fruiting bodies that develop on the surface of herbivore dung. It is known from dung substrates, including cow dung and elephant dung, and would most likely occur in warm pasture or grazing environments where suitable dung is present. Rather than forming a typical cap-and-stem mushroom, it produces small spore-bearing structures that help break down dung and recycle nutrients back into the soil.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/525040-Poronia-pileiformis)
+-   [Local profile](https://www.cambridge.org/core/journals/mycological-research/article/abs/xylaria-cranioides-and-poronia-pileiformis-and-their-anamorphs-in-culture-and-implications-for-the-status-of-penzigia/9E46E01D223C3C43A8960FD9D8284AC7)

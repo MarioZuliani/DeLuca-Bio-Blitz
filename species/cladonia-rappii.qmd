@@ -1,0 +1,50 @@
+---
+title: "Slender Ladder Lichen (Cladonia rappii)"
+slug: "cladonia-rappii"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622139531/medium.jpg"        # keep for thumbnails
+image-alt: "Slender Ladder Lichen"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Lecanorales"
+tax_family: "Cladoniaceae"
+categories: ["Fungi", "Lecanoromycetes", "Lecanorales", "Cladoniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622139531/medium.jpg" alt="Slender Ladder Lichen" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dsandii">
+dsandii</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341716250">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:**  Lecanorales
+-   **Family:** Cladoniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=203684)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in acidic and nutrient-poor substrates.
+
+## Natural history notes
+
+A small fruticose lichen characterized by gray-green basal scales and very slender upright stalks that may branch or appear ladder-like as they develop. In Florida, it is found on sandy soil, humus, rotting wood, logs, and other acidic, nutrient-poor substrates in pinewoods, scrub, disturbed sandy areas, and open habitats with enough light and moisture. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, helping colonize exposed surfaces while absorbing moisture and nutrients from the air rather than feeding on plants or wood directly.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/203684-Cladonia-rappii)
+-   [Local profile](https://lichenportal.org/portal/taxa/index.php?taxauthid=1&taxon=63778&clid=1282)

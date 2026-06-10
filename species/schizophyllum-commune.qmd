@@ -1,0 +1,50 @@
+---
+title: "Splitgill Mushroom (Schizophyllum commune)"
+slug: "schizophyllum-commune"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621866716/medium.jpg"        # keep for thumbnails
+image-alt: "Splitgill Mushroom"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Agaricales"
+tax_family: "Schizophyllaceae"
+categories: ["Fungi", "Agaricomycetes", "Agaricales", "Schizophyllaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621866716/medium.jpg" alt="Splitgill Mushroom" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341583748">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Agaricales
+-   **Family:** Schizophyllaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=54573)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on dead wooded plants in humid habitats.
+
+## Natural history notes
+
+A small to medium-sized wood-decay mushroom characterized by fan-shaped, whitish to grayish caps with a hairy surface and distinctive split-looking gills underneath. In Florida, it is found on dead branches, logs, stumps, and weakened wood in forests, hammocks, swamps, parks, yards, and other humid wooded habitats. It helps decompose dead wood and recycle nutrients, often growing in overlapping clusters that dry out and rehydrate after rain.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/54573-Schizophyllum-commune)
+-   [Local profile](https://www.first-nature.com/fungi/schizophyllum-commune.php)

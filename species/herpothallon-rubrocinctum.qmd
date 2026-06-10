@@ -1,0 +1,50 @@
+---
+title: "Christmas Lichen (Herpothallon rubrocinctum)"
+slug: "herpothallon-rubrocinctum"
+group: "Arthoniomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622942743/medium.jpg"        # keep for thumbnails
+image-alt: "Christmas Lichen"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Arthoniomycetes"
+tax_order: "Arthoniales"
+tax_family: "Arthoniaceae"
+categories: ["Fungi", "Arthoniomycetes", "Arthoniales", "Arthoniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622942743/medium.jpg" alt="Christmas Lichen" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342114367">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arthoniomycetes
+-   **Order:** Arthoniales
+-   **Family:** Arthoniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=464189)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on tree bark in humid areas.
+
+## Natural history notes
+
+A distinctive crustose lichen characterized by its pale gray to whitish thallus surrounded by bright red to pinkish-red patches, giving it a “Christmas” red-and-white appearance. In Florida, it is found on tree bark in humid habitats such as hammocks, swamps, mangroves, shaded forests, parks, and other wooded areas with moist air and suitable bark surfaces. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, growing flat against bark and obtaining moisture and nutrients from the air rather than feeding on other organisms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/464189-Herpothallon-rubrocinctum)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.122703/Herpothallon_rubrocinctum)

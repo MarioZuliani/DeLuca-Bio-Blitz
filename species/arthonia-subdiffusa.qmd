@@ -1,0 +1,50 @@
+---
+title: "Smudgy Palm Comma (Arthonia subdiffusa)"
+slug: "arthonia-subdiffusa"
+group: "Arthoniomycetes"
+image: "https://static.inaturalist.org/photos/475175879/medium.jpeg"        # keep for thumbnails
+image-alt: "Smudgy Palm Comma"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Arthoniomycetes"
+tax_order: "Arthoniales"
+tax_family: "Arthoniaceae"
+categories: ["Fungi", "Arthoniomycetes", "Arthoniales", "Arthoniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475175879/medium.jpeg" alt="Smudgy Palm Comma" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/andrewkunik">
+andrewkunik</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264619159">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arthoniomycetes
+-   **Order:**  Arthoniales
+-   **Family:** Arthoniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=214308)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on palm trunks in areas with suriable bark available.
+
+## Natural history notes
+
+A crustose lichen characterized by a thin gray to greenish-gray thallus with dark, smudgy, comma-like fruiting marks scattered across the surface. In Florida, it is found growing on palm trunks and other bark surfaces in humid habitats such as hammocks, swamps, mangroves, shaded forests, parks, and landscaped areas where suitable host bark is available. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, growing tightly attached to bark and absorbing moisture and nutrients from the air rather than feeding on the tree itself.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/214308-Arthonia-subdiffusa)
+-   [Local profile](https://plants.sc.egov.usda.gov/plant-profile/ARSU14)

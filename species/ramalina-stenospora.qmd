@@ -1,0 +1,50 @@
+---
+title: "Southern Strap (Ramalina stenospora)"
+slug: "ramalina-stenospora"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474992151/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Strap"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Lecanorales"
+tax_family: "Ramalinaceae"
+categories: ["Fungi", "Lecanoromycetes", "Lecanorales", "Ramalinaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474992151/medium.jpg" alt="Southern Strap" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/swagner23">
+swagner23</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264522766">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:**  Lecanorales
+-   **Family:** Ramalinaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=229779)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on tree bark in wooded habitats.
+
+## Natural history notes
+
+A shrubby, strap-like lichen characterized by pale gray-green flattened branches that hang or project from bark, often with narrow lobes and small spore-producing structures along the branches. In Florida, it is found growing on tree bark and branches in humid forests, hammocks, swamps, mangroves, parks, and other wooded habitats with good air flow and moisture. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, absorbing moisture and nutrients from the air while using trees mainly as a surface for attachment rather than as food.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/229779-Ramalina-stenospora)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.124745/Ramalina_stenospora)

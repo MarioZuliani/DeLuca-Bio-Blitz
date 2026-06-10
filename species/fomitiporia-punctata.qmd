@@ -1,0 +1,50 @@
+---
+title: "Elbowpatch Crust (Fomitiporia punctata)"
+slug: "fomitiporia-punctata"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623053713/medium.jpg"        # keep for thumbnails
+image-alt: "Elbowpatch Crust"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Hymenochaetales"
+tax_family: "Hymenochaetaceae"
+categories: ["Fungi", "Agaricomycetes", "Hymenochaetales", "Hymenochaetaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623053713/medium.jpg" alt="Elbowpatch Crust" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171679">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Hymenochaetales
+-   **Family:** Hymenochaetaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=519073)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found dead wood.
+
+## Natural history notes
+
+A wood-decay crust fungus characterized by hard, flat to slightly raised brownish patches that grow tightly against bark or exposed wood rather than forming a typical cap or bracket. In Florida, it is found on dead or declining hardwood trees, branches, logs, and wounds in hammocks, forests, parks, yards, and other wooded habitats. It acts as a decomposer and sometimes a heart-rot fungus, breaking down woody tissue and recycling nutrients while producing spores from tiny pore-like openings across the crust surface.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/519073-Fomitiporia-punctata)
+-   [Local profile](https://www.forestresearch.gov.uk/tools-and-resources/fthr/pest-and-disease-resources/elbow-patch-crust-of-plane-fomitiporia-punctata/)

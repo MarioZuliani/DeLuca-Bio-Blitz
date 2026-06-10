@@ -1,0 +1,50 @@
+---
+title: "Branched Pixie-cup Lichen (Cladonia ramulosa)"
+slug: "cladonia-ramulosa"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474876671/medium.jpg"        # keep for thumbnails
+image-alt: "Branched Pixie-cup Lichen"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Lecanorales"
+tax_family: "Cladoniaceae"
+categories: ["Fungi", "Lecanoromycetes", "Lecanorales", "Cladoniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474876671/medium.jpg" alt="Branched Pixie-cup Lichen" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/saherron">
+saherron</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264446199">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:**  Lecanorales
+-   **Family:** Cladoniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=217144)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in open habitats with enough light and moisture.
+
+## Natural history notes
+
+A small fruticose lichen characterized by gray-green basal scales and slender upright stalks that may branch irregularly or form small cup-like tips. In Florida, it is found on sandy soil, humus, rotting wood, logs, and exposed acidic substrates in pinewoods, scrub, disturbed sandy areas, and other open habitats with enough light and moisture. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, helping colonize low-nutrient surfaces while absorbing moisture and nutrients from the air rather than feeding on plants or wood directly.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/217144-Cladonia-ramulosa)
+-   [Local profile](https://projectnoah.org/spottings/branched-pixie-cup-lichen)

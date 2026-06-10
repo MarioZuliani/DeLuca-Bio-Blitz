@@ -1,0 +1,50 @@
+---
+title: "Panaeolus papilionaceus (Panaeolus papilionaceus)"
+slug: "panaeolus-papilionaceus"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180786270/medium.jpg"        # keep for thumbnails
+image-alt: "Panaeolus papilionaceus"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Agaricales"
+tax_family: "Galeropsidaceae"
+categories: ["Fungi", "Agaricomycetes", "Agaricales", "Galeropsidaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180786270/medium.jpg" alt="Panaeolus papilionaceus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lucieb30">
+lucieb30</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107484471">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Agaricales
+-   **Family:** Galeropsidaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1565786)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in dung or dung-rich soil.
+
+## Natural history notes
+
+A small to medium-sized dung-loving mushroom characterized by a brown to grayish-brown bell-shaped cap, dark mottled gills, a slender stem, and sometimes pale veil remnants hanging along the cap edge. In Florida, it is found in warm, humid pastures, grassy fields, and livestock areas where it grows directly from dung or dung-enriched soil. It helps decompose animal waste and recycle nutrients, but should not be consumed because dung-associated mushrooms can be difficult to identify and may be confused with other species.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/118263-Panaeolus-papilionaceus)
+-   [Local profile](https://www.mushroomexpert.com/panaeolus_papilionaceus.html)

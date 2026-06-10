@@ -1,0 +1,50 @@
+---
+title: "Ganoderma zonatum"
+slug: "ganoderma-zonatum"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474799301/medium.jpg"        # keep for thumbnails
+image-alt: "Ganoderma zonatum"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Polyporales"
+tax_family: "Polyporaceae"
+categories: ["Fungi", "Agaricomycetes", "Polyporales", "Polyporaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474799301/medium.jpg" alt="Ganoderma zonatum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/natureboyjamesphillips">
+natureboyjamesphillips</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264351816">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Polyporales
+-   **Family:** Polyporaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=525033)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found at the base of palms.
+
+## Natural history notes
+
+A palm-associated bracket fungus characterized by tough, shelf-like fruiting bodies with brown to reddish-brown zoned upper surfaces and a pale pore surface underneath. In Florida, it is found at the base of palms, on palm trunks, stumps, and roots in yards, parks, roadsides, hammocks, and landscaped areas where palms are present. It causes Ganoderma butt rot, decaying the lower trunk and root area of living palms, and infected palms may decline or fail structurally even though the visible bracket often appears only after internal decay is advanced.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/525033-Ganoderma-zonatum)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/PP333)

@@ -1,0 +1,50 @@
+---
+title: "Peppercorn Lichen (Nigrovothelium tropicum)"
+slug: "nigrovothelium-tropicum"
+group: "Dothideomycetes"
+image: "https://static.inaturalist.org/photos/475143192/medium.jpeg"        # keep for thumbnails
+image-alt: "Peppercorn Lichen"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Dothideomycetes"
+tax_order: "Trypetheliales"
+tax_family: "Trypetheliaceae"
+categories: ["Fungi", "Dothideomycetes", "Trypetheliales", "Trypetheliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475143192/medium.jpeg" alt="Peppercorn Lichen" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264601038">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Dothideomycetes
+-   **Order:**  Trypetheliales
+-   **Family:** Trypetheliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=738483)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in humid subtropical habitats.
+
+## Natural history notes
+
+A crustose lichen characterized by a thin gray to olive-green thallus dotted with many tiny black, peppercorn-like fruiting bodies. In Florida, it is found growing on smooth bark in humid subtropical habitats such as hammocks, swamps, mangroves, shaded forests, parks, and other wooded areas with moist bark surfaces. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, growing tightly attached to bark and absorbing moisture and nutrients from the air rather than feeding on the tree itself.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/738483-Nigrovothelium-tropicum)
+-   [Local profile](https://lichenportal.org/portal/taxa/index.php?taxon=56168)

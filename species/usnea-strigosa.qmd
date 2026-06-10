@@ -1,0 +1,50 @@
+---
+title: "Bushy Beard Lichen (Usnea strigosa)"
+slug: "usnea-strigosa"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622445227/medium.jpg"        # keep for thumbnails
+image-alt: "Bushy Beard Lichen"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Lecanorales"
+tax_family: "Parmeliaceae"
+categories: ["Fungi", "Lecanoromycetes", "Lecanorales", "Parmeliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622445227/medium.jpg" alt="Bushy Beard Lichen" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880884">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:**  Lecanorales
+-   **Family:** Parmeliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=121176)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on trees in wooded habitats.
+
+## Natural history notes
+
+A shrubby beard lichen characterized by pale gray-green, branching, hair-like strands that form bushy tufts on bark and branches. In Florida, it is found on trees and shrubs in humid forests, hammocks, swamps, pine flatwoods, parks, and other wooded habitats with good air flow and moisture. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, absorbing moisture and nutrients from the air while using bark mainly as a surface for attachment rather than as food.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/121176-Usnea-strigosa)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.121693/Usnea_strigosa)

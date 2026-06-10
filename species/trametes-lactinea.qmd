@@ -1,0 +1,50 @@
+---
+title: "Latte Bracket (Trametes lactinea)"
+slug: "trametes-lactinea"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622245546/medium.jpg"        # keep for thumbnails
+image-alt: "Latte Bracket"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: " Polyporales"
+tax_family: "Polyporaceae"
+categories: ["Fungi", "Agaricomycetes", " Polyporales", "Polyporaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622245546/medium.jpg" alt="Latte Bracket" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ism14">
+ism14</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341770914">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:**  Polyporales
+-   **Family:** Polyporaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=328305)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on dead wood in humid wooded habitats.
+
+## Natural history notes
+
+A small to medium-sized bracket fungus characterized by thin, fan-shaped to semicircular caps with pale cream, tan, or “latte”-colored surfaces and a whitish pore layer underneath. In Florida, it is found on dead hardwood, fallen branches, logs, stumps, and other decaying wood in hammocks, forests, parks, yards, and other humid wooded habitats. It acts as a wood-decay fungus, helping break down dead plant material, and its tough shelf-like fruiting bodies often grow in overlapping clusters on exposed wood.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/328305-Trametes-lactinea)
+-   [Local profile](https://grokipedia.com/page/trametes_lactinea)

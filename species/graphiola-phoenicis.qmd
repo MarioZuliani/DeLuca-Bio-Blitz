@@ -1,0 +1,50 @@
+---
+title: "False Smut of Palm (Graphiola phoenicis)"
+slug: "graphiola-phoenicis"
+group: "Exobasidiomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355048934/medium.jpg"        # keep for thumbnails
+image-alt: "False Smut of Palm"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Exobasidiomycetes"
+tax_order: "Exobasidiales"
+tax_family: "Graphiolaceae"
+categories: ["Fungi", "Exobasidiomycetes", "Exobasidiales", "Graphiolaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355048934/medium.jpg" alt="False Smut of Palm" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201161543">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Exobasidiomycetes
+-   **Order:**  Exobasidiales
+-   **Family:** Graphiolaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=382498)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on living palm fronds.
+
+## Natural history notes
+
+A palm-associated fungus characterized by small black, blister-like or cup-like fruiting bodies that erupt through the surface of palm leaves, often surrounded by yellowish spots or streaks. In Florida, it is found on living palm fronds in humid areas such as yards, parks, hammocks, swamps, gardens, and landscaped sites where susceptible palms are present. Rather than forming a mushroom, it grows as a leaf-spot fungus on palm foliage, producing dark spore-bearing structures that can make fronds look speckled or smutted, though infections are usually more cosmetic than lethal.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/382498-Graphiola-phoenicis)
+-   [Local profile](https://blogs.ifas.ufl.edu/collierco/files/2018/03/False-smut.pdf)

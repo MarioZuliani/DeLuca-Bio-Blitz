@@ -1,0 +1,50 @@
+---
+title: "Ophiocordyceps camponoti-floridani"
+slug: "ophiocordyceps-camponoti"
+group: "Sordariomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474975978/mdeium.jpg"        # keep for thumbnails
+image-alt: "Ophiocordyceps camponoti-floridani"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Sordariomycetes"
+tax_order: " Hypocreales"
+tax_family: "Ophiocordycipitaceae"
+categories: ["Fungi", "Sordariomycetes", " Hypocreales", "Ophiocordycipitaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474975978/medium.jpg" alt="Ophiocordyceps camponoti-floridani" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264517816">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Sordariomycetes
+-   **Order:**  Hypocreales
+-   **Family:** Ophiocordycipitaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=956945)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, and associated with Florida carpenter ants.
+
+## Natural history notes
+
+A parasitic “zombie-ant” fungus characterized by its growth from infected Florida carpenter ants, often producing a dark stalk-like fruiting structure from the ant after death. In Florida, it is associated with the Florida carpenter ant, Camponotus floridanus, and has been studied in central Florida forests and wooded habitats where infected ants attach to vegetation before the fungus develops. It infects ants and alters their behavior, causing them to climb and bite onto vegetation in a position that supports fungal growth and spore transmission; the dead ant then serves as the platform from which the fungus produces spores.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/328244-Psilocybe-cubensis)
+-   [Local profile](https://fungalgenomics.science.uu.nl/portal/ophcf2/)

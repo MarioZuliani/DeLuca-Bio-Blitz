@@ -1,0 +1,50 @@
+---
+title: "Old Gray Ruffles (Parmotrema tinctorum)"
+slug: "parmotrema-tinctorum"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623785971/medium.jpg"        # keep for thumbnails
+image-alt: "Old Gray Ruffles"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: " Lecanorales"
+tax_family: "Parmeliaceae"
+categories: ["Fungi", "Lecanoromycetes", " Lecanorales", "Parmeliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623785971/medium.jpg" alt="Old Gray Ruffles" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/garccyy">
+garccyy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342529616">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:**  Lecanorales
+-   **Family:** Parmeliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=227259)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on tree bark in habitats with high air mosture.
+
+## Natural history notes
+
+A large foliose lichen characterized by broad, ruffled gray to bluish-gray lobes, a pale underside, and powdery or granular reproductive patches along the lobe edges and surface. In Florida, it is found growing on tree bark, branches, and sometimes weathered wood in humid forests, hammocks, swamps, parks, and shaded yards where air moisture is high. Like other lichens, it is a symbiotic association between a fungus and photosynthetic partner, growing flat or loosely attached to bark and absorbing moisture and nutrients from the air.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/227259-Parmotrema-tinctorum)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.121542/Parmotrema_tinctorum)

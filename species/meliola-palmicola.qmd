@@ -1,0 +1,50 @@
+---
+title: "Meliola palmicola"
+slug: "meliola-palmicola"
+group: "Sordariomycetes"
+image: "https://static.inaturalist.org/photos/622605172/medium.jpg"        # keep for thumbnails
+image-alt: "Meliola palmicola"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Sordariomycetes"
+tax_order: "Meliolales"
+tax_family: "Meliolaceae"
+categories: ["Fungi", "Sordariomycetes", "Meliolales", "Meliolaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622605172/medium.jpg" alt="Meliola palmicola" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341948380">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Sordariomycetes
+-   **Order:**  Meliolales
+-   **Family:** Meliolaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1024054)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found on palm leaves in moist habitats.
+
+## Natural history notes
+
+A palm-associated black mildew fungus characterized by dark, superficial, web-like colonies that spread across the surface of palm leaves. In Florida, it is found on palms in humid subtropical habitats, including hammocks, swamps, parks, gardens, and landscaped areas where moisture and host plants are available. Rather than forming a mushroom, it grows on living leaf surfaces as a plant-associated fungus, producing tiny dark reproductive structures within the blackened patches and drawing nutrients from the host tissue.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1024054-Meliola-palmicola)
+-   [Local profile](https://www.eattheweeds.com/tag/common-florida-mushrooms/)
