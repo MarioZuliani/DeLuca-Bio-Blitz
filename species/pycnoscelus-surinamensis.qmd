@@ -1,0 +1,50 @@
+---
+title: "Surinam Cockroach (Pycnoscelus surinamensis)"
+slug: "pycnoscelus-surinamensis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476385303/medium.jpg"        # keep for thumbnails
+image-alt: "Surinam Cockroach"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Blattodea"
+tax_family: "Blaberidae"
+categories: ["Animal", "Insecta", "Blattodea", "Blaberidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476385303/medium.jpg" alt="Surinam Cockroach" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/garccyy">
+garccyy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265235517">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Blattodea
+-   **Family:** Blaberidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=84635)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in warm, humid habitats.
+
+## Natural history notes
+
+A medium-sized cockroach characterized by its glossy brown body, shield-like pronotum, long antennae, and flattened oval shape, with females commonly reproducing without males. In Florida, it is found in warm, humid habitats such as gardens, greenhouses, mulch, compost, leaf litter, potted plants, yards, and other moist disturbed areas. It feeds on decaying plant material and organic debris, helping break down litter, but it can become a nuisance in greenhouses, nurseries, and indoor plant containers when populations build up.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/84635-Pycnoscelus-surinamensis)
+-   [Local profile](https://www.bugguide.net/node/view/16867)

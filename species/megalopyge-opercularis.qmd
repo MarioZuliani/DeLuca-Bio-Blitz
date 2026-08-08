@@ -1,0 +1,50 @@
+---
+title: "Southern Flannel Moth (Megalopyge opercularis)"
+slug: "megalopyge-opercularis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623055130/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Flannel Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Megalopygidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Megalopygidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623055130/medium.jpg" alt="Southern Flannel Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342172525">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Megalopygidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=84185)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A small to medium-sized flannel moth characterized by its soft, fuzzy yellowish to orange-brown body and rounded, woolly wings that give the adult a plush appearance. In Florida, it is found in forests, hammocks, parks, yards, gardens, and other wooded or landscaped areas where host trees and shrubs such as oaks, elms, citrus, and ornamentals occur. Adults are mostly nocturnal and may come to lights, while the caterpillars, often called puss caterpillars, feed on foliage and are covered with dense hairs that conceal venomous spines capable of causing a very painful sting if touched.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/84185-Megalopyge-opercularis)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Megalopyge-opercularis)

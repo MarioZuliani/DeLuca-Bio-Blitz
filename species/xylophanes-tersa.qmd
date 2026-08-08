@@ -1,0 +1,50 @@
+---
+title: "Tersa Sphinx (Xylophanes tersa)"
+slug: "xylophanes-tersa"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622596541/medium.jpg"        # keep for thumbnails
+image-alt: "Tersa Sphinx"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Sphingidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Sphingidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622596541/medium.jpg" alt="Tersa Sphinx" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341945874">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Sphingidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=69737)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in gardens and urban areas.
+
+## Natural history notes
+
+A medium-sized sphinx moth characterized by its streamlined body, long narrow forewings, and brown to olive-brown coloration with pale lengthwise stripes that give it a sleek, aerodynamic appearance. In Florida, it is common in gardens, parks, forest edges, hammocks, fields, roadsides, and other warm habitats where nectar flowers and host plants are available. Adults are active at dusk and night, hovering at flowers to drink nectar with a long proboscis, while the smooth hornworm caterpillars feed on plants such as pentas, buttonweed, firebush, and other low shrubs or herbs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/69737-Xylophanes-tersa)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Xylophanes-tersa)

@@ -1,0 +1,50 @@
+---
+title: "Graceful Twig Ant (Pseudomyrmex gracilis)"
+slug: "pseudomyrmex-gracilis"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622616094/medium.jpg"        # keep for thumbnails
+image-alt: "Graceful Twig Ant"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622616094/medium.jpg" alt="Graceful Twig Ant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341954628">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=300301)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and landscaped areas.
+
+## Natural history notes
+
+A slender twig ant characterized by its long narrow body, large eyes, long legs, and orange-brown to dark brown coloration. In Florida, it is found in trees, shrubs, gardens, forest edges, hammocks, parks, and other wooded or landscaped habitats where it forages along branches, trunks, vines, and vegetation. It nests in hollow twigs, stems, dead branches, or cavities, and feeds on small insects, nectar, honeydew, and other sugary resources while moving quickly and aggressively when disturbed.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/300301-Pseudomyrmex-gracilis)
+-   [Local profile](https://www.bugguide.net/node/view/165312)

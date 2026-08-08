@@ -1,0 +1,50 @@
+---
+title: "Obsolete-banded Leafroller Moth (Choristoneura obsoletana)"
+slug: "choristoneura-obsoletana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475245844/medium.jpeg"        # keep for thumbnails
+image-alt: "Obsolete-banded Leafroller Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tortricinae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Tortricinae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475245844/medium.jpeg" alt="Obsolete-banded Leafroller Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264657966">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Tortricinae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=355513)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and shrubby habitats.
+
+## Natural history notes
+
+A small leafroller moth characterized by mottled tan to brown forewings with faint or “obsolete” banding and wavy markings that help it blend into bark, dead leaves, and dry vegetation. In Florida, it is found in forests, hammocks, pine flatwoods, forest edges, parks, and other wooded or shrubby habitats where suitable host plants occur. Adults are mostly nocturnal and may come to lights, while the caterpillars feed within rolled or tied leaves, using silk shelters for protection as they develop.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/355513-Choristoneura-obsoletana)
+-   [Local profile](https://www.bugguide.net/node/view/12088)

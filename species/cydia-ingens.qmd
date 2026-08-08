@@ -1,0 +1,50 @@
+---
+title: "Longleaf Pine Seedworm Moth (Cydia ingens)"
+slug: "cydia-ingens"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/475145145/medium.jpeg"        # keep for thumbnails
+image-alt: "Longleaf Pine Seedworm Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tortricidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Tortricidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475145145/medium.jpeg" alt="Longleaf Pine Seedworm Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264603082">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Tortricidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=356443)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in pine habitats.
+
+## Natural history notes
+
+A small seedworm moth characterized by narrow grayish-brown to reddish-brown forewings with subtle pale bands and mottled markings typical of many tortricid moths. In Florida, it is associated with longleaf pine habitats such as pine flatwoods, sandhills, open pine woodlands, and managed pine stands where longleaf pine cones are present. The caterpillars develop inside pine cones and feed on seeds or cone tissue, while adults are small, mostly nocturnal moths that may be overlooked unless reared from cones or attracted to lights.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/356443-Cydia-ingens)
+-   [Local profile](https://www.bugguide.net/node/view/1759539)

@@ -1,0 +1,51 @@
+---
+title: "Florida Bluet (Enallagma pollutum)"
+slug: "enallagma-pollutum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355383640/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Bluet"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Coenagrionidae"
+categories: ["Animal", "Insecta", "Odonata", "Coenagrionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355383640/medium.jpg" alt="Florida Bluet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201332526">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Odonata
+-   **Family:** Coenagrionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=50174)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Rare species in Florida, found in and around fresh water bodies.
+
+## Natural history notes
+
+A small bluet damselfly characterized by its slender body, clear wings held together over the back, and blue-and-black patterning, with males closely resembling other bluets and often requiring close inspection for confident identification. In Florida, it is found around freshwater ponds, lakes, streams, marshes, and other still or slow-moving wetlands, though it is less associated with clear sandy-bottom lakes than some similar species. Adults perch low on grasses, stems, and shoreline vegetation while hunting tiny flying insects, and the aquatic nymphs live among submerged plants or debris where they feed on small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/50174-Enallagma-pollutum)
+-   [IUCN](https://www.iucnredlist.org/species/51357310/80679952)
+-   [Local profile](https://www.bugguide.net/node/view/89885)

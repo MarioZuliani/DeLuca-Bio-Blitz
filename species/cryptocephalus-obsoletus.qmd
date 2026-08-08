@@ -1,0 +1,50 @@
+---
+title: "Cryptocephalus obsoletus"
+slug: "cryptocephalus-obsoletus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475129546/medium.jpeg"        # keep for thumbnails
+image-alt: "Cryptocephalus obsoletus"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Chrysomelidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Chrysomelidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475129546/medium.jpeg" alt="Cryptocephalus obsoletus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264595592">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Coleoptera
+-   **Family:** Chrysomelidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=880621)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open pine and prairie habitats.
+
+## Natural history notes
+
+A small case-bearing leaf beetle characterized by its compact cylindrical body, creamy yellow to dull orange wing covers, and two darker reddish to blackish lengthwise bands that may be faint or variable. In Florida, it has been recorded in open pine and prairie-associated habitats, including sites such as central Florida wildlife areas, and likely occurs on low vegetation, shrubs, or woodland-edge plants. Adults feed on plant material, while the larvae develop inside protective cases made from frass and debris, a typical trait of case-bearing leaf beetles.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/880621-Cryptocephalus-obsoletus)
+-   [Local profile](https://www.bugguide.net/node/view/273425/bglink?from=150)

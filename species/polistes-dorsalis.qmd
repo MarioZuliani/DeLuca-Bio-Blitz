@@ -1,0 +1,50 @@
+---
+title: "Hunter's Little Paper Wasp (Polistes dorsalis)"
+slug: "polistes-dorsalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355555136/medium.jpeg"        # keep for thumbnails
+image-alt: "Hunter's Little Paper Wasp"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Vespidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Vespidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355555136/medium.jpeg" alt="Hunter's Little Paper Wasp" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201420590">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hymenoptera
+-   **Family:** Vespidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](http://inaturalist.org/observations?project_id=191727&subview=map&taxon_id=55263)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open and urban areas.
+
+## Natural history notes
+
+A small to medium-sized paper wasp characterized by its slender reddish-brown body, narrow waist, long dangling legs, and yellow markings that vary across the face, thorax, and abdomen. In Florida, it is found in gardens, fields, forest edges, parks, yards, wetlands, and around buildings where sheltered nesting sites are available. It builds small open, umbrella-shaped paper nests from chewed plant fibers, and adults hunt caterpillars and other soft-bodied insects to feed their larvae while also visiting flowers for nectar.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/55263-Polistes-dorsalis)
+-   [Local profile](https://www.bugguide.net/node/view/47507)

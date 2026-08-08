@@ -1,0 +1,50 @@
+---
+title: "Red-headed Pine Sawfly (Neodiprion lecontei)"
+slug: "neodiprion-lecontei"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180818626/medium.jpeg"        # keep for thumbnails
+image-alt: "Red-headed Pine Sawfly"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Diprionidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Diprionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180818626/medium.jpeg" alt="Red-headed Pine Sawfly" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/buckapafr">
+buckapafr</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107502178">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Diprionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=135292)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded pine habitats.
+
+## Natural history notes
+
+A pine-feeding sawfly characterized by its caterpillar-like larvae, reddish-brown heads, and yellow-green bodies marked with dark spots or stripes. In Florida, it is found in pine flatwoods, sandhills, pine plantations, yards, and other habitats where host pines such as slash, longleaf, loblolly, or shortleaf pine occur. The larvae feed in groups on pine needles and can defoliate branches or young trees when abundant, while adults are small wasp-like insects that do not sting and are often less noticeable than the feeding larvae.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/135292-Neodiprion-lecontei)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN882)

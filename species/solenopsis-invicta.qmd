@@ -1,0 +1,50 @@
+---
+title: "Red Imported Fire Ant (Solenopsis invicta)"
+slug: "solenopsis-invicta"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622840243/medium.jpg"        # keep for thumbnails
+image-alt: "Red Imported Fire Ant"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622840243/medium.jpg" alt="Red Imported Fire Ant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rsnyder11">
+rsnyder11</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342063370">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=67598)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in moist sunny and disturbed areas.
+
+## Natural history notes
+
+A small reddish-brown invasive ant characterized by its painful sting, aggressive swarming behavior, and mound-building colonies in open soil. In Florida, it is common in lawns, pastures, roadsides, fields, parks, agricultural areas, and disturbed habitats, especially in sunny areas with moist or recently disturbed ground. It feeds on insects, seeds, honeydew, carrion, and other small food sources, and large colonies can affect native arthropods, ground-nesting wildlife, livestock, pets, and people through predation and repeated stings.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/67598-Solenopsis-invicta)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN352)

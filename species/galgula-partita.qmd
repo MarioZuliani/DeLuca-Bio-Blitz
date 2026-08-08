@@ -1,0 +1,50 @@
+---
+title: "Wedgling Moth (Galgula partita)"
+slug: "galgula-partita"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355397390/medium.jpeg"        # keep for thumbnails
+image-alt: "Wedgling Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Noctuidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Noctuidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355397390/medium.jpegg" alt="Wedgling Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201339063">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Noctuidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=143119)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and urban habitats.
+
+## Natural history notes
+
+A small owlet moth characterized by brown to reddish-brown forewings with darker angled lines and a wedge-like resting shape that helps it blend into bark, dead leaves, and low vegetation. In Florida, it is found in gardens, fields, roadsides, forest edges, lawns, parks, and other open or semi-open habitats where wood sorrels are present. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on Oxalis species, linking common low-growing herbs with the broader food web for birds, spiders, bats, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/143119-Galgula-partita)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Galgula-partita)

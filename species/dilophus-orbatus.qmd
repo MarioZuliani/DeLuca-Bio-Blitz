@@ -1,0 +1,50 @@
+---
+title: "Dilophus orbatus"
+slug: "dilophus-orbatus"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/475065290/medium.jpeg"        # keep for thumbnails
+image-alt: "Dilophus orbatus"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Bibionidae"
+categories: ["Animal", "Insecta", "Diptera", "Bibionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475065290/medium.jpeg" alt="Dilophus orbatus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264563582">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Bibionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=354034)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open habitats.
+
+## Natural history notes
+
+A small March fly characterized by its dark body, long legs, short antennae, and noticeable differences between the sexes, with females often larger and darker-winged while males have clearer wings and very large eyes. In Florida, it is found in grassy areas, fields, lawns, gardens, forest edges, and other moist open habitats where larvae can develop in soil rich in organic matter. Adults are short-lived and may emerge in groups, while the larvae feed in soil on decaying vegetation and organic material, helping recycle nutrients in the upper soil layer.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/354034-Dilophus-orbatus)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN204)

@@ -1,0 +1,50 @@
+---
+title: "Yellow-spotted Webworm Moth (Anageshna primordialis)"
+slug: "anageshna-primordialis"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/475069760/medium.jpeg"        # keep for thumbnails
+image-alt: "Yellow-spotted Webworm Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/475069760/medium.jpeg" alt="Yellow-spotted Webworm Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264566427">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=213510)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open and urban areas.
+
+## Natural history notes
+
+A small crambid moth characterized by pale yellowish to tan wings with darker speckling or yellow-spotted markings and a delicate, lightly patterned appearance. In Florida, it is found in warm open or semi-open habitats such as fields, roadsides, gardens, forest edges, wetlands, and disturbed areas where low herbaceous vegetation occurs. Adults are mostly nocturnal and may come to lights, while the caterpillars feed within loose silk webbing on host plants, helping move low plant growth into the broader food web for spiders, birds, bats, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/213510-Anageshna-primordialis)
+-   [Local profile](https://www.bugguide.net/node/view/26778)

@@ -26,7 +26,7 @@ Photo: <a href="https://www.inaturalist.org/people/lizch">lizch</a> (CC BY-NC 4.
 
 ## Taxonomy
 
--   **Class:** Insecta
+-   **Class:** Insecta 
 -   **Order:** Odonata
 -   **Family:** Libellulidae
 

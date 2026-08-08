@@ -1,0 +1,50 @@
+---
+title: "Uhler's Giant Water Bug (Lethocerus uhleri)"
+slug: "lethocerus-uhleri"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623639592/medium.jpg"        # keep for thumbnails
+image-alt: "Uhler's Giant Water Bug"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Dermaptera"
+tax_family: "Labiduridae"
+categories: ["Animal", "Insecta", "Dermaptera", "Labiduridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623639592/medium.jpg" alt="Uhler's Giant Water Bug" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/garccyy">
+garccyy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342459139">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Dermaptera
+-   **Family:** Labiduridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=205814)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in still/slow-moving freshwater habitats.
+
+## Natural history notes
+
+A very large aquatic true bug characterized by its flattened oval body, powerful raptorial front legs, brown coloration, and short breathing tube at the tip of the abdomen. In Florida, it is found in ponds, marshes, lakes, canals, ditches, swamps, and other still or slow-moving freshwater habitats with aquatic vegetation. It is an ambush predator, feeding on aquatic insects, tadpoles, small fish, and other small animals, and may fly to lights at night; like other giant water bugs, it can deliver a painful defensive bite if handled.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/307026-Labidura-riparia)
+-   [Local profile](https://www.bugguide.net/node/view/112408/bgref?from=291)

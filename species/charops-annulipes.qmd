@@ -1,0 +1,50 @@
+---
+title: "Charops annulipes"
+slug: "charops-annulipes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354970031/medium.jpg"        # keep for thumbnails
+image-alt: "Charops annulipes"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Ichneumonidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Ichneumonidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354970031/medium.jpg" alt="Charops annulipes" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201119308">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Ichneumonidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=510163)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in habitats where moth and butterfly larvae are found.
+
+## Natural history notes
+
+A small ichneumon wasp characterized by its slender body, long antennae, narrow waist, clear wings, and banded legs that give the species its “annulipes” name. In Florida, it is likely found in gardens, fields, forest edges, pine flatwoods, and other vegetated habitats where moth and butterfly larvae are present. It is a parasitoid rather than a nest-building wasp; females lay eggs on or in caterpillar hosts, and the developing larvae feed on the host, helping regulate Lepidoptera populations within the broader insect community.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/96907-Celithemis-fasciata)
+-   [Local profile](https://www.bugguide.net/node/view/559232)

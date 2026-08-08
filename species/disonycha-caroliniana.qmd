@@ -1,0 +1,50 @@
+---
+title: "Disonycha caroliniana"
+slug: "disonycha-caroliniana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/451339673/medium.jpeg"        # keep for thumbnails
+image-alt: "Disonycha caroliniana"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Chrysomelidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Chrysomelidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/451339673/medium.jpeg" alt="Disonycha caroliniana" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/josh_teyler">
+josh_teyler</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/252158843">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Chrysomelidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=309837)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in fields and open habitats.
+
+## Natural history notes
+
+A small flea beetle characterized by its compact oval body, enlarged hind legs for jumping, and dark body often marked with pale or reddish-orange striping or patches. In Florida, it is found on low vegetation in fields, roadsides, pine flatwoods, forest edges, prairies, and other open or semi-open habitats where suitable host plants occur. Adults feed on leaves and jump quickly when disturbed, while the larvae develop on or near host plants; one reliable host record is St. Andrew’s-cross, though other reported host associations may need confirmation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/309837-Disonycha-caroliniana)
+-   [Local profile](https://www.bugguide.net/node/view/706240)

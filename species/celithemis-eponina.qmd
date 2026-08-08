@@ -1,0 +1,51 @@
+---
+title: "Halloween Pennant (Celithemis eponina)"
+slug: "celithemis-eponina"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621780282/medium.jpg"        # keep for thumbnails
+image-alt: "Halloween Pennant"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animal", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621780282/medium.jpg" alt="Halloween Pennant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/zulianim">
+zulianim</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341541459">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=50147)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A medium-sized dragonfly characterized by its orange-yellow wings with bold dark brown bands, slender orange body, and habit of perching at the tips of grasses or stems like a small flag. In Florida, it is found around ponds, marshes, lakes, canals, ditches, wet prairies, and other sunny wetlands with abundant emergent vegetation. Adults hunt small flying insects from exposed perches and often return to the same stem, while the aquatic nymphs live among submerged plants and debris where they prey on small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/50147-Celithemis-eponina)
+-   [IUCN](https://www.iucnredlist.org/species/51273021/65836504)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN1153)

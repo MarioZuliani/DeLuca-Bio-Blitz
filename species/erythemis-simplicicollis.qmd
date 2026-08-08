@@ -1,0 +1,50 @@
+---
+title: "Eastern Pondhawk (Erythemis simplicicollis)"
+slug: "erythemis-simplicicollis"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622621420/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern Pondhawk"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animal", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622621420/medium.jpg" alt="Eastern Pondhawk" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341957797">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=61495)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in and around wetlands.
+
+## Natural history notes
+
+A medium-sized dragonfly characterized by its sturdy body, clear wings, and bright green coloration in females and young males, while mature males become powdery blue with a green face. In Florida, it is common around ponds, lakes, marshes, canals, ditches, wet prairies, and other sunny freshwater wetlands with open edges and vegetation for perching. Adults are aggressive aerial predators that catch flies, mosquitoes, butterflies, and other small insects, often perching low on the ground or vegetation, while the aquatic nymphs live in shallow water and prey on small aquatic animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/61495-Erythemis-simplicicollis)
+-   [Local profile](https://www.bugguide.net/node/view/577)

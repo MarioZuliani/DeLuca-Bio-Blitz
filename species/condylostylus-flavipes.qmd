@@ -1,0 +1,50 @@
+---
+title: "Condylostylus flavipes"
+slug: "condylostylus-flavipes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/551016932/medium.jpg"        # keep for thumbnails
+image-alt: "Condylostylus flavipes"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Dolichopodidae"
+categories: ["Animal", "Insecta", "Diptera", "Dolichopodidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/551016932/medium.jpg" alt="Condylostylus flavipes" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/wendyjegla">
+wendyjegla</a> (CC BY-NC 4.0) via <a href="http://inaturalist.org/observations/305599872">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Dolichopodidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=716919)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in wetlands and other humid habitats.
+
+## Natural history notes
+
+A small deer fly characterized by its compact body, large patterned eyes, short antennae, and clear to dark-banded wings typical of Chrysops flies. In Florida, it is found around wetlands, marshes, swamps, ponds, wet woods, and other humid habitats where larvae can develop in aquatic or semi-aquatic soils and vegetation. Adults are active daytime flies; females seek blood meals from mammals, including livestock, wildlife, and people, while males and females may also visit flowers or feed on plant sugars.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/716919-Condylostylus-flavipes)
+-   [Local profile](https://www.bugguide.net/node/view/586831/bglink?from=72)

@@ -1,0 +1,50 @@
+---
+title: "Southern Broken-Dash (Polites otho)"
+slug: "polites-otho"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625196020/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Broken-Dash"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625196020/medium.jpg" alt="Southern Broken-Dash" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/343241057">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1363180)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open grassy habitats.
+
+## Natural history notes
+
+A small grass skipper characterized by warm orange-brown wings, darker borders, and a broken or offset dark dash on the forewing that gives the species its name. In Florida, it is found in open grassy habitats such as prairies, marsh edges, roadsides, fields, lawns, pine flatwoods, and disturbed areas where grasses are abundant. Adults feed on nectar from low flowers and often perch on grasses or other low vegetation, while the caterpillars feed on grasses and use folded or tied blades as shelters during development.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1363180-Polites-otho)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Wallengrenia-otho)

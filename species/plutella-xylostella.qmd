@@ -1,0 +1,50 @@
+---
+title: "Diamondback Moth (Plutella xylostella)"
+slug: "plutella-xylostella"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475892129/medium.jpeg"        # keep for thumbnails
+image-alt: "Diamondback Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Plutellidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Plutellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475892129/medium.jpeg" alt="Diamondback Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264986060">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Plutellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126765)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open habitats.
+
+## Natural history notes
+
+A tiny moth characterized by narrow gray-brown wings that form a pale diamond-like pattern along the back when folded at rest. In Florida, it is found in gardens, farms, fields, roadsides, and other open habitats where cabbage, collards, mustard, broccoli, radish, and other mustard-family plants grow. Adults are mostly active at dusk or night, while the caterpillars feed on leaves, buds, and flower stalks of cruciferous plants, often creating small holes or window-like feeding patches and sometimes becoming an important agricultural pest.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126765-Plutella-xylostella)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN276)

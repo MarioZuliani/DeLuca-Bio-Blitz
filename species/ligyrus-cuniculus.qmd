@@ -1,0 +1,50 @@
+---
+title: "Ligyrus cuniculus"
+slug: "ligyrus-cuniculus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475444163/medium.jpeg"        # keep for thumbnails
+image-alt: "Ligyrus cuniculus"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Scarabaeidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Scarabaeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475444163/medium.jpeg" alt="Ligyrus cuniculus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264756701">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Coleoptera
+-   **Family:** Scarabaeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1430436)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small rhinoceros beetle characterized by its compact, dark brown to black body, strong digging legs, and smooth, oval scarab shape. In Florida, it is found mainly in southern Florida and other warm subtropical areas, especially in sandy soils, open woodlands, fields, disturbed ground, and areas with decaying organic matter. Adults spend much of their time at or below the soil surface and may come to lights at night, while the larvae develop underground and likely feed on roots, decaying plant material, or other organic matter in the soil.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1430436-Ligyrus-cuniculus)
+-   [Local profile](https://www.bugguide.net/node/view/876593/bgref?from=525)

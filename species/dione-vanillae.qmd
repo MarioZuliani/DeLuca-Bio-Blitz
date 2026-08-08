@@ -1,0 +1,50 @@
+---
+title: "Gulf Fritillary (Dione vanillae)"
+slug: "dione-vanillae"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625196015/medium.jpg"        # keep for thumbnails
+image-alt: "Gulf Fritillary"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Nymphalidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Nymphalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625196015/medium.jpg" alt="Gulf Fritillary" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/343241056">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Nymphalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=49150)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in areas where flowers are available.
+
+## Natural history notes
+
+A medium-sized orange butterfly characterized by bright orange wings with black markings above and silvery-white spots on the underside of the hindwings. In Florida, it is common in sunny open habitats such as gardens, fields, roadsides, parks, pine flatwoods, coastal areas, and forest edges where passionflower vines and nectar plants are available. Adults feed on nectar from many flowers, while the caterpillars feed on passionflower leaves, using the plant’s defensive compounds to become less palatable to predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49150-Dione-vanillae)
+-   [Local profile](https://www.flawildflowers.org/know-your-native-pollinators-gulf-fritillary/)

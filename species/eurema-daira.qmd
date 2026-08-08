@@ -1,0 +1,50 @@
+---
+title: "Barred Yellow (Eurema daira)"
+slug: "eurema-daira"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622610194/medium.jpg"        # keep for thumbnails
+image-alt: "Barred Yellow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Pieridae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Pieridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622610194/medium.jpg" alt="Barred Yellow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341951285">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Pieridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=67324)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found mainly in disturbed fields.
+
+## Natural history notes
+
+A small yellow butterfly characterized by bright yellow wings with dark brown to black borders and barred or streaked markings on the underside of the hindwing. In Florida, it is found in sunny open habitats such as prairies, pastures, roadsides, gardens, pine flatwoods, coastal areas, and disturbed fields where low legumes are available. Adults feed on nectar from small flowers, while the caterpillars feed on low-growing plants in the pea family, often using clovers, sensitive plants, and related legumes as host plants.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/67324-Eurema-daira)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Eurema-daira)

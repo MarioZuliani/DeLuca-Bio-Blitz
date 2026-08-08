@@ -1,0 +1,50 @@
+---
+title: "Waterlily Borer Moth (Elophila gyralis)"
+slug: "elophila-gyralis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354665597/medium.jpeg"        # keep for thumbnails
+image-alt: "Waterlily Borer Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354665597/medium.jpeg" alt="Waterlily Borer Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200966121">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=332646)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in and around fresh water sources.
+
+## Natural history notes
+
+A small aquatic crambid moth characterized by pale tan to whitish wings with delicate brown markings, with males often more strongly patterned than the plainer females. In Florida, it is found around ponds, lakes, marshes, canals, ditches, and other freshwater wetlands where waterlilies, lotus, and other floating aquatic plants occur. Adults are mostly nocturnal and may come to lights near water, while the aquatic caterpillars feed on waterlily leaves and bore into stems or petioles, helping connect wetland plant growth with aquatic and shoreline food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/332646)
+-   [Local profile](http://bugguide.net/node/view/49880/bgimage)

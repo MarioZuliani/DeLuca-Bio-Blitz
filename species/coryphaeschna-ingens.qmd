@@ -1,0 +1,51 @@
+---
+title: "Regal Darner (Condylostylus flavipes)"
+slug: "coryphaeschna-ingens"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623049902/medium.jpg"        # keep for thumbnails
+image-alt: "Regal Darner"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Aeshnidae"
+categories: ["Animal", "Insecta", "Odonata", "Aeshnidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623049902/medium.jpg" alt="Regal Darner" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342169455">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Aeshnidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=98538)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncommon species in Florida, found in wetlands and other humid habitats.
+
+## Natural history notes
+
+A large darner dragonfly characterized by its long slender body, clear wings, green thorax, and dark abdomen marked with pale green to bluish spots. In Florida, it is found around ponds, lakes, marshes, swamps, canals, ditches, and other warm freshwater wetlands with emergent vegetation and open flight space. Adults are strong aerial predators that catch mosquitoes, flies, moths, and other flying insects, often patrolling over wetland edges, while the aquatic nymphs live among submerged vegetation and prey on small aquatic animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/98538-Coryphaeschna-ingens)
+-   [IUCN](https://www.iucnredlist.org/species/164997/80690261)
+-   [Local profile](https://www.bugguide.net/node/view/3991)

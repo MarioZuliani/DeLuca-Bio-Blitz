@@ -1,0 +1,50 @@
+---
+title: "Little Yellow (Eurema lisa)"
+slug: "eurema-lisa"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354688502/medium.jpg"        # keep for thumbnails
+image-alt: "Little Yellow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Pieridae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Pieridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354688502/medium.jpg" alt="Little Yellow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/200975399">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Pieridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58530)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in disturbed areas.
+
+## Natural history notes
+
+A small yellow butterfly characterized by bright lemon-yellow wings, narrow dark borders on the upperside, and faint brownish markings on the underside that help distinguish it from similar sulphurs. In Florida, it is common in sunny open habitats such as fields, prairies, roadsides, gardens, lawns, pine flatwoods, and disturbed areas where low legumes are present. Adults feed on nectar from small flowers, while the caterpillars feed mainly on plants in the pea family, especially partridge pea and related low-growing legumes.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58530-Eurema-lisa)
+-   [Local profile](https://www.floridamuseum.ufl.edu/wildflowers/butterfly/little-yellow-little-sulphur/)

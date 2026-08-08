@@ -1,0 +1,50 @@
+---
+title: "Mottled Waterhyacinth Weevil (Neochetina eichhorniae)"
+slug: "neochetina-eichhorniae"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476625614/medium.jpeg"        # keep for thumbnails
+image-alt: "Mottled Waterhyacinth Weevil"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Curculionidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Curculionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476625614/medium.jpeg" alt="Mottled Waterhyacinth Weevil" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/megankimreid">
+megankimreid</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265357286">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Curculionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=269433)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A small aquatic weevil characterized by its mottled brown-gray body, short snout, and compact oval shape that helps it blend into water hyacinth leaves and stems. In Florida, it is found in ponds, lakes, canals, marshes, ditches, and other slow-moving freshwater habitats where invasive water hyacinth grows. Adults feed on water hyacinth leaves and petioles, while the larvae tunnel into the petioles and crown; because it is host-specific and damages water hyacinth, it has been used as a biological control agent for this invasive aquatic plant.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/269433-Neochetina-eichhorniae)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/AG019)

@@ -1,0 +1,51 @@
+---
+title: "Cherry Bluet (Enallagma concisum)"
+slug: "enallagma-concisum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474987088/medium.jpg"        # keep for thumbnails
+image-alt: "Cherry Bluet"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Coenagrionidae"
+categories: ["Animal", "Insecta", "Odonata", "Coenagrionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474987088/medium.jpg" alt="Cherry Bluet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264522126">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Odonata
+-   **Family:** Coenagrionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=99900)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Rare species in Florida, found in and around fresh water bodies.
+
+## Natural history notes
+
+A small bluet damselfly characterized by its slender body, clear wings held together over the back, and blue-and-black patterning, with mature males showing a distinctive cherry-colored or reddish cast on parts of the body. In Florida, it is found around freshwater ponds, marshes, wet prairies, lakes, and slow wetland edges with emergent vegetation. Adults perch low on grasses and stems and hunt tiny flying insects, while the aquatic nymphs live among submerged plants or debris and feed on small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/99900-Enallagma-concisum)
+-   [IUCN](https://www.iucnredlist.org/species/51355980/80696837)
+-   [Local profile](https://grokipedia.com/page/enallagma_concisum)

@@ -1,0 +1,50 @@
+---
+title: "Monk Skipper (Choranthus capucinus)"
+slug: "choranthus-capucinus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475246302/medium.jpeg"        # keep for thumbnails
+image-alt: "Monk Skipper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475246302/medium.jpeg" alt="Monk Skipper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264658005">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1557768)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in warm sunny habitats with low vegetation.
+
+## Natural history notes
+
+A small skipper butterfly characterized by warm brown wings, a compact body, and pale or translucent spotting on the forewings, with the quick, darting flight typical of skippers. In Florida, it is found mainly in warm, sunny habitats with grasses or low vegetation, including roadsides, fields, coastal areas, gardens, and disturbed open sites. Adults visit small flowers for nectar and often perch low on vegetation, while the caterpillars are associated with grasses or related monocots, using folded leaves as shelter during development.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1557768-Choranthus-capucinus)
+-   [Local profile](https://www.bugguide.net/node/view/6030)

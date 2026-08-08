@@ -1,0 +1,50 @@
+---
+title: "Sinuous Bee Fly (Hemipenthes sinuosa)"
+slug: "hemipenthes-sinuosa"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474808015/medium.jpg"        # keep for thumbnails
+image-alt: "Sinuous Bee Fly"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Bombyliidae"
+categories: ["Animal", "Insecta", "Diptera", "Bombyliidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474808015/medium.jpg" alt="Sinuous Bee Fly" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/npernat">
+npernat</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264370626">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Diptera
+-   **Family:** Bombyliidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=318497)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in open habitats.
+
+## Natural history notes
+
+A medium-sized bee fly characterized by its fuzzy body, long straight proboscis, and dark wings marked with pale, sinuous clear patches that give the species its name. In Florida, it is found in sunny open habitats such as fields, roadsides, forest edges, pine flatwoods, scrub, and sandy areas where flowers and host insects are available. Adults visit flowers for nectar, while the larvae are parasitoids of other insects, developing on or in immature hosts and helping regulate populations of other arthropods.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/318497-Hemipenthes-sinuosa)
+-   [Local profile](https://www.bugguide.net/node/view/14123)

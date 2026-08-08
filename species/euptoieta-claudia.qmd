@@ -1,0 +1,50 @@
+---
+title: "Variegated Fritillary (Euptoieta claudia)"
+slug: "euptoieta-claudia"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475246420/medium.jpeg"        # keep for thumbnails
+image-alt: "Variegated Fritillary"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Nymphalidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Nymphalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475246420/medium.jpeg" alt="Variegated Fritillary" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264658014">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Nymphalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=68244)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open areas with flowering plants.
+
+## Natural history notes
+
+A medium-sized orange butterfly characterized by its scalloped wings, dark checkered markings, and pale silvery-white spots on the underside of the hindwings. In Florida, it is found in sunny open habitats such as fields, prairies, roadsides, gardens, parks, pine flatwoods, and disturbed areas where violets, passionflowers, and other host plants grow. Adults feed on nectar from many wildflowers, while the caterpillars feed on violets, passionflowers, purslane, and related low plants, often using open weedy vegetation for shelter and development.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/68244-Euptoieta-claudia)
+-   [Local profile](https://www.floridamuseum.ufl.edu/exhibits/butterflies/variegated-fritillary/)

@@ -1,0 +1,50 @@
+---
+title: "Virginian Tiger Moth (Spilosoma virginica)"
+slug: "spilosoma-virginica"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257909732/medium.jpeg"        # keep for thumbnails
+image-alt: "Virginian Tiger Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257909732/medium.jpeg" alt="Virginian Tiger Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/149654188">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=60839)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open areas.
+
+## Natural history notes
+
+A medium-sized tiger moth characterized by bright white wings, a white furry body, and small black spots that may be present or nearly absent depending on the individual. In Florida, it is found in gardens, fields, roadsides, parks, forest edges, wetlands, and other open or semi-open habitats with herbaceous plants. Adults are mostly nocturnal and may come to lights, while the fuzzy “yellow woolly bear” caterpillars feed on many low plants, including grasses, clover, plantain, dandelion, and other weeds or garden plants.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/60839-Spilosoma-virginica)
+-   [Local profile](https://www.bugguide.net/node/view/498)

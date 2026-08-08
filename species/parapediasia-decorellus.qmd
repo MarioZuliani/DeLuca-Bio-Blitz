@@ -1,0 +1,50 @@
+---
+title: "Graceful Grass-Veneer (Parapediasia decorellus)"
+slug: "parapediasia-decorellus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355441488/medium.jpeg"        # keep for thumbnails
+image-alt: "Graceful Grass-Veneer"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355441488/medium.jpeg" alt="Graceful Grass-Veneer" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201360638">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=417112)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in grassy habitats.
+
+## Natural history notes
+
+A small grass-veneer moth characterized by narrow, delicate wings with pale tan to whitish coloration and fine brown or golden striping that helps it blend into dry grasses. In Florida, it is found in grassy habitats such as prairies, pine flatwoods, roadsides, lawns, marsh edges, and other open areas where grasses and low vegetation are common. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on grasses or related herbaceous plants, often living close to the ground in folded leaves or silken shelters.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/417112-Parapediasia-decorellus)
+-   [Local profile](https://www.bugguide.net/node/view/22214/bglink?from=24)

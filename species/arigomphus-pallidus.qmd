@@ -1,0 +1,51 @@
+---
+title: "Gray-green Clubtail (Arigomphus pallidus)"
+slug: "Arigomphus pallidus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355544903/medium.jpeg"        # keep for thumbnails
+image-alt: "Gray-green Clubtail"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Gomphidae"
+categories: ["Animal", "Insecta", "Odonata", "Gomphidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355544903/medium.jpeg" alt="Gray-green Clubtail" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201415375">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Odonata
+-   **Family:** Gomphidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=94623)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in freshwater wetlands.
+
+## Natural history notes
+
+A medium-sized clubtail dragonfly characterized by its gray-green thorax, pale abdomen with darker markings, widely separated eyes, and slightly widened “clubbed” tip of the abdomen. In Florida, it is found around slow-moving streams, rivers, marshy channels, ponds, and other freshwater wetlands with muddy or sandy edges. Adults often perch on low vegetation, bare ground, or exposed banks and fly out to catch small insects, while the aquatic nymphs live partly buried in sediment where they ambush small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/94623-Arigomphus-pallidus)
+-   [IUCN](https://www.iucnredlist.org/species/51178585/80681454)
+-   [Local profile](https://www.bugguide.net/node/view/47051/bgima)

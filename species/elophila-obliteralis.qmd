@@ -1,0 +1,50 @@
+---
+title: "Waterlily Leafcutter Moth (Elophila obliteralis)"
+slug: "elophila-obliteralis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355401636/medium.jpeg"        # keep for thumbnails
+image-alt: "Waterlily Leafcutter Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Pyraloidea"
+categories: ["Animal", "Insecta", "Lepidoptera", "Pyraloidea"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355401636/medium.jpeg" alt="Waterlily Leafcutter Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201341042">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Pyraloidea
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=335071)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in areas with freshwater.
+
+## Natural history notes
+
+A small aquatic crambid moth characterized by pale whitish to tan wings with delicate brown markings and a slender body, often blending in with dried grasses or wetland vegetation. In Florida, it is found around ponds, lakes, marshes, canals, ditches, and other freshwater wetlands where waterlilies and other floating aquatic plants occur. Adults are mostly nocturnal and may come to lights near water, while the caterpillars feed on aquatic plants, cutting or tying pieces of leaves into shelters as they develop and helping connect wetland plant communities with aquatic and shoreline food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/335071-Elophila-obliteralis)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Elophila-obliteralis)

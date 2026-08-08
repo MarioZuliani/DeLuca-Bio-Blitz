@@ -1,0 +1,50 @@
+---
+title: "Plagioneurus univittatus"
+slug: "plagioneurus-univittatus"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622621323/medium.jpg"        # keep for thumbnails
+image-alt: "Plagioneurus univittatus"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Dolichopodidae"
+categories: ["Animal", "Insecta", "Diptera", "Dolichopodidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622621323/medium.jpg" alt="Plagioneurus univittatus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341957789">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Dolichopodidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=260071)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in forests and urban areas.
+
+## Natural history notes
+
+A small long-legged fly characterized by its metallic green thorax, dark central stripe, slender body, long legs, and clear wings. In Florida, it is found in warm, humid habitats such as gardens, forest edges, parks, wetlands, yards, and other areas with vegetation and small arthropod prey. Adults are agile predators that run and fly across leaves, stems, and shaded surfaces while hunting tiny insects, while the larvae likely develop in moist soil, leaf litter, or decaying organic material where they prey on small invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/260071-Plagioneurus-univittatus)
+-   [Local profile](https://www.bugguide.net/node/view/88783/bglink?from=56)

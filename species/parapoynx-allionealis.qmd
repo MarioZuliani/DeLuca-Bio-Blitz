@@ -1,0 +1,50 @@
+---
+title: "Red-lined Panopoda Moth (Parapoynx allionealis)"
+slug: "parapoynx-allionealis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622467379/medium.jpg"        # keep for thumbnails
+image-alt: "Red-lined Panopoda Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622467379/medium.jpg" alt="Red-lined Panopoda Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341972512">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=227082)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in areas with submerged or floating aquatic plants.
+
+## Natural history notes
+
+A small aquatic crambid moth characterized by pale whitish to tan wings with delicate brown markings and a slender, fragile body. In Florida, it is found around ponds, lakes, marshes, canals, ditches, and other freshwater wetlands where watermilfoil and other submerged or floating aquatic plants occur. Adults are mostly nocturnal and may come to lights near water, while the caterpillars feed on aquatic vegetation, cutting or tying plant material into shelters as they develop and helping connect freshwater plant communities with wetland insect food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/227082-Parapoynx-allionealis)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Parapoynx-allionealis)

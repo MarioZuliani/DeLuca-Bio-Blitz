@@ -1,0 +1,50 @@
+---
+title: "Florida Small Carpenter (Ceratina floridana)"
+slug: "ceratina-floridana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622204849/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Small Carpenter"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Apidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Apidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622204849/medium.jpg" alt="Florida Small Carpenter" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341766020">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hymenoptera
+-   **Family:** Apidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=572770)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in sunny habitats with abundance flowers.
+
+## Natural history notes
+
+A small carpenter bee characterized by its slender, mostly dark metallic body, sparse pale hairs, and habit of carrying pollen on the hind legs. In Florida, it is found in gardens, fields, forest edges, roadsides, pine flatwoods, parks, and other sunny habitats with flowering plants and suitable nesting stems. Adults visit flowers for nectar and pollen, while females nest inside hollow or pithy plant stems, where they create small brood cells for their developing young.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/572770-Ceratina-floridana)
+-   [Local profile](https://www.flawildflowers.org/know-your-native-pollinators-carpenter-bees/)

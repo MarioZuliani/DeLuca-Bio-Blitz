@@ -1,0 +1,50 @@
+---
+title: "Lateral-lined Sharpshooter (Cuerna costalis)"
+slug: "cuerna-costalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/534141819/medium.jpg"        # keep for thumbnails
+image-alt: "Lateral-lined Sharpshooter"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Cicadellidae"
+categories: ["Animal", "Insecta", "Hemiptera", "Cicadellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/534141819/medium.jpg" alt="Lateral-lined Sharpshooter" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ryannblenn">
+ryannblenn</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/296632418">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Cicadellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=132083)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in grassy habitats.
+
+## Natural history notes
+
+A small sharpshooter leafhopper characterized by its black-and-red striped body, clear wings with dark longitudinal markings, red on the legs, and a distinct pale lateral line running from the eye along the side of the body. In Florida, it is found on grasses, shrubs, and other low vegetation in fields, roadsides, pine flatwoods, gardens, forest edges, and other sunny or semi-open habitats. It feeds by piercing plant tissue and drinking xylem sap, while also serving as prey for spiders, assassin bugs, birds, and other insect-eating animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/132083-Cuerna-costalis)
+-   [Local profile](https://www.bugguide.net/node/view/16341)

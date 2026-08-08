@@ -1,0 +1,51 @@
+---
+title: "Everglades Sprite (Nehalennia pallidula)"
+slug: "nehalennia-pallidula"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354792086/mdeium.jpeg"        # keep for thumbnails
+image-alt: "Everglades Sprite"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Coenagrionidae"
+categories: ["Animal", "Insecta", "Odonata", "Coenagrionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354792086/medium.jpeg" alt="Everglades Sprite" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201030226">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Odonata
+-   **Family:** Coenagrionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=106655)
+
+## Conservation & rarity context
+
+-   **IUCN:** Near Threatened
+-   **Rarity note:** Rare species in Florida, found in areas with shallow freshwater wetlands.
+
+## Natural history notes
+
+A tiny damselfly characterized by its extremely slender body, delicate clear wings, and pale green to bluish coloration with darker markings along the abdomen. In Florida, it is associated with wet prairies, marshes, sloughs, and other shallow freshwater wetlands with dense emergent grasses, sedges, and aquatic vegetation, especially in the Everglades region. Adults perch low and quietly among fine vegetation while hunting tiny flying insects, and the aquatic nymphs live among submerged plants where they feed on small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/106655-Nehalennia-pallidula)
+-   [IUCN](https://www.iucnredlist.org/species/14485/80696438)
+-   [Local profile](https://www.bugguide.net/node/view/95028/bgpage)

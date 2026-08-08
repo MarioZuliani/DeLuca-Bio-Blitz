@@ -1,0 +1,50 @@
+---
+title: "White Peacock (Anartia jatrophae)"
+slug: "anartia-jatrophae"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622101145/medium.jpg"        # keep for thumbnails
+image-alt: "White Peacock"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Nymphalidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Nymphalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622101145/medium .jpg" alt="White Peacock" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/vita-sativum">
+vita-sativum</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341702983">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Nymphalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=49761)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in disturbed areas with flowering plants.
+
+## Natural history notes
+
+A medium-sized butterfly characterized by mostly white wings marked with orange patches, dark eyespots, and fine brown to black lines, giving it a delicate patterned appearance. In Florida, it is common in warm sunny habitats such as wetlands, pond edges, canals, marshes, gardens, roadsides, parks, and disturbed open areas where low host plants are present. Adults feed on nectar from a variety of flowers, while the caterpillars feed on plants such as water hyssop, frogfruit, and related wetland or low-growing herbs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49761-Anartia-jatrophae)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Anartia-jatrophae)

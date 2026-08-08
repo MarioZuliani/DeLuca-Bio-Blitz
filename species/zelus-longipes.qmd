@@ -1,0 +1,50 @@
+---
+title: "Milkweed Assassin Bug (Zelus longipes)"
+slug: "zelus-longipes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622206109/medium.jpg"        # keep for thumbnails
+image-alt: "Milkweed Assassin Bug"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Reduviidae"
+categories: ["Animal", "Insecta", "Hemiptera", "Reduviidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622206109/medium.jpg" alt="Milkweed Assassin Bug" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341767653">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hemiptera
+-   **Family:** Reduviidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1580612)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in sunny habitats with shrubs and low vegetation.
+
+## Natural history notes
+
+A slender assassin bug characterized by its long reddish-orange legs, narrow body, dark wings, and piercing beak used for capturing prey. In Florida, it is common in gardens, fields, roadsides, forest edges, parks, and other sunny habitats with shrubs, flowers, and low vegetation. It is an active predator of many insects, including flies, caterpillars, beetles, and other small arthropods, often waiting on plants and using sticky forelegs and its sharp beak to seize and subdue prey.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/133826-Zelus-longipes)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN883)

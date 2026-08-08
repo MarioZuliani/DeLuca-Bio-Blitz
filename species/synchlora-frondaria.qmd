@@ -1,0 +1,50 @@
+---
+title: "Southern Emerald (Synchlora frondaria)"
+slug: "synchlora-frondaria"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354845206/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Emerald"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Geometridae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Geometridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354845206/medium.jpg" alt="Southern Emerald" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201057703">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Geometridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=207924)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in habitats with shrubs, vines, and other vegetation.
+
+## Natural history notes
+
+A small emerald moth characterized by pale green wings with fine whitish or wavy crosslines, giving it a delicate leaf-like appearance when resting. In Florida, it is found in hammocks, forest edges, pine flatwoods, gardens, parks, roadsides, and other habitats with shrubs, vines, and herbaceous vegetation. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on low plants and often camouflage themselves by attaching bits of plant material or flower fragments to their bodies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/207924-Synchlora-frondaria)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Synchlora-frondaria)

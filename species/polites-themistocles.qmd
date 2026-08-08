@@ -1,0 +1,50 @@
+---
+title: "Tawny-edged Skipper (Polites themistocles)"
+slug: "polites-themistocles"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622902965/medium.jpg"        # keep for thumbnails
+image-alt: "Tawny-edged Skipper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622902965/medium.jpg" alt="Tawny-edged Skipper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rsnyder11">
+rsnyder11</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342094635">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58506)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in disturbed areas with abundant grasses.
+
+## Natural history notes
+
+A small grass skipper characterized by warm orange-brown wings, darker wing borders, and a tawny-orange edge along the forewing that gives the species its name. In Florida, it is found in open grassy habitats such as prairies, fields, roadsides, pastures, marsh edges, lawns, and other sunny areas where grasses are abundant. Adults feed on nectar from low flowers, while the caterpillars feed on grasses, using folded or tied grass blades as shelters during development.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58506-Polites-themistocles)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Polites-themistocles)

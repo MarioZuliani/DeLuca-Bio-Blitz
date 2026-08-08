@@ -1,0 +1,50 @@
+---
+title: "Spring Fishfly (Chauliodes rastricornis)"
+slug: "chauliodes-rastricornis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355364867/medium.jpeg"        # keep for thumbnails
+image-alt: "Spring Fishfly"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Megaloptera"
+tax_family: "Corydalidae"
+categories: ["Animal", "Insecta", "Megaloptera", "Corydalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355364867/medium.jpeg" alt="Spring Fishfly" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201321015">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Megaloptera
+-   **Family:** Corydalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=129042)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in aquatic habitats.
+
+## Natural history notes
+
+A large aquatic insect characterized by long smoky wings held roof-like over the body, long antennae, and a soft brown to grayish body. In Florida, it is found near ponds, lakes, marshes, swamps, slow streams, and other freshwater wetlands where the aquatic larvae can develop. Adults are short-lived and often come to lights near water, while the larvae live in aquatic habitats as predators, feeding on small invertebrates and helping transfer energy from freshwater systems to birds, bats, fish, and other predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/129042-Chauliodes-rastricornis)
+-   [Local profile](https://www.bugguide.net/node/view/8569)

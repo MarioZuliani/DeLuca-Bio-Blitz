@@ -1,0 +1,50 @@
+---
+title: "Reticulated Net-winged Beetle (Calopteron reticulatum)"
+slug: "calopteron-reticulatum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474746483/medium.jpg"        # keep for thumbnails
+image-alt: "Reticulated Net-winged Beetle"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Lycidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Lycidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474746483/medium.jpg" alt="Reticulated Net-winged Beetle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/elion592">
+elion592</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264299620">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Lycidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=132719)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in moist wooded areas.
+
+## Natural history notes
+
+A medium-sized net-winged beetle characterized by its soft, flattened body, orange-and-black banded wing covers, and raised net-like ridges across the wings. In Florida, it is found in moist woodlands, hammocks, forest edges, and other wooded habitats, often on flowers, leaves, or low vegetation near decaying wood. Adults are active during the day, while the larvae develop around rotten logs, loose bark, leaf litter, or decaying wood, where they prey on small arthropods; the bright coloration likely signals chemical defenses to predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/132719-Calopteron-reticulatum)
+-   [Local profile](https://www.bugguide.net/node/view/8195)

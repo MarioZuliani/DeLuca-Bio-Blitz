@@ -1,0 +1,50 @@
+---
+title: "Phormoestes palmettovora"
+slug: "phormoestes-palmettovora"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475295133/medium.jpeg"        # keep for thumbnails
+image-alt: "Phormoestes palmettovora"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Millieriidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Millieriidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475295133/medium.jpeg" alt="Phormoestes palmettovora" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lizch">
+lizch</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264681167">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Millieriidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=511618)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in palm habitats.
+
+## Natural history notes
+
+A tiny metalmark moth characterized by very small, narrow wings with muted brown to grayish markings and a delicate, easily overlooked appearance. In Florida, it is associated with cabbage palm, Sabal palmetto, and is known from palm habitats where larvae bore within the small flower pods of palm inflorescences. Adults are small and likely overlooked unless collected or attracted to lights, while the caterpillars feed concealed within the palm flowers and later pupate in a hollow flower pod, linking cabbage palm reproduction with specialized moth herbivory.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/512420-Phormoestes-palmettovora)
+-   [Local profile](https://www.bugguide.net/node/view/1164737/bgref?from=569)

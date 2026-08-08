@@ -1,0 +1,50 @@
+---
+title: "Brown Winter Grasshopper (Amblytropidia mysteca)"
+slug: "amblytropidia-mysteca"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354792382/medium.jpeg"        # keep for thumbnails
+image-alt: "Brown Winter Grasshopper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Acrididae"
+categories: ["Animal", "Insecta", "Orthoptera", "Acrididae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354792382/medium.jpeg" alt="Brown Winter Grasshopper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201030231">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Orthoptera
+-   **Family:** Acrididae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=213346)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open grassy habitats.
+
+## Natural history notes
+
+A medium-sized grasshopper characterized by its brown to tan coloration, slender body, long hind legs, and cryptic patterning that helps it blend into dry grasses and leaf litter. In Florida, it is found in open grassy habitats such as prairies, pine flatwoods, roadsides, fields, and disturbed areas where grasses and low vegetation are available. It feeds mainly on grasses and other herbaceous plants, usually resting low in vegetation or on the ground and jumping short distances when disturbed.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/213346-Amblytropidia-mysteca)
+-   [Local profile](https://www.bugguide.net/node/view/41539)

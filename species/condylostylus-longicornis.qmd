@@ -1,0 +1,50 @@
+---
+title: "Condylostylus longicornis"
+slug: "condylostylus-longicornis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354792194/medium.jpeg"        # keep for thumbnails
+image-alt: "Condylostylus longicornis"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Dolichopodidae"
+categories: ["Animal", "Insecta", "Diptera", "Dolichopodidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354792194/medium.jpeg" alt="Condylostylus longicornis" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201030228">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Dolichopodidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=197039)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in gardens and other open habitats.
+
+## Natural history notes
+
+A small long-legged fly characterized by its metallic green to blue-green body, long slender legs, clear wings, and quick, agile movements on leaves and stems. In Florida, it is found in gardens, fields, forest edges, parks, wetlands, roadsides, and other sunny habitats with low vegetation and moist or shaded surfaces. Adults are active predators of tiny insects and other small arthropods, often running or flying short distances across foliage while hunting, and the larvae likely develop in soil, leaf litter, or decaying organic material where they prey on small invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/197039-Condylostylus-longicornis)
+-   [Local profile](https://www.bugguide.net/node/view/564223)

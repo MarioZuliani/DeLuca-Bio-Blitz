@@ -1,0 +1,50 @@
+---
+title: "Aethes triassumenta"
+slug: "aethes-triassumenta"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257906991/medium.jpeg"        # keep for thumbnails
+image-alt: "Aethes triassumenta"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tortricidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Tortricidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257906991/medium.jpeg" alt="Aethes triassumenta" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/149652917">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Tortricidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1095348)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A tiny tortricid moth characterized by narrow tan to brownish forewings with subtle darker crosslines or mottled markings typical of many Aethes moths. In Florida, it has been recorded from the state and is likely found in open or semi-open habitats where suitable low vegetation and host plants occur, though its immature stages and host associations appear to be poorly documented. Adults are small and easily overlooked, mostly active at night and sometimes attracted to lights, while the caterpillars likely feed concealed within plant tissues or flower/seed structures, as is common for many related cochylid tortricid moths.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1095348-Aethes-triassumenta)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=3761.5)

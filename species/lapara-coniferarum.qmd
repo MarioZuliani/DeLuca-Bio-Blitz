@@ -1,0 +1,50 @@
+---
+title: "Southern Pine Sphinx (Lapara coniferarum)"
+slug: "lapara-coniferarum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474857551/medium.jpeg"        # keep for thumbnails
+image-alt: "Southern Pine Sphinx"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Sphingidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Sphingidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474857551/medium.jpeg" alt="Southern Pine Sphinx" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/budgetphonephotographer">
+budgetphonephotographer</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264427615">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Sphingidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=143442)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A medium-sized sphinx moth characterized by narrow gray to brownish-gray forewings, a streamlined body, and subtle dark streaking that helps it blend into pine bark. In Florida, it is found in pine flatwoods, sandhills, scrubby pine woods, managed pine stands, and other habitats where pines are common. Adults are mostly active at dusk and night and may come to lights, while the caterpillars feed on pine needles, especially southern pines such as longleaf, slash, and loblolly pine, helping move pine foliage into the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/143442-Lapara-coniferarum)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Lapara-coniferarum)

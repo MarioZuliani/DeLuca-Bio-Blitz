@@ -1,0 +1,51 @@
+---
+title: "Blue Corporal (Ladona deplanata)"
+slug: "ladona-deplanata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624014301/medium.jpg"        # keep for thumbnails
+image-alt: "Blue Corporal"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animal", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624014301/medium.jpg" alt="Blue Corporal" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jacksonmartin336">
+jacksonmartin336</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342686964">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=103927)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in around slow-moving water wetlands.
+
+## Natural history notes
+
+A medium-sized dragonfly characterized by a broad, flattened abdomen, clear wings with dark basal patches, and blue pruinosity on mature males that gives them a powdery blue appearance. In Florida, it is found around ponds, lakes, marshes, wet prairies, ditches, and slow-moving wetlands with sunny edges and emergent vegetation. Adults perch on low stems, twigs, or bare ground and make short flights to catch small flying insects, while the aquatic nymphs live in shallow water and prey on small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/103927-Ladona-deplanata)
+-   [IUCN](https://www.iucnredlist.org/species/51274501/80695128)
+-   [Local profile](https://www.bugguide.net/node/view/27364)

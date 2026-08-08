@@ -1,0 +1,51 @@
+---
+title: "Banded Pennant (Celithemis fasciata)"
+slug: "celithemis-fasciata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/356700772/medium.jpg"        # keep for thumbnails
+image-alt: "Banded Pennant"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animal", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/356700772/medium.jpg" alt="Banded Pennant" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/202012386">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=96907)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A medium-sized dragonfly characterized by clear wings marked with broad dark bands, a slender body, and a perched posture often held at the tips of grasses, reeds, or twigs. In Florida, it is found around ponds, lakes, marshes, wet prairies, ditches, canals, and other sunny freshwater wetlands with emergent vegetation. Adults hunt small flying insects from exposed perches and make short flights over wetland edges, while the aquatic nymphs live among submerged plants and debris where they prey on small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/96907-Celithemis-fasciata)
+-   [IUCN](https://www.iucnredlist.org/species/51273061/71310035)
+-   [Local profile](https://www.bugguide.net/node/view/594/bgpage)

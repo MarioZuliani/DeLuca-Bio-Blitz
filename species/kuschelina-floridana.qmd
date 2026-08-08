@@ -1,0 +1,50 @@
+---
+title: "Kuschelina floridana"
+slug: "kuschelina-floridana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475842217/medium.jpeg"        # keep for thumbnails
+image-alt: "Kuschelina floridana"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Chrysomelidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Chrysomelidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475842217/medium.jpeg" alt="Kuschelina floridana" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/shelleydee">
+shelleydee</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264961056">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Coleoptera
+-   **Family:** Chrysomelidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=519078)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in moist habitats.
+
+## Natural history notes
+
+A small flea beetle characterized by its compact oval body, enlarged hind legs for jumping, and dark metallic coloration that may appear bluish, greenish, or black depending on the light. In Florida, it is found in wetlands, marsh edges, pond margins, ditches, wet prairies, and other moist habitats where suitable host plants occur. Adults feed on leaves and may jump quickly when disturbed, while the larvae develop on or near host plants, contributing to the broader herbivore community and serving as prey for spiders, birds, and predatory insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/519078-Kuschelina-floridana)
+-   [Local profile](https://www.wildflphoto.com/species.php?k=a&id=537)

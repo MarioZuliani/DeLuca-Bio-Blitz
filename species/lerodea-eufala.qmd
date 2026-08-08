@@ -1,0 +1,50 @@
+---
+title: "Eufala Skipper (Lerodea eufala)"
+slug: "lerodea-eufala"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475789515/medium.jpeg"        # keep for thumbnails
+image-alt: "Eufala Skipper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475789515/medium.jpeg" alt="Eufala Skipper" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/shelleydee">
+shelleydee</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264933306">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=59195)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in disturbed areas with abundant grasses.
+
+## Natural history notes
+
+A small grass skipper characterized by warm brown to orange-brown wings, pale spots on the forewings, and a compact body with hooked antennae typical of skippers. In Florida, it is found in open grassy habitats such as prairies, pastures, roadsides, lawns, marsh edges, fields, and disturbed areas where grasses are abundant. Adults feed on nectar from low flowers, while the caterpillars feed on grasses, using folded or tied grass blades as shelters while they develop.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/59195-Lerodea-eufala)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Lerodea-eufala)

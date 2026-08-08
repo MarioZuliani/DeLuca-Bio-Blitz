@@ -1,0 +1,50 @@
+---
+title: "Red Bay Psyllid (Trioza magnoliae)"
+slug: "trioza-magnoliae"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621873965/medium.jpg"        # keep for thumbnails
+image-alt: "Red Bay Psyllid"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Triozidae"
+categories: ["Animal", "Insecta", "Hemiptera", "Triozidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621873965/medium.jpg" alt="Red Bay Psyllid" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341587656">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hemiptera
+-   **Family:** Triozidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations/341711106)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded habitats with plentiful plant cover.
+
+## Natural history notes
+
+A small plant-feeding psyllid characterized by its tiny, cicada-like body, clear wings held roof-like over the back, and habit of jumping when disturbed. In Florida, it is associated mainly with red bay and related laurels, where it can be found on leaves and new growth in hammocks, forests, swamps, parks, yards, and other wooded habitats where host plants occur. It feeds by sucking plant sap, and its nymphs may cause leaf curling, pitting, or other small distortions while remaining part of the broader food web as prey for spiders, lady beetles, lacewings, and other predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/482747-Trioza-magnoliae)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN799)

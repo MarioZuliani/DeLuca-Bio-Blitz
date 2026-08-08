@@ -1,0 +1,50 @@
+---
+title: "Margined Calligrapher (Toxomerus marginatus)"
+slug: "toxomerus-marginatus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355366235/medium.jpeg"        # keep for thumbnails
+image-alt: "Margined Calligrapher"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Syrphidae"
+categories: ["Animal", "Insecta", "Diptera", "Syrphidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355366235/medium.jpeg" alt="Margined Calligrapher" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201321601">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Diptera
+-   **Family:** Syrphidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126889)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in sunny areas with abundant flowers.
+
+## Natural history notes
+
+A small flower fly characterized by its slender body, large reddish eyes, and yellow-and-black patterned abdomen with dark side margins that help give it a neatly bordered appearance. In Florida, it is common in gardens, fields, roadsides, parks, forest edges, wetlands, and other sunny habitats with abundant flowers and low vegetation. Adults visit flowers for nectar and pollen, while the larvae prey on aphids and other small soft-bodied insects, making this species a beneficial natural enemy in gardens and natural areas.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126889-Toxomerus-marginatus)
+-   [Local profile](https://butterflies.org/pollinator-of-the-month-margined-calligrapher/)

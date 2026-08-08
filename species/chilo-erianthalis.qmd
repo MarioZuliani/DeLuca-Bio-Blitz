@@ -1,0 +1,50 @@
+---
+title: "Chilo erianthalis"
+slug: "chilo-erianthalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355464467/medium.jpeg"        # keep for thumbnails
+image-alt: "Chilo erianthalis"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355464467/medium.jpeg" alt="Chilo erianthalis" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201377950">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=491231)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wetlands and urban areas.
+
+## Natural history notes
+
+A small crambid moth characterized by narrow straw-colored to brownish wings with subtle darker lines and mottling, giving it the typical grass-moth appearance. In Florida, it is found in marshes, wet prairies, roadsides, fields, pine flatwoods, and other open habitats where grasses, sedges, or reed-like plants are available. Adults are mostly nocturnal and may come to lights, while the caterpillars are stem-borers or concealed feeders in grasses and related plants, helping move wetland and grassland vegetation into the broader food web for spiders, birds, bats, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/491231-Chilo-erianthalis)
+-   [Local profile](https://www.butterfliesandmoths.org/checklists?species_type=All&tid=45152&items_per_page=All)

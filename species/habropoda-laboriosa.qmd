@@ -1,0 +1,50 @@
+---
+title: "Blueberry Digger Bee (Habropoda laboriosa)"
+slug: "habropoda-laboriosa"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474780193/medium.jpg"        # keep for thumbnails
+image-alt: "Blueberry Digger Bee"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Apidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Apidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474780193/medium.jpg" alt="Blueberry Digger Bee" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/npernat">
+npernat</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264340059">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Apidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=121510)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in gardens and open habitats.
+
+## Natural history notes
+
+A medium-sized native bee characterized by its fuzzy gray to brown body, pale facial markings, and fast, low flight around blueberry flowers in early spring. In Florida, it is found in gardens, farms, pine flatwoods, scrubby areas, and open woodlands where blueberries and suitable sandy nesting soils occur. Females nest individually in the ground and are especially important pollinators of blueberries, using buzz pollination to vibrate the flowers and release pollen more effectively than many generalist bees.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/121510-Habropoda-laboriosa)
+-   [Local profile](https://www.flawildflowers.org/know-your-native-pollinators-blueberry-bees/)

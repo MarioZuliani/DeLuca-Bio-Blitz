@@ -1,0 +1,51 @@
+---
+title: "Atlantic Bluet (Enallagma doubledayi)"
+slug: "enallagma-doubledayi"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355366698/medium.jpeg"        # keep for thumbnails
+image-alt: "Atlantic Bluet"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Coenagrionidae"
+categories: ["Animal", "Insecta", "Odonata", "Coenagrionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355366698/medium.jpeg" alt="Atlantic Bluet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201321770">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Odonata
+-   **Family:** Coenagrionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=99906)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Rare species in Florida, found in and around fresh water bodies.
+
+## Natural history notes
+
+A small bluet damselfly characterized by its slender body, clear wings held together over the back, and blue-and-black patterning, with males showing bright blue markings along the thorax and abdomen. In Florida, it is found around ponds, lakes, marshes, canals, ditches, wet prairies, and other still or slow-moving freshwater habitats with emergent vegetation. Adults perch low on grasses, rushes, and stems while hunting tiny flying insects, and the aquatic nymphs live among submerged plants or debris where they feed on small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/99906-Enallagma-doubledayi)
+-   [IUCN](https://www.iucnredlist.org/species/164931/80681574)
+-   [Local profile](https://www.bugguide.net/node/view/6525/bglink?from=203)
