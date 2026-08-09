@@ -1,0 +1,51 @@
+---
+title: "Band-winged Dragonlet (Erythrodiplax umbrata)"
+slug: "erythrodiplax-umbrata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622252535/medium.jpg"        # keep for thumbnails
+image-alt: "Band-winged Dragonlet"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animal", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622252535/medium.jpg" alt="Band-winged Dragonlet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341774093">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=50342)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found around freshwater habitats.
+
+## Natural history notes
+
+A medium-sized dragonlet characterized by its slender body, clear wings with a broad dark band across each wing, and dark brown to black abdomen often marked with pale or bluish coloration depending on sex and age. In Florida, it is found around ponds, lakes, marshes, canals, ditches, wet prairies, and other sunny freshwater wetlands with open edges and emergent vegetation. Adults perch on twigs, reeds, or low vegetation and make short flights to catch small flying insects, while the aquatic nymphs live in shallow water among plants and debris where they prey on small aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/50342-Erythrodiplax-umbrata)
+-   [IUCN](https://www.iucnredlist.org/species/49254239/49255913)
+-   [Local profile](https://wiatri.net/inventory/odonata/speciesaccounts/SpeciesDetail.cfm?TaxaID=174)

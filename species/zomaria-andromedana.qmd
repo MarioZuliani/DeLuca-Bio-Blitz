@@ -1,0 +1,50 @@
+---
+title: "Zomaria andromedana"
+slug: "zomaria-andromedana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355506980/medium.jpeg"        # keep for thumbnails
+image-alt: "Zomaria andromedana"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tortricidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Tortricidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355506980/medium.jpeg" alt="Zomaria andromedana"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lmcconachie">
+lmcconachie</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201398187">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Tortricidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1150608)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in warm wooded habitats.
+
+## Natural history notes
+
+A small tortricid moth characterized by narrow tan to brownish wings with subtle darker mottling, fine crosslines, and a compact folded resting posture typical of olethreutine leafroller moths. In Florida, Zomaria andromedana has been recorded as part of the state’s moth fauna and is likely found in warm wooded, shrubby, or semi-open habitats where adults may come to lights. Its caterpillar host plants appear to be poorly documented, so it is best treated cautiously as a small nocturnal plant-feeding moth whose larvae likely feed concealed in plant tissue or folded leaves and whose adults and larvae support birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1150608-Zomaria-andromedana)
+-   [Local profile](https://www.bugguide.net/node/view/171764/bgpage)

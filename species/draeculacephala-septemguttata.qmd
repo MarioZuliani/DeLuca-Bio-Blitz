@@ -1,0 +1,50 @@
+---
+title: "Draeculacephala septemguttata"
+slug: "draeculacephala-septemguttata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355366819/medium.jpeg"        # keep for thumbnails
+image-alt: "Draeculacephala septemguttata"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Cicadellidae"
+categories: ["Animal", "Insecta", "Hemiptera", "Cicadellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355366819/medium.jpeg" alt="Draeculacephala septemguttata" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201321787">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Cicadellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=450151)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in on grasses and other areas with low vegetations.
+
+## Natural history notes
+
+A small sharpshooter leafhopper characterized by its slender green body, wedge-shaped profile, clear wings, and pale spots or markings that help distinguish it from other green sharpshooters. In Florida, it is found on grasses, sedges, rushes, and other low vegetation in wetlands, marsh edges, wet prairies, ditches, fields, and other moist open habitats. It feeds by piercing plant tissue and drinking xylem sap, while also serving as prey for spiders, assassin bugs, birds, and other insect-eating animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/450151-Draeculacephala-septemguttata)
+

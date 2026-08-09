@@ -1,0 +1,50 @@
+---
+title: "Black-dotted Hemeroplanis Moth (Hemeroplanis habitalis)"
+slug: "hemeroplanis-habitalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355404881/medium.jpeg"        # keep for thumbnails
+image-alt: "Black-dotted Hemeroplanis Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355404881/medium.jpeg" alt="Black-dotted Hemeroplanis Moth" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201341067">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=465208)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small owlet moth characterized by brown to grayish-brown forewings with subtle wavy lines and dark dotted markings that give it the “black-dotted” appearance. In Florida, it has been recorded in wooded or semi-wooded habitats and may be encountered in forests, hammocks, parks, yards, and other warm areas with suitable vegetation. Adults are mostly nocturnal and may come to lights, while the caterpillar host plants appear to be poorly documented, so it is best treated cautiously as a small plant-feeding moth that contributes to the broader food web for spiders, birds, bats, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/465208-Hemeroplanis-habitalis)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=8471)

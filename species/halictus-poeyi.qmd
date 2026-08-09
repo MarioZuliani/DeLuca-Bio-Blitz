@@ -1,0 +1,50 @@
+---
+title: "Poey's Furrow Bee (Halictus poeyi)"
+slug: "halictus-poeyi"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474975833/medium.jpg"        # keep for thumbnails
+image-alt: "Poey's Furrow Bee"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Halictidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Halictidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474975833/medium.jpg" alt="Poey's Furrow Bee" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264517787">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Halictidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=526062)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open areas with flowering plants.
+
+## Natural history notes
+
+A small sweat bee characterized by its slender dark body, pale hair bands across the abdomen, and habit of carrying pollen on the hind legs. In Florida, it is found in gardens, fields, roadsides, forest edges, pine flatwoods, parks, and other sunny habitats with abundant flowering plants and patches of bare or lightly vegetated soil for nesting. Adults visit flowers for nectar and pollen, contributing to pollination of wildflowers and other plants, while females nest in the ground, often in small burrows in sandy or well-drained soil.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/526062-Halictus-poeyi)
+-   [Local profile](https://www.bugguide.net/node/view/79290)

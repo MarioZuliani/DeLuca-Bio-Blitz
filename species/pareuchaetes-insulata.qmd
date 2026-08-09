@@ -1,0 +1,50 @@
+---
+title: "Yellow-winged Pareuchaetes Moth (Pareuchaetes insulata)"
+slug: "pareuchaetes-insulata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355400384/medium.jpeg"        # keep for thumbnails
+image-alt: "Yellow-winged Pareuchaetes Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355400384/medium.jpeg" alt="Yellow-winged Pareuchaetes Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201339082">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=257008)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in gardens and forest edges.
+
+## Natural history notes
+
+A small tiger moth characterized by yellowish to orange-yellow hindwings, darker forewings, and a slender body with the active, day-flying appearance typical of many wasp-like arctiine moths. In Florida, it is found in warm open or semi-open habitats such as fields, roadsides, gardens, forest edges, wetlands, and disturbed areas where climbing hempweed and related host plants occur. Adults may fly during the day or come to lights, while the caterpillars feed on hempvine and related plants, helping move weedy vine growth into the broader food web for birds, spiders, bats, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/257008-Pareuchaetes-insulata)
+-   [Local profile](https://www.bugguide.net/node/view/42727)

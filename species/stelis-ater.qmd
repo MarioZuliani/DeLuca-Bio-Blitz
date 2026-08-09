@@ -1,0 +1,50 @@
+---
+title: "Florida Black Dark Bee (Stelis ater)"
+slug: "stelis-ater"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622641365/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Black Dark Bee"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Megachilidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Megachilidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622641365/medium.jpg" alt="Florida Black Dark Bee"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341967100">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Megachilidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=231505)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in warm humid habitats.
+
+## Natural history notes
+
+A small leafcutter-family bee characterized by its entirely black body, compact build, and relatively dark, unmarked appearance compared with many more colorful megachilid bees. In Florida, Stelis ater is a rare Florida-associated cuckoo bee, with records including natural areas in north-central Florida and recognition as a conservation-relevant bee species in the state. Unlike pollen-collecting bees, it is cleptoparasitic: females lay eggs in the nests of other solitary bees, with Osmia chalybea documented as a host, and the developing Stelis larva uses the host nest’s provisions rather than building and provisioning its own nest.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/231505-Stelis-ater)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.23.30732/Stelis_ater)

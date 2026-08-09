@@ -1,0 +1,50 @@
+---
+title: "Pergande's Acorn Ant (Temnothorax pergandei)"
+slug: "temnothorax-pergandei"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474754885/medium.jpg"        # keep for thumbnails
+image-alt: "Pergande's Acorn Ant"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474754885/medium.jpg" alt="Pergande's Acorn Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ouweleenf">
+ouweleenf</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264308206">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=232369)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A tiny acorn ant characterized by its small size, brown to yellowish-brown body, and compact, slow-moving workers that are often overlooked in leaf litter. In Florida, it is found in wooded habitats such as oak hammocks, pine-oak woods, forest edges, yards, and natural areas where fallen acorns, hollow twigs, and small plant cavities are available for nesting. Colonies are small and usually nest inside acorns, nuts, or dead twigs, while workers forage for tiny insects, scavenged material, nectar, and honeydew, making them part of the leaf-litter and canopy-edge food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/232369-Temnothorax-pergandei)
+-   [Local profile](https://www.antwiki.org/wiki/Temnothorax_pergandei)

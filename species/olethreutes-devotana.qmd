@@ -1,0 +1,50 @@
+---
+title: "Pied Olethreutes Moth (Olethreutes devotana)"
+slug: "olethreutes-devotana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355399068/medium.jpeg"        # keep for thumbnails
+image-alt: "Pied Olethreutes Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tortricidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Tortricidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355399068/medium.jpeg" alt="Pied Olethreutes Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201339068">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Tortricidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=896024)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small tortricid moth characterized by narrow dark brown to blackish forewings with contrasting pale patches or bands that give it a pied, two-toned appearance. In Florida, it is found in wooded and semi-wooded habitats such as hammocks, forest edges, parks, yards, and shrubby areas where suitable host plants and leaf litter occur. Adults are mostly nocturnal and may come to lights, while the caterpillars likely feed concealed in folded leaves, tied leaves, or plant material, serving as part of the broader food web for spiders, birds, bats, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/896024-Olethreutes-devotana)
+-   [Local profile](https://www.bugguide.net/node/view/9524/bgimage?from=26717)

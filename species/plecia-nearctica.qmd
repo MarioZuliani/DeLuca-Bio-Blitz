@@ -1,0 +1,50 @@
+---
+title: "Common Lovebug (Plecia nearctica)"
+slug: "plecia-nearctica"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475184835/medium.jpg"        # keep for thumbnails
+image-alt: "Common Lovebug"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Bibionidae"
+categories: ["Animal", "Insecta", "Diptera", "Bibionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475184835/medium.jpg" alt="Common Lovebug"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="http://inaturalist.org/observations/264621805">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Bibionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=127635)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and and semi-open habitats.
+
+## Natural history notes
+
+A small March fly characterized by its black body, reddish-orange thorax, smoky wings, and habit of mating pairs remaining attached while flying or resting. In Florida, it is common in warm open or semi-open habitats such as roadsides, fields, lawns, parks, gardens, forest edges, and disturbed areas, with large seasonal flights often noticeable in spring and late summer. Adults feed on nectar and other plant fluids, while the larvae develop in moist decaying vegetation and organic matter, helping break down plant material and recycle nutrients in soil.
+
+## References / links
+
+-   [iNaturalist species page](http://inaturalist.org/taxa/127635-Plecia-nearctica)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN204)

@@ -1,0 +1,50 @@
+---
+title: "Anchor Stink Bug (Stiretrus anchorago)"
+slug: "stiretrus-anchorago"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475897751/medium.jpeg"        # keep for thumbnails
+image-alt: "Anchor Stink Bug"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Pentatomidae"
+categories: ["Animal", "Insecta", "Hemiptera", "Pentatomidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475897751/medium.jpeg" alt="Anchor Stink Bug"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264988814">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Pentatomidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=261458)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open warm habitats.
+
+## Natural history notes
+
+A medium-sized predatory stink bug characterized by its shield-shaped body, bold black-and-orange to black-and-red patterning, and anchor-like dark marking across the back. In Florida, it is found in gardens, fields, forest edges, parks, roadsides, and other open or semi-open habitats where caterpillars and other soft-bodied insects are common. Unlike many plant-feeding stink bugs, it is mainly predatory, using its piercing beak to feed on caterpillars, beetle larvae, and other insects, making it a beneficial natural enemy in native plant communities and gardens.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/261458-Stiretrus-anchorago)
+-   [Local profile](https://www.bugguide.net/node/view/6434)

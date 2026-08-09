@@ -1,0 +1,50 @@
+---
+title: "Rival Wave (Scopula aemulata)"
+slug: "scopula-aemulata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475157565/medium.jpg"        # keep for thumbnails
+image-alt: "Rival Wave"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Geometridae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Geometridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475157565/medium.jpg" alt="Rival Wave"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264609724">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Geometridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=230669)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small wave moth characterized by pale gray to whitish wings with fine speckling, faint wavy crosslines, and a delicate lightly patterned appearance typical of Scopula moths. In Florida, it has been recorded in the state and is likely found in warm open or semi-open habitats with low vegetation, although its detailed habitat and host-plant associations are not well documented. Adults are mostly nocturnal and may come to lights, while the caterpillar host plants remain poorly known, so it is best treated cautiously as a small plant-feeding geometrid moth that contributes to the broader food web for spiders, birds, bats, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/230669-Scopula-aemulata)
+-   [Local profile](https://www.bugguide.net/node/view/96279)

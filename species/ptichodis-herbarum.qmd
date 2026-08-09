@@ -1,0 +1,50 @@
+---
+title: "Common Ptichodis Moth (Ptichodis herbarum)"
+slug: "ptichodis-herbarum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355363137/medium.jpeg"        # keep for thumbnails
+image-alt: "Common Ptichodis Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355363137/medium.jpeg" alt="Common Ptichodis Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201320240">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=229392)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in fields and roadsides.
+
+## Natural history notes
+
+A small to medium-sized owlet moth characterized by mottled brown to grayish-brown forewings with fine wavy lines, darker shading, and a bark- or leaf-litter-like pattern that helps it blend into vegetation and dead leaves. In Florida, it is found in fields, roadsides, gardens, forest edges, pine flatwoods, parks, and other open or semi-open habitats where herbaceous plants and low vegetation are common. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on low plants and contribute to the broader food web as prey for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/229392-Ptichodis-herbarum)
+-   [Local profile](https://www.bugguide.net/node/view/75102)

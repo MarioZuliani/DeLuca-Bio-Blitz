@@ -1,0 +1,50 @@
+---
+title: "Palmetto Tortoise Beetle (Hemisphaerota cyanea)"
+slug: "hemisphaerota-cyanea"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474797526/medium.jpeg"        # keep for thumbnails
+image-alt: "Palmetto Tortoise Beetle"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Chrysomelidae"
+categories: ["Animal", "Insecta", "Coleoptera", "Chrysomelidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474797526/medium.jpeg" alt="Palmetto Tortoise Beetle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264358104">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Chrysomelidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126416)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in areas with saw palmetto and other palm species.
+
+## Natural history notes
+
+A small tortoise beetle characterized by its rounded, flattened body, shiny dark blue to metallic blue-black coloration, and shield-like wing covers that can fit tightly against a leaf surface. In Florida, it is associated especially with saw palmetto and related palm habitats, including pine flatwoods, scrub, hammocks, forest edges, parks, and yards where palmettos grow. Both adults and larvae feed on palmetto leaves, often scraping or skeletonizing the leaf surface, while the larvae carry a protective shield made from shed skins and fecal material that helps deter predators.
+
+## References / links
+
+-   [iNaturalist species page](http://inaturalist.org/taxa/126416-Hemisphaerota-cyanea)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN388)

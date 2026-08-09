@@ -1,0 +1,50 @@
+---
+title: "Rusty Bird Grasshopper (Schistocerca rubiginosa)"
+slug: "schistocerca-rubiginosa"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476398689/medium.jpg"        # keep for thumbnails
+image-alt: "Rusty Bird Grasshopper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Acrididae"
+categories: ["Animal", "Insecta", "Orthoptera", "Acrididae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476398689/medium.jpg" alt="Rusty Bird Grasshopper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lmcconachie">
+lmcconachie</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265242138">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Orthoptera
+-   **Family:** Acrididae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=230588)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A large bird grasshopper characterized by its long body, strong hind legs, brown to rusty-brown coloration, and long wings that allow strong flight. In Florida, it is found in open and semi-open habitats such as pine flatwoods, scrub, prairies, fields, roadsides, forest edges, and disturbed areas with grasses, shrubs, and low vegetation. It feeds on leaves and other plant material, usually resting on vegetation or the ground and escaping disturbance with powerful jumps followed by short flights.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/230588-Schistocerca-rubiginosa)
+-   [Local profile](https://www.bugguide.net/node/view/79492)

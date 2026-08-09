@@ -1,0 +1,50 @@
+---
+title: "Slosson's Mason Wasp (Zethus slossonae)"
+slug: "zethus-slossonae"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/477291678/medium.jpeg"        # keep for thumbnails
+image-alt: "Slosson's Mason Wasp"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Vespidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Vespidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/477291678/medium.jpeg" alt="Slosson's Mason Wasp"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lmcconachie">
+lmcconachie</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265248468">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Vespidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=429817)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded edges and scrub habitats.
+
+## Natural history notes
+
+A slender mason wasp characterized by its narrow black body, yellowish markings, long petiole-like waist, and folded wings held lengthwise over the back. In Florida, Zethus slossonae is a Florida endemic known from roughly Orlando southward, where it occurs in warm wooded edges, gardens, scrubby areas, hammocks, and other habitats with suitable nesting cavities. Females use existing hollow stems or burrows, partitioning nest cells and provisioning them with paralyzed caterpillars for the larvae, while adults visit flowers for nectar and help regulate small moth and butterfly larvae populations.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/429817-Zethus-slossonae)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN725)

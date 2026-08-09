@@ -1,0 +1,50 @@
+---
+title: "Dark-banded Tallula (Tallula atrifascialis)"
+slug: "tallula-atrifascialis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/476402256/medium.jpg"        # keep for thumbnails
+image-alt: "Dark-banded Tallula"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Pyralidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Pyralidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/476402256/medium.jpg" alt="Dark-banded Tallula"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/garccyy">
+garccyy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/265243711">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Pyralidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=462219)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in warm wooded areas.
+
+## Natural history notes
+
+A small pyralid moth characterized by tan to brown forewings with a distinct darker crossband, fine mottling, and a narrow, triangular resting posture. In Florida, it has been recorded as part of the state’s moth fauna and is likely found in warm wooded, shrubby, or semi-open habitats where adults may come to lights. The caterpillar host information appears limited, though lemon has been listed as one host plant, so it is best treated cautiously as a small nocturnal plant-feeding moth whose larvae feed on foliage and whose adults and larvae support birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/462219-Tallula-atrifascialis)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=5591&state=FL&utm_source=chatgpt.com)

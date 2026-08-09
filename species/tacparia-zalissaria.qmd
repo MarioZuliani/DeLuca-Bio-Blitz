@@ -1,0 +1,50 @@
+---
+title: "Tacparia zalissaria"
+slug: "tacparia-zalissaria"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355556250/medium.jpeg"        # keep for thumbnails
+image-alt: "Tacparia zalissaria"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Geometridae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Geometridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355556250/medium.jpeg" alt="Tacparia zalissaria"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201422262">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Geometridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=417164)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small geometrid moth characterized by mottled gray to brown wings with wavy crosslines and a bark-like resting pattern that helps it blend against tree trunks and leaf litter. In Florida, Tacparia zalissaria is recorded as part of the state’s geometrid moth fauna and is likely found in wooded or semi-wooded habitats such as hammocks, forest edges, and shrubby areas. Adults are mostly nocturnal and may come to lights, while the caterpillar host plants appear to be poorly documented, so it is best treated cautiously as a plant-feeding moth whose larvae likely feed on foliage and whose adults and larvae serve as prey for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/417164-Tacparia-zalissaria)
+-   [Local profile](https://www.bugguide.net/node/view/407900)

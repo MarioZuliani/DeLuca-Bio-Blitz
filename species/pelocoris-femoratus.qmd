@@ -1,0 +1,50 @@
+---
+title: "Pelocoris femoratus"
+slug: "pelocoris-femoratus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/356695097/medium.jpg"        # keep for thumbnails
+image-alt: "Pelocoris femoratus"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Naucoridae"
+categories: ["Animal", "Insecta", "Hemiptera", "Naucoridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/356695097/medium.jpg" alt="Pelocoris femoratus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/202009472">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Naucoridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=510404)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in freshwater areas.
+
+## Natural history notes
+
+A small creeping water bug characterized by its flattened oval body, brown coloration, enlarged raptorial front legs, and broad swimming legs adapted for life underwater. In Florida, it is found in freshwater marshes, ponds, sloughs, canals, ditches, and slow-moving wetlands with aquatic vegetation, and has been reported as abundant in Everglades marsh aquatic-bug communities. It is an aquatic predator, using its front legs to seize small invertebrates, tadpoles, and other tiny aquatic animals, and like many water bugs it can give a painful defensive bite if handled.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/510404-Pelocoris-femoratus)
+-   [Local profile](https://www.bugguide.net/node/view/165059)

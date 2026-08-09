@@ -1,0 +1,50 @@
+---
+title: "White-eyed Borer Moth (Iodopepla u-album)"
+slug: "iodopepla-ualbum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355397480/medium.jpeg"        # keep for thumbnails
+image-alt: "White-eyed Borer Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Noctuidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Noctuidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355397480/medium.jpeg" alt="White-eyed Borer Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201339064">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Noctuidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=222256)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded and semi-wooded areas.
+
+## Natural history notes
+
+A small owlet moth characterized by brown to grayish-brown forewings with pale curved markings, including a whitish “U”-shaped mark that gives the species part of its scientific name. In Florida, it is found in wooded and semi-wooded habitats such as hammocks, forest edges, parks, yards, and other areas with suitable host plants and resting cover. Adults are mostly nocturnal and may come to lights, while the caterpillars are plant borers or concealed feeders, developing within stems or related plant tissues and serving as part of the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/222256-Iodopepla-u-album)
+-   [Local profile](https://www.bugguide.net/node/view/2416213/bgimage)

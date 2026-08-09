@@ -1,0 +1,50 @@
+---
+title: "Pero antidiscaria"
+slug: "pero-antidiscaria"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355387649/medium.jpeg"        # keep for thumbnails
+image-alt: "Pero antidiscaria"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Geometridae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Geometridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355387649/medium.jpeg" alt="Pero antidiscaria"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201339053">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Geometridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1520432)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in forest habitats.
+
+## Natural history notes
+
+A small geometrid moth characterized by mottled gray to brownish wings with fine wavy lines and bark-like shading that helps it blend into tree trunks, dead leaves, and woody stems. In Florida, it is found in forests, hammocks, pine flatwoods, forest edges, parks, and other wooded or semi-wooded habitats where suitable host plants occur. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on woody plant foliage and contribute to the broader food web as prey for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1520432-Pero-antidiscaria)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=6746)

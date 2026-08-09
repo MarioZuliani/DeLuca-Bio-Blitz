@@ -1,0 +1,50 @@
+---
+title: "Litolinga tergisa"
+slug: "litolinga-tergisa"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/181066189/medium.jpeg"        # keep for thumbnails
+image-alt: "Litolinga tergisa"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Therevidae"
+categories: ["Animal", "Insecta", "Diptera", "Therevidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/181066189/medium.jpeg" alt="Litolinga tergisa"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/107633309">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Therevidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=505342)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open sandy habitats.
+
+## Natural history notes
+
+A small stiletto fly characterized by its slender body, long legs, narrow wings, and gray-brown coloration that helps it blend into sandy ground or low vegetation. In Florida, it is likely found in open sandy or lightly vegetated habitats such as pine flatwoods, scrub edges, fields, trails, and disturbed sandy areas where adult flies can rest and hunt. Adults are predators of small insects, while the larvae of stiletto flies generally live in soil or loose substrate and prey on other small invertebrates, helping link sandy ground habitats with the broader insect food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/505342-Litolinga-tergisa)
+-   [Local profile](https://www.bugguide.net/node/view/619144/bgref?from=357)

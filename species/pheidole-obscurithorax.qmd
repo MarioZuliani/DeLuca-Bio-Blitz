@@ -1,0 +1,50 @@
+---
+title: "Large Imported Big-headed Ant (Pheidole obscurithorax)"
+slug: "pheidole-obscurithorax"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622219979/medium.jpg"        # keep for thumbnails
+image-alt: "Large Imported Big-headed Ant"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animal", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622219979/medium.jpg" alt="Large Imported Big-headed Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ism14">
+ism14</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341757555">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=710657)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in disturbed open habitats.
+
+## Natural history notes
+
+A large big-headed ant characterized by two worker forms, with smaller minor workers and much larger major workers that have oversized heads and strong mandibles. In Florida, it is found in disturbed open habitats, lawns, parks, roadsides, gardens, fields, and urban or suburban areas where colonies nest in soil, under debris, or near pavement and structures. It forages for small insects, seeds, honeydew, carrion, and other food sources, often forming conspicuous trails and competing with native ants in human-modified landscapes.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/710657-Pheidole-obscurithorax)
+-   [Local profile](https://www.antwiki.org/wiki/Pheidole_obscurithorax)

@@ -1,0 +1,50 @@
+---
+title: "Salvinia Stem Borer Moth (Samea multiplicalis)"
+slug: "samea-multiplicalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355541423/medium.jpeg"        # keep for thumbnails
+image-alt: "Salvinia Stem Borer Moth"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animal", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355541423/medium.jpeg" alt="Salvinia Stem Borer Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201414883">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=324645)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wetlands.
+
+## Natural history notes
+
+A small aquatic crambid moth characterized by pale tan to whitish wings with delicate brown markings and a slender, lightly patterned body. In Florida, it is found around ponds, marshes, canals, ditches, lakes, and other freshwater wetlands where floating aquatic plants such as Salvinia, Azolla, and water lettuce occur. Adults are mostly nocturnal and may come to lights near water, while the caterpillars feed on aquatic plants, boring into stems or feeding concealed among floating leaves, and can help suppress dense growth of weedy floating vegetation.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/324645-Samea-multiplicalis)
+-   [Local profile](https://www.bugguide.net/node/view/1173982/bgimage?from=11909)

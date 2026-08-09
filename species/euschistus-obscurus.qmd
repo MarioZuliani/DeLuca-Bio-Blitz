@@ -1,0 +1,50 @@
+---
+title: "Pale-lined Stink Bug (Euschistus obscurus)"
+slug: "euschistus-obscurus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475900778/medium.jpeg"        # keep for thumbnails
+image-alt: "Pale-lined Stink Bug"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Pentatomidae"
+categories: ["Animal", "Insecta", "Hemiptera", "Pentatomidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475900778/medium.jpeg" alt="Pale-lined Stink Bug" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264990498">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Pentatomidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=296268)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A medium-sized stink bug characterized by its shield-shaped body, mottled brown coloration, pale edging or lines along the body, and long segmented antennae. In Florida, it is found in fields, gardens, roadsides, forest edges, agricultural areas, and other open or semi-open habitats with grasses, shrubs, and herbaceous plants. It feeds by piercing plant tissues and sucking sap from seeds, fruits, stems, and developing plant parts, while also serving as prey for spiders, birds, assassin bugs, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/296268-Euschistus-obscurus)
+-   [Local profile](https://bugswithmike.com/guide/arthropoda/hexapoda/insecta/hemiptera/heteroptera/pentatomomorpha/pentatomoidea/pentatomidae/pentatominae/carpocorini/euschistus/obscurus)

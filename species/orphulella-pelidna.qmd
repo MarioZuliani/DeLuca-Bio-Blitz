@@ -1,0 +1,50 @@
+---
+title: "Spotted-winged Grasshopper (Orphulella pelidna)"
+slug: "orphulella-pelidna"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/257745181/medium.jpg"        # keep for thumbnails
+image-alt: "Spotted-winged Grasshopper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Acrididae"
+categories: ["Animal", "Insecta", "Orthoptera", "Acrididae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/257745181/medium.jpg" alt="Spotted-winged Grasshopper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/devitoc">
+devitoc</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/149564423">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Orthoptera
+-   **Family:** Acrididae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=226627)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open grassy areas.
+
+## Natural history notes
+
+A small slant-faced grasshopper characterized by its narrow head, slender body, brown to greenish coloration, and spotted or dusky markings on the wings. In Florida, it is found throughout the state in open grassy habitats such as prairies, pine flatwoods, fields, roadsides, lawns, marsh edges, and disturbed areas where grasses and low vegetation are abundant. It feeds mainly on grasses and other herbaceous plants, usually staying low in vegetation or on the ground and escaping disturbance with quick jumps or short flights.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/226627-Orphulella-pelidna)
+-   [Local profile](https://www.bugguide.net/node/view/8973)
