@@ -1,0 +1,51 @@
+---
+title: "Mottled Duck (Anas fulvigula)"
+slug: "anas-fulvigula"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/716826928/medium.jpg"        # keep for thumbnails
+image-alt: "Mottled Duck"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Anseriformes"
+tax_family: "Anatidae"
+categories: ["Animal", "Aves", "Anseriformes", "Anatidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/716826928/medium.jpg" alt="Mottled Duck"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/erikmartin">
+erikmartin</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/391238815">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Anseriformes
+-   **Family:** Anatidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=6948)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in freshwater and brackish habitats.
+
+## Natural history notes
+
+A medium-sized dabbling duck characterized by warm brown mottled plumage, a dark cap and eye line, orange to yellowish bill in males, and a blue-green wing patch visible in flight. In Florida, the Mottled Duck is found in freshwater and brackish marshes, wet prairies, ponds, ditches, impoundments, stormwater wetlands, and shallow lake edges, especially in peninsular Florida and the Everglades region. It feeds by dabbling and tipping up in shallow water for aquatic plants, seeds, insects, snails, and other invertebrates, and it nests on the ground in dense marsh vegetation near water.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/6948-Anas-fulvigula)
+-   [IUCN](https://www.iucnredlist.org/species/22680178/180126280)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.100499/Anas_fulvigula)

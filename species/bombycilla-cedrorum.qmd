@@ -1,0 +1,51 @@
+---
+title: "Cedar Waxwing (Bombycilla cedrorum)"
+slug: "bombycilla-cedrorum"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/667427716/medium.jpg"        # keep for thumbnails
+image-alt: "Cedar Waxwing"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Bombycillidae"
+categories: ["Animal", "Aves", "Passeriformes", "Bombycillidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/667427716/medium.jpg" alt="Cedar Waxwing"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sundyalfl">
+sundyalfl</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/365555878">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Bombycillidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=7428)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in forest and urban areas.
+
+## Natural history notes
+
+A sleek medium-sized songbird characterized by silky brown-gray plumage, a black mask, small crest, yellow-tipped tail, and sometimes tiny red waxy tips on the wing feathers. In Florida, the Cedar Waxwing is mainly a winter visitor and migrant, found in forests, parks, yards, edges, orchards, and urban areas with fruiting trees and shrubs. It feeds heavily on berries and small fruits, often moving in flocks, but also catches insects during the breeding season and migration.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/7428-Bombycilla-cedrorum)
+-   [IUCN](https://www.iucnredlist.org/species/22708153/137475540)
+-   [Local profile](https://www.audubon.org/field-guide/bird/cedar-waxwing)

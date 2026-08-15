@@ -1,0 +1,51 @@
+---
+title: "Lesser Yellowlegs (Tringa flavipes)"
+slug: "tringa-flavipes"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/714548041/medium.jpg"        # keep for thumbnails
+image-alt: "Lesser Yellowlegs"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Charadriiformes"
+tax_family: "Scolopacidae"
+categories: ["Animal", "Aves", "Charadriiformes", "Scolopacidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/714548041/medium.jpg" alt="Lesser Yellowlegs"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/erikmartin">
+erikmartin</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/390060563">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Charadriiformes
+-   **Family:** Scolopacidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=3893)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncommon species in Florida, found i wetlands and flooded fields.
+
+## Natural history notes
+
+A slender medium-sized shorebird characterized by long bright yellow legs, gray-brown upperparts, white underparts, a thin straight dark bill, and a nervous, active feeding style. In Florida, the Lesser Yellowlegs is found mainly as a migrant and winter visitor in shallow wetlands, mudflats, marshes, flooded fields, lake edges, impoundments, mangrove edges, and coastal lagoons. It feeds by walking through shallow water and picking or sweeping for small insects, crustaceans, worms, snails, and other aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/3893-Tringa-flavipes)
+-   [IUCN](https://www.iucnredlist.org/species/22712057/137687319)
+-   [Local profile](https://www.allaboutbirds.org/guide/Lesser_Yellowlegs/overview)

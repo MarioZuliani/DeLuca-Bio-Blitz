@@ -1,0 +1,51 @@
+---
+title: "Tree Swallow (Tachycineta bicolor)"
+slug: "tachycineta-bicolor"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622621118/medium.jpg"        # keep for thumbnails
+image-alt: "Tree Swallow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Hirundinidae"
+categories: ["Animal", "Aves", "Passeriformes", "Hirundinidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622621118/medium.jpg" alt="Tree Swallow"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341957758">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Hirundinidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=11935)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found over wetlands and open areas.
+
+## Natural history notes
+
+A sleek swallow characterized by glossy blue-green upperparts, clean white underparts, long pointed wings, and a shallowly notched tail. In Florida, the Tree Swallow is mainly a winter visitor and migrant, found over marshes, lakes, ponds, wet prairies, coastal wetlands, fields, and open areas where flying insects are abundant. It feeds mostly by catching insects in flight, often gathering in large flocks, and also eats berries—especially wax myrtle and other small fruits—during cooler months when insects are less available.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/11935-Tachycineta-bicolor)
+-   [IUCN](https://www.iucnredlist.org/species/22712057/137687319)
+-   [Local profile](https://www.audubon.org/field-guide/bird/tree-swallow)

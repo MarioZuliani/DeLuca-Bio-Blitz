@@ -1,0 +1,51 @@
+---
+title: "White-breasted Nuthatch (Sitta carolinensis)"
+slug: "sitta-carolinensis"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/519279991/medium.jpg"        # keep for thumbnails
+image-alt: "White-breasted Nuthatch"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Icteridae"
+categories: ["Animal", "Aves", "Passeriformes", "Icteridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/519279991/medium.jpg" alt="White-breasted Nuthatch"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/meangreenfan">
+meangreenfan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/288742037">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Icteridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=14801)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncommon/Rare species in Florida, found in wooded areas.
+
+## Natural history notes
+
+A small tree-climbing songbird characterized by blue-gray upperparts, a white face and breast, black cap, short tail, and a long straight bill. In Florida, the White-breasted Nuthatch is found mainly in mature pine-oak woods, hardwood forests, hammocks, wooded parks, and older neighborhoods with large trees, especially in northern and central parts of the state. It forages by creeping headfirst down trunks and branches, probing bark crevices for insects, spiders, seeds, and nuts, and nests in tree cavities or nest boxes.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/14801-Sitta-carolinensis)
+-   [IUCN](https://www.iucnredlist.org/species/22711202/137632749)
+-   [Local profile](https://www.allaboutbirds.org/guide/White-breasted_Nuthatch/overview)

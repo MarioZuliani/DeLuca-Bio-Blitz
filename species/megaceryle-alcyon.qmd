@@ -1,0 +1,51 @@
+---
+title: "Belted Kingfisher (Megaceryle alcyon)"
+slug: "megaceryle-alcyon"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/711347401/medium.jpg"        # keep for thumbnails
+image-alt: "Belted Kingfisher"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Coraciiformes"
+tax_family: "Alcedinidae"
+categories: ["Animal", "Aves", "Coraciiformes", "Alcedinidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/711347401/medium.jpg" alt="Belted Kingfisher"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/downtherabbithole___">
+downtherabbithole___</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/388400193">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Coraciiformes
+-   **Family:** Alcedinidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=2548)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found along freshwater areas.
+
+## Natural history notes
+
+A stocky, medium-sized kingfisher characterized by a large head, shaggy crest, long dagger-like bill, blue-gray upperparts, white collar, and a broad blue breast band, with females also showing a rusty belly band. In Florida, the Belted Kingfisher is found along rivers, lakes, ponds, canals, marshes, mangroves, estuaries, and coastal shorelines, especially where clear water and exposed perches are available. It hunts by watching from branches, wires, docks, or posts and plunging into the water for small fish, crayfish, tadpoles, and aquatic insects, and it nests in burrows dug into sandy or earthen banks.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/2548-Megaceryle-alcyon)
+-   [IUCN](https://www.iucnredlist.org/species/22683623/152353788)
+-   [Local profile](https://www.audubon.org/field-guide/bird/belted-kingfisher)

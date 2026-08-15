@@ -1,0 +1,51 @@
+---
+title: "Hermit Thrush (Catharus guttatus)"
+slug: "catharus-guttatus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622831874/medium.jpg"        # keep for thumbnails
+image-alt: "Hermit Thrush"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Turdidae"
+categories: ["Animal", "Aves", "Passeriformes", "Turdidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622831874/medium.jpg" alt="Hermit Thrush"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342059075">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Turdidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=12890)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in forest and shrubby wetlands.
+
+## Natural history notes
+
+A small brown thrush characterized by a warm reddish-brown tail, spotted white breast, thin pale eye ring, and habit of slowly raising and lowering its tail while perched. In Florida, the Hermit Thrush is mainly a winter visitor and migrant, found in hardwood hammocks, pine woods, forest edges, thickets, parks, yards, and shrubby wetlands. It feeds on insects, spiders, and other small invertebrates on or near the ground, especially in leaf litter, and also eats berries and small fruits during the winter.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/12890-Catharus-guttatus)
+-   [IUCN](https://www.iucnredlist.org/species/22708667/137548137)
+-   [Local profile](https://www.audubon.org/field-guide/bird/hermit-thrush)

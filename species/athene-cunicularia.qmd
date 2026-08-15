@@ -1,0 +1,51 @@
+---
+title: "Burrowing Owl (Athene cunicularia)"
+slug: "athene-cunicularia"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621865001/medium.jpg"        # keep for thumbnails
+image-alt: "Burrowing Owl"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Strigiformes"
+tax_family: "Strigidae"
+categories: ["Animal", "Aves", "Strigiformes", "Strigidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621865001/medium.jpg" alt="Burrowing Owl"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/aschmidt95">
+aschmidt95</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341582868">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Strigiformes
+-   **Family:** Strigidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=19975)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncommon species in Florida, found in prairies and open suburban grasslands.
+
+## Natural history notes
+
+A small ground-dwelling owl characterized by long legs, bright yellow eyes, a rounded head without ear tufts, and sandy brown plumage spotted with white. In Florida, the Burrowing Owl is found in open dry habitats such as prairies, pastures, airports, vacant lots, golf courses, and suburban grasslands, with especially well-known populations in parts of peninsular Florida. It nests and roosts in underground burrows, feeding on insects, small rodents, lizards, frogs, and other small animals, and is often active during the day as well as at dawn and dusk.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/19975-Athene-cunicularia)
+-   [IUCN](https://www.iucnredlist.org/species/22689353/281015958)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.102493/Athene_cunicularia_floridana)

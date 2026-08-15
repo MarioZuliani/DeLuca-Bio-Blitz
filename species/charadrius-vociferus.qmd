@@ -1,0 +1,51 @@
+---
+title: "Killdeer (Charadrius vociferus)"
+slug: "charadrius-vociferus"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/717391359/medium.jpg"        # keep for thumbnails
+image-alt: "Killdeer"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Charadriiformes"
+tax_family: "Charadriidae"
+categories: ["Animal", "Aves", "Charadriiformes", "Charadriidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/717391359/medium.jpg" alt="Killdeer"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/erikmartin">
+erikmartin</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/391542557">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Charadriiformes
+-   **Family:** Charadriidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=4793)
+
+## Conservation & rarity context
+
+-   **IUCN:** Near Threatened
+-   **Rarity note:** Common species in Florida, found in fields and urban areas.
+
+## Natural history notes
+
+A medium-sized plover characterized by a brown back, white belly, two bold black breast bands, orange-brown rump visible in flight, and loud ringing calls. In Florida, the Killdeer is found in open habitats such as fields, pastures, mudflats, lawns, golf courses, airports, roadsides, gravel lots, and shorelines, often far from water. It feeds on insects, worms, and other small invertebrates while running and stopping on open ground, and nests directly on bare soil or gravel, where adults may perform a broken-wing display to lure predators away from eggs or chicks.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/4793-Charadrius-vociferus)
+-   [IUCN](https://www.iucnredlist.org/species/22693777/256247816)
+-   [Local profile](https://www.audubon.org/field-guide/bird/killdeer)

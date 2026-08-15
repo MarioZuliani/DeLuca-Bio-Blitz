@@ -1,0 +1,51 @@
+---
+title: "Limpkin (Aramus guarauna)"
+slug: "aramus-guarauna"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/688469197/medium.jpg"        # keep for thumbnails
+image-alt: "Limpkin"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Gruiformes"
+tax_family: "Aramidae"
+categories: ["Animal", "Aves", "Gruiformes", "Aramidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/688469197/medium.jpg" alt="Limpkin"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ashley_bradford">
+ashley_bradford</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/376538511">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Gruiformes
+-   **Family:** Aramidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=7)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A large marsh bird characterized by a long slightly downcurved bill, brown body streaked with white, long legs, and loud wailing calls often heard around wetlands. In Florida, the Limpkin is found in freshwater marshes, swamps, ponds, lakes, canals, sloughs, and wet prairies, especially where apple snails are abundant. It feeds mainly on apple snails by using its specialized bill to extract them from their shells, but it also eats mussels, insects, crustaceans, and other small aquatic animals, nesting in dense marsh vegetation or low shrubs near water.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/7-Aramus-guarauna)
+-   [IUCN](https://www.iucnredlist.org/species/22692174/280990607)
+-   [Local profile](https://www.audubon.org/field-guide/bird/limpkin)

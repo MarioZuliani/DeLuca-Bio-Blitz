@@ -1,0 +1,51 @@
+---
+title: "Bachman's Sparrow (Peucaea aestivalis)"
+slug: "peucaea-aestivalis"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622610339/medium.jpg"        # keep for thumbnails
+image-alt: "Bachman's Sparrow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Passerellidae"
+categories: ["Animal", "Aves", "Passeriformes", "Passerellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622610339/medium.jpg" alt="Bachman's Sparrow"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341951314">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Passerellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=73172)
+
+## Conservation & rarity context
+
+-   **IUCN:** Near Threatened
+-   **Rarity note:** Rare species in Florida, found in open areas.
+
+## Natural history notes
+
+A small secretive sparrow characterized by warm brown upperparts, a pale gray face, thin dark moustache line, rounded tail, and a clear whistled song often heard before the bird is seen. In Florida, Bachman’s Sparrow is found mainly in open pine flatwoods, longleaf pine savannas, dry prairies, and sandhill habitats with frequent fire, sparse shrubs, and dense native grasses. It feeds on seeds, insects, and other small invertebrates on or near the ground, nesting low in grass clumps or at the base of vegetation and depending strongly on well-managed open pine habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/73172-Peucaea-aestivalis)
+-   [IUCN](https://www.iucnredlist.org/species/22721256/179939235)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.105170/Peucaea_aestivalis)

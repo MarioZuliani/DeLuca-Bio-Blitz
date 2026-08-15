@@ -1,0 +1,51 @@
+---
+title: "Green Heron (Butorides virescens)"
+slug: "butorides-virescens"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/711579354/medium.jpg"        # keep for thumbnails
+image-alt: "Green Heron"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Pelecaniformes"
+tax_family: "Ardeidae"
+categories: ["Animal", "Aves", "Pelecaniformes", "Ardeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/711579354/medium.jpg" alt="Green Heron"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/erikmartin">
+erikmartin</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/388525092">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Pelecaniformes
+-   **Family:** Ardeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=5020)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in wetland areas.
+
+## Natural history notes
+
+A small wading bird characterized by a dark greenish back, chestnut neck, dark cap, short yellow legs, and a dagger-like bill. In Florida, the Green Heron is found along ponds, lakes, marshes, mangroves, canals, swamps, wooded wetlands, and quiet stream edges where dense shoreline vegetation provides cover. It feeds by stalking or standing still at the water’s edge to catch small fish, frogs, insects, crustaceans, and other aquatic prey, sometimes using bait such as insects or small objects to lure fish within striking distance.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/5020-Butorides-virescens)
+-   [IUCN](https://www.iucnredlist.org/species/22728182/163804848)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.102189/Butorides_virescens)

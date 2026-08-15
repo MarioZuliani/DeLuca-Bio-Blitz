@@ -1,0 +1,51 @@
+---
+title: "Boat-tailed Grackle (Quiscalus major)"
+slug: "quiscalus-major"
+group: "Aves"
+image: "https://static.inaturalist.org/photos/622639862/medium.jpg"        # keep for thumbnails
+image-alt: "Boat-tailed Grackle"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Passeriformes"
+tax_family: "Icteridae"
+categories: ["Animal", "Aves", "Passeriformes", "Icteridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622639862/medium.jpg" alt="Boat-tailed Grackle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341966072">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Passeriformes
+-   **Family:** Icteridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=9601)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found almost everywhere across the state.
+
+## Natural history notes
+
+A large blackbird characterized by a long keel-shaped tail, long pointed bill, and glossy iridescent plumage in males, while females are smaller and brown with a paler eyebrow. In Florida, the Boat-tailed Grackle is common in marshes, mangroves, beaches, parking lots, parks, lawns, retention ponds, and coastal or urban wetlands. It feeds opportunistically on insects, seeds, small aquatic animals, fruit, scraps, and other foods, often foraging boldly on the ground or along water edges and nesting colonially in marsh vegetation, shrubs, or small trees.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/9601-Quiscalus-major)
+-   [IUCN](https://www.iucnredlist.org/species/22724311/136662294)
+-   [Local profile](https://www.allaboutbirds.org/guide/Boat-tailed_Grackle/id)

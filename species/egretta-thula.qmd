@@ -1,0 +1,51 @@
+---
+title: "Snowy Egret (Egretta thula)"
+slug: "egretta-thula"
+group: "Aves"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622180933/medium.jpg"        # keep for thumbnails
+image-alt: "Snowy Egret"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Aves"
+tax_order: "Pelecaniformes"
+tax_family: "Ardeidae"
+categories: ["Animal", "Aves", "Pelecaniformes", "Ardeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622180933/medium.jpg" alt="Snowy Egret"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskiss">
+levihoskiss</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341752239">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Aves
+-   **Order:** Pelecaniformes
+-   **Family:** Ardeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=4940)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in wetland areas.
+
+## Natural history notes
+
+A medium-sized white heron characterized by a slender black bill, black legs, bright yellow feet, and delicate plumes during the breeding season. In Florida, the Snowy Egret is found in marshes, mangroves, ponds, lakes, swamps, tidal flats, estuaries, canals, and shallow coastal or inland wetlands. It feeds on small fish, shrimp, crabs, insects, frogs, and other aquatic prey, often actively stirring the water with its yellow feet or darting through the shallows to flush prey into striking range.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/4940-Egretta-thula)
+-   [IUCN](https://www.iucnredlist.org/species/22696974/281845566)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.100485/Egretta_thula)
