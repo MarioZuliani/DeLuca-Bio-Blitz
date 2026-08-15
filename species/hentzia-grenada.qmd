@@ -1,0 +1,50 @@
+---
+title: "Hentzia grenada"
+slug: "hentzia-grenada"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/605999493/medium.jpg"        # keep for thumbnails
+image-alt: "Hentzia grenada"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Salticidae"
+categories: ["Animal", "Arachnida", "Araneae", "Salticidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/605999493/medium.jpg" alt="Hentzia grenada"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/flbugs">
+flbugs</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/333781380">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Salticidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=560707)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small jumping spider characterized by a compact body, large forward-facing eyes, slender legs, and brown to grayish coloration with pale markings that help it blend into bark, leaves, and stems. In Florida, Hentzia grenada is part of the state’s jumping-spider fauna and is most likely encountered in warm wooded or semi-wooded habitats such as hammocks, forest edges, gardens, shrubs, and tree trunks. Like other jumping spiders, it is an active daytime hunter that stalks small insects and other arthropods using excellent vision, pouncing on prey rather than building a capture web and using silk mainly for draglines, retreats, and egg sacs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/560707-Hentzia-grenada)
+-   [Local profile](https://www.bugguide.net/node/view/67971)

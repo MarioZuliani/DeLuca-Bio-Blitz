@@ -1,0 +1,50 @@
+---
+title: "Sylvan Jumping Spider (Colonus sylvanus)"
+slug: "colonus-sylvanus"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/586755262/medium.jpg"        # keep for thumbnails
+image-alt: "Sylvan Jumping Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Salticidae"
+categories: ["Animal", "Arachnida", "Araneae", "Salticidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/586755262/medium.jpg" alt="Sylvan Jumping Spider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/billpranty">
+billpranty</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/324208244">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Salticidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](http://inaturalist.org/observations?project_id=191727&subview=map&taxon_id=486456)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small jumping spider characterized by a compact body, large forward-facing eyes, and brown to grayish coloration with pale markings that help it blend against bark, leaves, and stems. In Florida, the Sylvan Jumping Spider is found in wooded and semi-wooded habitats such as hammocks, forest edges, pine flatwoods, parks, gardens, and shrubs where it hunts on vegetation and tree trunks. It is an active daytime predator, stalking and pouncing on small insects and other arthropods with the aid of sharp vision, while using silk mainly for draglines, shelters, and egg sacs rather than prey capture.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/486456-Colonus-sylvanus)
+-   [Local profile](https://www.bugguide.net/node/view/2014)

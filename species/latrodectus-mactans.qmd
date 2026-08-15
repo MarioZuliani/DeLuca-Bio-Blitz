@@ -1,0 +1,50 @@
+---
+title: "Southern Black Widow (Latrodectus mactans)"
+slug: "latrodectus-mactans"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621965829/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Black Widow"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Theridiidae"
+categories: ["Animal", "Arachnida", "Araneae", "Theridiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621965829/medium.jpg" alt="Southern Black Widow"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341631721">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Theridiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=47381)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in urban areas.
+
+## Natural history notes
+
+A glossy black cobweb spider characterized by a rounded abdomen, long slender legs, and a red hourglass marking on the underside of the abdomen. In Florida, the Southern Black Widow is found in dry sheltered places such as woodpiles, sheds, garages, crawl spaces, rock piles, debris, outdoor furniture, and undisturbed corners around homes and natural areas. It builds an irregular sticky web and feeds on insects and other small arthropods, but it should be treated with caution because females have medically significant venom and can bite defensively if pressed, trapped, or handled.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/47381-Latrodectus-mactans)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN1000)

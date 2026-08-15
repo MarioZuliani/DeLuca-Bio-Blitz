@@ -1,0 +1,50 @@
+---
+title: "Big-leg Centipede (Theatops posticus)"
+slug: "theatops-posticus"
+group: "Malacostraca"
+image: "https://static.inaturalist.org/photos/622610161/medium.jpg"        # keep for thumbnails
+image-alt: "Big-leg Centipede"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Chilopoda"
+tax_order: "Scolopendromorpha"
+tax_family: "Plutoniumidae"
+categories: ["Animal", "Chilopoda", "Scolopendromorpha", "Plutoniumidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622610161/medium.jpg" alt="Big-leg Centipede"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341951255">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Chilopoda
+-   **Order:** Scolopendromorpha
+-   **Family:** Plutoniumidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=322414)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in forested and semi-forested habitats.
+
+## Natural history notes
+
+A medium to large centipede characterized by its flattened reddish-brown to orange body, many long legs, and enlarged rear legs that give it the “big-leg” appearance. In Florida, the Big-leg Centipede is part of the native centipede fauna, with records including north Florida and broader reports from the state, where it occurs in forested or semi-forested habitats under logs, bark, stones, leaf litter, and other moist cover. It is a nocturnal predator of insects and other small arthropods, using venomous forcipules to seize prey, and should be left undisturbed because larger centipedes can deliver a painful defensive bite.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/322414-Theatops-posticus)
+-   [Local profile](https://www.bugguide.net/node/view/35)

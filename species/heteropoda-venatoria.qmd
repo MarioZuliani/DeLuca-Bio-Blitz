@@ -1,0 +1,50 @@
+---
+title: "Pantropical Huntsman Spider (Heteropoda venatoria)"
+slug: "heteropoda-venatoria"
+group: "Malacostraca"
+image: "https://static.inaturalist.org/photos/622643965/medium.jpg"        # keep for thumbnails
+image-alt: "Pantropical Huntsman Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Sparassidae"
+categories: ["Animal", "Arachnida", "Araneae", "Sparassidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622643965/medium.jpg" alt="Pantropical Huntsman Spider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341971308">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Sparassidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=48765)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in houses and warm/humid areas.
+
+## Natural history notes
+
+A large, flattened huntsman spider characterized by very long laterally spread legs, a tan to brown body, and a crab-like stance that allows it to move quickly across walls, tree trunks, and other flat surfaces. In Florida, the Pantropical Huntsman Spider is most often found in warm humid places such as houses, sheds, garages, greenhouses, palm trunks, bark, gardens, and other sheltered areas, especially in southern and coastal parts of the state. It is a fast nocturnal predator of cockroaches, moths, flies, and other arthropods, and although its size can be startling, it is generally not aggressive and is more likely to flee than bite.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48765-Heteropoda-venatoria)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN317/pdf)

@@ -1,0 +1,50 @@
+---
+title: "Bold Jumping Spider (Phidippus audax)"
+slug: "phidippus-audax"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622438634/medium.jpg"        # keep for thumbnails
+image-alt: "Bold Jumping Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Salticidae"
+categories: ["Animal", "Arachnida", "Araneae", "Salticidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622438634/medium.jpg" alt="Bold Jumping Spider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jo75936">
+jo75936</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341863565">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Salticidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=53809)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in urban habitats.
+
+## Natural history notes
+
+A large jumping spider characterized by a stout black body, bright white spots on the abdomen, large forward-facing eyes, and often iridescent green or blue chelicerae. In Florida, the Bold Jumping Spider is common in gardens, fields, yards, parks, forest edges, fences, walls, and sunny vegetation where it actively hunts during the day. It stalks insects and other small arthropods by sight and pounces with a quick jump, using silk mainly for safety draglines, retreats, and egg sacs rather than building a prey-capture web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/53809-Phidippus-audax)
+-   [Local profile](https://www.bugguide.net/node/view/2006)

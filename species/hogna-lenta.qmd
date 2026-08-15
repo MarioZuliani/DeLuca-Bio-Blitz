@@ -1,0 +1,50 @@
+---
+title: "Field Wolf Spider (Hogna lenta)"
+slug: "hogna-lenta"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623055024/medium.jpg"        # keep for thumbnails
+image-alt: "Field Wolf Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Lycosidae"
+categories: ["Animal", "Arachnida", "Araneae", "Lycosidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623055024/medium.jpg" alt="Field Wolf Spider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/3421724918">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Lycosidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126604)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in urban areas and areas with sandy ground.
+
+## Natural history notes
+
+A large wolf spider characterized by a robust brown to grayish-brown body, long strong legs, and darker striping or mottling that helps it blend into soil, grass, and leaf litter. In Florida, the Field Wolf Spider is found in open and semi-open habitats such as fields, lawns, pastures, roadsides, pine flatwoods, gardens, and sandy ground with sparse vegetation. It is an active ground-hunting predator that does not build a capture web, instead chasing down insects and other small arthropods, while females carry the egg sac attached to the spinnerets and later carry newly hatched spiderlings on their back.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126604-Hogna-lenta)
+-   [Local profile](http://www.floridanature.org/species.asp?species=Hogna_lenta)

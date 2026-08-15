@@ -1,6 +1,6 @@
 ---
 title: "Eastern Narrow-mouthed Toad (Gastrophryne carolinensis)"
-slug: "Gastrophryne carolinensis"
+slug: "gastrophryne-carolinensis"
 group: "Amphibia"
 image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621866068/medium.jpg"        # keep for thumbnails
 image-alt: "Eastern Narrow-mouthed Toad"  # keep for a11y

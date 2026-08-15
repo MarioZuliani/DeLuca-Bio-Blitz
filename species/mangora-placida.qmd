@@ -1,0 +1,50 @@
+---
+title: "Tuft-legged Orbweaver (Mangora placida)"
+slug: "mangora-placida"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/604472141/medium.jpg"        # keep for thumbnails
+image-alt: "Tuft-legged Orbweaver"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Araneidae"
+categories: ["Animal", "Arachnida", "Araneae", "Araneidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/604472141/medium.jpg" alt="Tuft-legged Orbweaver"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/thomasrc">
+thomasrc</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/333003327">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Araneidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=153558)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in gardens and wooded areas.
+
+## Natural history notes
+
+A small orbweaver characterized by a rounded pale abdomen with fine dark markings, slender legs, and noticeable tufts or bristles on the legs that give it a delicate, fuzzy appearance. In Florida, the Tuft-legged Orbweaver is found in gardens, fields, forest edges, hammocks, pine flatwoods, wetlands, and other areas with shrubs, grasses, and low vegetation for web placement. It builds small circular orb webs to capture tiny flying insects, usually resting near the web and helping regulate populations of midges, flies, mosquitoes, and other small arthropods.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/153558-Mangora-placida)
+-   [Local profile](https://www.bugguide.net/node/view/27423)

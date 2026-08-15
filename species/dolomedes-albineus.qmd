@@ -1,0 +1,50 @@
+---
+title: "White-banded Fishing Spider (Dolomedes albineus)"
+slug: "dolomedes-albineus"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621960005/medium.jpg"        # keep for thumbnails
+image-alt: "White-banded Fishing Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Dolomedidae"
+categories: ["Animal", "Arachnida", "Araneae", "Dolomedidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621960005/medium.jpg" alt="White-banded Fishing Spider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/morqan">
+morqan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341627381">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Dolomedidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=362543)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded wetlands.
+
+## Natural history notes
+
+A large fishing spider characterized by long banded legs, a flattened body, and pale whitish markings along the sides of the body and face that contrast with its gray, tan, or brown patterning. In Florida, the White-banded Fishing Spider is found in wooded wetlands, swamps, cypress edges, marsh margins, hammocks, and around ponds, streams, and wet ditches, often resting on tree trunks, logs, walls, or vegetation near water. It is an active ambush predator that feeds on insects and other small arthropods, and like other fishing spiders, it can move across the water surface and may capture aquatic prey when hunting near wetlands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/362543-Dolomedes-albineus)
+-   [Local profile](https://www.bugguide.net/node/view/2028)

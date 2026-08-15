@@ -1,0 +1,50 @@
+---
+title: "Emblyna florens"
+slug: "emblyna-florens"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621970540/medium.jpg"        # keep for thumbnails
+image-alt: "Emblyna florens"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Dictynidae"
+categories: ["Animal", "Arachnida", "Araneae", "Dictynidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621970540/medium.jpg" alt="Emblyna florens"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341633470">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Dictynidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=298018)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in gardens and semi-wooded habitats.
+
+## Natural history notes
+
+A small meshweb spider characterized by a compact body, slender legs, and muted gray-brown to tan coloration that helps it blend against bark, leaves, and plant stems. In Florida, Emblyna florens has been recorded from sites including South Florida and is associated with vegetation in warm gardens, groves, forest edges, and other semi-wooded habitats. Like other dictynid meshweb spiders, it builds small irregular cribellate silk webs on plants or sheltered surfaces and feeds on tiny insects and other arthropods that become caught in the web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/298018-Emblyna-florens)
+-   [Local profile](https://www.bugguide.net/node/view/1966130)

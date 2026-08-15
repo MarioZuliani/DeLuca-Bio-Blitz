@@ -1,0 +1,50 @@
+---
+title: "Lecane leontina"
+slug: "lecane-leontina"
+group: "Eurotatoria"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622490533/medium.jpg"        # keep for thumbnails
+image-alt: "Wakulla River Amphipod"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Eurotatoria"
+tax_order: "Ploima"
+tax_family: "Lecanidae"
+categories: ["Animal", "Eurotatoria", "Ploima", "Lecanidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622490533/medium.jpg" alt="Wakulla River Amphipod"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341890202">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Eurotatoria
+-   **Order:** Ploima
+-   **Family:** Lecanidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=256244)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater rotifer characterized by a tiny armored body, flattened lorica, retractable head region, and small posterior toes used for crawling or anchoring on surfaces. In Florida, Lecane leontina has been recorded in the state’s rotifer fauna and would most likely be encountered in freshwater microhabitats such as ponds, marshes, wetlands, ditches, and vegetated littoral zones, especially among algae, detritus, biofilm, and submerged plants. Like other Lecane rotifers, it feeds on bacteria, algae, and fine organic particles, helping recycle nutrients in freshwater food webs while serving as prey for small invertebrates and larval fishes.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/256244-Lecane-leontina)
+-   [Local profile](https://www.ovid.com/journals/hydro/abstract/10.1023/a:1017069121565~rotifers-new-to-florida-usa?redirectionsource=fulltextview)

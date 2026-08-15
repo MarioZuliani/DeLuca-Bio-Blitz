@@ -1,0 +1,50 @@
+---
+title: "Peppered Jumping Spider (Pelegrina galathea)"
+slug: "pelegrina-galathea"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622446330/medium.jpg"        # keep for thumbnails
+image-alt: "Peppered Jumping Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Salticidae"
+categories: ["Animal", "Arachnida", "Araneae", "Salticidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622446330/medium.jpg" alt="Peppered Jumping Spider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341881141">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Salticidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=148090)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small jumping spider characterized by its compact body, large forward-facing eyes, and peppered black, gray, and whitish markings that help it blend against bark, leaves, stems, and fences. In Florida, the Peppered Jumping Spider is found in gardens, fields, forest edges, pine flatwoods, shrubs, grasses, and other open or semi-open habitats with vegetation for hunting. It is an active daytime predator, stalking small insects and other arthropods by sight and pouncing on them, while using silk mainly for safety draglines, retreats, and egg sacs rather than for prey capture.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/148090-Pelegrina-galathea)
+-   [Local profile](https://www.bugguide.net/node/view/2027)

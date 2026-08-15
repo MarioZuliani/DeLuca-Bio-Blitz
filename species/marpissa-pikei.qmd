@@ -1,0 +1,50 @@
+---
+title: "Pike Slender Jumper (Marpissa pikei)"
+slug: "marpissa-pikei"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622314855/medium.jpg"        # keep for thumbnails
+image-alt: "Pike Slender Jumper"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Salticidae"
+categories: ["Animal", "Arachnida", "Araneae", "Salticidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622314855/medium.jpg" alt="Pike Slender Jumper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341825498">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Salticidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=153846)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in fields and wooded areas.
+
+## Natural history notes
+
+A small to medium-sized jumping spider characterized by its elongated, flattened body, long front legs, large forward-facing eyes, and brown to grayish patterning that helps it blend against bark, stems, and dry vegetation. In Florida, the Pike Slender Jumper is found in fields, pine flatwoods, forest edges, scrubby areas, gardens, and other open or semi-open habitats where it hunts on grasses, shrubs, tree trunks, and fences. It is an active daytime predator, stalking small insects and other arthropods by sight and pouncing on them, while using silk for safety draglines, retreats, and egg sacs rather than for building prey-capture webs.
+
+## References / links
+
+-   [iNaturalist species page](http://inaturalist.org/taxa/153846-Marpissa-pikei)
+-   [Local profile](https://www.bugguide.net/node/view/202340/bgref)

@@ -1,0 +1,50 @@
+---
+title: "Georgia Wolf Spider (Tigrosa georgicola)"
+slug: "tigrosa-georgicola"
+group: "Malacostraca"
+image: "https://static.inaturalist.org/photos/622643813/medium.jpg"        # keep for thumbnails
+image-alt: "Georgia Wolf Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Lycosidae"
+categories: ["Animal", "Arachnida", "Araneae", "Lycosidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622643813/medium.jpg" alt="Georgia Wolf Spider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341971283">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Lycosidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=321684)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-wooded areas.
+
+## Natural history notes
+
+A large wolf spider characterized by a robust brown to dark grayish body, long strong legs, and contrasting pale and dark stripes on the carapace that help it blend into leaf litter, soil, and bark. In Florida, the Georgia Wolf Spider is found in wooded and semi-wooded habitats such as hardwood hammocks, pine flatwoods, forest edges, yards, and areas with logs, leaf litter, and ground cover. It is an active ground predator that hunts insects and other small arthropods without building a capture web, while females carry the egg sac attached to the spinnerets and later carry newly hatched spiderlings on their back.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/321684-Tigrosa-georgicola)
+-   [Local profile](https://floridensis.com/2025/10/14/tigrosa-georgicola/)

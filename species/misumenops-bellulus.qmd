@@ -1,0 +1,50 @@
+---
+title: "Misumenops bellulus"
+slug: "misumenops-bellulus"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622941785/medium.jpg"        # keep for thumbnails
+image-alt: "Misumenops bellulus"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Thomisidae"
+categories: ["Animal", "Arachnida", "Araneae", "Thomisidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622941785/medium.jpg" alt="Misumenops bellulusr"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342113948">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Thomisidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=624853)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small crab spider characterized by a flattened body, laterally held legs, and pale yellow, tan, or whitish coloration that helps it blend into flowers, leaves, and stems. In Florida, Misumenops bellulus is found in gardens, fields, forest edges, roadsides, wetlands, and other open or semi-open habitats with flowering plants and low vegetation. It is an ambush predator, waiting motionless on flowers or foliage and seizing visiting flies, bees, moths, and other small insects with its enlarged front legs rather than building a capture web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/624853-Misumenops-bellulus)
+-   [Local profile](https://www.bugguide.net/node/view/38099)

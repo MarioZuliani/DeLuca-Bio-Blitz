@@ -1,0 +1,50 @@
+---
+title: "Slender Nursery Web Spider (Pisaurina undulata)"
+slug: "pisaurina-undulata"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622262519/medium.jpg"        # keep for thumbnails
+image-alt: "Slender Nursery Web Spider"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Pisauridae"
+categories: ["Animal", "Arachnida", "Araneae", "Pisauridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622262519/medium.jpg" alt="Slender Nursery Web Spider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341792225">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Pisauridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=153852)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wetlands and habitats with dense low vegetation.
+
+## Natural history notes
+
+A large, slender nursery web spider characterized by long legs, a narrow body, and tan to brown coloration with wavy or mottled markings that help it blend into grasses, shrubs, and leaves. In Florida, the Slender Nursery Web Spider is found in wetlands, marsh edges, fields, forest edges, pine flatwoods, gardens, and other habitats with dense low vegetation. It is an active ambush predator of insects and other small arthropods, and females carry the egg sac in their jaws before attaching it to vegetation and guarding the spiderlings in a silken nursery web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/153852-Pisaurina-undulata)
+-   [Local profile](https://www.bugguide.net/node/view/2919)

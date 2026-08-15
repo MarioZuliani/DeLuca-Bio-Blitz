@@ -1,0 +1,50 @@
+---
+title: "Hentz Striped Scorpion (Centruroides hentzi)"
+slug: "centruroides-hentzi"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623532682/medium.jpg"        # keep for thumbnails
+image-alt: "Hentz Striped Scorpion"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Scorpiones"
+tax_family: "Buthidae"
+categories: ["Animal", "Arachnida", "Scorpiones", "Buthidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623532682/medium.jpg" alt="Hentz Striped Scorpion"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/aeheerema">
+aeheerema</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342404498">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Scorpiones
+-   **Family:** Buthidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=199583)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in pine flatwoods, scrub, and other forested areas.
+
+## Natural history notes
+
+A small to medium-sized bark scorpion characterized by a slender body, long thin pincers, a narrow tail, and brown to yellowish-brown coloration with darker striping or mottling along the back. In Florida, the Hentz Striped Scorpion is found in pine flatwoods, scrub, hammocks, forests, yards, and around buildings, especially under bark, logs, rocks, leaf litter, and other sheltered cover. It is a nocturnal predator of insects, spiders, and other small arthropods, using its pincers and sting to subdue prey; its sting can be painful but is generally not considered dangerous to healthy adults.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/199583-Centruroides-hentzi)
+-   [Local profile](https://florida.bugoutservice.com/pest-info/scorpions/hentz-striped-scorpion/)

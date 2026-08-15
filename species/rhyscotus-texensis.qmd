@@ -1,0 +1,50 @@
+---
+title: "Texas Woodlouse (Rhyscotus texensis)"
+slug: "rhyscotus-texensis"
+group: "Malacostraca"
+image: "https://static.inaturalist.org/photos/622624125/medium.jpg"        # keep for thumbnails
+image-alt: "Texas Woodlouse"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Malacostraca"
+tax_order: "Isopoda"
+tax_family: "Rhyscotidae"
+categories: ["Animal", "Malacostraca", "Isopoda", "Rhyscotidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622624125/medium.jpg" alt="Texas Woodlouse"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341958452">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Malacostraca
+-   **Order:** Isopoda
+-   **Family:** Rhyscotidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=469852)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in moist microhabitats like leaf litter and soil.
+
+## Natural history notes
+
+A small terrestrial isopod characterized by a flattened, oval, segmented body, many short legs, and gray-brown coloration that helps it blend into soil, bark, and leaf litter. In Florida, the Texas Woodlouse is recorded as an inland species and is most likely encountered in moist sheltered microhabitats such as leaf litter, mulch, soil, under logs, under bark, stones, and decaying plant debris. Like other woodlice, it feeds mainly on decaying organic matter, fungi, algae, and fine plant debris, helping break down litter and recycle nutrients while serving as prey for spiders, beetles, amphibians, reptiles, and other small predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/469852-Rhyscotus-texensis)
+-   [Local profile](https://www.bugguide.net/node/view/1971458)

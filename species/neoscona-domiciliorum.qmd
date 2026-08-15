@@ -1,0 +1,50 @@
+---
+title: "Red-femured Spotted Orbweaver (Neoscona domiciliorum)"
+slug: "neoscona-domiciliorum"
+group: "Malacostraca"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623569403/medium.jpg"        # keep for thumbnails
+image-alt: "Red-femured Spotted Orbweaver"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Arachnida"
+tax_order: "Araneae"
+tax_family: "Araneidae"
+categories: ["Animal", "Arachnida", "Araneae", "Araneidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623569403/medium.jpg" alt="Red-femured Spotted Orbweaver"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341825562">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Arachnida
+-   **Order:** Araneae
+-   **Family:** Araneidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=153563)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in gardens, wetlands, and urban areas.
+
+## Natural history notes
+
+A medium-sized orbweaver characterized by a rounded abdomen with mottled reddish-brown, gray, or tan markings, banded legs, and reddish femurs that give the species its common name. In Florida, the Red-femured Spotted Orbweaver is found in gardens, yards, forest edges, hammocks, pine flatwoods, wetlands, and around buildings where it can anchor webs between vegetation or structures. It builds a circular orb web, usually at night, to capture moths, flies, beetles, mosquitoes, and other flying insects, often hiding during the day in nearby leaves, bark, or sheltered corners.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/153563-Neoscona-domiciliorum)
+-   [Local profile](https://www.bugguide.net/node/view/2034)
