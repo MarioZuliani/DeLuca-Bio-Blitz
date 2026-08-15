@@ -1,0 +1,51 @@
+---
+title: "Squirrel Tree Frog (Dryophytes squirellus)"
+slug: "dryophytes-squirellus"
+group: "Amphibia"
+image: "https://static.inaturalist.org/photos/622555879/medium.jpg"        # keep for thumbnails
+image-alt: "Squirrel Tree Frog"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Amphibia"
+tax_order: "Anura"
+tax_family: "Hylidae"
+categories: ["Animal", "Amphibia", "Anura", "Hylidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622555879/medium.jpg" alt="Squirrel Tree Frog"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">
+chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341974801">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Amphibia
+-   **Order:** Anura
+-   **Family:** Hylidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1668859)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in forest, wetlands, and urban habitats.
+
+## Natural history notes
+
+A small tree frog characterized by smooth skin, rounded toe pads, and highly variable coloration, ranging from green to brown, gray, or mottled patterns, often with a pale stripe along the side. In Florida, the Squirrel Tree Frog is widespread in pine flatwoods, hammocks, wetlands, gardens, parks, yards, ditches, and around buildings, especially after warm rains. It feeds on small insects and other invertebrates, calling from low vegetation, shrubs, or even walls and windows near lights, and breeding in temporary pools, roadside ditches, and shallow wetlands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1668859-Dryophytes-squirellus)
+-   [IUCN](https://www.iucnredlist.org/species/55662/118978652)
+-   [Local profile](https://www.virginiaherpetologicalsociety.com/amphibians/frogsandtoads/squirrel-treefrog/index.php)

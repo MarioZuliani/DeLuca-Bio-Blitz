@@ -1,0 +1,51 @@
+---
+title: "Pine Woods Tree Frog (Dryophytes femoralis)"
+slug: "dryophytes-femoralis"
+group: "Amphibia"
+image: "https://static.inaturalist.org/photos/622611313/medium.jpg"        # keep for thumbnails
+image-alt: "Pine Woods Tree Frog"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Amphibia"
+tax_order: "Anura"
+tax_family: "Hylidae"
+categories: ["Animal", "Amphibia", "Anura", "Hylidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622611313/medium.jpg" alt="Pine Woods Tree Frog"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341952110">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Amphibia
+-   **Order:** Anura
+-   **Family:** Hylidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1668953)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in forest, wetlands, and urban habitats.
+
+## Natural history notes
+
+A small tree frog characterized by a gray, brown, or greenish body, small toe pads, and bright yellow to orange spots on the inner thighs that are often hidden when the frog is resting. In Florida, the Pine Woods Tree Frog is found in pine flatwoods, cypress edges, swamps, wet prairies, marsh margins, and wooded wetlands, especially where temporary pools form after rain. It feeds on small insects and other invertebrates, calling from shrubs, grasses, or low vegetation near water during warm rainy periods and breeding in shallow seasonal wetlands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1668953-Dryophytes-femoralis)
+-   [IUCN](https://srelherp.uga.edu/frogs-and-toads/pine-woods-treefrog/)
+-   [Local profile](https://www.iucnredlist.org/species/55481/196334457)

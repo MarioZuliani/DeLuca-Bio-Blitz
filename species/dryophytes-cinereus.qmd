@@ -1,0 +1,51 @@
+---
+title: "Green Treefrog (Dryophytes cinereus)"
+slug: "dryophytes-cinereus"
+group: "Amphibia"
+image: "https://static.inaturalist.org/photos/622555879/medium.jpg"        # keep for thumbnails
+image-alt: "Green Treefrog"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Amphibia"
+tax_order: "Anura"
+tax_family: "Hylidae"
+categories: ["Animal", "Amphibia", "Anura", "Hylidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622555879/medium.jpg" alt="Green Treefrog"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">
+chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341974716">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Amphibia
+-   **Order:** Anura
+-   **Family:** Hylidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1668858)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in forest, wetlands, and urban habitats.
+
+## Natural history notes
+
+A medium-sized toad characterized by dry warty skin, a brown to grayish body, dark spotting, and prominent cranial crests with large oval parotoid glands behind the eyes. In Florida, the Southern Toad is widespread in pine flatwoods, hardwood hammocks, wetlands, suburban yards, gardens, parks, ditches, and temporary ponds. It feeds on insects and other small invertebrates, calling and breeding after rains in shallow temporary water where females lay long strings of eggs that hatch into aquatic tadpoles.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1668858-Dryophytes-cinereus)
+-   [IUCN](https://www.iucnredlist.org/species/55449/118978218)
+-   [Local profile](https://www.virginiaherpetologicalsociety.com/amphibians/frogsandtoads/green-treefrog/index.php)

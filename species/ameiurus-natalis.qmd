@@ -1,0 +1,51 @@
+---
+title: "Yellow Bullhead (Ameiurus natalis)"
+slug: "ameiurus-natalis"
+group: "Actinopterygii"
+image: "https://static.inaturalist.org/photos/622510532/medium.jpg"        # keep for thumbnails
+image-alt: "Yellow Bullhead"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Actinopterygii"
+tax_order: "Siluriformes"
+tax_family: "Ictaluridae"
+categories: ["Animal", "Actinopterygii", "Siluriformes", "Ictaluridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622510532/medium.jpg" alt="Yellow Bullhead"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">
+chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341924350">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Actinopterygii
+-   **Order:** Siluriformes
+-   **Family:** Ictaluridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58657)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Common species in Florida, found in ponds, lakes and other bodies of water.
+
+## Natural history notes
+
+A medium-sized freshwater catfish characterized by a rounded head, yellowish to olive-brown body, pale belly, dark chin barbels, and a squared to slightly rounded tail. In Florida, it is found in ponds, lakes, slow rivers, canals, ditches, marshes, and backwaters, especially in areas with muddy bottoms, vegetation, woody debris, or low-flow conditions. It is an opportunistic bottom-feeder, using its barbels to locate insects, crustaceans, mollusks, small fish, plant material, and carrion, and males guard nests and young during the breeding season.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58657-Ameiurus-natalis)
+-   [IUCN](https://www.iucnredlist.org/species/202675/2746631)
+-   [Local profile](https://www.floridamuseum.ufl.edu/fish/catfish/ictaluridae/yellow-bullhead/)

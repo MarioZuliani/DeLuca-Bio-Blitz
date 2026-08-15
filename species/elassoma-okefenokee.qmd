@@ -1,0 +1,51 @@
+---
+title: "Okefenokee Pygmy Sunfish (Elassoma okefenokee)"
+slug: "elassoma-okefenokee"
+group: "Actinopterygii"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621886358/medium.jpg"        # keep for thumbnails
+image-alt: "Okefenokee Pygmy Sunfish"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Actinopterygii"
+tax_order: "Centrarchiformes"
+tax_family: "Elassomatidae"
+categories: ["Animal", "Actinopterygii", "Centrarchiformes", "Elassomatidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621886358/medium.jpg" alt="Okefenokee Pygmy Sunfish"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/land_mammal">
+land_mammal</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341593383">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Actinopterygii
+-   **Order:** Centrarchiformes
+-   **Family:** Elassomatidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=99756)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncommon species in Florida, found in shallow wetlands.
+
+## Natural history notes
+
+A tiny freshwater fish characterized by a rounded body, small mouth, short fins, and dark mottled coloration, with breeding males becoming nearly black with bright blue to blue-green iridescent markings. In Florida, the Okefenokee Pygmy Sunfish is found in shallow, acidic, heavily vegetated wetlands, swamp margins, sloughs, ditches, and slow blackwater habitats, especially in north Florida near the Okefenokee region and similar wetland systems. It feeds on very small aquatic invertebrates such as insect larvae, microcrustaceans, and worms, spending most of its time hidden among dense aquatic vegetation where it also shelters and spawns.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/99756-Elassoma-okefenokee)
+-   [IUCN](https://www.iucnredlist.org/species/202439/15361922)
+-   [Local profile](https://www.floridamuseum.ufl.edu/discover-fish/florida-fishes-gallery/okefenokee-pygmy-sunfish/)

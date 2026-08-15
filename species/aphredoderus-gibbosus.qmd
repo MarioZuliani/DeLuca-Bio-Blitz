@@ -1,0 +1,50 @@
+---
+title: "Western Pirate Perch (Aphredoderus gibbosus)"
+slug: "aphredoderus-gibbosus"
+group: "Actinopterygii"
+image: "https://static.inaturalist.org/photos/622511171/medium.jpg"        # keep for thumbnails
+image-alt: "Western Pirate Perch"  # keep for a11y
+tax_kingdom: "Animal"
+tax_class: "Actinopterygii"
+tax_order: "Percopsiformes"
+tax_family: "Aphredoderidae"
+categories: ["Animal", "Actinopterygii", "Percopsiformes", "Aphredoderidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622511171/medium.jpg" alt="Western Pirate Perch"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">
+chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341925063">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Actinopterygii
+-   **Order:** Percopsiformes
+-   **Family:** Aphredoderidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1539422)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in slow moving swamps and other bodies of water.
+
+## Natural history notes
+
+A small, dark freshwater fish characterized by a deep compressed body, large mouth, single dorsal fin, and dusky brown to purplish coloration that helps it blend into tannic water and submerged vegetation. In Florida, the Western Pirate Perch is found in slow, vegetated waters such as swamps, sloughs, backwaters, marshy streams, ditches, and floodplain wetlands, especially in quiet areas with leaf litter, roots, and woody cover. It feeds on small aquatic insects, crustaceans, and other invertebrates, and is notable for its unusual reproductive anatomy, with adults having the vent positioned far forward beneath the throat region.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1539422-Aphredoderus-gibbosus)
+-   [Local profile](https://www.floridamuseum.ufl.edu/discover-fish/fish-families/aphredoderidae-pirate-perches/)
