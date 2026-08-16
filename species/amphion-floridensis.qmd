@@ -1,0 +1,50 @@
+---
+title: "Nessus Sphinx (Amphion floridensis)"
+slug: "amphion-floridensis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622937891/medium.jpg"        # keep for thumbnails
+image-alt: "Nessus Sphinx"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Sphingidae"
+categories: ["Insecta", "Insecta", "Lepidoptera", "Sphingidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="hhttps://inaturalist-open-data.s3.amazonaws.com/photos/622937891/medium.jpg" alt="Nessus Sphinx"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342111926">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Sphingidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126153)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in gardens and forested areas.
+
+## Natural history notes
+
+A medium-sized day-flying sphinx moth characterized by a stout body, rapid hummingbird-like flight, dark brown wings with pale bands, and two bright yellow bands across the abdomen. In Florida, the Nessus Sphinx is found in gardens, forest edges, hammocks, fields, parks, and wooded neighborhoods where nectar flowers and grape-family host plants occur. Adults visit flowers during the day for nectar, while the caterpillars feed mainly on grape, Virginia creeper, and related vines, helping transfer vine growth into the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126153-Amphion-floridensis)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Amphion-floridensis)

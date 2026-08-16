@@ -1,0 +1,50 @@
+---
+title: "Andrimus murrayi"
+slug: "andrimus-murrayi"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623572336/medium.jpg"        # keep for thumbnails
+image-alt: "Andrimus murrayi"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Tenebrionidae"
+categories: ["Insecta", "Insecta", "Coleoptera", "Tenebrionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623572336/medium.jpg" alt="Andrimus murrayi"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342425247">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Tenebrionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1050075)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded or scrubby habitats.
+
+## Natural history notes
+
+A small comb-clawed darkling beetle characterized by an elongated, soft-looking brown to dark brown body, slender legs, and a narrow form typical of alleculine tenebrionids. In Florida, Andrimus murrayi is associated with warm southeastern habitats and has been especially connected with wooded or scrubby areas where dead branches, bark, hollow trees, and rotting wood are available. Adults may be found under bark, in hollow trees, or attracted to lights, while the larvae develop in dead or rotten branches, including hardwoods such as live oak, helping break down decaying wood and recycle nutrients.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1050075-Andrimus-murrayi)
+-   [Local profile](https://www.bugguide.net/node/view/381992/bglink?from=80)

@@ -1,0 +1,50 @@
+---
+title: "Harnessed Tiger Moth (Apantesis phalerata)"
+slug: "apantesis-phalerata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622640851/medium.jpg"        # keep for thumbnails
+image-alt: "Harnessed Tiger Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Insecta", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622640851/medium.jpg" alt="Harnessed Tiger Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341965912">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=135318)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A medium-sized tiger moth characterized by dark forewings crossed with pale cream to yellowish “harness-like” lines, along with brighter hindwings that may show orange, pinkish, or yellow tones with dark markings. In Florida, the Harnessed Tiger Moth is found in fields, roadsides, pine flatwoods, forest edges, gardens, and other open or semi-open habitats with low vegetation. Adults are mostly nocturnal and may come to lights, while the fuzzy caterpillars feed on a variety of low herbaceous plants and help transfer plant growth into the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/135318-Apantesis-phalerata)
+-   [Local profile](https://www.bugguide.net/node/view/33325)

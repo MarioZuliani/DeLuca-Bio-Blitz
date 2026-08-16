@@ -1,0 +1,50 @@
+---
+title: "Notched Collared Ant (Aphaenogaster lamellidens)"
+slug: "aphaenogaster-lamellidens"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622628299/medium.jpg"        # keep for thumbnails
+image-alt: "Notched Collared Ant"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Insecta", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622628299/medium.jpg" alt="Notched Collared Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341960931">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=450699)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A slender woodland ant characterized by its reddish-brown to brown body, long legs, narrow waist, and a distinctive notched ridge or “collar” feature on the head that gives the species its common name. In Florida, the Notched Collared Ant is associated with wooded habitats including xeric and mesic hammocks, longleaf pine savannas, and forested areas with fallen logs, leaf litter, and woody debris. Colonies may nest in logs or similar sheltered wood cavities, while workers forage through leaf litter for small insects, scavenged material, seeds, nectar, and honeydew, helping move nutrients and small food items through the forest-floor food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/450699-Aphaenogaster-lamellidens)
+-   [Local profile](https://www.antwiki.org/wiki/Aphaenogaster_lamellidens)

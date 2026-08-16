@@ -1,0 +1,50 @@
+---
+title: "Six-spotted Aroga Moth (Aroga compositella)"
+slug: "aroga-compositella"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623050806/medium.jpg"        # keep for thumbnails
+image-alt: "Six-spotted Aroga Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Gelechiidae"
+categories: ["Insecta", "Insecta", "Lepidoptera", "Gelechiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623050806/medium.jpg" alt="Six-spotted Aroga Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342169987">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Gelechiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=324661)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small gelechiid moth characterized by narrow brown to grayish-brown wings with several pale or whitish spots, giving it the “six-spotted” appearance. In Florida, the Six-spotted Aroga Moth is likely found in open or semi-open habitats such as fields, roadsides, pine flatwoods, gardens, and weedy edges where low herbaceous host plants occur. Adults are mostly nocturnal and may come to lights, while the caterpillars feed concealed on plants, likely within tied leaves, shoots, or other protected plant tissue, and serve as prey for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/324661-Aroga-compositella)
+-   [Local profile](https://www.bugguide.net/node/view/28042/bgref?from=597)

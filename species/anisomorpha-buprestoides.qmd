@@ -1,0 +1,50 @@
+---
+title: "Southern Two-striped Walkingstick (Anisomorpha buprestoides)"
+slug: "anisomorpha-buprestoides"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622446389/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Two-striped Walkingstick"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Phasmida"
+tax_family: "Pseudophasmatidae"
+categories: ["Insecta", "Insecta", "Phasmida", "Pseudophasmatidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622446389/medium.jpg" alt="Southern Two-striped Walkingstick"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341881149">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Phasmida
+-   **Family:** Pseudophasmatidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=134119)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in forests, scrublands, and urban areas.
+
+## Natural history notes
+
+A large walkingstick characterized by a long stick-like body, short wings, and two pale stripes running lengthwise along the darker body, with females much larger than males. In Florida, the Southern Two-striped Walkingstick is found in pine flatwoods, scrub, sandhills, hammocks, gardens, and forest edges where it rests on shrubs, trees, and low vegetation. It feeds on leaves of many woody and herbaceous plants, and when disturbed it can spray a strong defensive chemical that may irritate skin and eyes, so it should be observed without handling.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/134119-Anisomorpha-buprestoides)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN590)

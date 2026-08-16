@@ -1,0 +1,50 @@
+---
+title: "Perforated Ruffle Lichen (Parmotrema perforatum)"
+slug: "parmotrema-perforatum"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622136320/medium.jpg"        # keep for thumbnails
+image-alt: "Perforated Ruffle Lichen"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Lecanorales"
+tax_family: "Parmeliaceae"
+categories: ["Bikosea", "Lecanoromycetes", "Lecanorales", "Parmeliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622136320/medium.jpg" alt="Perforated Ruffle Lichen"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dsandii">
+dsandii</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341714292">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:** Lecanorales
+-   **Family:** Parmeliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=227252)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in humid forests.
+
+## Natural history notes
+
+A large foliose lichen characterized by broad pale gray to gray-green ruffled lobes, black-edged margins with small cilia, and distinctive perforations or holes in the reproductive structures. In Florida, the Perforated Ruffle Lichen grows on tree bark and branches in humid forests, hammocks, swamp edges, parks, and shaded yards where moisture and clean air support lichen growth. Like other lichens, it is a symbiosis between a fungus and a photosynthetic partner, absorbing moisture and nutrients from the air while adding texture to bark surfaces and providing tiny shelter for small invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/227252-Parmotrema-perforatum)
+-   [Local profile](https://en.wikipedia.org/wiki/Parmotrema_perforatum)

@@ -1,0 +1,50 @@
+---
+title: "Anelaphus pumilus"
+slug: "anelaphus-pumilus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622089540/medium.jpg"        # keep for thumbnails
+image-alt: "Anelaphus pumilus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Cerambycidae"
+categories: ["Insecta", "Insecta", "Coleoptera", "Cerambycidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622089540/medium.jpg" alt="Anelaphus pumilusi"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/zulianim">
+zulianim</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341693685">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Cerambycidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=213607)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded or scrubby habitats.
+
+## Natural history notes
+
+A small longhorn beetle characterized by an elongated brown to gray-brown body, long antennae, and subtle mottled markings that help it blend against bark and dead wood. In Florida, Anelaphus pumilus is recorded as part of the state’s longhorn beetle fauna and is most likely encountered in wooded or semi-wooded habitats with dead branches, logs, and woody debris. Adults may be attracted to lights, while the larvae of longhorn beetles typically bore in dead or dying wood, helping break down woody material and recycle nutrients within forest and edge habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/213607-Anelaphus-pumilus)
+-   [Local profile](https://www.bugguide.net/node/view/112596/bgimage)

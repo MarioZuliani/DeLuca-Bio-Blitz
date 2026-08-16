@@ -1,0 +1,50 @@
+---
+title: "North American Wheel Bug (Arilus cristatus)"
+slug: "arilus-cristatus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621966272/medium.jpg"        # keep for thumbnails
+image-alt: "North American Wheel Bug"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Reduviidae"
+categories: ["Insecta", "Insecta", "Hemiptera", "Reduviidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621966272/medium.jpg" alt="North American Wheel Bug"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341631729">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Reduviidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=48957)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A large assassin bug characterized by its gray-brown body, long legs, piercing beak, and distinctive cogwheel-like crest rising from the back of the thorax. In Florida, the North American Wheel Bug is found in gardens, fields, forest edges, hammocks, parks, yards, and wooded or shrubby areas where insect prey is abundant. It is a beneficial predator that stalks caterpillars, beetles, flies, and other insects, stabbing them with its beak and injecting digestive saliva, but it should not be handled because its defensive bite can be very painful.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48957-Arilus-cristatus)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN243)

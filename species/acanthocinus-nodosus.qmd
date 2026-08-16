@@ -1,0 +1,50 @@
+---
+title: "Lesser Pine Borer (Acanthocinus nodosus)"
+slug: "acanthocinus-nodosus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/641022655/medium.jpg"        # keep for thumbnails
+image-alt: "Lesser Pine Borer"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Cerambycidae"
+categories: ["Insecta", "Agaricomycetes", "Coleoptera", "Cerambycidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/641022655/medium.jpg" alt="Lesser Pine Borer"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/paulpaul90">
+paulpaul90</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/351283100">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:** Coleoptera
+-   **Family:** Cerambycidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=321447)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in flatwoods and sandhills.
+
+## Natural history notes
+
+A longhorn beetle characterized by an elongated gray-brown body, long antennae, mottled bark-like patterning, and small raised bumps or nodules on the wing covers. In Florida, the Lesser Pine Borer is found in pine flatwoods, sandhills, pine forests, forest edges, and areas with recently dead or stressed pine wood. Adults are often associated with pine logs, trunks, and branches, while the larvae bore beneath bark and into dead or dying pine wood, helping break down woody material and contributing to forest nutrient cycling.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/321447-Acanthocinus-nodosus)
+-   [Local profile](https://www.bugguide.net/node/view/4668)

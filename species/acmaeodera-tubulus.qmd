@@ -1,0 +1,50 @@
+---
+title: "Acmaeodera tubulus"
+slug: "acmaeodera-tubulus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621965580/medium.jpg"        # keep for thumbnails
+image-alt: "Acmaeodera tubulus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Buprestidae"
+categories: ["Insecta", "Insecta", "Coleoptera", "Buprestidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621965580/medium.jpg" alt="Acmaeodera tubulus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341631708">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Buprestidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=129179)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in scrub and forest habitats.
+
+## Natural history notes
+
+A small jewel beetle characterized by a hard, narrow, bullet-shaped body, dark coloration with pale or yellowish spotting or banding, and a compact form typical of flower-visiting buprestids. In Florida, Acmaeodera tubulus is most likely encountered in warm dry or semi-open habitats such as scrub, sandhills, pine flatwoods, forest edges, and flowering patches where adults visit blossoms. Adults feed on pollen or nectar at flowers, while the larvae of related Acmaeodera species develop in dead or dying woody material, so this species is best treated cautiously as a wood-associated beetle that contributes to decomposition and serves as prey for birds, lizards, spiders, and predatory insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/129179-Acmaeodera-tubulus)
+-   [Local profile](https://www.bugguide.net/node/view/25569/bgref?from=558)

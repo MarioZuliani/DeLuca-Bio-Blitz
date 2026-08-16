@@ -1,0 +1,50 @@
+---
+title: "Giraffe Spots (Peniophora albobadia)"
+slug: "peniophora-albobadia"
+group: "Agaricomycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621938840/medium.jpg"        # keep for thumbnails
+image-alt: "Giraffe Spots"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Agaricomycetes"
+tax_order: "Russulales"
+tax_family: "Peniophoraceae"
+categories: ["Fungi", "Agaricomycetes", "Russulales", "Peniophoraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621938840/medium.jpg" alt="Giraffe Spots"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341617316">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Agaricomycetes
+-   **Order:** Russulales
+-   **Family:** Peniophoraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=202437)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in hardwood forests.
+
+## Natural history notes
+
+A crust-like wood-decay fungus characterized by thin, flat patches on dead wood with pale whitish to tan areas mixed with warmer reddish-brown or orangish spotting, giving it the “giraffe spots” appearance. In Florida, it grows on dead hardwood branches, fallen limbs, logs, and woody debris in hammocks, hardwood forests, mixed woods, parks, and shaded yards. It acts as a decomposer, breaking down dead wood and helping recycle nutrients while creating microhabitat for tiny insects, mites, springtails, and other wood-associated organisms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/202437-Peniophora-albobadia)
+-   [Local profile](https://mushroomexpert.com/fungionwood/crust%20and%20parchment/species%20pages/Peniophora%20albobadia.html)

@@ -1,0 +1,50 @@
+---
+title: "Parmotrema cristiferum"
+slug: "parmotrema-cristiferum"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355441793/medium.jpeg"        # keep for thumbnails
+image-alt: "Parmotrema cristiferum"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Lecanorales"
+tax_family: "Parmeliaceae"
+categories: ["Bikosea", "Lecanoromycetes", "Lecanorales", "Parmeliaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355441793/medium.jpeg" alt="Parmotrema cristiferum"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201360795">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:** Lecanorales
+-   **Family:** Parmeliaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=227237)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in hardwood forests.
+
+## Natural history notes
+
+A foliose lichen characterized by broad pale gray to gray-green lobes with ruffled edges, dark undersides, and small hair-like cilia along the lobe margins. In Florida, Parmotrema cristiferum grows on tree bark, branches, and occasionally woody substrates in humid habitats such as hammocks, hardwood forests, swamp edges, parks, and shaded yards. Like other lichens, it is a symbiosis between a fungus and photosynthetic partner, absorbing moisture and nutrients from the air while adding texture to bark surfaces and providing microhabitat for tiny invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/227237-Parmotrema-cristiferum)
+-   [Local profile](https://lichenportal.org/portal/taxa/index.php?tid=66849&display=1)

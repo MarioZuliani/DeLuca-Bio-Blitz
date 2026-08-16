@@ -1,0 +1,50 @@
+---
+title: "Southern Soldiers (Cladonia didyma)"
+slug: "cladonia-didyma"
+group: "Lecanoromycetes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623039962/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Soldiers"  # keep for a11y
+tax_kingdom: "Fungi"
+tax_class: "Lecanoromycetes"
+tax_order: "Lecanorales"
+tax_family: "Cladoniaceae"
+categories: ["Fungi", "Lecanoromycetes", "Lecanorales", "Cladoniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623039962/medium.jpg" alt="Southern Soldiers"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342165160">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Lecanoromycetes
+-   **Order:** Lecanorales
+-   **Family:** Cladoniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=217093)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found on sandy soil and open disturbed areas.
+
+## Natural history notes
+
+A small fruticose lichen characterized by pale gray-green stalks, or podetia, often tipped with bright red fruiting bodies that give it the “soldier” appearance. In Florida, Southern Soldiers grows on sandy soil, decaying wood, logs, stumps, bark bases, and open disturbed patches in habitats such as pine flatwoods, scrub, sandhills, roadsides, and forest edges. Like other lichens, it is a symbiosis between a fungus and photosynthetic partner, obtaining moisture and nutrients from the air and substrate while helping stabilize soil, colonize bare surfaces, and add texture to dry open microhabitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/217093-Cladonia-didyma)
+-   [Local profile](https://en.wikipedia.org/wiki/Cladonia_didyma)

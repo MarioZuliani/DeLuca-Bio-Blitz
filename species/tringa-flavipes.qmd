@@ -38,7 +38,7 @@ erikmartin</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observati
 ## Conservation & rarity context
 
 -   **IUCN:** Least Concern
--   **Rarity note:** Uncommon species in Florida, found i wetlands and flooded fields.
+-   **Rarity note:** Uncommon species in Florida, found in wetlands and flooded fields.
 
 ## Natural history notes
 

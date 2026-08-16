@@ -1,0 +1,50 @@
+---
+title: "Luna Moth (Actias luna)"
+slug: "actias-luna"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623038939/medium.jpg"        # keep for thumbnails
+image-alt: "Luna Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Saturniidae"
+categories: ["Insecta", "Insecta", "Lepidoptera", "Saturniidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623038939/medium.jpg" alt="Luna Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342164470">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Saturniidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=47916)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A large pale green silk moth characterized by long sweeping hindwing tails, eyespots on all four wings, and a white fuzzy body. In Florida, the Luna Moth is found in hardwood forests, hammocks, mixed woods, parks, wooded neighborhoods, and forest edges where host trees such as sweetgum, hickory, walnut, persimmon, and other hardwoods occur. Adults are nocturnal and do not feed, living only long enough to mate and lay eggs, while the large green caterpillars feed on tree leaves and eventually spin papery cocoons in leaf litter or among leaves.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/47916-Actias-luna)
+-   [Local profile](https://www.floridamuseum.ufl.edu/100-years/object/luna-moth/)

@@ -1,0 +1,50 @@
+---
+title: "Dyar's Lichen Moth (Afrida ydatodes)"
+slug: "afrida-ydatodes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622232531/medium.jpg"        # keep for thumbnails
+image-alt: "Dyar's Lichen Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Nolidae"
+categories: ["Insecta", "Insecta", "Lepidoptera", "Nolidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622232531/medium.jpg" alt="Dyar's Lichen Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342164470">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Nolidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=212586)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small tiger moth characterized by narrow gray to brownish-gray wings with subtle darker markings and a slender body, giving it a muted bark- or lichen-like appearance. In Florida, Dyar’s Lichen Moth is found in warm wooded and semi-wooded habitats such as hammocks, forest edges, pine flatwoods, parks, and shaded yards where lichens grow on bark, branches, and other surfaces. Adults are mostly nocturnal and may come to lights, while the caterpillars likely graze on lichens, algae, or similar surface growths, helping link bark-dwelling microbial communities to birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/212586-Afrida-ydatodes)
+-   [Local profile](https://www.bugguide.net/node/view/250359/bgimage)

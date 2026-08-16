@@ -1,0 +1,50 @@
+---
+title: "Small-eyed Click Beetle (Alaus myops)"
+slug: "alaus-myops"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623570327/medium.jpg"        # keep for thumbnails
+image-alt: "Small-eyed Click Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Elateridae"
+categories: ["Insecta", "Insecta", "Coleoptera", "Elateridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623570327/medium.jpg" alt="Small-eyed Click Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342424336">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Elateridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=212921)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in forest and open habitats.
+
+## Natural history notes
+
+A large click beetle characterized by an elongated black-and-gray mottled body, a hard shell, and two dark eye-like spots on the pronotum that are smaller than those of the larger Eyed Click Beetle. In Florida, the Small-eyed Click Beetle is found in forests, pine flatwoods, hammocks, parks, yards, and areas with dead wood, logs, stumps, or decaying tree material. Adults may come to lights and can “click” to flip themselves upright when disturbed, while the larvae live in rotting wood or soil and are predatory on other insect larvae, helping regulate wood-boring insects within decomposing logs and stumps
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/212921-Alaus-myops)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN242)

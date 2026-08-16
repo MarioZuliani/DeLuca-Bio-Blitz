@@ -1,0 +1,50 @@
+---
+title: "Giant Strong-nosed Stink Bug (Alcaeorrhynchus grandis)"
+slug: "alcaeorrhynchus-grandis"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622474797/medium.jpg"        # keep for thumbnails
+image-alt: "Giant Strong-nosed Stink Bug"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Pentatomidae"
+categories: ["Insecta", "Insecta", "Hemiptera", "Pentatomidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622474797/medium.jpg" alt="Giant Strong-nosed Stink Bug"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342424336">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Pentatomidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=296201)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in semi-open habitats.
+
+## Natural history notes
+
+A large predatory stink bug characterized by its broad shield-shaped body, strong pointed beak, enlarged “shouldered” pronotum, and brown to grayish coloration with pale markings along the body edges. In Florida, the Giant Strong-nosed Stink Bug is found in gardens, fields, forest edges, pine flatwoods, parks, roadsides, and other open or semi-open habitats where caterpillars and beetle larvae are common. Unlike many stink bugs, it is mainly predatory, using its thick beak to pierce and feed on caterpillars, beetle larvae, and other insects, making it a beneficial natural enemy in native plant communities and agricultural settings.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/296201-Alcaeorrhynchus-grandis)
+-   [Local profile](https://www.bugguide.net/node/view/33917)

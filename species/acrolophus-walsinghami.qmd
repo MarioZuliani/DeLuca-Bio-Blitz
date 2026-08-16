@@ -1,0 +1,50 @@
+---
+title: "Acrolophus walsinghami"
+slug: "acrolophus-walsinghami"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622185579/medium.jpg"        # keep for thumbnails
+image-alt: "Acrolophus walsinghami"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tineidae"
+categories: ["Insecta", "Insecta", "Lepidoptera", "Tineidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622185579/medium.jpg" alt="Acrolophus walsinghami"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskiss">
+levihoskiss</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341753313">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Tineidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=702390)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small grass-tubeworm moth characterized by narrow brown to grayish-brown wings, a slender body, and a slightly shaggy or tufted appearance around the head typical of Acrolophus moths. In Florida, Acrolophus walsinghami is likely found in warm open or semi-open habitats such as pine flatwoods, fields, roadsides, yards, and grassy or weedy areas where adults may come to lights. Its caterpillar biology appears poorly documented, so it is best treated cautiously as a small nocturnal moth whose larvae likely live concealed near the ground among grasses, roots, litter, or low vegetation, while adults and larvae serve as prey for bats, birds, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/702390-Acrolophus-walsinghami)
+-   [Local profile](https://www.bugguide.net/node/view/1022051)

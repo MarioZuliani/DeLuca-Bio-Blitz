@@ -1,0 +1,51 @@
+---
+title: "American Bumble Bee (Bombus pensylvanicus)"
+slug: "bombus-pensylvanicus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621754167/medium.jpg"        # keep for thumbnails
+image-alt: "American Bumble Bee"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Apidae"
+categories: ["Insecta", "Insecta", "Hymenoptera", "Apidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621754167/medium.jpg" alt="American Bumble Bee"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kekebird56">
+kekebird56</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341526343">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Apidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=56887)
+
+## Conservation & rarity context
+
+-   **IUCN:** Vulnerable
+-   **Rarity note:** Common species in Florida, found in open habitats.
+
+## Natural history notes
+
+A large bumble bee characterized by a mostly black body with yellow bands on the thorax and abdomen, smoky wings, and a fuzzy robust build. In Florida, the American Bumble Bee is found in prairies, pine flatwoods, fields, roadsides, gardens, farms, and other open habitats with abundant flowering plants. It is an important native pollinator, with workers collecting nectar and pollen from many wildflowers and crops, while colonies nest in abandoned rodent burrows, grass tussocks, or other sheltered cavities near the ground.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/56887-Bombus-pensylvanicus)
+-   [IUCN](https://www.iucnredlist.org/species/21215172/21215281)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN207)

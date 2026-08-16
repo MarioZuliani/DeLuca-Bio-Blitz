@@ -1,0 +1,50 @@
+---
+title: "Brachys floricola"
+slug: "brachys-floricola"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621958519/medium.jpg"        # keep for thumbnails
+image-alt: "Brachys floricola"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Buprestidae"
+categories: ["Insecta", "Insecta", "Coleoptera", "Buprestidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621958519/medium.jpg" alt="Brachys floricola"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341628083">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Buprestidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](http://inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1043435)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wooded and/or shrubby habitats.
+
+## Natural history notes
+
+A tiny metallic wood-boring beetle characterized by a compact, flattened, oval body and dark bronzy to metallic coloration typical of small Brachys jewel beetles. In Florida, Brachys floricola is recorded as part of the state’s buprestid fauna and is most likely encountered in warm wooded or shrubby habitats, forest edges, scrubby areas, and places with suitable broadleaf host plants. Adults may rest on foliage, while the larvae of Brachys species are leaf miners that feed concealed between the upper and lower leaf surfaces, creating blotch-like mines and linking plant foliage to predators and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1043435-Brachys-floricola)
+-   [Local profile](https://www.bugguide.net/node/view/72613/bgref?from=201)

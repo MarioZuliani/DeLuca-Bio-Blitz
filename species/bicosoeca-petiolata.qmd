@@ -1,0 +1,50 @@
+---
+title: "Bicosoeca petiolata"
+slug: "bicosoeca-petiolata"
+group: "Bikosea"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622139730/medium.jpg"        # keep for thumbnails
+image-alt: "Bicosoeca petiolata"  # keep for a11y
+tax_kingdom: "Chromista"
+tax_class: "Bikosea"
+tax_order: "Bicoecida"
+tax_family: "Bicosoecaceae"
+categories: ["Chromista", "Bikosea", "Bicoecida", "Bicosoecaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622139730/medium.jpg" alt="Bicosoeca petiolata"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341716345">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Bikosea
+-   **Order:** Bicoecida
+-   **Family:** Bicosoecaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1614946)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wetlands areas.
+
+## Natural history notes
+
+A microscopic freshwater flagellate characterized by tiny oval cells that sit inside vase-like loricas, often forming delicate stalked or tree-like colonies. In Florida, it would most likely be encountered in ponds, marshes, ditches, wetland pools, and other freshwater microhabitats where submerged surfaces, algae, detritus, or biofilm provide places for colonies to attach. It feeds mainly on bacteria, using its flagellum and collar region to draw in and capture tiny particles, helping move bacterial production into the broader microbial food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1614946-Bicosoeca-petiolata)
+-   [Local profile](http://researchgate.net/publication/356251487_The_Diversity_Patterns_of_Rare_to_Abundant_Microbial_Eukaryotes_Across_a_Broad_Range_of_Salinities_in_a_Solar_Saltern)

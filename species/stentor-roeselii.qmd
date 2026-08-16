@@ -1,0 +1,50 @@
+---
+title: "Stentor roeselii"
+slug: "stentor-roeselii"
+group: "Heterotrichea"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622081231/medium.jpg"        # keep for thumbnails
+image-alt: "Stentor roeselii"  # keep for a11y
+tax_kingdom: "Chromista"
+tax_class: "Heterotrichea"
+tax_order: "Heterotrichida"
+tax_family: "Stentoridae"
+categories: ["Chromista", "Heterotrichea", "Heterotrichida", "Stentoridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622081231/medium.jpg" alt="Stentor roeselii"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341686325">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Heterotrichea
+-   **Order:** Heterotrichida
+-   **Family:** Stentoridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=906677)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in freshwater microhabitats.
+
+## Natural history notes
+
+A large microscopic ciliate characterized by an elongated trumpet-shaped body when attached, a broad ciliated oral region, and the ability to rapidly contract into a shorter rounded or club-like form when disturbed. In Florida, Stentor roeselii would most likely be found in still or slow freshwater habitats such as ponds, marshes, ditches, wetland pools, and vegetated lake margins, where it attaches to submerged plants, detritus, or other firm surfaces. It feeds by using beating cilia to draw bacteria, algae, flagellates, and other tiny organisms into its oral region, helping move microbial production into the broader freshwater food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/906677-Stentor-roeselii)
+-   [Local profile](https://realmicrolife.com/stentor-roeselii/)

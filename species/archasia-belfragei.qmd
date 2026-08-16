@@ -1,0 +1,50 @@
+---
+title: "Archasia belfragei"
+slug: "archasia-belfragei"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623051953/medium.jpg"        # keep for thumbnails
+image-alt: "Archasia belfragei"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Membracidae"
+categories: ["Insecta", "Insecta", "Hemiptera", "Membracidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623051953/medium.jpg" alt="Archasia belfragei"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171497">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Membracidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=340045)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A small treehopper characterized by a wedge-shaped body and an enlarged helmet-like pronotum that rises above the body, giving it a thorny or angular outline. In Florida, Archasia belfragei is part of the state’s treehopper fauna and is most likely found in wooded habitats, forest edges, hammocks, parks, and yards where oaks and other hardwoods occur. Adults and nymphs feed by piercing plant tissue and drinking sap, with Archasia belfragei noted as an oak-feeding North American treehopper; like many treehoppers, it forms part of a specialized plant-insect food web that also supports predators and parasitoids.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/340045-Archasia-belfragei)
+-   [Local profile](https://www.bugguide.net/node/view/49796/bgref?from=355)

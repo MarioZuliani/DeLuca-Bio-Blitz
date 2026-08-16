@@ -1,0 +1,50 @@
+---
+title: "Thrice-struck Lady Beetle (Axion tripustulatum)"
+slug: "axion-tripustulatum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622268430/medium.jpg"        # keep for thumbnails
+image-alt: "Thrice-struck Lady Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Coccinellidae"
+categories: ["Insecta", "Insecta", "Coleoptera", "Coccinellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622268430/medium.jpg" alt="Thrice-struck Lady Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341782870">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Coccinellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=214691)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wooded and semi-open habitats.
+
+## Natural history notes
+
+A small lady beetle characterized by a rounded, glossy body, dark coloration, and three reddish to orange spots or patches that give it the “thrice-struck” appearance. In Florida, the Thrice-struck Lady Beetle is likely found in warm wooded and semi-open habitats such as hammocks, forest edges, gardens, parks, shrubs, and trees where aphids and scale insects occur. Both adults and larvae are predators of small soft-bodied insects, especially aphids, scales, and related plant-feeding pests, making them beneficial members of garden and forest-edge food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/214691-Axion-tripustulatum)
+-   [Local profile](https://www.bugguide.net/node/view/83258/bglink)
