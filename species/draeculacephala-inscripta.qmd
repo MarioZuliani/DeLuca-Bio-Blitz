@@ -1,0 +1,50 @@
+---
+title: "Waterlettuce Leafhopper (Draeculacephala inscripta)"
+slug: "draeculacephala-inscripta"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623052809/medium.jpg"        # keep for thumbnails
+image-alt: "Waterlettuce Leafhopper"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Cicadellidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Cicadellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623052809/medium.jpg" alt="Waterlettuce Leafhopper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171615">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Cicadellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=417733)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wetlands with waterlettuce present.
+
+## Natural history notes
+
+A slender green leafhopper characterized by its narrow wedge-shaped body, pointed head, and pale green to yellow-green coloration that blends well with aquatic vegetation. In Florida, the Waterlettuce Leafhopper is associated with waterlettuce, occurring in ponds, canals, marshes, ditches, lakes, and slow wetlands where floating mats of Pistia stratiotes grow. Adults and nymphs feed by piercing plant tissue and drinking sap, sometimes becoming common on waterlettuce mats, while also serving as prey for spiders, predatory bugs, small wasps, fishes, and other wetland predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/417733-Draeculacephala-inscripta)
+-   [Local profile](https://www.bugguide.net/node/view/554860)

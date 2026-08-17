@@ -8,7 +8,7 @@ tax_kingdom: "Animalia"
 tax_class: "Insecta"
 tax_order: "Lepidoptera"
 tax_family: "Noctuidae"
-categories: ["Insecta", "Insecta", "Lepidoptera", "Noctuidae"]   # these drive the chips + filtering
+categories: ["Animalia", "Insecta", "Lepidoptera", "Noctuidae"]   # these drive the chips + filtering
 freeze: true
 ---
 

@@ -1,0 +1,50 @@
+---
+title: "Feather-legged Scoliid Wasp (Dielis plumipes)"
+slug: "dielis-plumipes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622227412/medium.jpg"        # keep for thumbnails
+image-alt: "Feather-legged Scoliid Wasp"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Scoliidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Scoliidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622227412/medium.jpg" alt="Feather-legged Scoliid Wasp"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341763514">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Scoliidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=893823)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in sandy habitats.
+
+## Natural history notes
+
+A large scoliid wasp characterized by a black body with pale yellow to whitish markings and noticeably hairy, feather-like hind legs. In Florida, the Feather-legged Scoliid Wasp is found in sandy open habitats such as scrub, sandhills, pine flatwoods, fields, roadsides, gardens, and forest edges where flowers and soil-dwelling beetle larvae occur. Adults visit flowers for nectar, while females dig into the soil to find scarab beetle grubs, paralyzing them and laying an egg so the wasp larva can develop as a parasitoid.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/893823-Dielis-plumipes)
+-   [Local profile](https://www.bugguide.net/node/view/39369)

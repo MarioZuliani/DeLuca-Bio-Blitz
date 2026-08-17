@@ -1,0 +1,50 @@
+---
+title: "Ashmead's Acrobat Ant (Crematogaster ashmeadi)"
+slug: "crematogaster-ashmeadi"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621966372/medium.jpg"        # keep for thumbnails
+image-alt: "Ashmead's Acrobat Ant"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621966372/medium.jpg" alt="Ashmead's Acrobat Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341631735">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=450689)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small acrobat ant characterized by a reddish-brown to dark brown body and a heart-shaped abdomen that can be raised over the body when disturbed. In Florida, Ashmead’s Acrobat Ant is found in pine flatwoods, hammocks, forest edges, yards, parks, and other wooded or semi-wooded habitats where twigs, bark, dead branches, and plant cavities provide nesting sites. Colonies often nest in hollow stems, dead wood, or small cavities, while workers forage for nectar, honeydew, small insects, and scavenged material, helping move nutrients through canopy, shrub, and leaf-litter food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/450689-Crematogaster-ashmeadi)
+-   [Local profile](https://www.antwiki.org/wiki/Crematogaster_ashmeadi)

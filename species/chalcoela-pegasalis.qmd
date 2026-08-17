@@ -1,0 +1,50 @@
+---
+title: "Wasp Parasitizer Moth (Chalcoela pegasalis)"
+slug: "chalcoela-pegasalis"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622480441/medium.jpg"        # keep for thumbnails
+image-alt: "Wasp Parasitizer Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622480441/medium.jpg" alt="Wasp Parasitizer Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341886681">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=216632)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in gardens and forest habitats.
+
+## Natural history notes
+
+A small crambid moth characterized by pale yellowish to tan wings marked with darker brown lines and patches, often giving it a delicate, wasp-nest-associated appearance. In Florida, the Wasp Parasitizer Moth occurs around paper wasp colonies in gardens, yards, forest edges, parks, and wooded or semi-open habitats where Polistes and related wasps build exposed paper nests. Adults are nocturnal and may come to lights, while the caterpillars develop inside paper wasp nests, feeding on wasp larvae and pupae and spinning silk within the nest cells before pupating.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/216632-Chalcoela-pegasalis)
+-   [Local profile](https://journals.flvc.org/edis/article/view/138530)

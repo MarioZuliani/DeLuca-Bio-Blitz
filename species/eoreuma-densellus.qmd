@@ -1,0 +1,50 @@
+---
+title: "Wainscot Grass-Veneer (Eoreuma densellus)"
+slug: "eoreuma-densellus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622937370/medium.jpg"        # keep for thumbnails
+image-alt: "Wainscot Grass-Veneer"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622937370/medium.jpg" alt="Wainscot Grass-Veneer"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342111708">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=700601)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in grassy open habitats.
+
+## Natural history notes
+
+A small grass-veneer moth characterized by narrow straw-colored to pale tan wings, a slender body, and a simple wainscot-like pattern that blends well with dry grasses. In Florida, the Wainscot Grass-Veneer is found in grassy open habitats such as fields, roadsides, pine flatwoods, marsh edges, wet prairies, pastures, and lawns where grasses and sedges are abundant. Adults are mostly nocturnal and may come to lights, while the caterpillars likely feed concealed among grasses or at the bases of grass stems, supporting birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/700601-Eoreuma-densellus)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=5492)

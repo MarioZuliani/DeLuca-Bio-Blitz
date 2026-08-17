@@ -1,0 +1,50 @@
+---
+title: "Common Cotton Stainer Bug (Dysdercus suturellus)"
+slug: "dysdercus-suturellus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623051966/medium.jpg"        # keep for thumbnails
+image-alt: "Common Cotton Stainer Bug"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Pyrrhocoridae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Pyrrhocoridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623051966/medium.jpg" alt="Common Cotton Stainer Bug"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171501">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Pyrrhocoridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=326190)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and disturbed areas.
+
+## Natural history notes
+
+A medium-sized seed bug characterized by a slender red to orange body, dark wing markings, long legs, and a narrow piercing beak. In Florida, the Common Cotton Stainer Bug is found in gardens, fields, roadsides, hammocks, forest edges, and disturbed areas where cotton, hibiscus, mallow, and related host plants occur. Adults and nymphs feed on seeds, fruits, and developing plant tissue, especially in the mallow family, and can stain cotton or damage seed crops while also serving as prey for birds, spiders, assassin bugs, and other predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/326190-Dysdercus-suturellus)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN606)

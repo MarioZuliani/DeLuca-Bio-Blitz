@@ -1,0 +1,50 @@
+---
+title: "Rice Beetle (Dyscinetus morator)"
+slug: "dyscinetus-morator"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622334176/medium.jpg"        # keep for thumbnails
+image-alt: "Rice Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Scarabaeidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Scarabaeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622334176/medium.jpg" alt="Rice Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341814464">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Scarabaeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=218833)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open moist habitats.
+
+## Natural history notes
+
+A medium-sized rhinoceros beetle characterized by a smooth oval body, dark brown to black coloration, strong digging legs, and a glossy, somewhat flattened appearance. In Florida, the Rice Beetle is found in fields, pastures, gardens, lawns, wetlands, agricultural areas, and other open habitats with moist soil and decaying organic material. Adults may come to lights and feed on roots or underground plant parts, while the larvae live in soil and feed on roots and decomposing plant material, sometimes becoming minor pests in crops, turf, or pasture systems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/218833-Dyscinetus-morator)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN259)

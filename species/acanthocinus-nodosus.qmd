@@ -8,7 +8,7 @@ tax_kingdom: "Animalia"
 tax_class: "Insecta"
 tax_order: "Coleoptera"
 tax_family: "Cerambycidae"
-categories: ["Insecta", "Agaricomycetes", "Coleoptera", "Cerambycidae"]   # these drive the chips + filtering
+categories: ["Animalia", "Insecta", "Coleoptera", "Cerambycidae"]   # these drive the chips + filtering
 freeze: true
 ---
 
@@ -27,7 +27,7 @@ paulpaul90</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observati
 
 ## Taxonomy
 
--   **Class:** Agaricomycetes
+-   **Class:** Insecta
 -   **Order:** Coleoptera
 -   **Family:** Cerambycidae
 

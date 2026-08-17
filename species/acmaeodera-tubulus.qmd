@@ -8,7 +8,7 @@ tax_kingdom: "Animalia"
 tax_class: "Insecta"
 tax_order: "Coleoptera"
 tax_family: "Buprestidae"
-categories: ["Insecta", "Insecta", "Coleoptera", "Buprestidae"]   # these drive the chips + filtering
+categories: ["Animalia", "Insecta", "Coleoptera", "Buprestidae"]   # these drive the chips + filtering
 freeze: true
 ---
 

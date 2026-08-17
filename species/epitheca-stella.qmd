@@ -1,0 +1,50 @@
+---
+title: "Florida Baskettail (Epitheca stella)"
+slug: "epitheca-stella"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622625402/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Baskettail"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Corduliidae"
+categories: ["Animalia", "Insecta", "Odonata", "Corduliidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622625402/medium.jpg" alt="Florida Baskettail"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341959576">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Corduliidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=100220)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found around freshwater habitats.
+
+## Natural history notes
+
+A medium-sized baskettail dragonfly characterized by a dark slender body, clear wings with small basal amber patches, and a fast patrolling flight over wetlands. In Florida, the Florida Baskettail is found around ponds, lakes, cypress swamps, marshes, wet ditches, and slow streams, especially in sunny areas near wooded edges or emergent vegetation. Adults hunt flying insects on the wing, while the aquatic nymphs live among submerged plants, leaf litter, and soft bottom debris where they prey on small aquatic animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/100220-Epitheca-stella)
+-   [Local profile](https://www.fws.gov/taxonomic-tree/22194)

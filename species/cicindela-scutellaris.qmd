@@ -1,0 +1,50 @@
+---
+title: "Festive Tiger Beetle (Cicindela scutellaris)"
+slug: "cicindela-scutellaris"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621966380/medium.jpg"        # keep for thumbnails
+image-alt: "Festive Tiger Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Cicindelidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Cicindelidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621966380/medium.jpg" alt="Festive Tiger Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341631737">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Cicindelidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=82435)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in warm sandy habitats.
+
+## Natural history notes
+
+A colorful tiger beetle characterized by a metallic green, blue, purple, or coppery body, long legs, large eyes, and pale markings along the wing covers. In Florida, the Festive Tiger Beetle is found in dry sandy habitats such as scrub, sandhills, open pinewoods, dunes, sandy trails, and bare patches with sparse vegetation. Adults are fast-running daytime predators that chase small insects on open sand, while the larvae live in vertical burrows and ambush passing prey from the burrow entrance.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/82435-Cicindela-scutellaris)
+-   [Local profile](https://www.bugguide.net/node/view/12402/data)

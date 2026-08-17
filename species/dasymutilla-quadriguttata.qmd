@@ -1,0 +1,50 @@
+---
+title: "Four-spotted Velvet Ant (Dasymutilla quadriguttata)"
+slug: "dasymutilla-quadriguttata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621970720/medium.jpg"        # keep for thumbnails
+image-alt: "Four-spotted Velvet Ant"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Mutillidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Mutillidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621970720/medium.jpg" alt="Four-spotted Velvet Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341633485">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Mutillidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=322978)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in sandy habitats.
+
+## Natural history notes
+
+A wingless velvet ant wasp characterized by a fuzzy, ant-like body with black and reddish-orange coloration and four pale spots or patches that give it the “four-spotted” appearance, while males are winged and more wasp-like. In Florida, the Four-spotted Velvet Ant is found in sandy open habitats such as scrub, sandhills, pine flatwoods, roadsides, fields, and forest edges where ground-nesting bees and wasps occur. Females search for host nests on the ground and lay eggs near developing bee or wasp larvae, with the velvet ant larva feeding as a parasitoid; females can deliver a very painful sting and should be observed without handling.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/322978-Dasymutilla-quadriguttata)
+-   [Local profile](https://www.bugguide.net/node/view/35454)

@@ -1,0 +1,50 @@
+---
+title: "Least Yellow Cockroach (Cariblatta minima)"
+slug: "cariblatta-minima"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622334119/medium.jpg"        # keep for thumbnails
+image-alt: "Least Yellow Cockroach"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Blattodea"
+tax_family: "Pseudophyllodromiidae"
+categories: ["Animalia", "Insecta", "Blattodea", "Pseudophyllodromiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622334119/medium.jpg" alt="Least Yellow Cockroach"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/luna101">
+luna101</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341813539">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Blattodea
+-   **Family:** Pseudophyllodromiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=563628)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats with abundance leaf litter.
+
+## Natural history notes
+
+A tiny yellowish outdoor cockroach characterized by its very small size, pale tan to yellow-brown body, long antennae, and delicate flattened form. In Florida, the Least Yellow Cockroach has been recorded from several counties and is most likely found in warm sheltered microhabitats such as leaf litter, low vegetation, bark, shrubs, and humid natural areas rather than as a typical indoor pest. It feeds as a scavenger on decaying plant material, fungi, algae, and other fine organic debris, helping recycle nutrients while serving as prey for spiders, lizards, birds, and predatory insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/563628-Cariblatta-minima)
+-   [Local profile](https://www.bugguide.net/node/view/1216977/bglink?from=59)

@@ -1,0 +1,50 @@
+---
+title: "Julia's Dicymolomia Moth (Dicymolomia julianalis)"
+slug: "dicymolomia-julianalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622443562/medium.jpg"        # keep for thumbnails
+image-alt: "Julia's Dicymolomia Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622443562/medium.jpg" alt="Julia's Dicymolomia Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880464">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=218424)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small crambid moth characterized by narrow tan to brownish wings with fine darker lines, mottling, and a slender triangular resting posture. In Florida, Julia’s Dicymolomia Moth is likely found in warm wooded, shrubby, or semi-open habitats such as hammocks, forest edges, pine flatwoods, gardens, and parks where adults may come to lights. Its caterpillar host plants appear to be poorly documented, so it is best treated cautiously as a small nocturnal plant-feeding moth whose larvae likely feed concealed on low vegetation or foliage, while adults and larvae support birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/218424-Dicymolomia-julianalis)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=4889)

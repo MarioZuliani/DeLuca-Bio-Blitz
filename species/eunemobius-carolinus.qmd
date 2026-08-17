@@ -1,0 +1,50 @@
+---
+title: "Carolina Ground Cricket (Eunemobius carolinus)"
+slug: "eunemobius-carolinus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623195744/medium.jpg"        # keep for thumbnails
+image-alt: "Carolina Ground Cricket"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Trigonidiidae"
+categories: ["Animalia", "Insecta", "Orthoptera", "Trigonidiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623195744/medium.jpg" alt="Carolina Ground Cricket"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rangerval">
+rangerval</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342240087">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Orthoptera
+-   **Family:** Trigonidiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=146891)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open areas.
+
+## Natural history notes
+
+A tiny ground cricket characterized by a dark brown to black body, long antennae, short legs for quick hopping, and a soft chirping song produced close to the ground. In Florida, the Carolina Ground Cricket is found in leaf litter, grassy edges, gardens, fields, pine flatwoods, forest margins, marsh edges, and other low, humid habitats with cover. It feeds on small bits of plant material, fungi, seeds, and decaying organic matter, while serving as prey for spiders, frogs, lizards, birds, and predatory insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/146891-Eunemobius-carolinus)
+-   [Local profile](https://www.bugguide.net/node/view/605078/data)

@@ -1,0 +1,50 @@
+---
+title: "Fiery Searcher (Calosoma scrutator)"
+slug: "calosoma-scrutator"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622138530/medium.jpg"        # keep for thumbnails
+image-alt: "Fiery Searcher"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Carabidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Carabidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622138530/medium.jpg" alt="Fiery Searcher"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kayakkac">
+kayakkac</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341715641">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Carabidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=118855)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded and semi-open habitats.
+
+## Natural history notes
+
+A large ground beetle characterized by a metallic green body, reddish to coppery wing-cover margins, blue-purple highlights, long legs, and powerful jaws. In Florida, the Fiery Searcher is found in forests, hammocks, pine flatwoods, fields, gardens, parks, and wooded edges, often running on the ground or climbing tree trunks in search of prey. It is a beneficial predator, especially of caterpillars and other soft-bodied insects, and may also come to lights; when handled, it can release a strong-smelling defensive chemical.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/118855-Calosoma-scrutator)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN1173)

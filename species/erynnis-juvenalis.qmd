@@ -1,0 +1,50 @@
+---
+title: "Juvenal's Duskywing (Erynnis juvenalis)"
+slug: "erynnis-juvenalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/627753205/medium.jpg"        # keep for thumbnails
+image-alt: "Juvenal's Duskywing"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/627753205/medium.jpg" alt="Juvenal's Duskywing"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kellyobear">
+kellyobear</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/344525243">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58475)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, foun in oak habitats.
+
+## Natural history notes
+
+A small dark skipper characterized by brown wings with pale spots, a dusky mottled pattern, and a low, fast flight close to the ground. In Florida, Juvenal’s Duskywing is found in dry woodlands, oak scrub, sandhills, pine-oak woods, forest edges, roadsides, and sunny openings where oaks are present. Adults visit flowers and perch on bare ground or low vegetation, while the caterpillars feed on oak leaves and live concealed in leaf shelters made with silk.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58475-Erynnis-juvenalis)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Erynnis-juvenalis)

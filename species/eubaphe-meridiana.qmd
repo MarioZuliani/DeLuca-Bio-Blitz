@@ -1,0 +1,50 @@
+---
+title: "Little Beggar Moth (Eubaphe meridiana)"
+slug: "eubaphe-meridiana"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622511091/medium.jpg"        # keep for thumbnails
+image-alt: "Little Beggar Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Geometridae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Geometridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622511091/medium.jpg" alt="Little Beggar Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">
+chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341924638">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Geometridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=219599)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in open and semi-open areas.
+
+## Natural history notes
+
+A small geometrid moth characterized by pale yellow to orange-yellow wings with scattered darker speckling and faint wavy lines, giving it a delicate leaf- or petal-like appearance. In Florida, the Little Beggar Moth is found in open and semi-open habitats such as fields, roadsides, pine flatwoods, forest edges, gardens, and weedy areas with low vegetation. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on low herbaceous plants and help support birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/219599-Eubaphe-meridiana)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.111762/Eubaphe_meridiana)

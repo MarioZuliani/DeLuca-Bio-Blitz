@@ -1,0 +1,50 @@
+---
+title: "Subject Lichene Moth (Cisthene subjecta)"
+slug: "cisthene-subjecta"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622262744/medium.jpg"        # keep for thumbnails
+image-alt: "Subject Lichen Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622262744/medium.jpg" alt="Subject Lichen Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341778549">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=356446)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small lichen moth characterized by narrow gray to brownish-gray wings with subtle darker markings and a slender body that gives it a bark- or lichen-like appearance. In Florida, the Subject Lichen Moth is found in wooded and semi-wooded habitats such as hammocks, pine flatwoods, forest edges, parks, and shaded yards where lichens and algae grow on bark, branches, and other surfaces. Adults are mostly nocturnal and may come to lights, while the caterpillars likely graze on lichens, algae, or similar surface growths, helping connect bark-dwelling microhabitats to birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/356446-Cisthene-subjecta)
+-   [Local profile](https://www.bugguide.net/node/view/260747)

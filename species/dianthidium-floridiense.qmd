@@ -1,0 +1,50 @@
+---
+title: "Florida Pebble Bee (Dianthidium floridiense)"
+slug: "dianthidium-floridiense"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622203765/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Pebble Bee"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Megachilidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Megachilidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622203765/medium.jpg" alt="Florida Pebble Bee"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341765816">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Megachilidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=578004)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small pebble bee characterized by a compact black body with pale yellow to cream markings and the sturdy build typical of leafcutter-family bees. In Florida, the Florida Pebble Bee is recorded as Dianthidium floridiense and occurs in sunny open or semi-open habitats such as scrub, sandhills, pine flatwoods, gardens, roadsides, and wildflower patches where nectar and pollen plants are available. Females collect pollen and nectar from flowers and, like other pebble bees, nest in small cavities or protected sites using resin, pebbles, or plant material to build or partition brood cells, making them solitary native pollinators rather than colony-forming bees.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/578004-Dianthidium-floridiense)
+-   [Local profile](https://bugswithmike.com/guide/arthropoda/hexapoda/insecta/hymenoptera/megachilidae/megachilinae/anthidiini/dianthidium/floridiense)

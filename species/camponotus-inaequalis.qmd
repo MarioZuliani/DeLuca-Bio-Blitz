@@ -1,0 +1,50 @@
+---
+title: "Camponotus inaequalis"
+slug: "camponotus-inaequalis"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/624804986/medium.jpg"        # keep for thumbnails
+image-alt: "Camponotus inaequalis"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/624804986/medium.jpg" alt="Camponotus inaequalis"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/anibirdbrain">
+anibirdbrain</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/343045572">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1027829)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A medium to large carpenter ant characterized by a dark body, long legs, elbowed antennae, and the robust build typical of Camponotus ants. In Florida, Camponotus inaequalis is recorded from the state and is associated especially with southern Florida and nearby Caribbean regions, where it is most likely found in warm wooded or semi-wooded habitats with trees, dead wood, bark, and plant cavities. Colonies likely nest in wood or other sheltered cavities, while workers forage for insects, honeydew, nectar, and scavenged material, helping move food and nutrients through forest-edge and canopy-associated food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1027829-Camponotus-inaequalis)
+-   [Local profile](https://www.antwiki.org/wiki/Camponotus_inaequalis)

@@ -1,0 +1,50 @@
+---
+title: "Parallel-banded Leafroller Moth (Choristoneura parallela)"
+slug: "choristoneura-parallela"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/475129503/medium.jpeg"        # keep for thumbnails
+image-alt: "Parallel-banded Leafroller Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tortricidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Tortricidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/475129503/medium.jpeg" alt="Parallel-banded Leafroller Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/264595581">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Tortricidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=216808)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A small tortricid moth characterized by tan to brown forewings with darker parallel bands, fine mottling, and a folded leafroller-like resting posture. In Florida, the Parallel-banded Leafroller Moth is found in wooded and semi-wooded habitats such as hammocks, forest edges, pine flatwoods, parks, yards, and shrubby areas where suitable host plants occur. Adults are mostly nocturnal and may come to lights, while the caterpillars feed concealed in rolled or tied leaves, using silk shelters for protection and serving as prey for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/216808-Choristoneura-parallela)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=3633)

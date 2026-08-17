@@ -1,0 +1,50 @@
+---
+title: "Rosy Maple Moth (Dryocampa rubicunda)"
+slug: "dryocampa-rubicunda"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622329122/medium.jpg"        # keep for thumbnails
+image-alt: "Rosy Maple Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Saturniidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Saturniidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622329122/medium.jpg" alt="Rosy Maple Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341811575">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Saturniidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=48094)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in forest and urban areas.
+
+## Natural history notes
+
+A small silk moth characterized by bright pink and yellow wings, a fuzzy yellow body, and a soft rounded appearance that makes it one of the most distinctive moths in Florida. In Florida, the Rosy Maple Moth is found in hardwood forests, hammocks, forest edges, parks, and wooded neighborhoods where maple and other host trees occur. Adults are nocturnal and do not feed, while the caterpillars feed on the leaves of maples and related hardwoods, sometimes in groups when young, before pupating in the soil.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48094-Dryocampa-rubicunda)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Dryocampa-rubicunda)

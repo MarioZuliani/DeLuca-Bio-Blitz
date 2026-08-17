@@ -1,0 +1,50 @@
+---
+title: "Yellow-collared Scape Moth (Cisseps fulvicollis)"
+slug: "cisseps-fulvicollis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623053255/medium.jpg"        # keep for thumbnails
+image-alt: "Yellow-collared Scape Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623053255/medium.jpg" alt="Yellow-collared Scape Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171674">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=119789)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and sunny habitats.
+
+## Natural history notes
+
+A small wasp-like tiger moth characterized by narrow dark wings, a slender black body, and a bright yellow to orange collar behind the head. In Florida, the Yellow-collared Scape Moth is found in fields, roadsides, gardens, pine flatwoods, forest edges, parks, and other sunny habitats with grasses and low vegetation. Adults fly during the day and visit flowers for nectar, while the caterpillars feed on grasses, sedges, and other low plants, helping support birds, spiders, parasitoid wasps, and other insect predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/119789-Cisseps-fulvicollis)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Cisseps-fulvicollis)

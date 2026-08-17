@@ -1,0 +1,50 @@
+---
+title: "Endeitoma granulata"
+slug: "endeitoma-granulata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622471667/medium.jpg"        # keep for thumbnails
+image-alt: "Endeitoma granulata"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Zopheridae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Zopheridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622471667/medium.jpg" alt="Endeitoma granulata"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341884621">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Zopheridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=458139)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in deadwood habitats.
+
+## Natural history notes
+
+A small cylindrical bark beetle characterized by its narrow, elongated body, rough granular surface texture, and bark-like brown coloration that helps it blend into dead wood. In Florida, Endeitoma granulata is found in deadwood habitats and has been recorded from Florida and other southeastern states, where adults and larvae occur in bark beetle tunnels and decaying wood at the bases of trees. It is part of the saproxylic beetle community, using dead or dying wood and old beetle galleries while helping recycle woody material and supporting predators, parasitoids, and other forest-floor insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/458139-Endeitoma-granulata)
+-   [Local profile](https://www.bugguide.net/node/view/172796/bgref?from=521)

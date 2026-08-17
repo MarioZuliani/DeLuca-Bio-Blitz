@@ -1,0 +1,50 @@
+---
+title: "Batman Moth (Coelostathma discopunctana)"
+slug: "coelostathma-discopunctana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622937242/medium.jpg"        # keep for thumbnails
+image-alt: "Batman Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tortricidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Tortricidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622937242/medium.jpg" alt="Batman Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342111650">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Tortricidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=203850)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and semi-open areas.
+
+## Natural history notes
+
+A small tortricid moth characterized by tan to yellowish-brown forewings with darker brown patches and bands, often forming a bold mask-like pattern that gives it the “Batman” appearance. In Florida, the Batman Moth is part of the state’s moth fauna and belongs to an eastern North American species ranging south to Florida, where it is likely found in wooded, shrubby, and semi-open habitats with suitable host plants. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on host-plant foliage in the typical leafroller manner, using silk to shelter within folded or tied leaves.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/203850-Coelostathma-discopunctana)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Coelostathma-discopunctana)

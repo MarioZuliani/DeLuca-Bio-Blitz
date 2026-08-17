@@ -1,0 +1,50 @@
+---
+title: "Zarucco Duskywing (Erynnis zarucco)"
+slug: "erynnis-zarucco"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622100140/medium.jpg"        # keep for thumbnails
+image-alt: "Zarucco Duskywing"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622100140/medium.jpg" alt="Zarucco Duskywing"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/vita-sativum">
+vita-sativum</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341702813">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=219499)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in forests and open habitats.
+
+## Natural history notes
+
+A small dark skipper characterized by brown wings with pale spots, a mottled dusky pattern, and a fast low flight typical of duskywings. In Florida, Zarucco Duskywing is found in open and semi-open habitats such as pine flatwoods, roadsides, fields, scrub edges, gardens, and forest openings where legume host plants occur. Adults visit flowers for nectar and often perch on low vegetation or bare ground, while the caterpillars feed on legumes, especially wild indigos and related plants, using silk to make sheltered leaf nests.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/219499-Erynnis-zarucco)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Erynnis-zarucco)

@@ -8,7 +8,7 @@ tax_kingdom: "Animalia"
 tax_class: "Insecta"
 tax_order: "Phasmida"
 tax_family: "Pseudophasmatidae"
-categories: ["Insecta", "Insecta", "Phasmida", "Pseudophasmatidae"]   # these drive the chips + filtering
+categories: ["Animalia", "Insecta", "Phasmida", "Pseudophasmatidae"]   # these drive the chips + filtering
 freeze: true
 ---
 

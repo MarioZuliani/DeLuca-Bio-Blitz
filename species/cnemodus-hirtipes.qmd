@@ -1,0 +1,50 @@
+---
+title: "Cnemodus hirtipes"
+slug: "cnemodus-hirtipes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622137045/medium.jpg"        # keep for thumbnails
+image-alt: "Cnemodus hirtipes"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Rhyparochromidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Rhyparochromidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622137045/medium.jpg" alt="Cnemodus hirtipes"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kayakkac">
+kayakkac</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341714664">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Rhyparochromidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=437696)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in urban habitats and homes.
+
+## Natural history notes
+
+A tiny seed bug characterized by a narrow oval body, dark brown to black coloration, and fine hairs on the legs and body that give it the “hirtipes” or hairy-legged appearance. In Florida, Cnemodus hirtipes is known from the state and has been recorded in fallen pine cones and bunchgrasses, so it is most likely encountered in pine flatwoods, sandhills, open pinewoods, and grassy forest-edge habitats with dry plant litter. Like other rhyparochromid seed bugs, it feeds mainly on fallen seeds and plant material on or near the ground, helping recycle small plant resources while serving as prey for spiders, ants, birds, and other insect predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/437696-Cnemodus-hirtipes)
+-   [Local profile](https://www.bugguide.net/node/view/124616)

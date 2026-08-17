@@ -1,0 +1,50 @@
+---
+title: "Corisella edulis"
+slug: "corisella-edulis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622444200/medium.jpg"        # keep for thumbnails
+image-alt: "Corisella edulis"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Corixidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Corixidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622444200/medium.jpg" alt="Corisella edulis"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880641">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Corixidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=217597)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A small aquatic true bug characterized by an oval, flattened body, short beak, and oar-like hind legs used for swimming through the water. In Florida, Corisella edulis is the Florida-recorded member of its genus and occurs in freshwater habitats such as ponds, lakes, marshes, ditches, canals, and slow vegetated waters. Like other water boatmen, it swims right-side-up and feeds mostly by scraping or gathering algae, detritus, and fine organic material from submerged surfaces, while also serving as prey for fish, amphibians, and larger aquatic insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/217597-Corisella-edulis)
+-   [Local profile](https://www.bugguide.net/node/view/862918/bgpage)

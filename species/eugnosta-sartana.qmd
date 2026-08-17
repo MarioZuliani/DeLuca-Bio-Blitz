@@ -1,0 +1,50 @@
+---
+title: "Sugarcane Beetle (Eugnosta sartana)"
+slug: "eugnosta-sartana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623052766/medium.jpg"        # keep for thumbnails
+image-alt: "Sugarcane Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Tortricidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Tortricidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623052766/medium.jpg" alt="Sugarcane Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171571">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Tortricidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=505134)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small tortricid moth characterized by narrow tan to brownish wings with darker patches or bands, including a broader dark marking that gives it the “broad-patched” appearance. In Florida, the Broad-patched Eugnosta Moth is likely found in warm open or semi-open habitats such as pine flatwoods, roadsides, fields, scrub edges, gardens, and weedy areas where low host plants occur. Adults are mostly nocturnal and may come to lights, while the caterpillar host plants appear poorly documented, so it is best treated cautiously as a small plant-feeding moth whose larvae likely feed concealed in plant tissue or sheltered leaves.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/505134-Eugnosta-sartana)
+-   [Local profile](https://www.bugguide.net/node/view/62959)

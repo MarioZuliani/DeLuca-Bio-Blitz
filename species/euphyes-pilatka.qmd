@@ -1,0 +1,50 @@
+---
+title: "Palatka Skipper (Euphyes pilatka)"
+slug: "euphyes-pilatka"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622762496/medium.jpg"        # keep for thumbnails
+image-alt: "Palatka Skipper"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622762496/medium.jpg" alt="Palatka Skipper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kerrypad">
+kerrypad</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342026809">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=219784)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found around freshwater marshes.
+
+## Natural history notes
+
+A medium-sized wetland skipper characterized by dark brown wings, golden-orange patches, and a stout body, with males often showing brighter orange markings than females. In Florida, the Palatka Skipper is found mainly in freshwater marshes, wet prairies, sedge meadows, and Everglades-like wetlands where sawgrass and other marsh vegetation are abundant. Adults visit wetland wildflowers for nectar, while the caterpillars feed on sawgrass and live concealed in silken shelters among the leaves, making the species closely tied to healthy native marsh habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/219784-Euphyes-pilatka)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Euphyes-pilatka)

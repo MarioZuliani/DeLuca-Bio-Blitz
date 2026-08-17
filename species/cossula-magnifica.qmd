@@ -1,0 +1,50 @@
+---
+title: "Pecan Carpenterworm Moth (Cossula magnifica)"
+slug: "cossula-magnifica"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622170903/medium.jpg"        # keep for thumbnails
+image-alt: "Pecan Carpenterworm Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Cossidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Cossidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622170903/medium.jpg" alt="Pecan Carpenterworm Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/tjfuller">
+tjfuller</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341731988">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Cossidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=217657)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in forest and woody habitats.
+
+## Natural history notes
+
+A large carpenterworm moth characterized by mottled gray to brown forewings, a stout body, and bark-like markings that help it blend against tree trunks. In Florida, the Pecan Carpenterworm Moth is found in hardwood forests, hammocks, pecan groves, orchards, wooded neighborhoods, and forest edges where pecan and related hardwood host trees occur. Adults are mostly nocturnal and may come to lights, while the caterpillars bore into trunks and branches, feeding concealed within wood and sometimes weakening host trees as part of the natural wood-boring insect community.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/217657-Cossula-magnifica)
+-   [Local profile](https://www.bugguide.net/node/view/19685)

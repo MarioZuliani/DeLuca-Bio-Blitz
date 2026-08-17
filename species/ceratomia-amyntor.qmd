@@ -1,0 +1,50 @@
+---
+title: "Elm Sphinx (Ceratomia amyntor)"
+slug: "ceratomia-amyntor"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623055120/medium.jpg"        # keep for thumbnails
+image-alt: "Elm Sphinx"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Sphingidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Sphingidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623055120/medium.jpg" alt="Elm Sphinx"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342172524">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Sphingidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=84470)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A large sphinx moth characterized by gray to brown forewings with wavy dark lines, a stout body, and rapid powerful flight typical of hawk moths. In Florida, the Elm Sphinx is found in hardwood forests, hammocks, forest edges, parks, yards, and wooded neighborhoods where host trees such as elm, hackberry, birch, and related hardwoods occur. Adults are nocturnal and may visit flowers or come to lights, while the large hornworm caterpillars feed on tree leaves and later pupate in the soil.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/84470-Ceratomia-amyntor)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Ceratomia-amyntor)

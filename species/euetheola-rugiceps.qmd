@@ -1,0 +1,50 @@
+---
+title: "Sugarcane Beetle (Euetheola rugiceps)"
+slug: "euetheola-rugiceps"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622444015/medium.jpg"        # keep for thumbnails
+image-alt: "Sugarcane Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Scarabaeidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Scarabaeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622444015/medium.jpg" alt="Sugarcane Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880594">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Scarabaeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=972833)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in fields and open habitats.
+
+## Natural history notes
+
+A medium-sized rhinoceros beetle characterized by a shiny dark brown to black oval body, strong digging legs, and a roughened head and thorax. In Florida, the Sugarcane Beetle is found in fields, lawns, pastures, gardens, agricultural areas, roadsides, and other open habitats with grasses, crops, or moist soil. Adults may come to lights and can feed on roots, stems, or underground plant parts, sometimes damaging sugarcane, corn, turf, and other grasses, while the larvae live in soil and feed on roots and decaying organic material.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/972833-Euetheola-rugiceps)
+-   [Local profile](https://www.bugguide.net/node/view/5301/data)

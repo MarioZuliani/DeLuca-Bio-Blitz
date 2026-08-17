@@ -1,0 +1,51 @@
+---
+title: "Scarlet Skimmer (Crocothemis servilia)"
+slug: "crocothemis-servilia"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622180932/medium.jpg"        # keep for thumbnails
+image-alt: "Scarlet Skimmer"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animalia", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622180932/medium.jpg" alt="Scarlet Skimmer"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskiss">
+levihoskiss</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341752232">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=52055)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncommon species in Florida, found around ponds and other slow-moving waters.
+
+## Natural history notes
+
+A medium-sized dragonfly characterized by a bright red body in mature males, reddish wing bases, and a broad flattened abdomen, while females and young individuals are more yellow-brown with a pale stripe along the abdomen. In Florida, the Scarlet Skimmer is an introduced species found around ponds, lakes, canals, ditches, marshes, stormwater basins, and other still or slow-moving waters with open sunny edges. Adults perch conspicuously and hunt flying insects from low vegetation, while the aquatic nymphs live among submerged plants and debris where they prey on small aquatic animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/52055-Crocothemis-serviliai)
+-   [IUCN](https://www.iucnredlist.org/species/163607/80679957)
+-   [Local profile](https://www.bugguide.net/node/view/18756)

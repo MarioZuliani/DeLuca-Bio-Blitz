@@ -1,0 +1,50 @@
+---
+title: "Small Yellow Cockroach (Cariblatta lutea)"
+slug: "cariblatta-lutea"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621933633/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern Tumblebug"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Blattodea"
+tax_family: "Pseudophyllodromiidae"
+categories: ["Animalia", "Insecta", "Blattodea", "Pseudophyllodromiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621933633/medium.jpg" alt="Eastern Tumblebug"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jacksonmartin336">
+jacksonmartin336</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341493120">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Blattodea
+-   **Family:** Pseudophyllodromiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=216120)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A tiny yellowish outdoor cockroach characterized by its small size, pale tan to yellow-brown body, long antennae, and delicate flattened shape. In Florida, Cariblatta lutea occurs in a variety of natural habitats, including pine scrub, flatwoods, hammocks, open pinelands, and marshy or leaf-litter areas, where it shelters under bark, in duff, and among low vegetation. It feeds as a scavenger on decaying plant material, fungi, algae, and other organic debris, helping recycle nutrients while serving as prey for spiders, lizards, birds, and predatory insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/216120-Cariblatta-lutea)
+-   [Local profile](https://www.bugguide.net/node/view/361044/bgref     )

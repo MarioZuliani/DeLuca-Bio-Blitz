@@ -1,0 +1,50 @@
+---
+title: "Marbled Fungus Weevil (Euparius marmoreus)"
+slug: "euparius-marmoreus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622739254/medium.jpg"        # keep for thumbnails
+image-alt: "Marbled Fungus Weevil"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Anthribidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Anthribidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622739254/medium.jpg" alt="Marbled Fungus Weevil"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342013475">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Anthribidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=219767)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in semi-wooded habitats.
+
+## Natural history notes
+
+A small fungus weevil characterized by a compact, bumpy body, short snout, elbowed antennae, and mottled black, brown, and pale markings that create a marbled, bark-like appearance. In Florida, the Marbled Fungus Weevil is found in wooded and semi-wooded habitats such as hammocks, forest edges, parks, yards, and areas with dead wood, bark, logs, stumps, and fungal growth. Adults and larvae are associated with fungi and decaying wood, helping recycle wood-decay resources while serving as prey for spiders, birds, lizards, and other insect predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/219767-Euparius-marmoreus)
+-   [Local profile](https://www.bugguide.net/node/view/42334)
