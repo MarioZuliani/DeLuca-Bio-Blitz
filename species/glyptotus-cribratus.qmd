@@ -1,0 +1,50 @@
+---
+title: "Glyptotus cribratus"
+slug: "glyptotus-cribratus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622262705/medium.jpg"        # keep for thumbnails
+image-alt: "Glyptotus cribratus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Tenebrionidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Tenebrionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622262705/medium.jpg" alt="Glyptotus cribratus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341783785">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Tenebrionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=179018)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in wooded areas.
+
+## Natural history notes
+
+A small darkling beetle characterized by an elongated dark brown to black body, hardened wing covers, and a slightly rough or pitted surface texture. In Florida, Glyptotus cribratus is associated with dead and decaying hardwood, with records from southern Florida in dry, soft, rotten live oak branches in maritime forest habitat. Adults and larvae live in rotten wood, where they help break down dead branches and recycle nutrients while also serving as prey for woodpeckers, lizards, spiders, predatory beetles, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/179018-Glyptotus-cribratus)
+-   [Local profile](https://www.bugguide.net/node/view/345132/bgref?from=541)

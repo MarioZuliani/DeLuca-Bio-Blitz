@@ -1,0 +1,50 @@
+---
+title: "Hide Beetle (Omorgus suberosus)"
+slug: "omorgus-suberosus"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622596243/medium.jpg"        # keep for thumbnails
+image-alt: "Hide Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: " Coleoptera"
+tax_family: "Trogidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Trogidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622596243/medium.jpg" alt="Hide Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341945818">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Coleoptera
+-   **Family:** Trogidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=270288)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in sandy habitats.
+
+## Natural history notes
+
+A rough-bodied hide beetle characterized by its dark, oval body, bumpy sculptured wing covers, and dusty or soil-covered appearance that helps it blend into dry organic material. In Florida, the Hide Beetle is found in sandy open areas, dry fields, scrub, pine flatwoods, roadsides, coastal habitats, and around animal remains or dry carrion. Adults and larvae feed on dried carrion, hides, feathers, bones, and other tough animal material, helping break down remains during later stages of decomposition while also serving as prey for birds, reptiles, spiders, and predatory insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/270288-Omorgus-suberosus)
+-   [Local profile](https://www.bugguide.net/node/view/232418)

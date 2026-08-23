@@ -1,0 +1,50 @@
+---
+title: "Maple Looper Moth (Parallelia bistriaris)"
+slug: "parallelia-bistriaris"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622185119/medium.jpg"        # keep for thumbnails
+image-alt: "Maple Looper Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622185119/medium.jpg" alt="Maple Looper Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/levihoskiss">
+levihoskiss</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341753216">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=118531)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded areas.
+
+## Natural history notes
+
+A medium-sized erebid moth characterized by mottled brown to grayish-brown wings with dark wavy lines and a leaf-litter-like pattern that helps it blend against bark and dead leaves. In Florida, the Maple Looper Moth is found in hardwood forests, hammocks, forest edges, parks, and wooded yards where maples and other hardwood host trees occur. Adults are mostly nocturnal and may come to lights, while the caterpillars are looping inchworm-like feeders on tree foliage, helping move hardwood leaf growth into the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/118531-Parallelia-bistriaris)
+-   [Local profile](https://www.bugguide.net/node/view/3356)

@@ -1,0 +1,50 @@
+---
+title: "Tylozygus bifidus"
+slug: "tylozygus-bifidus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622444523/medium.jpg"        # keep for thumbnails
+image-alt: "Tylozygus bifidus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Cicadellidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Cicadellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622444523/medium.jpg" alt="Tylozygus bifidus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880709">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Cicadellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=233134)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in plant rich habitats.
+
+## Natural history notes
+
+A small leafhopper characterized by a wedge-shaped body, delicate roof-held wings, and greenish to yellowish or mottled coloration typical of sap-feeding cicadellids. In Florida, Tylozygus bifidus is recorded as part of the state’s leafhopper fauna and is most likely found in plant-rich habitats such as fields, roadsides, gardens, pine flatwoods, forest edges, and shrubby vegetation. Adults and nymphs feed by piercing plant tissue and drinking sap, while also serving as prey for spiders, assassin bugs, lacewings, birds, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/233134-Tylozygus-bifidus)
+-   [Local profile](https://www.bugguide.net/node/view/7346/bglink?from=56)

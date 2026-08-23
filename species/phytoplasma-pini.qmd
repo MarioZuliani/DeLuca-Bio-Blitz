@@ -1,0 +1,50 @@
+---
+title: "Pine Witches' Broom Phytoplasma (Phytoplasma pini)"
+slug: "phytoplasma-pini"
+group: "Mollicutes"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622573270/medium.jpg"        # keep for thumbnails
+image-alt: "Pine Witches' Broom Phytoplasma"  # keep for a11y
+tax_kingdom: "Bacteria"
+tax_class: "Mollicutes"
+tax_order: "Acholeplasmatales"
+tax_family: "Acholeplasmataceae"
+categories: ["Animalia", "Mollicutes", "Acholeplasmatales", "Acholeplasmataceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622573270/medium.jpg" alt="Pine Witches' Broom Phytoplasma" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/marykeim">
+marykeim</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341932151">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Mollicutes
+-   **Order:** Acholeplasmatales
+-   **Family:** Acholeplasmataceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=479640)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Commonly found throughout Florida found where woody plants grow.
+
+## Natural history notes
+
+A microscopic plant-pathogenic bacterium-like organism characterized by the symptoms it causes rather than by visible body features, especially dense clusters of short shoots known as witches’ brooms. In Florida and the broader southeastern pine landscape, pine witches’ broom symptoms may appear as abnormal ball-like branch clusters, stunted or twisted needles, yellowing, and distorted shoot growth on pines, though witches’ brooms can also have other causes. Phytoplasmas live in plant phloem and are typically moved by sap-feeding insects such as leafhoppers, so this pathogen is best described as a hidden plant disease agent that alters pine growth rather than as a free-living organism visible in the field.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/479640-Phytoplasma-pini)
+-   [Local profile](https://approvedmethods.ceris.purdue.edu/sheet/1387)

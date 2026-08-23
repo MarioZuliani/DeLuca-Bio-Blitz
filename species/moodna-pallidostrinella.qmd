@@ -1,0 +1,50 @@
+---
+title: "Paler Moodna Moth (Moodna pallidostrinella)"
+slug: "moodna-pallidostrinella"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622262729/medium.jpg"        # keep for thumbnails
+image-alt: "Paler Moodna Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Pyralidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Pyralidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622262729/medium.jpg" alt="Paler Moodna Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341783832">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Pyralidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=417151)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small snout moth characterized by pale tan to straw-colored wings with fine darker speckling, faint lines, and a narrow triangular resting posture. In Florida, the Paler Moodna Moth is likely found in warm open or semi-open habitats such as pine flatwoods, fields, roadsides, gardens, marsh edges, and weedy areas where adults may come to lights. Its caterpillar host plants appear poorly documented, so it is best treated cautiously as a small nocturnal plant-feeding moth whose larvae likely feed concealed on low vegetation or plant debris, while adults and larvae support birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/417151-Moodna-pallidostrinella)
+-   [Local profile](https://www.bugguide.net/node/view/407501/bglink?from=24)

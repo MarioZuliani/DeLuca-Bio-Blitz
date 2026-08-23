@@ -1,0 +1,50 @@
+---
+title: "Curved-lined Vaxi Moth (Vaxi auratellus)"
+slug: "vaxi-auratellus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/598419415/medium.jpg"        # keep for thumbnails
+image-alt: "Curved-lined Vaxi Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/598419415/medium.jpg" alt="Curved-lined Vaxi Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/suecar">
+suecar</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/330058547">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1273764)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A tiny snout moth characterized by narrow golden to tan wings with curved darker lines, fine mottling, and a slender triangular resting posture. In Florida, the Curved-lined Vaxi Moth is most likely found in warm wooded, shrubby, or semi-open habitats such as hammocks, pine flatwoods, forest edges, gardens, parks, and weedy edges where adults may come to lights. Its caterpillar host plants appear poorly documented, so it is best treated cautiously as a small nocturnal plant-feeding moth whose larvae likely feed concealed on foliage or low vegetation, while adults and larvae support spiders, birds, bats, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1273764-Vaxi-auratellus)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=5465)

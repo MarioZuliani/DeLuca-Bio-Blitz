@@ -1,0 +1,50 @@
+---
+title: "Phileurus valgus"
+slug: "phileurus-valgus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622936487/medium.jpg"        # keep for thumbnails
+image-alt: "Phileurus valgus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Scarabaeidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Scarabaeidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622936487/medium.jpg" alt="Phileurus valgus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342111363">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Coleoptera
+-   **Family:** Scarabaeidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=301519)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A large rhinoceros beetle characterized by a glossy dark brown to black body, strong digging legs, and a short horn or raised projection on the head and pronotum. In Florida, Phileurus valgus is found in wooded and semi-wooded habitats such as hammocks, pine woods, forest edges, parks, and yards where rotting logs, stumps, and decaying wood are available. Adults and larvae live in decomposing wood and organic debris, helping recycle nutrients, while adults may also prey on other wood-inhabiting insect larvae and are sometimes attracted to lights.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/301519-Phileurus-valgus)
+-   [Local profile](https://www.bugguide.net/node/view/11453/data)

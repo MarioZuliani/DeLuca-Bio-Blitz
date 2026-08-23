@@ -1,0 +1,50 @@
+---
+title: "Bicolored Plushback (Palpada pusilla)"
+slug: "palpada-pusilla"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622337305/medium.jpg"        # keep for thumbnails
+image-alt: "Bicolored Plushback"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: " Diptera"
+tax_family: "Syrphidae"
+categories: ["Animalia", "Insecta", "Diptera", "Syrphidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622337305/medium.jpg" alt="Bicolored Plushback"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341825695">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Diptera
+-   **Family:** Syrphidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=203627)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in urban habitats.
+
+## Natural history notes
+
+A medium-sized flower fly characterized by a bee-like body, dark-and-yellow bicolored patterning, large eyes, and hovering flight around flowers. In Florida, the Bicolored Plushback is found in warm gardens, parks, hammocks, forest edges, roadsides, and other flower-rich habitats, with records extending through Florida as part of its tropical-to-southern U.S. range. Adults visit flowers for nectar and pollen and can act as pollinators, while the larvae of related Palpada hover flies are typically aquatic or semi-aquatic filter-feeders in wet, decaying organic material, helping recycle nutrients in small wet microhabitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/203627-Palpada-pusilla)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.1155282/Palpada_pusilla)

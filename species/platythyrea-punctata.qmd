@@ -1,0 +1,50 @@
+---
+title: "Common Silvery Hunter Ant (Platythyrea punctata)"
+slug: "platythyrea-punctata"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622643733/medium.jpg"        # keep for thumbnails
+image-alt: "Common Silvery Hunter Ant"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622643733/medium.jpg" alt="Common Silvery Hunter Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="hhttps://www.inaturalist.org/observations/341971267">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=300396)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in humid habitats.
+
+## Natural history notes
+
+A medium-sized ponerine ant characterized by a slender dark body with a subtle silvery sheen, long legs, and a narrow waist that gives it a wasp-like appearance. In Florida, the Common Silvery Hunter Ant is found mainly in warm humid habitats such as hammocks, pine flatwoods, forest edges, leaf litter, rotting wood, logs, and shaded yards, especially in southern parts of the state. Colonies are small and workers are active predators, hunting tiny insects and other arthropods in litter and wood cavities while also scavenging, making them part of the hidden ground-layer predator community.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/300396-Platythyrea-punctata)
+-   [Local profile](https://www.antwiki.org/wiki/Platythyrea_punctata)

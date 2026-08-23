@@ -1,0 +1,50 @@
+---
+title: "Giant Katydid (Stilpnochlora couloniana)"
+slug: "stilpnochlora-couloniana"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622644833/medium.jpg"        # keep for thumbnails
+image-alt: "Giant Katydid"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Tettigoniidae"
+categories: ["Animalia", "Insecta", "Orthoptera", "Tettigoniidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622644833/medium.jpg" alt="Giant Katydid"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341971584">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Orthoptera
+-   **Family:** Tettigoniidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=461900)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A very large leaf-like katydid characterized by its bright green body, broad veined wings, long antennae, and strong resemblance to a living leaf. In Florida, the Giant Katydid is found in warm wooded and semi-wooded habitats such as hammocks, forest edges, parks, gardens, yards, and tropical plantings, especially in southern parts of the state. It feeds mainly on leaves, flowers, and tender plant material, moving mostly at night through shrubs and trees while serving as prey for birds, bats, frogs, lizards, and other nocturnal predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/461900-Stilpnochlora-couloniana)
+-   [Local profile](https://www.bugguide.net/node/view/133903)

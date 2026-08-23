@@ -1,0 +1,50 @@
+---
+title: "Wandering Glider (Pantala flavescens)"
+slug: "pantala-flavescens"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622613716/medium.jpg"        # keep for thumbnails
+image-alt: "Wandering Glider"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animalia", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622613716/medium.jpg" alt="Wandering Glider"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341953290">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=108344)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A medium-sized dragonfly characterized by a golden-yellow to amber body, clear wings with broad bases, and strong effortless flight that allows it to glide for long distances. In Florida, the Wandering Glider is common around ponds, marshes, wet prairies, ditches, temporary pools, fields, roadsides, and open skies, often appearing after rains when shallow water is available for breeding. Adults hunt small flying insects while cruising high or low over open areas, and the aquatic nymphs develop quickly in temporary waters, helping this species disperse widely and even migrate across very long distances.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/108344-Pantala-flavescens)
+-   [Local profile](https://www.bugguide.net/node/view/8933/bgref?from=364)

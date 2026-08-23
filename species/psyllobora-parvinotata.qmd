@@ -1,0 +1,50 @@
+---
+title: "Small-spotted Fairy Lady Beetle (Psyllobora parvinotata)"
+slug: "psyllobora-parvinotata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623053212/medium.jpg"        # keep for thumbnails
+image-alt: "Small-spotted Fairy Lady Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Coccinellidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Coccinellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623053212/medium.jpg" alt="Small-spotted Fairy Lady Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171652">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Coccinellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=488135)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open urban habitats.
+
+## Natural history notes
+
+A tiny lady beetle characterized by a pale cream to yellowish body marked with small dark spots, giving it a delicate “fairy lady beetle” appearance. In Florida, the Small-spotted Fairy Lady Beetle is found on leaves in gardens, parks, forest edges, hammocks, yards, and other plant-rich habitats where powdery mildew grows. Unlike many lady beetles that prey on aphids, it feeds mainly on mildew and fungal growth on plant surfaces, helping graze down powdery mildew while also serving as prey for spiders, birds, predatory bugs, and other insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/488135-Psyllobora-parvinotata)
+-   [Local profile](https://www.bugguide.net/node/view/364406/bgimage)

@@ -1,0 +1,50 @@
+---
+title: "Morris' Big-headed Ant (Pheidole morrisii)"
+slug: "pheidole-morrisii"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622225286/medium.jpg"        # keep for thumbnails
+image-alt: "Morris' Big-headed Ant"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622225286/medium.jpg" alt="Morris' Big-headed Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ism14">
+ism14</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341760170">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=227729)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in scrubland habitats.
+
+## Natural history notes
+
+A small big-headed ant characterized by two worker forms: tiny minor workers and larger-headed major workers with broad heads used for defense and handling food. In Florida, Morris’ Big-headed Ant is associated with warm sandy habitats such as scrub, sandhills, pine flatwoods, open pine-oak woods, and dry forest edges where colonies can nest in soil, leaf litter, or under small cover objects. Workers forage for tiny insects, seeds, honeydew, nectar, and scavenged material, helping move small food resources through the sandy upland ground-layer food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/227729-Pheidole-morrisii)
+-   [Local profile](https://www.antwiki.org/wiki/Pheidole_morrisii)

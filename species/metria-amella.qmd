@@ -1,0 +1,50 @@
+---
+title: "Live Oak Metria Moth (Metria amella)"
+slug: "metria-amella"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622458022/medium.jpg"        # keep for thumbnails
+image-alt: "Live Oak Metria Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622458022/medium.jpg" alt="Live Oak Metria Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341884403">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=49015)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A medium-sized erebid moth characterized by mottled gray to brown forewings with darker patches, wavy lines, and a bark-like pattern that helps it blend against live oak trunks and leaf litter. In Florida, the Live Oak Metria Moth is recorded widely in the state and is associated with oak habitats such as hammocks, oak woods, pine-oak edges, parks, and yards where live oaks and related Fagaceae hosts occur. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on oak foliage, helping transfer live oak leaf growth into the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49015-Metria-amella)
+-   [Local profile](https://www.bugguide.net/node/view/125347/bgref?from=293)

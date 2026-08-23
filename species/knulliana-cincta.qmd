@@ -1,0 +1,50 @@
+---
+title: "Banded Hickory Borer (Knulliana cincta)"
+slug: "knulliana-cincta"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621970605/medium.jpg"        # keep for thumbnails
+image-alt: "Banded Hickory Borer"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Cerambycidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Cerambycidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621970605/medium.jpg" alt="Banded Hickory Borer"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kayakkac">
+kayakkac</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341632339">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Cerambycidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=222528)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded areas.
+
+## Natural history notes
+
+A longhorn beetle characterized by an elongated brown to reddish-brown body, long antennae, and pale bands or patches across the wing covers that give it a banded appearance. In Florida, the Banded Hickory Borer is found in hardwood forests, hammocks, forest edges, parks, and wooded yards where hickory and other hardwood trees or dead branches occur. Adults may visit lights or rest on bark and logs, while the larvae bore in dead or dying hardwood wood, especially hickory, helping break down woody material and supporting woodpeckers, parasitoid wasps, and other forest predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/222528-Knulliana-cincta)
+-   [Local profile](https://www.bugguide.net/node/view/6804/data)

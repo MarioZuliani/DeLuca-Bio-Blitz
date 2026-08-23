@@ -1,0 +1,50 @@
+---
+title: "Bacterial Crown Gall (Agrobacterium radiobacter)"
+slug: "agrobacterium-radiobacter"
+group: "Alphaproteobacteria"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621814985/medium.jpg"        # keep for thumbnails
+image-alt: "Bacterial Crown Gall"  # keep for a11y
+tax_kingdom: "Bacteria"
+tax_class: "Alphaproteobacteria"
+tax_order: "Rhizobiales"
+tax_family: "Rhizobiaceae"
+categories: ["Animalia", "Alphaproteobacteria", "Rhizobiales", "Rhizobiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621814985/medium.jpg" alt="Bacterial Crown Gall" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rangerval">
+rangerval</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341558024">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Alphaproteobacteria
+-   **Order:** Rhizobiales
+-   **Family:** Rhizobiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=975247)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Commonly found throughout Florida found where woody plants grow.
+
+## Natural history notes
+
+A plant-pathogenic bacterium associated with crown gall disease, characterized not by visible animal-like traits but by the rough, tumor-like galls it can induce on roots, crowns, and lower stems of infected plants. In Florida, it can occur in soils, nurseries, orchards, gardens, and landscaped areas where susceptible woody or herbaceous plants are grown, especially when plant tissue is wounded by pruning, transplanting, insects, or cultivation. The bacterium transfers genetic material into plant cells, causing abnormal growth; infected plants may be weakened by large galls, while the pathogen persists in soil and plant debris and is best managed through sanitation, avoiding wounds, and using disease-free planting stock.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/975247-Agrobacterium-radiobacter)
+-   [Local profile](https://www.koppert.ca/disease-control/crazy-roots-hairy-roots-crown-gall/)

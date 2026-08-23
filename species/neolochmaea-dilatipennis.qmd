@@ -1,0 +1,50 @@
+---
+title: "Neolochmaea dilatipennis"
+slug: "neolochmaea-dilatipennis"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/597553589/medium.jpg"        # keep for thumbnails
+image-alt: "Neolochmaea dilatipennis"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Chrysomelidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Chrysomelidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/597553589/medium.jpg" alt="Neolochmaea dilatipennis"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/slowswakey">
+slowswakey</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/329631013">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Chrysomelidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=507837)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open or shrubby habitats.
+
+## Natural history notes
+
+A small skeletonizing leaf beetle characterized by a compact oval body, yellowish to brown coloration, and darker markings on the wing covers. In Florida, Neolochmaea dilatipennis is an introduced Neotropical leaf beetle first reported established near Miami, and it is associated with warm open or shrubby habitats where its host plants occur. Adults and larvae feed on leaves, including false buttonweed and related coastal or wetland plants, skeletonizing foliage and serving as prey for spiders, predatory bugs, birds, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/507837-Neolochmaea-dilatipennis)
+-   [Local profile](https://www.bugguide.net/node/view/156620)

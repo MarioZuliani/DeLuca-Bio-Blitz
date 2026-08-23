@@ -1,0 +1,50 @@
+---
+title: "Palm Leaf Housemaker (Homaledra heptathalama)"
+slug: "homaledra-heptathalama"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623055042/medium.jpg"        # keep for thumbnails
+image-alt: "Palm Leaf Housemaker"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Pterolonchidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Pterolonchidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623055042/medium.jpg" alt="Palm Leaf Housemaker"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342172496">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Pterolonchidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=461924)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in open warm habitats.
+
+## Natural history notes
+
+A small palm-associated moth characterized by narrow brownish wings with pale silvery-white marks, including one larger comma- or exclamation-like mark on the forewing. In Florida, the Palm Leaf Housemaker is found around palms in hammocks, yards, parks, coastal plantings, and other warm habitats, with records from palm hosts such as cabbage palmetto, saw palmetto, and Chinese fan palm. The caterpillars feed on palm fronds from concealed silk-and-frass shelters on the underside of leaves, gradually building chamber-like “houses” as they grow, while adults are nocturnal and may come to lights.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/461924-Homaledra-heptathalama)
+-   [Local profile](https://mothphotographersgroup.msstate.edu/species.php?hodges=1421)

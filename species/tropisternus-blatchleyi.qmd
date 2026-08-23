@@ -1,0 +1,50 @@
+---
+title: "Tropisternus blatchleyi"
+slug: "tropisternus-blatchleyi"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/626235077/medium.jpg"        # keep for thumbnails
+image-alt: "Tropisternus blatchleyi"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Hydrophilidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Hydrophilidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/626235077/medium.jpg" alt="Tropisternus blatchleyi"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/343747560">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Hydrophilidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=492696)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A medium-sized water scavenger beetle characterized by a smooth oval body, dark brown to black coloration, short clubbed antennae, and swimming legs adapted for moving through still or slow water. In Florida, Tropisternus blatchleyi is part of the state’s aquatic beetle fauna and has been recorded from wetland systems including Everglades marsh habitats, so it is most likely found in ponds, marshes, ditches, canals, sloughs, and vegetated shallow waters. Adults are mostly scavengers or omnivores that feed on detritus, algae, decaying plant material, and small aquatic organisms, while the larvae are more predatory and help move energy through freshwater food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/492696-Tropisternus-blatchleyi)
+-   [Local profile](https://www.bugguide.net/node/view/275493/bgref?from=72)

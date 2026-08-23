@@ -1,0 +1,50 @@
+---
+title: "Pale-legged Flea Beetle (Lysathia ludoviciana)"
+slug: "lysathia-ludoviciana"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622603962/medium.jpg"        # keep for thumbnails
+image-alt: "Pale-legged Flea Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Chrysomelidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Chrysomelidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622603962/medium.jpg" alt="Pale-legged Flea Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341947918">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Chrysomelidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=272069)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A small flea beetle characterized by a shiny dark body, pale yellowish legs, and enlarged hind femora that allow it to jump quickly when disturbed. In Florida, the Pale-legged Flea Beetle is found in wetlands, marsh edges, ponds, canals, ditches, and other moist habitats where aquatic or semi-aquatic host plants grow. Adults feed by chewing small holes or patches in leaves, while the larvae develop on or near host plant roots or submerged plant tissue, linking wetland vegetation to predators such as spiders, predatory bugs, birds, and small fishes.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/272069-Lysathia-ludoviciana)
+-   [Local profile](https://www.bugguide.net/node/view/270809/bgref?from=553)

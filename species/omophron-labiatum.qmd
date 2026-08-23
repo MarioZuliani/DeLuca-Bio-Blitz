@@ -1,0 +1,50 @@
+---
+title: "Large-lipped Round Sand Beetle (Omophron labiatum)"
+slug: "omophron-labiatum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623185763/medium.jpg"        # keep for thumbnails
+image-alt: "Large-lipped Round Sand Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: " Coleoptera"
+tax_family: "Carabidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Carabidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623185763/medium.jpg" alt="Large-lipped Round Sand Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kayakkac">
+kayakkac</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342235412">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Coleoptera
+-   **Family:** Carabidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=226382)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in sandy habitats.
+
+## Natural history notes
+
+A small round sand beetle characterized by a compact, nearly circular body, pale tan to yellowish coloration with darker markings, and a broad “lipped” front edge to the head. In Florida, the Large-lipped Round Sand Beetle is found along sandy, moist edges of rivers, ponds, lakes, marshes, ditches, and wetland margins where open sand or fine sediment is exposed. Adults are fast-moving predators and scavengers on damp shorelines, feeding on tiny insects and other small invertebrates, while larvae live in the same sandy edge habitats and contribute to the shoreline food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/226382-Omophron-labiatum)
+-   [Local profile](https://www.bugguide.net/node/view/36640/bgref)

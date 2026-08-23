@@ -1,0 +1,50 @@
+---
+title: "Red-legged Ham Beetle (Necrobia rufipes)"
+slug: "necrobia-rufipes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622235139/medium.jpg"        # keep for thumbnails
+image-alt: "Red-legged Ham Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Cleridae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Cleridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622235139/medium.jpg" alt="Red-legged Ham Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ism14">
+ism14</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341765121">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Cleridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=176817)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in dry areas.
+
+## Natural history notes
+
+A small checkered beetle characterized by a metallic blue-green to dark body, bright reddish legs, and a narrow, active beetle shape. In Florida, the Red-legged Ham Beetle is found in stored-food areas, animal products, dry carrion, old bones, dried meat, pet food, hides, museum specimens, and similar dry organic materials, but it may also occur outdoors around carrion or decaying remains. Adults and larvae feed on dried animal material and other small insects associated with it, making the species both a natural decomposer and a potential stored-product or museum pest.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/176817-Necrobia-rufipes)
+-   [Local profile](https://www.bugguide.net/node/view/39933)

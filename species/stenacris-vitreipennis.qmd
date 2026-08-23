@@ -1,0 +1,50 @@
+---
+title: "Glassy-winged Toothpick Grasshopper (Stenacris vitreipennis)"
+slug: "stenacris-vitreipennis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622564635/medium.jpg"        # keep for thumbnails
+image-alt: "Glassy-winged Toothpick Grasshopper"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Acrididae"
+categories: ["Animalia", "Insecta", "Orthoptera", "Acrididae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622564635/medium.jpg" alt="Glassy-winged Toothpick Grasshopper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341930096">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Orthoptera
+-   **Family:** Acrididae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=231508)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in grassy habitats.
+
+## Natural history notes
+
+A slender toothpick grasshopper characterized by its very narrow body, long pointed head, thin legs, and clear glassy wings that give the species its “vitreipennis” appearance. In Florida, the Glassy-winged Toothpick Grasshopper is found in wet grassy habitats such as marsh edges, wet prairies, ditches, pond margins, and vegetated freshwater wetlands where grasses and sedges are abundant. It feeds mainly on grasses and other narrow-leaved wetland plants, moving quietly through dense vegetation and escaping disturbance with quick jumps or short flights.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/231508-Stenacris-vitreipennis)
+-   [Local profile](https://www.bugguide.net/node/view/41662/bgref)

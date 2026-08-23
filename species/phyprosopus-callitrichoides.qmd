@@ -1,0 +1,50 @@
+---
+title: "Curved-lined Owlet (Phyprosopus callitrichoides)"
+slug: "phyprosopus-callitrichoides"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623037093/medium.jpg"        # keep for thumbnails
+image-alt: "Curved-lined Owlet"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623037093/medium.jpg" alt="Curved-lined Owlet"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342163574">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=228024)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded, shrubby, and semi-wooded habitats.
+
+## Natural history notes
+
+A small owlet moth characterized by mottled brown to grayish-brown wings with curved darker crosslines, subtle pale shading, and a bark- or leaf-litter-like resting pattern. In Florida, the Curved-lined Owlet is likely found in warm wooded, shrubby, or semi-open habitats such as hammocks, pine flatwoods, forest edges, parks, yards, and weedy areas where adults may come to lights. Its caterpillar host plants appear poorly documented, so it is best treated cautiously as a small nocturnal plant-feeding moth whose larvae likely feed on low vegetation or plant debris while supporting birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/228024-Phyprosopus-callitrichoides)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Phyprosopus-callitrichoides)

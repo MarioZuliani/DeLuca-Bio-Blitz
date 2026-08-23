@@ -1,0 +1,50 @@
+---
+title: "Eastern Bloodsucking Conenose (Triatoma sanguisuga)"
+slug: "triatoma-sanguisuga"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622611317/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern Bloodsucking Conenose"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Reduviidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Reduviidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622611317/medium.jpg" alt="Eastern Bloodsucking Conenose"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341952113">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Reduviidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=322394)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A medium-sized kissing bug characterized by a flattened dark brown to black body, cone-shaped head, long slender legs, and orange to reddish markings along the edges of the abdomen. In Florida, the Eastern Bloodsucking Conenose occurs in wooded areas, hammocks, pine flatwoods, yards, animal shelters, and places where it can find vertebrate hosts such as mammals, birds, or reptiles. It feeds on blood at night and can bite people or pets; because triatomine bugs can transmit the parasite that causes Chagas disease through infected feces rather than the bite itself, it should not be handled and any indoor specimens should be collected carefully for identification.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/322394-Triatoma-sanguisuga)
+-   [Local profile](https://epi.ufl.edu/2024/07/10/chagas-disease-in-florida-what-to-know/)

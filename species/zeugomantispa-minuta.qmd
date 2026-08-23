@@ -1,0 +1,50 @@
+---
+title: "Zeugomantispa minuta"
+slug: "zeugomantispa-minuta"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623195164/medium.jpg"        # keep for thumbnails
+image-alt: "Zeugomantispa minuta"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Neuroptera"
+tax_family: "Mantispidae"
+categories: ["Animalia", "Insecta", "Neuroptera", "Mantispidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623195164/medium.jpg" alt="Zeugomantispa minuta"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rangerval">
+rangerval</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342239823">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Neuroptera
+-   **Family:** Mantispidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=194656)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in gardens and forest areas.
+
+## Natural history notes
+
+A small green mantidfly characterized by clear lacewing-like wings, a slender pale green body, and enlarged raptorial front legs that make it look like a tiny praying mantis, though it is actually related to lacewings and antlions. In Florida, Zeugomantispa minuta is most likely found in gardens, forest edges, hammocks, pine flatwoods, parks, and other warm vegetated habitats where adults hunt small insects on foliage and may come to lights. Its larvae have a highly specialized life history, entering spider egg sacs and feeding on the spider eggs; documented hosts include many spider groups, with one record from a Phidippus audax egg sac.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/194656-Zeugomantispa-minuta)
+-   [Local profile](https://www.bugguide.net/node/view/40287)

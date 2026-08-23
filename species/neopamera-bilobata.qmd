@@ -1,0 +1,50 @@
+---
+title: "Neopamera bilobata"
+slug: "neopamera-bilobata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622469159/medium.jpg"        # keep for thumbnails
+image-alt: "Neopamera bilobata"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: " Hemiptera"
+tax_family: "Rhyparochromidae"
+categories: ["Animalia", "Insecta", " Hemiptera", "Rhyparochromidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622469159/medium.jpg" alt="Neopamera bilobata"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341884566">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hemiptera
+-   **Family:** Rhyparochromidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=153414)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in gardens and urban areas.
+
+## Natural history notes
+
+A small dirt-colored seed bug characterized by a narrow brown to dark brown body, long antennae, pale wing markings, and a slender true-bug shape that can be mistaken for a tiny plant bug or roach nymph. In Florida, Neopamera bilobata is found in gardens, fields, strawberry farms, roadsides, pine flatwoods, scrubby edges, and other open or semi-open habitats with seeds, fruits, and low vegetation; it has become notable as a strawberry pest in the state. Adults and nymphs feed by piercing seeds, fruits, and plant tissue, including strawberries and native plants such as Florida rosemary, while also serving as prey for spiders, assassin bugs, ants, birds, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/153414-Neopamera-bilobata)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN1377)

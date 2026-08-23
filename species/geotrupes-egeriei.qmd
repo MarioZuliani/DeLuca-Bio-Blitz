@@ -1,0 +1,50 @@
+---
+title: "Eger's Earth-boring Beetle (Geotrupes egeriei)"
+slug: "geotrupes-egeriei"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354897414/medium.jpeg"        # keep for thumbnails
+image-alt: "Eger's Earth-boring Beetle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Geotrupidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Geotrupidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354897414/medium.jpeg" alt="Eger's Earth-boring Beetle"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201082110">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Geotrupidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=220366)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in sandy habitats.
+
+## Natural history notes
+
+A medium-sized earth-boring scarab beetle characterized by a sturdy oval body, strong digging legs, and dark brown to black coloration, sometimes with a subtle metallic sheen. In Florida, Eger’s Earth-boring Beetle is part of the state’s geotrupid beetle fauna and is most likely found in sandy woods, pine flatwoods, sandhills, scrubby edges, pastures, and other habitats with loose soil and decaying organic resources. Adults dig burrows in the soil and use dung, fungi, carrion, or decaying organic matter as food or brood resources, helping recycle nutrients and aerate soil while serving as prey for birds, mammals, reptiles, and predatory insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/220366-Geotrupes-egeriei)
+-   [Local profile](https://www.bugguide.net/node/view/12539/bgref?from=524)

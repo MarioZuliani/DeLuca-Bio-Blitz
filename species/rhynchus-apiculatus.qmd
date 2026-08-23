@@ -1,0 +1,50 @@
+---
+title: "Rhynchus apiculatus"
+slug: "rhynchus-apiculatus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622267785/medium.jpg"        # keep for thumbnails
+image-alt: "Rhynchus apiculatus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Curculionidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Curculionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622267785/medium.jpg" alt="Rhynchus apiculatus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dmfraser">
+dmfraser</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341782809">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Curculionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=504882)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in open grassy habitats.
+
+## Natural history notes
+
+A small hidden-snout weevil characterized by a compact dark body, hard wing covers, and a short curved snout that can be tucked downward or partly hidden. In Florida and the broader southeastern United States, Rhynchus apiculatus is part of the weevil fauna and is most likely encountered in warm wooded or shrubby habitats with leaf litter, dead plant material, and low vegetation. Its specific host plants and larval biology appear poorly documented, so it is best treated cautiously as a small plant-associated weevil whose adults likely feed on plant tissue while larvae may develop concealed in plant material, seeds, stems, or soil near host plants.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/504882-Rhynchus-apiculatus)
+-   [Local profile](https://www.bugguide.net/node/view/267659/bgref?from=222)

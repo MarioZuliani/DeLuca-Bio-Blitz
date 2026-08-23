@@ -1,0 +1,50 @@
+---
+title: "Southern Pine Sawyer (Monochamus titillator)"
+slug: "monochamus-titillator"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623024621/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Pine Sawyer"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Cerambycidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Cerambycidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623024621/medium.jpg" alt="Southern Pine Sawyer"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342156860">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Cerambycidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=225217)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in forest habitats.
+
+## Natural history notes
+
+A large longhorn beetle characterized by an elongated gray-brown body, very long antennae, mottled bark-like markings, and small spines on the sides of the thorax. In Florida, the Southern Pine Sawyer is found in pine flatwoods, sandhills, pine forests, logging areas, forest edges, and places with dead, dying, or recently cut pine wood. Adults may chew on pine bark or twigs, while the larvae bore through dead or weakened pine wood, helping break down fallen or stressed trees and supporting woodpeckers, parasitoid wasps, and other forest predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/225217-Monochamus-titillator)
+-   [Local profile](https://www.bugguide.net/node/view/102953)

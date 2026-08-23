@@ -1,0 +1,50 @@
+---
+title: "Bald Laphria (Laphria apila)"
+slug: "laphria-apila"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623054610/medium.jpg"        # keep for thumbnails
+image-alt: "Bald Laphria"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Asilidae"
+categories: ["Animalia", "Insecta", "Diptera", "Asilidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623054610/medium.jpg" alt="Bald Laphria"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171882">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Asilidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=61577)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in forested habitats.
+
+## Natural history notes
+
+A large bee-mimicking robber fly characterized by a stout dark body, strong spiny legs, dense yellow to orange hair on parts of the body, and a mostly “bald” or sparsely haired stripe along the top of the abdomen. In Florida, the Bald Laphria occurs in forested habitats and is included among the state’s robber fly fauna, especially in wooded areas where adults perch on trunks, logs, branches, or leaves while watching for prey. It is an active aerial predator, darting out to seize bees, wasps, flies, beetles, and other insects with its bristly legs, then piercing them with its beak; like other robber flies, it should be observed without handling because it can bite defensively.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/61577-Laphria-apila)
+-   [Local profile](https://www.bugguide.net/node/view/1046692/bglink?from=210)

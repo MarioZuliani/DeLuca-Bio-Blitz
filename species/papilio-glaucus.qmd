@@ -1,0 +1,50 @@
+---
+title: "Eastern Tiger Swallowtail (Papilio glaucus)"
+slug: "papilio-glaucus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/626914078/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern Tiger Swallowtail"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Papilionidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Papilionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/626914078/medium.jpg" alt="Eastern Tiger Swallowtail"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kellyobear">
+kellyobear</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/344093524">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Papilionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=60551)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and open habitats.
+
+## Natural history notes
+
+A large swallowtail butterfly characterized by bright yellow wings with bold black tiger-like stripes, long hindwing tails, and blue and orange markings near the hindwing edges; some females are mostly dark instead of yellow. In Florida, the Eastern Tiger Swallowtail is found in hardwood forests, hammocks, forest edges, parks, gardens, roadsides, and wooded neighborhoods where host trees are available. Adults visit flowers for nectar, while the caterpillars feed on leaves of trees such as tuliptree, sweetbay, wild cherry, ash, and other hardwoods, resting on leaves with eyespot-like markings that help deter predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/60551-Papilio-glaucus)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN218)

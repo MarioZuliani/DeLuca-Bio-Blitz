@@ -1,0 +1,50 @@
+---
+title: "White Edge Moth (Oruza albocostaliata)"
+slug: "oruza-albocostaliata"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622510494/medium.jpg"        # keep for thumbnails
+image-alt: "White Edge Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: " Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622510494/medium.jpg" alt="White Edge Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">
+chadkeates</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341924338">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=176174)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in wooded, shrubby, and semi-open habitats.
+
+## Natural history notes
+
+A small owlet moth characterized by narrow brown to grayish-brown wings with a pale whitish leading edge that gives it the “white edge” appearance. In Florida, the White Edge Moth is likely found in warm wooded, shrubby, or semi-open habitats such as hammocks, pine flatwoods, forest edges, gardens, parks, and weedy areas where adults may come to lights. Its caterpillar host plants appear poorly documented, so it is best treated cautiously as a small nocturnal plant-feeding moth whose larvae likely feed on low vegetation or plant debris, while adults and larvae support birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/176174-Oruza-albocostaliata)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Oruza-albocostaliata)

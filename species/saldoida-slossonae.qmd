@@ -1,0 +1,50 @@
+---
+title: "Saldoida slossonae"
+slug: "saldoida-slossonae"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621961964/medium.jpg"        # keep for thumbnails
+image-alt: "Saldoida slossonae"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Saldidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Saldidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621961964/medium.jpg" alt="Saldoida slossonae"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341630021">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Saldidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=895352)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in sandy and muddy areas.
+
+## Natural history notes
+
+A tiny shore bug characterized by a dark, oval to slightly elongated body, long legs, and quick running or hopping movements across wet surfaces. In Florida, Saldoida slossonae is one of two Saldoida species recorded from the state and is associated with shoreline habitats, especially wet sandy or muddy margins of ponds, marshes, ditches, springs, streams, and coastal or brackish edges. Like other shore bugs, it is a small surface predator and scavenger, feeding on tiny insects and other invertebrates along the waterline while serving as prey for fish, frogs, birds, spiders, and larger aquatic or semi-aquatic insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/895352-Saldoida-slossonae)
+-   [Local profile](https://www.bugguide.net/node/view/2094233)

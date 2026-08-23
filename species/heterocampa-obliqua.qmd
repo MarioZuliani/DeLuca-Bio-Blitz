@@ -1,0 +1,50 @@
+---
+title: "White-blotched Prominent (Heterocampa umbrata)"
+slug: "heterocampa-umbrata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622623331/medium.jpg"        # keep for thumbnails
+image-alt: "White-blotched Prominent"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Notodontidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Notodontidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622623331/medium.jpg" alt="White-blotched Prominent"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341957503">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Notodontidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=210609)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A medium-sized prominent moth characterized by mottled gray to brown forewings with pale whitish blotches, dark wavy lines, and a bark-like resting pattern that helps it blend against tree trunks and dead leaves. In Florida, the White-blotched Prominent is found in wooded and semi-wooded habitats such as hardwood hammocks, pine-oak woods, forest edges, parks, and wooded yards where suitable host trees occur. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on oak and other hardwood foliage, helping move tree-leaf growth into the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/210609-Heterocampa-umbrata)
+-   [Local profile](https://www.bugguide.net/node/view/391)

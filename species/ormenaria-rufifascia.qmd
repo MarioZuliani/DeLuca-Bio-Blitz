@@ -1,0 +1,50 @@
+---
+title: "Palm Flatid Planthopper (Ormenaria rufifascia)"
+slug: "ormenaria-rufifascia"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621970488/medium.jpg"        # keep for thumbnails
+image-alt: "Palm Flatid Planthopper"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: " Hemiptera"
+tax_family: "Flatidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Flatidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621970488/medium.jpg" alt="Palm Flatid Planthopper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341633467">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hemiptera
+-   **Family:** Flatidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=179705)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in habitats with abundant palm species.
+
+## Natural history notes
+
+A small flatid planthopper characterized by broad tent-like wings, pale green to bluish-green coloration, and a reddish or pinkish band along part of the wing that gives the species its “rufifascia” appearance. In Florida, the Palm Flatid Planthopper is found in warm coastal and inland habitats with palms, including hammocks, yards, parks, gardens, pine flatwoods, and landscaped areas. Adults and nymphs feed by piercing palm tissue and drinking sap, while the waxy nymphs shelter on leaves or stems and serve as prey for spiders, lacewings, predatory bugs, birds, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/179705-Ormenaria-rufifascia)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN643)

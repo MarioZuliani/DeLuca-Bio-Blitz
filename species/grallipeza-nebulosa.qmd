@@ -1,0 +1,50 @@
+---
+title: "Grallipeza nebulosa"
+slug: "grallipeza-nebulosa"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621839017/medium.jpg"        # keep for thumbnails
+image-alt: "Grallipeza nebulosa"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Micropezidae"
+categories: ["Animalia", "Insecta", "Diptera", "Micropezidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621839017/medium.jpg" alt="Grallipeza nebulosa"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/buggybuddy">
+buggybuddy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341569708">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Micropezidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=430090)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and open areas.
+
+## Natural history notes
+
+A slender stilt-legged fly characterized by very long legs, narrow wings, an antlike body shape, and often reddish to brownish coloration with pale markings that can make it look like a winged ant or wasp. In Florida, Grallipeza nebulosa has been recorded from places including Gainesville and Everglades National Park, and is most likely encountered in warm wooded edges, gardens, hammocks, parks, and other humid vegetated habitats where it walks slowly over leaves, trunks, or structures. Adults are harmless flies that likely feed on surface moisture, microbes, or decaying organic material, while the larvae of stilt-legged flies generally develop in decaying plant matter, fungi, or other moist organic substrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/430090-Grallipeza-nebulosa)
+-   [Local profile](https://www.bugguide.net/node/view/288796/bgref?from=10)

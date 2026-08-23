@@ -1,0 +1,50 @@
+---
+title: "Eastern Tent Caterpillar Moth (Malacosoma americana)"
+slug: "malacosoma-americana"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/621787721/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern Tent Caterpillar Motht"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Lasiocampidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Lasiocampidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/621787721/medium.jpg" alt="Eastern Tent Caterpillar Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jb1634">
+jb1634</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341545641">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Lasiocampidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=211100)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A medium-sized tent caterpillar moth characterized by reddish-brown to tan wings crossed by pale diagonal lines and a fuzzy body. In Florida, the Eastern Tent Caterpillar Moth is found in hardwood forests, hammocks, forest edges, orchards, parks, and yards where wild cherry, plum, and related host trees occur. Adults are mostly nocturnal and may come to lights, while the caterpillars feed communally on tree leaves and build conspicuous silken tents in branch forks, eventually dispersing to pupate in protected sites.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/211100-Malacosoma-americana)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Malacosoma-americanum)

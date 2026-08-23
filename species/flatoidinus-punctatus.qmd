@@ -1,0 +1,50 @@
+---
+title: "Flatoidinus punctatus"
+slug: "flatoidinus-punctatus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623051978/medium.jpg"        # keep for thumbnails
+image-alt: "Flatoidinus punctatus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Flatidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Flatidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623051978/medium.jpg" alt="Flatoidinus punctatus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171518">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Flatidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=557422)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded areas.
+
+## Natural history notes
+
+A small flatid planthopper characterized by a wedge-shaped body, broad tent-like wings, and pale green to yellowish-green coloration with subtle spotting or mottling. In Florida, Flatoidinus punctatus is recorded from multiple parts of the state and is most likely found on shrubs, trees, and ornamental or native vegetation in hammocks, forest edges, gardens, parks, and other warm plant-rich habitats. Adults and nymphs feed by piercing plant tissue and drinking sap, while the waxy nymphs and winged adults serve as prey for spiders, predatory bugs, lacewings, birds, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/557422-Flatoidinus-punctatus)
+-   [Local profile](https://www.bugguide.net/node/view/63805/bgref?from=351)

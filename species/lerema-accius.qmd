@@ -1,0 +1,50 @@
+---
+title: "Clouded Skipper (Lerema accius)"
+slug: "lerema-accius"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622230089/medium.jpg"        # keep for thumbnails
+image-alt: "Clouded Skipper"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Hesperiidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Hesperiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622230089/medium.jpg" alt="Clouded Skipper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341763554">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Hesperiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=142988)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and grassy habitats.
+
+## Natural history notes
+
+A small grass skipper characterized by dark brown wings with cloudy pale spots, a stout body, and a fast darting flight close to the ground. In Florida, the Clouded Skipper is common in lawns, fields, roadsides, gardens, pine flatwoods, forest edges, and other grassy open or semi-open habitats. Adults visit flowers for nectar, while the caterpillars feed on grasses and live concealed in folded or tied grass blades, helping support birds, spiders, wasps, and other insect predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/142988-Lerema-accius)
+-   [Local profile](https://www.butterfliesandmoths.org/species/Lerema-accius)

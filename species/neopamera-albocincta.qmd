@@ -1,0 +1,50 @@
+---
+title: "Horn-banded Seed Bug (Neopamera albocincta)"
+slug: "neopamera-albocincta"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622444293/medium.jpg"        # keep for thumbnails
+image-alt: "Horn-banded Seed Bug"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Rhyparochromidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Rhyparochromidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622444293/medium.jpg" alt="Horn-banded Seed Bug"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880659">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Rhyparochromidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=296364)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and urban habitats.
+
+## Natural history notes
+
+A small seed bug characterized by a narrow dark brown to black body, long legs and antennae, and a pale band across the wings that gives it the “horn-banded” or white-banded appearance. In Florida, the Horn-banded Seed Bug is found in gardens, fields, roadsides, forest edges, pine flatwoods, hammocks, and weedy or shrubby habitats where seeds and low vegetation are available. Adults and nymphs feed mainly on fallen seeds, fruits, and plant material on or near the ground, helping recycle small plant resources while serving as prey for spiders, assassin bugs, ants, birds, and other insect predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/296364-Neopamera-albocincta)
+-   [Local profile](https://bugswithmike.com/guide/arthropoda/hexapoda/insecta/hemiptera/heteroptera/pentatomomorpha/lygaeoidea/rhyparochromidae/rhyparochrominae/myodochini/neopamera/albocincta)

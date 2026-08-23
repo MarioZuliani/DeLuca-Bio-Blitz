@@ -1,0 +1,50 @@
+---
+title: "Atlantic Grasshopper (Paroxya atlantica)"
+slug: "paroxya-atlantica"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622847423/medium.jpg"        # keep for thumbnails
+image-alt: "Atlantic Grasshopper"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Orthoptera"
+tax_family: "Acrididae"
+categories: ["Animalia", "Insecta", "Orthoptera", "Acrididae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622847423/medium.jpg" alt="Atlantic Grasshopper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rsnyder11">
+rsnyder11</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342066847">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Orthoptera
+-   **Family:** Acrididae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=227277)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wet prairies.
+
+## Natural history notes
+
+A medium-sized spur-throated grasshopper characterized by a brown to olive-green body, dark side markings, strong hind legs, and a narrow form suited for moving through grasses and low vegetation. In Florida, the Atlantic Grasshopper is found in wet prairies, marsh edges, pine flatwoods, grassy roadsides, fields, ditches, and other open habitats with dense grasses or sedges. It feeds mainly on grasses and other low plants, escaping disturbance with quick jumps and short flights while serving as prey for birds, spiders, reptiles, and other insect-eating animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/481850-Parastenopa-limata)
+-   [Local profile](https://www.inaturalist.org/taxa/227277-Paroxya-atlantica)

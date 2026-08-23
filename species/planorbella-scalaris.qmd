@@ -1,0 +1,51 @@
+---
+title: "Mesa Ramshorn (Planorbella scalaris)"
+slug: "planorbella-scalaris"
+group: "Gastropoda"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621952506/medium.jpg"        # keep for thumbnails
+image-alt: "Mesa Ramshorn"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Gastropoda"
+tax_order: "Planorbidae"
+tax_family: "Planorbidae"
+categories: ["Animalia", "Gastropoda", "Planorbidae", "Planorbidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621952506/medium.jpg" alt="Mesa Ramshorn" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341623996">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Gastropoda
+-   **Order:** Planorbidae
+-   **Family:** Planorbidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=150984)
+
+## Conservation & rarity context
+
+-   **IUCN:** Lest Concern 
+-   **Rarity note:** Common species found throughout Florida found in rivers, streams, and other freshwater systems.
+
+## Natural history notes
+
+A small freshwater ramshorn snail characterized by a flattened, coiled shell with rounded whorls that spiral in a single plane, giving it a disk-like appearance. In Florida, the Mesa Ramshorn is found in ponds, marshes, ditches, canals, slow streams, wetland pools, and vegetated freshwater edges where algae, biofilm, and decaying plant material are available. It grazes on algae, detritus, and microbial films on submerged surfaces, helping recycle nutrients while serving as prey for fishes, turtles, aquatic insects, crayfish, and wading birds.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/150984-Planorbella-scalaris)
+-   [IUCN](https://www.iucnredlist.org/species/189326/8716640)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.106700/Planorbella_scalaris)

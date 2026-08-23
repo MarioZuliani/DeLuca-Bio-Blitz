@@ -1,0 +1,50 @@
+---
+title: "Griburius equestris"
+slug: "griburius-equestris"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622443820/medium.jpg"        # keep for thumbnails
+image-alt: "Grallipeza nebulosa"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Chrysomelidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Chrysomelidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622443820/medium.jpg" alt="Grallipeza nebulosa"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880536">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Chrysomelidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=310388)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and open areas.
+
+## Natural history notes
+
+A small case-bearing leaf beetle characterized by a compact oval body, hard wing covers, and mottled dark-and-pale markings typical of many cryptocephaline leaf beetles. In Florida, Griburius equestris is recorded as part of the state’s leaf beetle fauna and is most likely found in warm wooded or semi-open habitats such as hammocks, forest edges, parks, yards, and shrublands where suitable host plants occur. Adults feed on foliage, while the larvae of case-bearing leaf beetles live inside protective cases made from their own waste and debris, feeding on plant material or leaf litter and serving as prey for spiders, birds, predatory bugs, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/310388-Griburius-equestris)
+-   [Local profile](https://www.bugguide.net/node/view/620389)

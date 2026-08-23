@@ -1,0 +1,50 @@
+---
+title: "Notolomus basalis"
+slug: "notolomus-basalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622467809/medium.jpg"        # keep for thumbnails
+image-alt: "Notolomus basalis"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: " Coleoptera"
+tax_family: "Curculionidae"
+categories: ["Animalia", "Insecta", " Coleoptera", "Curculionidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622467809/medium.jpg" alt="Notolomus basalis"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jcarcache">
+jcarcache</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341884551">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Coleoptera
+-   **Family:** Curculionidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=733443)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in warm wooded habitats.
+
+## Natural history notes
+
+A small true weevil characterized by a light straw-colored to tan body, compact snout-beetle shape, and narrow curved snout used for feeding on plant tissue. In Florida, Notolomus basalis has been associated with citrus trees and saw palmetto blooms, and is most likely found in warm wooded edges, groves, hammocks, pine flatwoods, yards, and shrubby habitats where flowers, leaves, and dead-leaf shelters are available. Adults feed on pollen, nectar, tender bark, or leaf tissue, though older accounts suggest it nibbles rather than causes serious plant damage; the early life stages remain poorly documented, so its larval host association should be treated cautiously.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/733443-Notolomus-basalis)
+-   [Local profile](https://www.bugguide.net/node/view/444428/bgpage)

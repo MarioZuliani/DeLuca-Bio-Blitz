@@ -1,0 +1,50 @@
+---
+title: "Rugosana querci"
+slug: "rugosana-querci"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623037041/medium.jpg"        # keep for thumbnails
+image-alt: "Rugosana querci"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Cicadellidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Cicadellidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623037041/medium.jpg" alt="Rugosana querci"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342163556">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Cicadellidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=343235)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in forest and urban habitats.
+
+## Natural history notes
+
+A medium-sized green leafhopper characterized by a wedge-shaped body, pale green coloration, and a somewhat roughened or textured appearance typical of Rugosana leafhoppers. In Florida and the broader eastern United States, Rugosana querci is associated with oaks, especially in oak hammocks, pine-oak woods, scrub edges, parks, yards, and forest margins where Quercus species occur. Adults and nymphs feed by piercing oak tissue and drinking sap, while also serving as prey for spiders, assassin bugs, birds, and parasitoid wasps in oak-associated food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/343235-Rugosana-querci)
+-   [Local profile](https://www.bugguide.net/node/view/1224898/bgpage)

@@ -1,0 +1,50 @@
+---
+title: "Blueberry Gray (Glena cognataria)"
+slug: "glena-cognataria"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355397685/medium.jpeg"        # keep for thumbnails
+image-alt: "Blueberry Gray"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Geometridae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Geometridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355397685/medium.jpeg" alt="Blueberry Gray"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201339067">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Geometridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=220394)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wooded areas.
+
+## Natural history notes
+
+A medium-sized geometrid moth characterized by gray to gray-brown wings with fine wavy lines, subtle darker shading, and a bark-like pattern that helps it blend against tree trunks and dead leaves. In Florida, the Blueberry Gray is found in pine flatwoods, scrub, sandhills, forest edges, hammocks, and other wooded or shrubby habitats where blueberries and related heath-family plants occur. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on blueberry and related shrubs, helping move shrub foliage into the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/220394-Glena-cognataria)
+-   [Local profile](https://guides.nynhp.org/blueberry-gray/)

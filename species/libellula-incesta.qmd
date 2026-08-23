@@ -1,0 +1,51 @@
+---
+title: "Slaty Skimmer (Libellula incesta)"
+slug: "libellula-incesta"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/627721654/medium.jpg"        # keep for thumbnails
+image-alt: "Slaty Skimmer"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Odonata"
+tax_family: "Libellulidae"
+categories: ["Animalia", "Insecta", "Odonata", "Libellulidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/627721654/medium.jpg" alt="Slaty Skimmer"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/peon55">
+peon55</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/344509435">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Odonata
+-   **Family:** Libellulidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=104580)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncommon species in Florida, found around freshwater habitats.
+
+## Natural history notes
+
+A medium-sized dragonfly characterized by a broad body, clear wings, and mature males that become dark blue-gray to slaty blue, while females and young males are brownish with pale side stripes. In Florida, the Slaty Skimmer is found around ponds, lakes, marshes, canals, ditches, and slow streams, especially where sunny edges and emergent vegetation provide perches. Adults hunt flying insects from low stems, shrubs, or shoreline plants, while the aquatic nymphs live among submerged vegetation and bottom debris where they prey on small aquatic animals.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/104580-Libellula-incesta)
+-   [IUCN](https://www.iucnredlist.org/species/51276332/65836554)
+-   [Local profile](https://riveredgenaturecenter.org/bug-othe-week-slaty-skimmer-dragonfly/)

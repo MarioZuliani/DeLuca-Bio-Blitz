@@ -1,0 +1,50 @@
+---
+title: "Parastenopa limata"
+slug: "parastenopa-limata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623038934/medium.jpg"        # keep for thumbnails
+image-alt: "Parastenopa limata"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Tephritidae"
+categories: ["Animalia", "Insecta", "Diptera", "Tephritidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623038934/medium.jpg" alt="Parastenopa limata"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342164464">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Diptera
+-   **Family:** Tephritidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=481850)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded areas.
+
+## Natural history notes
+
+A small tephritid fruit fly characterized by patterned wings, a compact yellowish to brown body, and the alert posture typical of picture-winged fruit flies. In Florida, Parastenopa limata is recorded from the state and has been reported from loquat, so it is most likely encountered around fruiting shrubs or trees, gardens, hammocks, yards, orchards, and wooded edges where suitable host fruits occur. The larvae develop inside fruit or soft plant tissue, while adults may be seen resting on vegetation; like other fruit flies, it is part of a plant-associated food web that also supports parasitoid wasps, spiders, birds, and other insect predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/481850-Parastenopa-limata)
+-   [Local profile](https://www.bugguide.net/node/view/15241)

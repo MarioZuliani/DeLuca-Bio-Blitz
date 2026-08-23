@@ -1,0 +1,50 @@
+---
+title: "Laccophilus proximus"
+slug: "laccophilus-proximus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625192217/medium.jpg"        # keep for thumbnails
+image-alt: "Laccophilus proximus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Dytiscidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Dytiscidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625192217/medium.jpg" alt="Laccophilus proximus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/343235205">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Dytiscidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=222567)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A small predaceous diving beetle characterized by a smooth oval body, yellowish to brown coloration with darker speckling, and flattened hind legs used like paddles for swimming. In Florida, Laccophilus proximus is part of the state’s diving beetle fauna and is found in freshwater habitats such as ponds, marshes, ditches, canals, temporary pools, and slow vegetated waters. Adults and larvae are aquatic predators of tiny insects, mosquito larvae, crustaceans, and other small invertebrates, surfacing periodically to renew an air supply carried beneath the wing covers.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/222567-Laccophilus-proximus)
+-   [Local profile](https://www.bugguide.net/node/view/272991/bglink?from=76)

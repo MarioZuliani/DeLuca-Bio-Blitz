@@ -1,0 +1,50 @@
+---
+title: "Lebia viridis"
+slug: "lebia-viridis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622443673/medium.jpg"        # keep for thumbnails
+image-alt: "Lebia viridis"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Carabidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Carabidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622443673/medium.jpg" alt="Lebia viridis"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880498">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Carabidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=135276)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A small colorful ground beetle characterized by a shiny green to bluish-green body, slender legs, and a fast-moving, flattened form typical of foliage-associated carabids. In Florida, Lebia viridis is part of the state’s ground beetle fauna and is most often associated with forest edges, open fields, shrubs, and other vegetated habitats where small insect prey are available. Adults are predatory on small insects, while some Lebia larvae are known to develop as parasitoids of leaf beetle larvae or pupae, making this beetle part of the natural enemy community in plant-rich habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/135276-Lebia-viridis)
+-   [Local profile](https://www.bugguide.net/node/view/20882)

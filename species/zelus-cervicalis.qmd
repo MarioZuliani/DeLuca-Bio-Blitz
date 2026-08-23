@@ -1,0 +1,50 @@
+---
+title: "Zelus cervicalis"
+slug: "zelus-cervicalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/355185681/medium.jpg"        # keep for thumbnails
+image-alt: "Zelus cervicalis"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Reduviidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Reduviidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/355185681/medium.jpg" alt="Zelus cervicalis"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/201229011">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Reduviidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=271316)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A slender assassin bug characterized by a narrow greenish to brown body, long legs, and a piercing beak held beneath the head. In Florida, Zelus cervicalis is found in warm gardens, fields, pine flatwoods, hammocks, forest edges, parks, and shrubby vegetation where small insect prey are common. It is a predatory true bug that stalks and ambushes flies, caterpillars, leafhoppers, and other arthropods, often using sticky forelegs to help hold prey; like other assassin bugs, it should be observed without handling because it can deliver a painful defensive bite.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/271316-Zelus-cervicalis)
+-   [Local profile](https://www.bugguide.net/node/view/80084)

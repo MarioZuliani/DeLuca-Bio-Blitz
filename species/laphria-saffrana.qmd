@@ -1,0 +1,50 @@
+---
+title: "Painted Laphria (Laphria saffrana)"
+slug: "laphria-saffrana"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621921361/medium.jpg"        # keep for thumbnails
+image-alt: "Painted Laphria"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Asilidae"
+categories: ["Animalia", "Insecta", "Diptera", "Asilidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621921361/medium.jpg" alt="Painted Laphria"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/kekebird56">
+kekebird56</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341609307">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Asilidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=61592)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon/Rare species in Florida, found in wooded and semi-wooded habitats.
+
+## Natural history notes
+
+A large bee-mimicking robber fly characterized by a stout dark body, strong bristly legs, and dense yellow to saffron-colored hair that gives it a painted, bumblebee-like appearance. In Florida, the Painted Laphria is found in wooded and semi-wooded habitats such as hammocks, pine woods, forest edges, parks, and areas with logs, trunks, and sunny perches. It is an aerial predator, watching from vegetation or wood before darting out to capture bees, wasps, flies, beetles, and other insects, piercing prey with its beak; like other robber flies, it should be observed without handling because it can bite defensively.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/61592-Laphria-saffrana)
+-   [Local profile](https://www.bugguide.net/node/view/52545/data)

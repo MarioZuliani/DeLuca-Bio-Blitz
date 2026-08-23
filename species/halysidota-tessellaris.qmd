@@ -1,0 +1,50 @@
+---
+title: "Banded Tussock Moth (Halysidota tessellaris)"
+slug: "halysidota-tessellaris"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622583722/medium.jpg"        # keep for thumbnails
+image-alt: "Banded Tussock Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622583722/medium.jpg" alt="Banded Tussock Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brittanymmason">
+brittanymmason</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341880536">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=120217)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A medium-sized tiger moth characterized by pale yellowish to tan wings crossed with faint darker bands, a fuzzy body, and a soft resting posture with the wings held roof-like over the back. In Florida, the Banded Tussock Moth is found in hardwood forests, hammocks, pine-oak woods, forest edges, parks, yards, and wooded neighborhoods where host trees and shrubs occur. Adults are mostly nocturnal and may come to lights, while the hairy caterpillars feed on a variety of woody plants, including oaks, hickories, walnuts, and other hardwoods, and should be handled cautiously because their hairs can irritate skin.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/120217-Halysidota-tessellaris)
+-   [Local profile](https://www.bugguide.net/node/view/541)

@@ -1,0 +1,50 @@
+---
+title: "Nallachius americanus"
+slug: "nallachius-americanus"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622622929/medium.jpg"        # keep for thumbnails
+image-alt: "Nallachius americanus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Neuroptera"
+tax_family: "Dilaridae"
+categories: ["Animalia", "Insecta", "Neuroptera", "Dilaridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622622929/medium.jpg" alt="Nallachius americanus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341957216">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Neuroptera
+-   **Family:** Dilaridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=225441)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A small pleasing lacewing characterized by delicate clear wings, long threadlike antennae, and a slender brownish body, with males of the group often having comb-like antennae. In Florida, Nallachius americanus is associated with wooded habitats where dead branches, bark, and insect galleries provide protected microhabitats for larvae. Adults may come to lights, while the larvae live in wood or bark galleries and are presumed to prey on eggs and larvae of bark- or wood-inhabiting insects such as beetles and ants, making them part of the hidden predator community in deadwood habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/225441-Nallachius-americanus)
+-   [Local profile](https://www.bugguide.net/node/view/62630/bgimage)

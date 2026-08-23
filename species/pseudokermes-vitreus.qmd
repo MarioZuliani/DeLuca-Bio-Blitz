@@ -1,0 +1,50 @@
+---
+title: "Glassy Scale (Pseudokermes vitreus)"
+slug: "pseudokermes-vitreus"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622621387/medium.jpg"        # keep for thumbnails
+image-alt: "Glassy Scale"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Coccidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Coccidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622621387/medium.jpg" alt="Glassy Scale"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341957795">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Coccidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1511414)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in woody habitats.
+
+## Natural history notes
+
+A small soft scale insect characterized by rounded, glassy to waxy-looking females that attach tightly to stems, leaves, or other plant surfaces. In Florida, Glassy Scale is recorded from the state and is associated with tropical and subtropical woody plants, including ornamental palms and other landscape hosts in warm southern areas. Like other soft scales, it feeds by inserting its mouthparts into plant tissue and drinking sap, producing honeydew that can support sooty mold, while also serving as prey or hosts for lady beetles, lacewings, parasitoid wasps, and other natural enemies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1511414-Pseudokermes-vitreus)
+-   [Local profile](https://www.bugguide.net/node/view/487923/bgref?from=353)

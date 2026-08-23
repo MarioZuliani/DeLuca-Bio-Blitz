@@ -1,0 +1,50 @@
+---
+title: "Telamona subfalcata"
+slug: "telamona-subfalcata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623052261/medium.jpg"        # keep for thumbnails
+image-alt: "Telamona subfalcata"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Membracidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Membracidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623052261/medium.jpg" alt="Telamona subfalcata"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171531">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Membracidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1076136)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in forest habitats.
+
+## Natural history notes
+
+A small treehopper characterized by a wedge-shaped body and an enlarged, helmet-like pronotum that forms a sloped or slightly falcate ridge over the back. In Florida, Telamona subfalcata has been collected in northern and central parts of the state and has been recorded from hackberry, so it is most likely found in hardwood edges, hammocks, parks, yards, and forest margins where Celtis and other woody hosts occur. Adults and nymphs feed by piercing plant tissue and drinking sap, while also producing honeydew and serving as prey for spiders, assassin bugs, birds, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1076136-Telamona-subfalcata)
+-   [Local profile](https://www.bugguide.net/node/view/61867/bgref?from=356)

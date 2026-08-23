@@ -1,0 +1,51 @@
+---
+title: "Florida Apple Snail (Pomacea paludosa)"
+slug: "pomacea-paludosa"
+group: "Gastropoda"
+image: "https://static.inaturalist.org/photos/622608823/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Apple Snail"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Gastropoda"
+tax_order: "Architaenioglossa"
+tax_family: "Ampullariidae"
+categories: ["Animalia", "Gastropoda", "Architaenioglossa", "Ampullariidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622608823/medium.jpg" alt="Florida Apple Snail" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/3419506801">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Gastropoda
+-   **Order:** Architaenioglossa
+-   **Family:** Ampullariidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=151024)
+
+## Conservation & rarity context
+
+-   **IUCN:** Lest Concern 
+-   **Rarity note:** Common species found throughout Florida found in wetland habitats.
+
+## Natural history notes
+
+A large freshwater snail characterized by a rounded brown to olive shell, an operculum “trapdoor,” and a long siphon used to breathe air while remaining partly submerged. In Florida, the Florida Apple Snail is found in marshes, sloughs, ponds, lakes, canals, ditches, wet prairies, and slow vegetated wetlands, especially in shallow areas with abundant aquatic plants. It feeds on algae, detritus, and soft aquatic vegetation, lays pinkish-white egg clusters above the waterline, and is especially important as the primary prey of Limpkins and Snail Kites.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/151024-Pomacea-paludosa)
+-   [IUCN](https://www.iucnredlist.org/species/189339/8718219)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN598)

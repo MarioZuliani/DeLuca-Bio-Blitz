@@ -1,0 +1,51 @@
+---
+title: "American Lady (Vanessa virginiensis)"
+slug: "vanessa-virginiensis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621974343/medium.jpg"        # keep for thumbnails
+image-alt: "American Lady"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Nymphalidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Nymphalidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621974343/medium.jpg" alt="American Lady"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341634658">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Nymphalidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=48549)
+
+## Conservation & rarity context
+
+-   **IUCN:** Least Concern
+-   **Rarity note:** Uncommon species in Florida, found in open habitats.
+
+## Natural history notes
+
+A medium-sized brush-footed butterfly characterized by orange, black, and white wing patterns, with two large eyespots on the underside of the hindwing that help separate it from the similar Painted Lady. In Florida, the American Lady is found in fields, roadsides, dunes, gardens, pine flatwoods, forest edges, and other sunny open habitats where nectar flowers and host plants occur. Adults visit many flowers for nectar, while the caterpillars feed on cudweeds, pussytoes, everlasting, and related plants, often living inside silken leaf shelters.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48549-Vanessa-virginiensis)
+-   [IUCN](https://www.iucnredlist.org/species/161254/882795)
+-   [Local profile](https://www.bugguide.net/node/view/488)

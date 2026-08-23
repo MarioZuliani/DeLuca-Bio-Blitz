@@ -1,0 +1,50 @@
+---
+title: "Orange Cahill (Stenacron interpunctatum)"
+slug: "stenacron-interpunctatum"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623053250/medium.jpg"        # keep for thumbnails
+image-alt: "Orange Cahill"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Ephemeroptera"
+tax_family: "Heptageniidae"
+categories: ["Animalia", "Insecta", "Ephemeroptera", "Heptageniidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623053250/medium.jpg" alt="Orange Cahill"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342171672">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Ephemeroptera
+-   **Family:** Heptageniidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=199956)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found around freshwater habitats.
+
+## Natural history notes
+
+A small to medium-sized mayfly characterized by delicate upright wings, long tail filaments, and an orange to tan body that gives adults the “Orange Cahill” appearance. In Florida, it is found around streams, rivers, spring runs, and clean flowing waters where the aquatic nymphs live among rocks, vegetation, leaf litter, or sandy-bottom habitats. The nymphs feed on algae, detritus, and fine organic material, while the short-lived winged adults do not feed and instead emerge to mate, lay eggs, and provide an important food source for fish, birds, bats, and other aquatic-edge predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/199956-Stenacron-interpunctatum)
+-   [Local profile](https://www.troutnut.com/hatch/642/Mayfly-Stenacron-interpunctatum-Light-Cahill)

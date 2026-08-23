@@ -1,0 +1,50 @@
+---
+title: "Oak Treehopper (Platycotis vittata)"
+slug: "platycotis-vittata"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622625365/medium.jpg"        # keep for thumbnails
+image-alt: "Oak Treehopper"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Membracidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Membracidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622625365/medium.jpg" alt="Oak Treehopper"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341958531">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hemiptera
+-   **Family:** Membracidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=48679)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded areas.
+
+## Natural history notes
+
+A small treehopper characterized by a green to brownish body, a high helmet-like pronotum, and a thorny or angular outline that helps it blend with oak twigs and buds. In Florida, the Oak Treehopper is found in oak hammocks, pine-oak woods, scrub edges, parks, yards, and forest margins where live oaks and other native oaks occur. Adults and nymphs feed by piercing oak stems and twigs to drink sap, often forming small groups attended by ants that collect honeydew, while the treehoppers themselves support predators such as spiders, assassin bugs, birds, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48679-Platycotis-vittata)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN519)

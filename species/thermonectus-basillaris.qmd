@@ -1,0 +1,50 @@
+---
+title: "Thermonectus basillaris"
+slug: "thermonectus-basillaris"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625185003/medium.jpg"        # keep for thumbnails
+image-alt: "Thermonectus basillaris"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Coleoptera"
+tax_family: "Dytiscidae"
+categories: ["Animalia", "Insecta", "Coleoptera", "Dytiscidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625185003/medium.jpg" alt="Thermonectus basillaris"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/343232043">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Coleoptera
+-   **Family:** Dytiscidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=329501)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A medium-sized predaceous diving beetle characterized by a smooth oval body, dark brown to black coloration, pale yellow margins or markings, and flattened hind legs used like paddles for swimming. In Florida, Thermonectus basillaris is one of the commonly encountered diving beetles and occurs in many freshwater habitats, including ponds, marshes, ditches, canals, temporary pools, and slow vegetated wetlands. Adults and larvae are aquatic predators of mosquito larvae, small insects, tadpoles, crustaceans, and other tiny aquatic animals, surfacing periodically to renew the air supply carried beneath the wing covers.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1057496-Thermonectus-basillaris-basillaris)
+-   [Local profile](https://www.bugguide.net/node/view/162474/bgref?from=72)

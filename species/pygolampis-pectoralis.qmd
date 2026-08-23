@@ -1,0 +1,50 @@
+---
+title: "Pygolampis pectoralis"
+slug: "pygolampis-pectoralis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623056343/medium.jpg"        # keep for thumbnails
+image-alt: "Pygolampis pectoralis"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Reduviidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Reduviidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623056343/medium.jpg" alt="Pygolampis pectoralis"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342172964">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Reduviidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=454086)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small to medium-sized assassin bug characterized by a slender brown to dark brown body, long legs, narrow head, and piercing beak typical of reduviid predators. In Florida, Pygolampis pectoralis is recorded from the state and is most likely encountered in warm open or semi-open habitats such as fields, roadsides, pine flatwoods, gardens, forest edges, and low vegetation where small insect prey are available. It is a predatory true bug that stalks or ambushes other insects and arthropods, stabbing prey with its beak and injecting digestive saliva; like other assassin bugs, it should be observed without handling because it can deliver a painful defensive bite.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/454086-Pygolampis-pectoralis)
+-   [Local profile](https://www.bugguide.net/node/view/114953/bgref?from=56)

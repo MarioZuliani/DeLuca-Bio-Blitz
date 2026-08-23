@@ -1,0 +1,50 @@
+---
+title: "Waterlily Aphid (Rhopalosiphum nymphaeae)"
+slug: "rhopalosiphum-nymphaeae"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/470786461/medium.jpg"        # keep for thumbnails
+image-alt: "Waterlily Aphid"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Aphididae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Aphididae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/470786461/medium.jpg" alt="Waterlily Aphid"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/housecentipede">
+housecentipede</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/261995324">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Aphididae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=142766)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A small aphid characterized by a soft pear-shaped body that can be dark olive, brown, reddish, or nearly black, with slender legs and paired cornicles near the rear of the body. In Florida, the Waterlily Aphid is found on floating and emergent aquatic plants in ponds, lakes, canals, marshes, ditches, and ornamental water gardens, especially on waterlilies and other wetland plants. Adults and nymphs feed by piercing plant tissue and drinking sap, often forming colonies on leaves, stems, and flower stalks, while producing honeydew that attracts ants and supports predators such as lady beetles, lacewings, syrphid flies, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/142766-Rhopalosiphum-nymphaeae)
+-   [Local profile](https://www.naturespot.org/species/water-lily-aphid)

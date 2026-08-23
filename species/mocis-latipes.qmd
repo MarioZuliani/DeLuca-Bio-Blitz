@@ -1,0 +1,50 @@
+---
+title: "Small Mocis Moth (Mocis latipes)"
+slug: "mocis-latipes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625195969/medium.jpg"        # keep for thumbnails
+image-alt: "Small Mocis Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Lepidoptera"
+tax_family: "Erebidae"
+categories: ["Animalia", "Insecta", "Lepidoptera", "Erebidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625195969/medum.jpg" alt="Small Mocis Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/343241044">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Lepidoptera
+-   **Family:** Erebidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=199286)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in grassy open habitats.
+
+## Natural history notes
+
+A medium-sized grass moth characterized by tan to brown wings with darker wavy lines, subtle mottling, and a dry leaf-like resting appearance typical of Mocis moths. In Florida, the Small Mocis Moth is found in grassy habitats such as fields, roadsides, pastures, lawns, marsh edges, pine flatwoods, and other open or semi-open areas where grasses are abundant. Adults are mostly nocturnal and may come to lights, while the caterpillars feed on grasses and other low plants, helping transfer grass growth into the broader food web for birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/199286-Mocis-latipes)
+-   [Local profile](https://www.bugguide.net/node/view/47568)

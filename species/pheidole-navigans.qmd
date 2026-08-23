@@ -1,0 +1,50 @@
+---
+title: "Navigating Big-headed Ant (Pheidole navigans)"
+slug: "pheidole-navigans"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622632827/medium.jpg"        # keep for thumbnails
+image-alt: "Navigating Big-headed Ant"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622632827/medium.jpg" alt="Navigating Big-headed Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341962616">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=891181)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in mesic or wooded habitats.
+
+## Natural history notes
+
+A tiny introduced big-headed ant characterized by two worker forms: small minor workers and larger-headed major workers with oversized heads for defense and food handling. In Florida, the Navigating Big-headed Ant occurs in disturbed areas as well as mesic or moist woods, nesting in leaf litter, hollow twigs, nuts, and other small cavities, and it is considered a Neotropical introduced species established in the state. Workers forage for tiny insects, seeds, honeydew, nectar, and scavenged material, while also interacting with native leaf-litter ant communities and serving as prey for spiders, beetles, lizards, and other small predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/891181-Pheidole-navigans)
+-   [Local profile](https://www.antwiki.org/wiki/Pheidole_navigans)

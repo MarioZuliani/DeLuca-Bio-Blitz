@@ -1,0 +1,50 @@
+---
+title: "Limnoporus canaliculatus"
+slug: "limnoporus-canaliculatus"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622639693/medium.jpg"        # keep for thumbnails
+image-alt: "Limnoporus canaliculatus"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Gerridae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Gerridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622639693/medium.jpg" alt="Limnoporus canaliculatus"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341966051">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Hemiptera
+-   **Family:** Gerridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=128706)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found around freshwater habitats.
+
+## Natural history notes
+
+A medium-sized water strider characterized by a long narrow body, very long legs, and the ability to skate across the water surface on surface tension. In Florida, Limnoporus canaliculatus is the only Limnoporus species known from the state and has been described as one of the most commonly collected Florida water striders, occurring in many aquatic habitats including ponds, marshes, ditches, canals, streams, and vegetated wetland edges. It is a surface-dwelling predator and scavenger, feeding on small insects and other arthropods that fall onto or emerge from the water, while also serving as prey for fish, frogs, birds, and larger aquatic insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/128706-Limnoporus-canaliculatus)
+-   [Local profile](https://www.bugguide.net/node/view/263535/bgref?from=392)

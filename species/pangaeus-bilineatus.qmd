@@ -1,0 +1,50 @@
+---
+title: "Two-lined Burrowing Bug (Pangaeus bilineatus)"
+slug: "pangaeus-bilineatus"
+group: "Insecta"
+image: "https://static.inaturalist.org/photos/622644237/medium.jpg"        # keep for thumbnails
+image-alt: "Two-lined Burrowing Bug"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hemiptera"
+tax_family: "Cydnidae"
+categories: ["Animalia", "Insecta", "Hemiptera", "Cydnidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622644237/medium.jpg" alt="Two-lined Burrowing Bug"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341971446">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hemiptera
+-   **Family:** Cydnidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=152126)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in open and semi-open habitats.
+
+## Natural history notes
+
+A small burrowing bug characterized by a dark oval body, strong digging legs, and two pale lines or bands that give it the “two-lined” appearance. In Florida, the Two-lined Burrowing Bug is found in sandy or loose soils in lawns, fields, gardens, roadsides, pine flatwoods, scrub edges, and other open or semi-open habitats with low vegetation. Adults and nymphs live at or below the soil surface, feeding by piercing plant roots, seeds, or underground plant parts, while also serving as prey for birds, lizards, spiders, ants, and other ground-foraging predators.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/152126-Pangaeus-bilineatus)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN1456)

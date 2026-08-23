@@ -1,0 +1,50 @@
+---
+title: "Swift Feather-legged Fly (Trichopoda pennipes)"
+slug: "trichopoda-pennipes"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625196067/medium.jpg"        # keep for thumbnails
+image-alt: "Swift Feather-legged Fly"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Diptera"
+tax_family: "Tachinidae"
+categories: ["Animalia", "Insecta", "Diptera", "Tachinidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625196067/medium.jpg" alt="Swift Feather-legged Fly"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sebento">
+sebento</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/343241066">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Diptera
+-   **Family:** Tachinidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=133764)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Common species in Florida, found in urban and open areas.
+
+## Natural history notes
+
+A medium-sized tachinid fly characterized by a dark body, orange to reddish abdomen, smoky wings, and distinctive feather-like fringes on the hind legs. In Florida, the Swift Feather-legged Fly is found in gardens, fields, forest edges, parks, farms, roadsides, and other open or semi-open habitats where flowers and true bug hosts are common. Adults visit flowers for nectar, while females lay eggs on stink bugs, leaf-footed bugs, and squash bugs; the fly larva develops inside the host, making this species an important natural enemy of several plant-feeding bugs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/133764-Trichopoda-pennipes)
+-   [Local profile](https://www.bugguide.net/node/view/2798)

@@ -1,0 +1,50 @@
+---
+title: "Brown Pine Lacewing (Hemerobius stigma)"
+slug: "hemerobius-stigma"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623034847/medium.jpg"        # keep for thumbnails
+image-alt: "Brown Pine Lacewing"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Neuroptera"
+tax_family: "Hemerobiidae"
+categories: ["Animalia", "Insecta", "Neuroptera", "Hemerobiidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623034847/medium.jpg" alt="Brown Pine Lacewing"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/342162643">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:** Neuroptera
+-   **Family:** Hemerobiidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=307648)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A small brown lacewing characterized by delicate net-veined wings held roof-like over the body, long antennae, and mottled brown coloration that blends well against bark and pine foliage. In Florida, the Brown Pine Lacewing is found in pine flatwoods, sandhills, mixed pine woods, forest edges, parks, and yards where pines and other conifers support small insect prey. Adults and larvae are predators of aphids, scale insects, mites, and other tiny soft-bodied arthropods, making them beneficial natural enemies in pine-associated food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/307648-Hemerobius-stigma)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/IN382)

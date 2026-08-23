@@ -1,0 +1,50 @@
+---
+title: "Wine-tinted Oenobotys Moth (Oenobotys vinotinctalis)"
+slug: "oenobotys-vinotinctalis"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622640951/medium.jpg"        # keep for thumbnails
+image-alt: "Wine-tinted Oenobotys Moth"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: " Lepidoptera"
+tax_family: "Crambidae"
+categories: ["Animalia", "Insecta", " Lepidoptera", "Crambidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622640951/medium.jpg" alt="Wine-tinted Oenobotys Moth"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/brynnfricke">
+brynnfricke</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341965951">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Lepidoptera
+-   **Family:** Crambidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=226270)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in wooded, shrubby, and semi-open habitats.
+
+## Natural history notes
+
+A small crambid moth characterized by narrow tan to brownish wings with darker wine-tinted shading, fine lines, and a slender triangular resting posture. In Florida, the Wine-tinted Oenobotys Moth is likely found in warm wooded, shrubby, or semi-open habitats such as hammocks, forest edges, pine flatwoods, gardens, and parks where adults may come to lights. Its caterpillar host plants appear poorly documented, so it is best treated cautiously as a small nocturnal plant-feeding moth whose larvae likely feed concealed on low vegetation or foliage, while adults and larvae support birds, bats, spiders, and parasitoid wasps.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/226270-Oenobotys-vinotinctalis)
+-   [Local profile](https://www.bugguide.net/node/view/1194573)

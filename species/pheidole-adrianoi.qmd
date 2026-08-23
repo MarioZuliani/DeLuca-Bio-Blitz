@@ -1,0 +1,50 @@
+---
+title: "Florida Rosemary Big-headed Ant (Pheidole adrianoi)"
+slug: "pheidole-adrianoi"
+group: "Insecta"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621958566/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Rosemary Big-headed Ant"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Insecta"
+tax_order: "Hymenoptera"
+tax_family: "Formicidae"
+categories: ["Animalia", "Insecta", "Hymenoptera", "Formicidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621958566/medium.jpg" alt="Florida Rosemary Big-headed Ant"class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY-NC 4.0) via <a href="https://www.inaturalist.org/observations/341628087">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Insecta
+-   **Order:**  Hymenoptera
+-   **Family:** Formicidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1027832)
+
+## Conservation & rarity context
+
+-   **IUCN:** Not Listed
+-   **Rarity note:** Rare species in Florida, found in scrubland habitats.
+
+## Natural history notes
+
+A tiny big-headed ant characterized by two worker forms: small minor workers and larger-headed major workers with oversized heads used in defense and food processing. In Florida, the Florida Rosemary Big-headed Ant is a sandhill and scrub-associated species, especially tied to dry sandy habitats where Florida rosemary, open pine, and sparse ground cover occur; recent work describes it as a very small ant of Florida coastal-plain sandhills. Colonies nest in sandy soil and forage for tiny insects, seeds, nectar, honeydew, and scavenged material, and its nests may include unusual fungal associations, making it part of the specialized dry-sandhill ant community.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1027832-Pheidole-adrianoi)
+-   [Local profile](https://www.antwiki.org/wiki/Pheidole_adrianoi)
