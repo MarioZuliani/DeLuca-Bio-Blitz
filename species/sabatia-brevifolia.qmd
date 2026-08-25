@@ -1,0 +1,50 @@
+---
+title: "Shortleaf Rose Gentian (Sabatia brevifolia)"
+slug: "sabatia-brevifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/354627597/medium.jpg"        # keep for thumbnails
+image-alt: "Shortleaf Rose Gentian"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Gentianaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Gentianaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/354627597/medium.jpg" alt="Shortleaf Rose Gentian" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dbond">
+dbond</a> (CC BY) via <a href="https://www.inaturalist.org/observations/200945381">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Gentianaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126298)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in moist open habitats.
+
+## Natural history notes
+
+A native annual to short-lived perennial wildflower in the gentian family, characterized by slender upright stems, small opposite leaves, and showy white five-petaled flowers, often with a contrasting yellow-green center. Shortleaf Rose Gentian occurs in moist, open habitats such as flatwoods, savannas, and other seasonally wet sandy sites, where it grows best in full sun. In South Florida, it is considered imperiled and is associated with relatively intact natural communities, including mesic and scrubby flatwoods. Its flowers are visited by native bees and other pollinating insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126298-Sabatia-brevifolia)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-sabatia-brevifolia/)

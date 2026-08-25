@@ -1,0 +1,50 @@
+---
+title: "Camphor-Weed (Pluchea camphorata)"
+slug: "pluchea-camphorata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623204449/medium.jpg"        # keep for thumbnails
+image-alt: "Camphor-Weed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623204449/medium.jpg" alt="Camphor-Weed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/anabelzou">
+anabelzou</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342244566">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=167067)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in freshwater wetland habitats.
+
+## Natural history notes
+
+A native annual to short-lived perennial herb in the sunflower family, characterized by upright branching stems, broad alternate leaves, and clusters of small pinkish to purplish flower heads. Camphor-Weed has aromatic foliage that releases a strong camphor-like scent when crushed. In Florida, it occurs primarily in freshwater wetlands and other moist habitats, including swamps, wet flatwoods, sloughs, pond margins, ditches, and disturbed low-lying areas. It flowers mainly from summer into fall, and its flower heads provide resources for bees, butterflies, and other insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/167067-Pluchea-camphorata)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/876)

@@ -1,0 +1,51 @@
+---
+title: "Water Fern (Ceratopteris thalictroides)"
+slug: "ceratopteris-thalictroides"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/622476123/medium.jpg"        # keep for thumbnails
+image-alt: "Water Fern"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Polypodiopsida"
+tax_order: "Polypodiales"
+tax_family: "Pteridaceae"
+categories: ["Plantae", "Polypodiopsida", "Polypodiales", "Pteridaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622476123/medium.jpg" alt="Water Fern" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341883416">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Polypodiopsida
+-   **Order:** Polypodiales
+-   **Family:** Pteridaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=160357)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in shallow freshwater habitats.
+
+## Natural history notes
+
+An aquatic to semi-aquatic fern with highly variable fronds that may float on the water surface or emerge above it. Water Fern often has broad, lobed sterile fronds and more finely divided, feathery fertile fronds that bear sporangia and produce spores. It grows in shallow, slow-moving or still freshwater habitats such as ponds, canals, ditches, marshes, and wetlands. In Florida, it occurs mainly in the peninsula and is considered a naturalized non-native species, likely introduced through the aquarium and ornamental pond trade.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/160357-Ceratopteris-thalictroides)
+-   [IUCN](https://www.iucnredlist.org/species/168862/84005839)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/ceratopteris-thalictroides/)

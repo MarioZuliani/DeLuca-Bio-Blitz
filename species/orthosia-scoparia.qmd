@@ -1,0 +1,49 @@
+---
+title: "Leafless Swallow-Wort (Orthosia scoparia)"
+slug: "orthosia-scoparia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625053057/medium.jpg"        # keep for thumbnails
+image-alt: "Leafless Swallow-Wort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Apocynaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Apocynaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625053057/medium.jpg" alt="Leafless Swallow-Wort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/plantmanryan">
+plantmanryan</a> (CC BY) via <a href="https://www.inaturalist.org/observations/343168469">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Apocynaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=773000)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in shrubbed habitats.
+
+## Natural history notes
+
+A native perennial twining vine in the dogbane family, characterized by very narrow opposite leaves, milky sap, and clusters of tiny pale yellow to greenish-white flowers. As Leafless Swallow-Wort climbs from shaded understory vegetation into brighter light, it often sheds many of its leaves, leaving slender, nearly leafless stems that may twine densely over shrubs and small trees. In Florida, it occurs throughout much of the peninsula along hammock edges, pine forests, floodplains, and other open to partly shaded habitats with well-drained soils. It also serves as a host plant for several insects, including the Giant milkweed bug, and may be used by some milkweed-feeding butterflies and moths.
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/773000-Orthosia-scoparia)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-orthosia-scoparia/)

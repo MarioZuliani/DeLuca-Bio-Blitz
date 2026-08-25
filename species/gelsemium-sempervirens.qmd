@@ -1,0 +1,50 @@
+---
+title: "Yellow Jessamine (Gelsemium sempervirens)"
+slug: "gelsemium-sempervirens"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622461520/medium.jpg"        # keep for thumbnails
+image-alt: "Yellow Jessamine"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Gentianales"
+tax_family: "Gelsemiaceae"
+categories: ["Plantae", "Magnoliopsida", "Gentianales", "Gelsemiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622461520/medium.jpg" alt="Yellow Jessamine" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/sandybauerschmidt">
+sandybauerschmidt</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341928926">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Gentianales
+-   **Family:** Gelsemiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=83070)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in woody habitats.
+
+## Natural history notes
+
+A native evergreen to semi-evergreen woody vine characterized by glossy opposite leaves and fragrant, bright yellow trumpet-shaped flowers that bloom primarily in late winter and spring. Yellow Jessamine occurs throughout much of Florida in pine flatwoods, hammocks, woodland edges, thickets, and along fences and roadsides, where it climbs over shrubs and small trees. Its early flowers provide nectar for pollinating insects, but all parts of the plant contain toxic alkaloids and can be poisonous if ingested. It is also widely cultivated as an ornamental vine because of its showy flowers and vigorous growth.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/83070-Gelsemium-sempervirens)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/874)

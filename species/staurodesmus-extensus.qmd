@@ -1,0 +1,50 @@
+---
+title: "Staurodesmus extensus"
+slug: "staurodesmus-extensus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622536530/medium.jpg"        # keep for thumbnails
+image-alt: "Staurodesmus extensus"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Desmidiaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Desmidiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622536530/medium.jpg" alt="Staurodesmus extensus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341912799">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Desmidiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=473862)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Rare species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga belonging to the desmids, characterized by small cells divided into two symmetrical semicells by a narrow central constriction. Staurodesmus extensus typically has rectangular to trapezoidal semicells, each bearing two long spines that project outward from the apical corners, giving the cell a distinctive cross-like appearance. It occurs in freshwater habitats such as ponds, shallow wetlands, bog pools, and vegetated lake margins, where it may occur in plankton, floating plant material, or bottom sediments. Like many desmids, it is especially associated with relatively clean freshwater habitats and contributes to aquatic primary production and microscopic food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/473862-Staurodesmus-extensus)
+-   [Local profile](https://realmicrolife.com/staurodesmus-extensus/)

@@ -1,0 +1,50 @@
+---
+title: "Lesser Florida Spurge (Euphorbia polyphylla)"
+slug: "euphorbia-polyphylla"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622117067/medium.jpg"        # keep for thumbnails
+image-alt: "Lesser Florida Spurge"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Euphorbiaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Euphorbiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622117067/medium.jpg" alt="Lesser Florida Spurge" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dsandii">
+dsandii</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341704947">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Euphorbiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=155566)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in rocky habitats.
+
+## Natural history notes
+
+A small native perennial herb in the spurge family, characterized by slender branching stems, narrow leaves, and tiny greenish flowers typical of Euphorbia. Lesser Florida Spurge occurs in dry, open habitats of southern Florida, including pine rocklands, scrubby flatwoods, and other sandy or rocky uplands. It is adapted to full sun, nutrient-poor soils, and periodically disturbed or fire-maintained vegetation communities. The species is native to Florida and is particularly associated with the southern peninsula, where it can occur locally in relatively undisturbed pineland habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/155566-Euphorbia-polyphylla)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2)

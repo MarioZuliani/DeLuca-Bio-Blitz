@@ -1,0 +1,51 @@
+---
+title: "Dotted Duckweed (Landoltia punctata)"
+slug: "landoltia-punctata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621846905/medium.jpg"        # keep for thumbnails
+image-alt: "Dotted Duckweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Alismatales"
+tax_family: "Araceae"
+categories: ["Plantae", "Liliopsida", "Alismatales", "Araceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621846905/medium.jpg" alt="Dotted Duckweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341573924">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Alismatales
+-   **Family:** Araceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=77623)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in freshwater habitats like ponds and lakes.
+
+## Natural history notes
+
+A tiny free-floating aquatic plant characterized by oval to narrowly egg-shaped green fronds, typically only a few millimeters wide, with several fine roots hanging beneath each frond. Dotted Duckweed occurs in still or slow-moving freshwater habitats such as ponds, canals, lakes, sloughs, irrigation ditches, and wetlands, where it can reproduce rapidly and form dense mats across the water surface. In Florida, it is a widespread non-native species, likely introduced through the aquarium or aquatic-plant trade, and is classified as a Category 2 invasive by the Florida Invasive Species Council. Dense growth can reduce light penetration and dissolved oxygen beneath floating mats, potentially altering aquatic habitat conditions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/77623-Landoltia-punctata)
+-   [IUCN](https://www.iucnredlist.org/species/168991/6559440)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/landoltia-punctata/)

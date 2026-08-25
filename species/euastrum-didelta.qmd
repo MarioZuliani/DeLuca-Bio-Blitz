@@ -1,0 +1,50 @@
+---
+title: "Euastrum didelta"
+slug: "euastrum-didelta"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623064843/medium.jpg"        # keep for thumbnails
+image-alt: "Euastrum didelta"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Desmidiaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Desmidiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623064843/medium.jpg" alt="Euastrum didelta" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342176254">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Desmidiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=472694)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga belonging to the desmids, characterized by relatively large cells divided into two symmetrical, broadly pyramidal semicells by a deep central constriction. Euastrum didelta has strongly undulating margins, a deep notch at the apex of each semicell, and undivided basal lobes that help distinguish it from similar species. It occurs mainly in acidic to moderately nutrient-poor freshwater habitats such as ponds, bog pools, and shallow lakes. Like many desmids, it is associated with relatively clean, low-nutrient waters and contributes to freshwater primary production.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/472694-Euastrum-didelta)
+-   [Local profile](https://macroalgae.org/portal/taxa/index.php?taxon=36705)

@@ -1,0 +1,50 @@
+---
+title: "Planotaenium interruptum"
+slug: "planotaenium-interruptum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621887017/medium.jpg"        # keep for thumbnails
+image-alt: "Planotaenium interruptum"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Mesotaeniaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Mesotaeniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621887017/medium.jpg" alt="Planotaenium interruptum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341593725">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Mesotaeniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=889836)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga in the desmid lineage, characterized by long, straight cylindrical cells that taper rather abruptly toward blunt or truncate ends. Planotaenium interruptum typically contains four chloroplasts arranged along the length of the cell, with prominent longitudinal ridges and large terminal vacuoles containing crystalline granules. It occurs mainly in acidic to moderately nutrient-poor freshwater habitats such as bog pools, peatlands, shallow ponds, and quaking fens, where it is generally considered uncommon. Like other desmids, it contributes to freshwater primary production and can be useful as an indicator of water chemistry and wetland habitat conditions. The species was formerly widely known as Netrium interruptum.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/889836-Planotaenium-interruptum)
+-   [Local profile](https://natuurtijdschriften.nl/pub/1034444/DM-16-Netrium-interruptulum-a-new-status-and-new-name-for-Netrium.pdf)

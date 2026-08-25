@@ -1,0 +1,50 @@
+---
+title: "Euastrum denticulatum"
+slug: "euastrum-denticulatum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622154362/medium.jpg"        # keep for thumbnails
+image-alt: "Euastrum denticulatum"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Desmidiaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Desmidiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622154362/medium.jpg" alt="Euastrum denticulatum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341724120">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Desmidiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=468202)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga belonging to the desmids, characterized by small, flattened cells divided into two nearly symmetrical semicells by a deep central constriction. Euastrum denticulatum has trapezoidal semicells with distinct basal, lateral, and apical lobes, along with finely toothed margins and a prominent central swelling ornamented with small granules. It occurs primarily in slightly acidic, nutrient-poor to moderately nutrient-poor freshwater habitats, including ponds, wetlands, and shallow vegetated waters. Like many desmids, it is associated with relatively clear water and can serve as an indicator of freshwater habitat and water-quality conditions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/468202-Euastrum-denticulatum)
+-   [Local profile](https://macroalgae.org/portal/taxa/index.php?taxon=36701)

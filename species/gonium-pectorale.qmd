@@ -1,0 +1,50 @@
+---
+title: "Gonium pectorale"
+slug: "gonium-pectorale"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621926035/medium.jpg"        # keep for thumbnails
+image-alt: "Gonium pectorale"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Chlorophyceae"
+tax_order: "Chlamydomonadales"
+tax_family: "Goniaceae"
+categories: ["Plantae", "Chlorophyceae", "Chlamydomonadales", "Goniaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621926035/medium.jpg" alt="Gonium pectorale" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341611405">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Chlorophyceae
+-   **Order:** Chlamydomonadales
+-   **Family:** Goniaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=471080)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in woody habitats.
+
+## Natural history notes
+
+A microscopic colonial green alga characterized by flat, plate-like colonies typically composed of 16 cells arranged in a regular square or rectangular pattern within a gelatinous matrix. Gonium pectorale occurs in freshwater habitats such as ponds, ditches, temporary pools, and other nutrient-rich standing waters, where its flagellated cells allow the entire colony to swim through the water. It is closely related to other volvocine algae and is often studied as an evolutionary intermediate between single-celled green algae and more complex multicellular forms such as Volvox. Like other freshwater green algae, it contributes to primary production and forms part of the base of aquatic food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/471080-Gonium-pectorale)
+-   [Local profile](https://realmicrolife.com/gonium-pectorale/)

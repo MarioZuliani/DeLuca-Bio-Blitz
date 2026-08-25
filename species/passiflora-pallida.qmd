@@ -1,0 +1,50 @@
+---
+title: "Corkystem Passionvine (Passiflora pallida)"
+slug: "passiflora-pallida"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/621773325/medium.jpg"        # keep for thumbnails
+image-alt: "Corkystem Passionvine"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Passifloraceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Passifloraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/621773325/medium.jpg" alt="Corkystem Passionvine" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/alyssa735">
+alyssa735</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341536709">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Passifloraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=287170)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in wooded habitats.
+
+## Natural history notes
+
+A native perennial climbing vine in the passionflower family, characterized by slender corky stems, small three-lobed leaves, and inconspicuous greenish-white flowers followed by small round berries. Corkystem Passionvine occurs in southern Florida, the Caribbean, and tropical America, where it grows in hammocks, thickets, woodland edges, and other partly shaded habitats. The vine climbs over surrounding vegetation using coiling tendrils and can form loose tangles along shrubs and small trees. Like other passionvines, it also serves as a larval host plant for several butterflies, including heliconians and fritillaries.
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/287170-Passiflora-pallida)
+-   [IUCN](https://www.iucnredlist.org/species/192145500/192145502)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-passiflora-suberosa/)

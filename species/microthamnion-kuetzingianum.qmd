@@ -1,0 +1,50 @@
+---
+title: "Microthamnion kuetzingianum"
+slug: "microthamnion-kuetzingianum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622211337/medium.jpg"        # keep for thumbnails
+image-alt: "Microthamnion kuetzingianum"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Trebouxiophyceae"
+tax_order: "Microthamniales"
+tax_family: "Microthamnion"
+categories: ["Plantae", "Trebouxiophyceae", "Microthamniales", "Microthamnion"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622211337/medium.jpg" alt="Microthamnion kuetzingianum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341752365">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Trebouxiophyceae
+-   **Order:** Microthamniales
+-   **Family:** Microthamnion
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=471686)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga characterized by fine, branching filaments that form delicate, bush-like tufts on submerged surfaces. Microthamnion kuetzingianum has narrow cylindrical cells arranged in single rows, with short lateral branches arising from the main filament and a parietal chloroplast within each cell. It typically grows attached to aquatic plants, mosses, rocks, or other submerged substrates in ponds, streams, wetlands, and bogs. The species is especially associated with soft, relatively clean freshwater and can occur in acidic habitats. Like other attached green algae, it contributes to primary production and provides food and microhabitat for small aquatic organisms.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/471686-Microthamnion-kuetzingianum)
+-   [Local profile](https://www.algaebase.org/search/species/detail/?species_id=nce42a1a5e3bb88d8)

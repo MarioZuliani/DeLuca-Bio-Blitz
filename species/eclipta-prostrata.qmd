@@ -1,0 +1,51 @@
+---
+title: "False Daisy (Eclipta prostrata)"
+slug: "eclipta-prostrata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622204431/medium.jpg"        # keep for thumbnails
+image-alt: "False Daisy"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622204431/medium.jpg" alt="False Daisy" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jsfrancis">
+jsfrancis</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341765964">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=76765)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in disturbed habitats.
+
+## Natural history notes
+
+A low-growing to upright annual herb in the sunflower family, characterized by opposite, narrow leaves and small white flower heads with numerous short ray florets surrounding a pale center. False Daisy typically grows in moist, disturbed habitats such as ditches, pond margins, irrigated fields, nurseries, wetlands, and other areas with frequently saturated soils. In Florida, it is a widespread weed of both natural and managed habitats and grows especially well in sunny, wet conditions. Although its native range is uncertain and it is often considered native to Asia, it is now widely naturalized throughout tropical and subtropical regions of the world.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/76765-Eclipta-prostrata)
+-   [IUCN](https://www.iucnredlist.org/species/164051/121894451)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/3677)

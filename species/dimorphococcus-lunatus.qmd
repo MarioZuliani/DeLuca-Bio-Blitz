@@ -1,0 +1,50 @@
+---
+title: "Dimorphococcus lunatus"
+slug: "dimorphococcus-lunatus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622737654/medium.jpg"        # keep for thumbnails
+image-alt: "Dimorphococcus lunatus"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Chlorophyceae"
+tax_order: "Sphaeropleales"
+tax_family: "Scenedesmaceae"
+categories: ["Plantae", "Chlorophyceae", "Sphaeropleales", "Scenedesmaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622737654/medium.jpg" alt="Dimorphococcus lunatus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342012649">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Chlorophyceae
+-   **Order:** Sphaeropleales
+-   **Family:** Scenedesmaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=472675)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga that forms free-floating colonies composed of groups of four cells connected by fine, branching strands derived from the mother-cell wall. Dimorphococcus lunatus has two characteristically different cell shapes within each group: inner cells are generally cylindrical or oval, while outer cells are more kidney- or heart-shaped. It occurs in freshwater habitats including ponds, lakes, wetlands, and bog waters and has a broad worldwide distribution, including the southeastern United States. Like other planktonic green algae, it contributes to primary production and forms part of the base of freshwater food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/472675-Dimorphococcus-lunatus)
+-   [Local profile](https://realmicrolife.com/dimorphococcus-lunatus/)

@@ -1,0 +1,50 @@
+---
+title: "Privet Senna (Senna ligustrina)"
+slug: "senna-ligustrina"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474787614/medium.jpg"        # keep for thumbnails
+image-alt: "Privet Senna"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Fabales"
+tax_family: "Fabaceae"
+categories: ["Plantae", "Magnoliopsida", "Fabales", "Fabaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474787614/medium.jpg" alt="Privet Senna" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/acdcarroll">
+acdcarroll</a> (CC BY) via <a href="https://www.inaturalist.org/observations/264347682">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Fabales
+-   **Family:** Fabaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=168842)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Uncommon/Rare species in Florida, found in disturbed dry habitats.
+
+## Natural history notes
+
+A native perennial shrub in the pea family, characterized by upright stems, narrow dark-green leaflets, bright yellow five-petaled flowers, and elongated brown seed pods. Privet Senna occurs mainly in peninsular Florida in hammock edges, woodland openings, and disturbed areas with dry to slightly moist, well-drained sandy soils. It flowers most heavily from fall through spring and attracts a variety of native bees and other pollinators. The foliage also serves as an important larval host for butterflies including the Cloudless Sulphur and Sleepy Orange, making it valuable in Florida pollinator communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/168842-Senna-ligustrina)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-senna-ligustrina/)

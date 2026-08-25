@@ -1,0 +1,50 @@
+---
+title: "Ankistrodesmus fusiformis"
+slug: "ankistrodesmus-fusiformis"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621935265/medium.jpg"        # keep for thumbnails
+image-alt: "Ankistrodesmus fusiformis"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Chlorophyceae"
+tax_order: "Sphaeropleales"
+tax_family: "Selenastraceae"
+categories: ["Plantae", "Chlorophyceae", "Sphaeropleales", "Selenastraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621935265/medium.jpg" alt="Ankistrodesmus fusiformis" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341615164">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Chlorophyceae
+-   **Order:** Sphaeropleales
+-   **Family:** Selenastraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=505394)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga composed of slender, spindle-shaped to needle-like cells that may occur singly or in small groups. Ankistrodesmus fusiformis is a member of the green algal family Selenastraceae and occurs as part of the phytoplankton in freshwater habitats such as ponds, lakes, and slow-moving waters. Like other phytoplanktonic green algae, it contributes to primary production by converting sunlight and dissolved nutrients into biomass that supports aquatic food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/505394-Ankistrodesmus-fusiformis)
+-   [Local profile](https://essie.ufl.edu/wrrc/wp-content/uploads/sites/11/2020/06/3_a_partial_checklist_of_florida_fresh-water_algae_and_protozoa_with_reference_to_mccloud_and_cue_lakes.pdf)

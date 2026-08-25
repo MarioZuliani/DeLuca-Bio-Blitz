@@ -1,0 +1,50 @@
+---
+title: "Scrub Goldenaster (Pityopsis aequilifolia)"
+slug: "pityopsis-aequilifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622224776/medium.jpg"        # keep for thumbnails
+image-alt: "Scrub Goldenaster"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622224776/medium.jpg" alt="Scrub Goldenaster" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/ism14">
+ism14</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341759899">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=854835)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in scrub habitats.
+
+## Natural history notes
+
+A native perennial wildflower in the sunflower family, characterized by narrow, silvery-green leaves covered in silky hairs and upright stems topped with bright yellow daisy-like flower heads. Scrub Goldenaster grows primarily in Florida’s central peninsula in dry, sandy scrub and sandhill habitats, where it forms compact bunches rather than spreading by rhizomes. It is adapted to full sun, nutrient-poor soils, and periodic fire that maintains the open conditions these habitats require. Its yellow flowers provide nectar and pollen for bees, butterflies, and other insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/854835-Pityopsis-aequilifolia)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-pityopsis-graminifolia/)

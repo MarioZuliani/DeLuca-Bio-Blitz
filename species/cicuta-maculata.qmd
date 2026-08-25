@@ -1,0 +1,51 @@
+---
+title: "Water Hemlock (Cicuta maculata)"
+slug: "cicuta-maculata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/624291529/medium.jpg"        # keep for thumbnails
+image-alt: "Water Hemlock"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Apiales"
+tax_family: "Apiaceae"
+categories: ["Plantae", "Magnoliopsida", "Apiales", "Apiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/624291529/medium.jpg" alt="Water Hemlock" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/garccyy">
+garccyy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342790039">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Apiales
+-   **Family:** Apiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=60125)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A native perennial wetland plant in the carrot family characterized by hollow, often purple-streaked stems, compound leaves with sharply toothed leaflets, and rounded clusters of small white flowers. Water Hemlock occurs throughout Florida in marshes, swamps, wet meadows, ditches, streambanks, and other areas with saturated soils. Although its flowers provide resources for pollinators, the plant is extremely poisonous if ingested; all parts contain potent neurotoxins, with particularly high concentrations in the roots and new growth.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/60125-Cicuta-maculata)
+-   [IUCN](https://www.iucnredlist.org/species/64310721/67729176)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/cicuta-maculata/)

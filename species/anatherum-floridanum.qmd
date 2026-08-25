@@ -1,0 +1,50 @@
+---
+title: "Florida Bluestem (Anatherum floridanum)"
+slug: "anatherum-floridanum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622293062/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Bluestem"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622293062/medium.jpg" alt="Florida Bluestem" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dsandii">
+dsandii</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341793371">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1617144)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in dry woody habitats.
+
+## Natural history notes
+
+A perennial native bluestem grass characterized by upright clumping stems, narrow blue-green to gray-green leaves, and airy seed heads that become tan and fluffy as they mature. In Florida, Florida Bluestem is a southeastern U.S. native grass, currently treated as Anatherum floridanum with Andropogon floridanus as an older synonym, and it occurs in dry to mesic pine flatwoods, sandhills, scrubby openings, prairies, roadsides, and other sunny fire-maintained habitats. It provides structure and cover in the ground layer, produces seeds used by small wildlife, and contributes fine fuel that helps carry low-intensity fire through native pine and grassland ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1617144-Anatherum-floridanum)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/2493)

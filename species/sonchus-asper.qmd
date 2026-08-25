@@ -1,0 +1,50 @@
+---
+title: "Prickly Sowthistle (Sonchus asper)"
+slug: "sonchus-asper"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621756117/medium.jpg"        # keep for thumbnails
+image-alt: "Prickly Sowthistle"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621756117/medium.jpg" alt="Prickly Sowthistle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/rangerval">
+rangerval</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341527431">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=53269)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Uncommon species in Florida, found in disturbed urban and agricultural habitats.
+
+## Natural history notes
+
+A non-native annual to short-lived perennial herb in the sunflower family, characterized by glossy, deeply lobed leaves with prickly margins, clasping leaf bases, milky sap, and bright yellow dandelion-like flower heads. Prickly Sowthistle is native to Europe, Asia, and North Africa but is now widely naturalized throughout North America, including Florida. It commonly occurs in disturbed habitats such as roadsides, agricultural fields, gardens, vacant lots, and waste areas, where it can grow rapidly and produce abundant wind-dispersed seeds. Its flowers are visited by bees, flies, and other insects, although the species is generally regarded as a common agricultural and ruderal weed.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/53269-Sonchus-asper)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/1146)

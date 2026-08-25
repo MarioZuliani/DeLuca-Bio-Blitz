@@ -1,0 +1,50 @@
+---
+title: "Stauridium tetras"
+slug: "stauridium-tetras"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622140460/medium.jpg"        # keep for thumbnails
+image-alt: "Stauridium tetras"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Chlorophyceae"
+tax_order: "Sphaeropleales"
+tax_family: "Hydrodictyaceae"
+categories: ["Plantae", "Chlorophyceae", "Sphaeropleales", "Hydrodictyaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622140460/medium.jpg" alt="Stauridium tetras" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341716906">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Chlorophyceae
+-   **Order:** Sphaeropleales
+-   **Family:** Hydrodictyaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=494401)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Common species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga that forms flat, disk-like colonies called coenobia, usually composed of 4, 8, or 16 tightly joined cells with no spaces between them. Stauridium tetras is especially recognizable by its trapezoidal outer cells, which typically have a distinct V-shaped notch along the exposed margin. It occurs as both plankton and periphyton in ponds, shallow wetlands, bog pools, and other freshwater habitats and can tolerate a relatively broad range of nutrient conditions. Formerly known as Pediastrum tetras, it contributes to freshwater primary production and forms part of the microscopic food web supporting aquatic consumers.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/494401-Stauridium-tetras)
+-   [Local profile](https://macroalgae.org/portal/taxa/index.php?taxon=200595)

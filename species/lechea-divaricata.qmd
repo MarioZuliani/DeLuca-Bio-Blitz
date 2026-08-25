@@ -1,0 +1,50 @@
+---
+title: "Drysand Pinweed (Lechea divaricata)"
+slug: "lechea-divaricata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622305999/medium.jpg"        # keep for thumbnails
+image-alt: "Drysand Pinweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malvales"
+tax_family: "Cistaceae"
+categories: ["Plantae", "Magnoliopsida", "Malvales", "Cistaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="hhttps://inaturalist-open-data.s3.amazonaws.com/photos/622305999/medium.jpg" alt="Drysand Pinweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dsandii">
+dsandii</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341799625">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malvales
+-   **Family:** Cistaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=164457)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in dry sandy scrub habitats.
+
+## Natural history notes
+
+A native perennial herb or small subshrub in the rockrose family, characterized by slender branching stems, narrow leaves, and numerous tiny reddish-brown flowers and fruits. Drysand Pinweed is endemic to central and southern Florida, where it occurs on dry sandy soils in open scrub, scrubby flatwoods, sand pine scrub, and related upland habitats. It is especially associated with open patches and recently burned areas, suggesting an important relationship with Florida’s fire-maintained ecosystems. The species flowers and fruits mainly from May through October and is considered rare, with habitat loss and development representing major threats to its remaining populations.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/164457-Lechea-divaricata)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.135050/Lechea_divaricata)

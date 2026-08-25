@@ -1,0 +1,50 @@
+---
+title: "Hedgehog Sphagnum (Sphagnum perichaetiale)"
+slug: "sphagnum-perichaetiale"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180805220/medium.jpg"        # keep for thumbnails
+image-alt: "Hedgehog Sphagnum"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Sphagnopsida"
+tax_order: "Sphagnales"
+tax_family: "Sphagnaceae"
+categories: ["Plantae", "Sphagnopsida", "Sphagnales", "Sphagnaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180805220/medium.jpg" alt="Hedgehog Sphagnum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/cactuclyde">
+cactuclyde</a> (CC BY) via <a href="https://www.inaturalist.org/observations/107494667">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Sphagnopsida
+-   **Order:** Sphagnales
+-   **Family:** Sphagnaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=132811)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Common species in Florida, found in acidic wetland habitats.
+
+## Natural history notes
+
+A native peat moss characterized by dense, upright shoots with tightly clustered branch leaves that give the plant a somewhat bristly or hedgehog-like appearance. Hedgehog Sphagnum grows in acidic, waterlogged habitats such as bogs, wet pine flatwoods, seepage areas, and swamp margins, where it can form soft mats or hummocks over saturated soils. Like other Sphagnum mosses, it can hold large amounts of water and helps create and maintain acidic, nutrient-poor wetland conditions. Its growth also contributes to peat accumulation and provides important microhabitat for small invertebrates, microorganisms, and other moisture-dependent species.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/132811-Sphagnum-perichaetiale)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/1623)

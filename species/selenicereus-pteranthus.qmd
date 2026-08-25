@@ -1,0 +1,51 @@
+---
+title: "Princess of the Night (Selenicereus pteranthus)"
+slug: "selenicereus-pteranthus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621951444/medium.jpg"        # keep for thumbnails
+image-alt: "Princess of the Night"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Caryophyllales"
+tax_family: "Cactaceae"
+categories: ["Plantae", "Magnoliopsida", "Caryophyllales", "Cactaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621951444/medium.jpg" alt="Princess of the Night" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/swagner23">
+swagner23</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341623640">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Caryophyllales
+-   **Family:** Cactaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=168777)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Data Deficient 
+-   **Rarity note:** Uncommon species in Florida, found in wooded hammock habitats.
+
+## Natural history notes
+
+A sprawling or climbing cactus characterized by long, slender ribbed stems with small spines and exceptionally large, fragrant white flowers that open primarily at night. Princess of the Night may grow as an epiphyte or scramble through surrounding vegetation, with stems extending several meters through shrubs and trees. It is native from eastern Mexico and Belize through parts of the northern Caribbean but is introduced in Florida, where established populations occur particularly in southern Florida along hammock edges, roadsides, and other warm subtropical habitats. Its nocturnal flowers are adapted to night-active pollinators, and flowering is followed by rounded fleshy fruits.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/168777-Selenicereus-pteranthus)
+-   [IUCN](https://www.iucnredlist.org/species/151867/121571285)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/1573)

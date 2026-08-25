@@ -1,0 +1,50 @@
+---
+title: "Closterium submoniliferum"
+slug: "closterium-submoniliferum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622316299/medium.jpg"        # keep for thumbnails
+image-alt: "Closterium submoniliferum"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Closteriaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Closteriaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622316299/medium.jpg" alt="Closterium submoniliferum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341594087">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Closteriaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1475884)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Common species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga belonging to the desmids, characterized by large, strongly curved crescent-shaped cells with broad, slightly recurved tips. Closterium submoniliferum closely resembles Closterium moniliferum but is generally larger and has numerous small pyrenoids scattered throughout its chloroplasts rather than arranged in a single central row. Its cell wall appears smooth at low magnification but is finely striated when examined more closely. It occurs in freshwater ponds, wetlands, and other standing waters, particularly in moderately nutrient-rich waters with near-neutral pH. Like other desmids, it contributes to aquatic primary production and the microscopic food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1475884-Closterium-submoniliferum)
+-   [Local profile](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/closterium)

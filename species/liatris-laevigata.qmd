@@ -1,0 +1,50 @@
+---
+title: "Clusterleaf Blazing Star (Liatris laevigata)"
+slug: "liatris-laevigata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180783765/medium.jpeg"        # keep for thumbnails
+image-alt: "Clusterleaf Blazing Star"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180783765/medium.jpeg" alt="Clusterleaf Blazing Star" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/gaudettelaura">
+gaudettelaura</a> (CC BY) via <a href="https://www.inaturalist.org/observations/107482923">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=577889)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Common species in Florida, found in sandy scrub habitats.
+
+## Natural history notes
+
+A native perennial wildflower in the sunflower family, characterized by upright flowering stems, narrow leaves often clustered along the lower portions of the stem, and dense spikes of bright purple flower heads. Clusterleaf Blazing Star occurs primarily in dry, sandy habitats of Florida, including scrub, sandhill, and open pine communities. It is adapted to full sun, well-drained nutrient-poor soils, and periodic fire, which helps maintain the open conditions it requires. Its late-summer to fall flowers provide nectar for butterflies, bees, and other pollinating insects.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/577889-Liatris-laevigata)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/698)

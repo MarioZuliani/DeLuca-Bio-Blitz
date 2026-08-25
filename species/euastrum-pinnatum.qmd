@@ -1,0 +1,50 @@
+---
+title: "Euastrum pinnatum"
+slug: "euastrum-pinnatum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622324289/medium.jpg"        # keep for thumbnails
+image-alt: "Euastrum pinnatum"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Desmidiaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Desmidiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622324289/medium.jpg" alt="Euastrum pinnatum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341808766">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Desmidiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1257698)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga belonging to the desmids, characterized by relatively large, flattened cells divided into two symmetrical semicells with deeply incised margins. Euastrum pinnatum has five-lobed semicells, broad expanded apical lobes, and conspicuous lateral indentations that give the cell a somewhat pinnate or feathered outline. It occurs primarily in acidic, nutrient-poor freshwater habitats such as bog pools, moorland ponds, and other oligotrophic wetlands. Like many desmids, it is strongly associated with low-nutrient, acidic waters and can serve as an indicator of relatively undisturbed freshwater conditions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1257698-Euastrum-pinnatum)
+-   [Local profile](https://macroalgae.org/portal/taxa/index.php?taxon=36927)

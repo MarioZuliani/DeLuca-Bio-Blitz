@@ -1,0 +1,50 @@
+---
+title: "Elliott's Bluestem (Anatherum gyrans)"
+slug: "anatherum-gyrans"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622260477/medium.jpg"        # keep for thumbnails
+image-alt: "Elliott's Bluestem"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622260477/medium.jpg" alt="Elliott's Bluestem" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dsandii">
+dsandii</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341777670">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1617155)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in open woody habitats.
+
+## Natural history notes
+
+A warm-season perennial bunchgrass characterized by upright stems, narrow leaves, and distinctive seedheads that remain partly enclosed by enlarged, overlapping leaf sheaths before becoming rusty brown at maturity. In Florida, it occurs primarily in open, well-drained habitats such as pine woodlands, sandhills, fields, roadsides, and other disturbed upland areas. It grows most actively during spring and summer and produces its conspicuous flowering and seed-bearing stems in late summer and fall.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1617155-Anatherum-gyrans)
+-   [Local profile](https://plants.ces.ncsu.edu/plants/anatherum-gyrans/)

@@ -1,0 +1,50 @@
+---
+title: "Carolina Hornwort (Phaeoceros carolinianus)"
+slug: "phaeoceros-carolinianus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621949310/medium.jpg"        # keep for thumbnails
+image-alt: "Carolina Hornwort"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Anthocerotopsida"
+tax_order: "Notothyladales"
+tax_family: "Notothyladaceae"
+categories: ["Plantae", "Anthocerotopsida", "Notothyladales", "Notothyladaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621949310/medium.jpg" alt="Carolina Hornwort" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341622523">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Anthocerotopsida
+-   **Order:** Notothyladales
+-   **Family:** Notothyladaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=166615)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Near Threatened
+-   **Rarity note:** Common species in Florida, found in disturbed habitats.
+
+## Natural history notes
+
+A small native hornwort characterized by a flat, dark green thallus that forms low rosettes on moist soil and produces slender, upright horn-like sporophytes that emerge from the thallus surface. Carolina Hornwort typically occurs in damp, disturbed habitats such as streambanks, wet fields, ditches, pond margins, and seasonally moist bare soils. It is often most noticeable during wetter periods, when the thallus actively grows and produces spores. Like other hornworts, it lacks true roots, stems, and leaves and contributes to soil stabilization and moisture retention within the microscopic ground-layer community.
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/166615-Phaeoceros-carolinianus)
+-   [IUCN](https://www.iucnredlist.org/species/87539052/87737885)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.124059/Phaeoceros_carolinianus)

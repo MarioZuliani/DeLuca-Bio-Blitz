@@ -1,0 +1,50 @@
+---
+title: "Micrasterias pinnatifida"
+slug: "micrasterias-pinnatifida"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623085803/medium.jpg"        # keep for thumbnails
+image-alt: "Micrasterias pinnatifida"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Desmidiaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Desmidiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623085803/medium.jpg" alt="Micrasterias pinnatifida" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342186067">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Desmidiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=468201)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga belonging to the desmids, characterized by small, flattened cells divided into two symmetrical semicells with deeply incised, triangular lobes that give the cell a distinctly pinnate or feather-like outline. Micrasterias pinnatifida is relatively small for its genus, typically around 65–70 µm across, and occurs as part of the plankton or periphyton in ponds, wetlands, and other standing freshwater habitats. It is especially associated with slightly acidic waters, although it appears to tolerate a broader range of conditions in tropical regions, where it can be relatively common. Like other desmids, it contributes to freshwater primary production and is useful as an indicator of aquatic habitat and water-chemistry conditions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/468201-Micrasterias-pinnatifida)
+-   [Local profile](https://www.algaebase.org/verify)

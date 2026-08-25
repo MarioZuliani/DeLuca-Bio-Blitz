@@ -1,0 +1,50 @@
+---
+title: "Florida Pennyroyal (Piloblephis rigida)"
+slug: "piloblephis-rigida"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/631130648/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Pennyroyal"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Lamiaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Lamiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/631130648/medium.jpg" alt="Florida Pennyroyal" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY) via <a href="https://www.inaturalist.org/observations/346249553">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Lamiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=126595)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Uncommon species in Florida, found in scrub habitats.
+
+## Natural history notes
+
+A native aromatic perennial shrub in the mint family, characterized by stiff narrow leaves and dense clusters of lavender to purple flowers. Florida Pennyroyal occurs primarily in dry, sandy habitats such as scrub, sandhill, pine flatwoods, and open disturbed uplands, where it thrives in full sun and well-drained soils. Crushing the foliage releases a strong mint-like fragrance, and the showy flowers attract bees, butterflies, and other pollinators. The species is especially characteristic of peninsular Florida and is well adapted to drought and the open conditions maintained by periodic fire.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/126595-Piloblephis-rigida)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-piloblephis-rigida/)

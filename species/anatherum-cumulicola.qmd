@@ -1,0 +1,50 @@
+---
+title: "Scrub Bluestem (Anatherum cumulicola)"
+slug: "anatherum-cumulicola"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622112398/medium.jpg"        # keep for thumbnails
+image-alt: "Scrub Bluestem"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Poaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Poaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622112398/medium.jpg" alt="Scrub Bluestem" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/dsandii">
+dsandii</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341702415">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Poaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1617141)
+
+## Conservation & rarity context
+
+-   IUCN: Not Listed
+-   **Rarity note:** Rare species in Florida, found in sandy soils.
+
+## Natural history notes
+
+A perennial bluestem grass characterized by narrow upright leaves, wiry stems, and fluffy seed heads that catch light when mature. In Florida, Scrub Bluestem is associated with scrubby pinelands and sandy ridge habitats, especially open, fire-maintained areas with sparse canopy and exposed sandy soil. It helps stabilize dry sandy ground, provides fine cover and structure for small insects and ground-layer wildlife, and contributes to the distinctive grass-and-shrub matrix of Florida scrub ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1617141-Anatherum-cumulicola)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.1242932/Andropogon_cumulicola)

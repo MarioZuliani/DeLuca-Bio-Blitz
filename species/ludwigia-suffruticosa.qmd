@@ -1,0 +1,50 @@
+---
+title: "Shrubby Primrose-Willow (Ludwigia suffruticosa)"
+slug: "ludwigia-suffruticosa"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621861188/medium.jpg"        # keep for thumbnails
+image-alt: "Shrubby Primrose-Willow"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Myrtales"
+tax_family: "Onagraceae"
+categories: ["Plantae", "Magnoliopsida", "Myrtales", "Onagraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621861188/medium.jpg" alt="Shrubby Primrose-Willow" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341580971">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Myrtales
+-   **Family:** Onagraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=135285)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Common species in Florida, found in moist wet habitats.
+
+## Natural history notes
+
+A native perennial herb in the evening-primrose family, characterized by upright branching stems, narrow alternate leaves, and small yellow four-petaled flowers. Shrubby Primrose-Willow occurs in moist to wet habitats throughout much of Florida, including marshes, wet flatwoods, wet prairies, and pond margins. Despite its common name, the plant is generally herbaceous rather than truly shrubby. It flowers from spring through fall and is native to the southeastern United States, where it is associated with sunny, seasonally saturated wetland habitats.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/135285-Ludwigia-suffruticosa)
+-   [Local profile](https://plant-directory.ifas.ufl.edu/plant-directory/ludwigia-suffruticosa/)

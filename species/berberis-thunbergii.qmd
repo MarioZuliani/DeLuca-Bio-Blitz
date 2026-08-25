@@ -1,0 +1,50 @@
+---
+title: "Japanese Barberry (Berberis thunbergii)"
+slug: "berberis-thunbergii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/474802612/medium.jpeg"        # keep for thumbnails
+image-alt: "Japanese Barberry"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Ranunculales"
+tax_family: "Berberidaceae"
+categories: ["Plantae", "Magnoliopsida", "Ranunculales", "Berberidaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/474802612/medium.jpeg" alt="Japanese Barberry" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/justin48524">
+justin48524</a> (CC BY) via <a href="https://www.inaturalist.org/observations/264364372">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Ranunculales
+-   **Family:** Berberidaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58727)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Common species in Florida, found in wooded and open habitats.
+
+## Natural history notes
+
+A deciduous, densely branched shrub recognized by its small oval leaves, sharp single spines, pale yellow spring flowers, and bright red berries that often persist into winter. Native to Japan, Japanese Barberry was introduced to North America as an ornamental plant and has since become invasive across much of the eastern and midwestern United States. It readily colonizes forest understories, woodland edges, old fields, and disturbed areas, where its shade tolerance allows it to form dense thickets that can suppress native vegetation and alter forest understory conditions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58727-Berberis-thunbergii)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/FP066)

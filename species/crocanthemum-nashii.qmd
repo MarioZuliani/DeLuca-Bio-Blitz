@@ -1,0 +1,50 @@
+---
+title: "Florida Scrub Frostweed (Crocanthemum nashii)"
+slug: "crocanthemum-nashii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/625743166/medium.jpg"        # keep for thumbnails
+image-alt: "Florida Scrub Frostweed"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malvales"
+tax_family: "Cistaceae"
+categories: ["Plantae", "Magnoliopsida", "Malvales", "Cistaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/625743166/medium.jpg" alt="Florida Scrub Frostweed" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/duanecher">
+duanecher</a> (CC BY) via <a href="https://www.inaturalist.org/observations/343506618">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malvales
+-   **Family:** Cistaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=869908)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in scrub and sandy habitats.
+
+## Natural history notes
+
+A native perennial herb or small subshrub in the rockrose family, characterized by narrow gray-green leaves and bright yellow, five-petaled flowers. Florida Scrub Frostweed occurs primarily in dry, sandy, fire-maintained habitats such as scrub and xeric sandhill, where it is adapted to intense sunlight and nutrient-poor soils. Although once considered endemic to Florida, it is now known from scattered populations elsewhere in the southeastern coastal plain. The species can produce both showy, insect-pollinated flowers and inconspicuous self-pollinating flowers, providing two pathways for seed production.
+
+## References / links
+
+-   [iNaturalist species page](hhttps://www.inaturalist.org/taxa/869908-Crocanthemum-nashii)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.156416/Crocanthemum_nashii)

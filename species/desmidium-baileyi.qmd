@@ -1,0 +1,50 @@
+---
+title: "Desmidium baileyi"
+slug: "desmidium-baileyi"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622343731/medium.jpg"        # keep for thumbnails
+image-alt: "Desmidium baileyi"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Desmidiaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Desmidiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622343731/medium.jpg" alt="Desmidium baileyi" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341818515">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Desmidiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=471578)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga belonging to the desmids, characterized by flattened cells joined end-to-end into long, often slightly twisted filaments surrounded by a gelatinous sheath. Desmidium baileyi typically has deeply constricted cells with rounded or lobed margins, giving the filament a distinctive beaded or scalloped appearance. It occurs in freshwater habitats such as ponds, marshes, bogs, and other still or slow-moving waters, particularly among aquatic vegetation. Like other desmids, it contributes to primary production and forms part of the microscopic food web in freshwater ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/471578-Desmidium-baileyi)
+-   [Local profile](https://ask.ifas.ufl.edu/publication/SS686)
