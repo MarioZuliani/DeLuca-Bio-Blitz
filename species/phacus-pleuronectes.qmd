@@ -1,0 +1,50 @@
+---
+title: "Phacus pleuronectes"
+slug: "phacus-pleuronectes"
+group: "Protozoa"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622140963/medium.jpg"        # keep for thumbnails
+image-alt: "Phacus pleuronectes"  # keep for a11y
+tax_kingdom: "Protozoa"
+tax_class: "Euglenida"
+tax_order: "Euglenales"
+tax_family: "Phacaceae"
+categories: ["Protozoa", "Euglenida", "Euglenales", "Phacaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622140963/medium.jpg" alt="Phacus pleuronectes" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341717186">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Euglenida
+-   **Order:** Euglenales
+-   **Family:** Phacaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=471847)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found on freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater euglenoid characterized by a broad, strongly flattened, leaf-like green cell with a rigid pellicle and a distinct pointed tail at the rear. Phacus pleuronectes typically has a prominent central paramylon body, numerous chloroplasts, and fine longitudinal or spiral surface striations that help distinguish it from similar species. It occurs in ponds, lakes, marshes, ditches, and other standing or slow-moving freshwater habitats, especially where waters are nutrient-rich and contain abundant organic matter. Like other photosynthetic euglenoids, it contributes to primary production and forms part of the microbial food web in freshwater ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/471847-Phacus-pleuronectes)
+-   [Local profile](https://realmicrolife.com/phacus-pleuronectes/)

@@ -1,0 +1,51 @@
+---
+title: "White Bog Violet (Viola lanceolata)"
+slug: "viola-lanceolata"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622988158/medium.jpg"        # keep for thumbnails
+image-alt: "White Bog Violet"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Malpighiales"
+tax_family: "Violaceae"
+categories: ["Plantae", "Magnoliopsida", "Malpighiales", "Violaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622988158/medium.jpg" alt="White Bog Violet" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jmull28">
+jmull28</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342138186">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Malpighiales
+-   **Family:** Violaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=128617)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern 
+-   **Rarity note:** Uncommon species in Florida, found in flatwoods and marsh edges.
+
+## Natural history notes
+
+A native perennial wildflower characterized by narrow, lance-shaped leaves and delicate white five-petaled flowers marked with fine purple veins near the center. White Bog Violet occurs in wet, acidic habitats such as bogs, wet flatwoods, marsh edges, seepage areas, and other seasonally saturated sandy soils. In Florida, it is most often associated with open, sunny wetlands where competition from taller vegetation is limited. It flowers mainly in spring and early summer, and its blooms are visited by small native bees and other insects. Like other violets, its foliage can also serve as a larval food source for fritillary butterflies.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/128617-Viola-lanceolata)
+-   [IUCN](https://www.iucnredlist.org/species/64326265/67731222)
+-   [Local profile](https://www.flawildflowers.org/flower-friday-viola-lanceolata/)

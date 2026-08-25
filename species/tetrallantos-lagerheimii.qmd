@@ -1,0 +1,50 @@
+---
+title: "Tetrallantos lagerheimii"
+slug: "tetrallantos-lagerheimii"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621873785/medium.jpg"        # keep for thumbnails
+image-alt: "Tetrallantos lagerheimii"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Chlorophyceae"
+tax_order: "Sphaeropleales"
+tax_family: "Scenedesmaceae"
+categories: ["Plantae", "Chlorophyceae", "Sphaeropleales", "Scenedesmaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621873785/medium.jpg" alt="Tetrallantos lagerheimii" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341587622">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Chlorophyceae
+-   **Order:** Sphaeropleales
+-   **Family:** Scenedesmaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=968748)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Rare species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga in the family Scenedesmaceae, characterized by small colonies typically composed of four crescent- to kidney-shaped cells embedded in a thin gelatinous matrix. In a typical colony, two cells lie in roughly the same plane while the other two are oriented more vertically, producing an irregular three-dimensional arrangement. Each cell contains a parietal chloroplast with a pyrenoid. Tetrallantos lagerheimii occurs as part of the plankton in ponds, lakes, rivers, canals, and other freshwater habitats and has been recorded from both nutrient-poor and eutrophic waters. Like other planktonic green algae, it contributes to primary production and supports freshwater microbial food webs.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/968748-Tetrallantos-lagerheimii)
+-   [Local profile](https://www.jstor.org/stable/24332455)

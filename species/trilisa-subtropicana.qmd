@@ -1,0 +1,50 @@
+---
+title: "Pineland Purple (Trilisa subtropicana)"
+slug: "trilisa-subtropicana"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180778277/medium.jpg"        # keep for thumbnails
+image-alt: "Pineland Purple"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Asterales"
+tax_family: "Asteraceae"
+categories: ["Plantae", "Magnoliopsida", "Asterales", "Asteraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180778277/medium.jpg" alt="Pineland Purple" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/scarnevale">
+scarnevale</a> (CC BY) via <a href="https://www.inaturalist.org/observations/107479992">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Asterales
+-   **Family:** Asteraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1648277)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Rare species in Florida, found in pinewood habitats.
+
+## Natural history notes
+
+A native perennial wildflower in the sunflower family, characterized by a basal cluster of leaves and tall flowering stems topped with dense clusters of purple to lavender flower heads. Pineland Purple occurs almost entirely in the southern half of Florida, where it grows in pine flatwoods, burned pine savannas, and dry prairies. It flowers mainly from September through November and responds well to the open conditions maintained by periodic fire. Its flower heads provide nectar and pollen for butterflies, bees, and other insects. The species was formerly treated as Carphephorus subtropicanus or as a variety of Vanillaleaf but is now accepted as the distinct species Trilisa subtropicana.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1648277-Trilisa-subtropicana)
+-   [Local profile](https://florida.plantatlas.usf.edu/plant/species/4081)

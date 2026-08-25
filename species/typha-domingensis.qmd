@@ -1,0 +1,51 @@
+---
+title: "Southern Cattail (Typha domingensis)"
+slug: "typha-domingensis"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621788983/medium.jpg"        # keep for thumbnails
+image-alt: "Southern Cattail"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Typhaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Typhaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621788983/medium.jpg" alt="Southern Cattail" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/onielalvarezabreu">
+onielalvarezabreu</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341545068">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Typhaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=58392)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern 
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A native perennial emergent wetland plant characterized by tall, strap-like leaves and a distinctive cylindrical flower spike with a brown female section below a narrower male section, usually separated by a small gap. Southern Cattail occurs throughout Florida in marshes, pond margins, canals, ditches, sloughs, and other shallow freshwater to slightly brackish wetlands. It spreads both by seed and by extensive underground rhizomes, allowing it to form dense stands. These stands provide cover and nesting habitat for birds and other wildlife, but in nutrient-enriched wetlands the species can become highly dominant and displace more diverse native plant communities.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/58392-Typha-domingensis)
+-   [IUCN](https://www.iucnredlist.org/species/164208/120229199)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.144988/Typha_domingensis)

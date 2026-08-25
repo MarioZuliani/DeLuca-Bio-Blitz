@@ -1,0 +1,51 @@
+---
+title: "Ring-necked Snake (Diadophis punctatus)"
+slug: "diadophis-punctatus"
+group: "Animalia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621958161/medium.jpg"        # keep for thumbnails
+image-alt: "Ring-necked Snake"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Reptilia"
+tax_order: "Squamata"
+tax_family: "Colubridae"
+categories: ["Protozoa", "Reptilia", "Squamata", "Colubridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621958161/medium.jpg" alt="Ring-necked Snake" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/lgarriga">
+lgarriga</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341628066">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Squamata
+-   **Family:** Colubridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=26575)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in forest and scrub habitats.
+
+## Natural history notes
+
+A small, slender native snake characterized by a dark gray to black back, a distinctive yellow to orange ring around the neck, and a brightly colored yellow, orange, or red underside often marked with black spots. Ring-necked Snakes occur throughout Florida in pine flatwoods, hammocks, forests, scrub, and other habitats with abundant ground cover and moist refuges. They are secretive and spend much of their time beneath logs, rocks, leaf litter, and bark, becoming most active at night or after rainfall. They feed primarily on small amphibians, earthworms, lizards, and other small vertebrates and invertebrates, and although they possess mild venom used to subdue prey, they are harmless to people.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/26575-Diadophis-punctatus)
+-   [IUCN](https://www.iucnredlist.org/species/63769/12714288)
+-   [Local profile](https://www.floridamuseum.ufl.edu/florida-snake-id/snake/ring-necked-snake/)

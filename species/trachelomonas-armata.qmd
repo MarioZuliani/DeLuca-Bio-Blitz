@@ -1,0 +1,50 @@
+---
+title: "Trachelomonas armata"
+slug: "trachelomonas-armata"
+group: "Protozoa"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622339589/medium.jpg"        # keep for thumbnails
+image-alt: "Trachelomonas armata"  # keep for a11y
+tax_kingdom: "Protozoa"
+tax_class: "Euglenida"
+tax_order: "Euglenales"
+tax_family: "Euglenaceae"
+categories: ["Protozoa", "Euglenida", "Euglenales", "Euglenaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622339589/medium.jpg" alt="Trachelomonas armata" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341816181">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Euglenida
+-   **Order:** Euglenales
+-   **Family:** Euglenaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=203734)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found on freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater euglenoid characterized by a green photosynthetic cell enclosed within a rigid, usually reddish-brown protective shell called a lorica. Trachelomonas armata has a broadly elliptical lorica with a short collar around the flagellar opening and several conspicuous long, curved spines concentrated toward the posterior end, giving it its “armed” appearance. The lorica is often impregnated with iron and manganese compounds, which produce its brown coloration. It occurs as part of the plankton in ponds, wetlands, and other standing freshwater habitats, particularly waters rich in organic matter or dissolved minerals. Like other photosynthetic euglenoids, it contributes to primary production and the microbial food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/203734-Trachelomonas-armata)
+-   [Local profile](https://www.algaebase.org/search/species/detail/?species_id=30662)

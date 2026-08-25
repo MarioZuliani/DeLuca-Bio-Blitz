@@ -1,0 +1,50 @@
+---
+title: "Euglena mutabilis"
+slug: "euglen-mutabilis"
+group: "Protozoa"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622306426/medium.jpg"        # keep for thumbnails
+image-alt: "Euglena mutabilis"  # keep for a11y
+tax_kingdom: "Protozoa"
+tax_class: "Euglenida"
+tax_order: "Euglenales"
+tax_family: "Euglenaceae"
+categories: ["Protozoa", "Euglenida", "Euglenales", "Euglenaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622306426/medium.jpg" alt="Euglena mutabilis" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341799930">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Euglenida
+-   **Order:** Euglenales
+-   **Family:** Euglenaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=311318)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater protist characterized by an elongated, flexible green cell containing numerous chloroplasts and a single emergent flagellum used for movement. Euglena mutabilis is especially notable for its tolerance of extremely acidic, metal-rich waters and is commonly associated with acid mine drainage, acidic pools, and other harsh freshwater environments where few other photosynthetic organisms can thrive. It can form dense green mats or films on submerged sediments and surfaces. Like other euglenoids, it combines photosynthesis with the ability to absorb dissolved organic compounds, allowing it to persist under highly variable environmental conditions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/311318-Euglena-mutabilis)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/497)

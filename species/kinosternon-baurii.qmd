@@ -1,0 +1,51 @@
+---
+title: "Striped Mud Turtle (Kinosternon baurii)"
+slug: "kinosternon-baurii"
+group: "Animalia"
+image: "https://static.inaturalist.org/photos/622507238/medium.jpg"        # keep for thumbnails
+image-alt: "Striped Mud Turtle"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Reptilia"
+tax_order: "Testudines"
+tax_family: "Kinosternidae"
+categories: ["Protozoa", "Reptilia", "Testudines", "Kinosternidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622507238/medium.jpg" alt="Striped Mud Turtle" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/chadkeates">
+chadkeates</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341924212">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Testudines
+-   **Family:** Kinosternidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=39753)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Near Threatened
+-   **Rarity note:** Common species in Florida, found in shallow freshwater habitats.
+
+## Natural history notes
+
+A small native freshwater turtle characterized by a dark brown to black shell usually marked with three pale longitudinal stripes, a yellowish plastron with two functional hinges, and light stripes along the sides of the head. Striped Mud Turtles occur throughout much of peninsular Florida in shallow freshwater habitats such as marshes, ponds, swamps, ditches, and temporary wetlands, although they often travel overland between water bodies. They are omnivorous, feeding on aquatic insects, snails, worms, carrion, and plant material, and they spend considerable time buried in mud or leaf litter during dry periods. Unlike many aquatic turtles, they are frequently encountered on land, especially after heavy rains or when moving between wetlands.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/39753-Kinosternon-baurii)
+-   [IUCN](https://www.iucnredlist.org/species/163429/251955369)
+-   [Local profile](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.105906/Kinosternon_baurii)

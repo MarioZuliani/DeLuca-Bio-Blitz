@@ -1,0 +1,51 @@
+---
+title: "Eastern Ratsnake (Pantherophis quadrivittatus)"
+slug: "pantherophis-quadrivittatus"
+group: "Animalia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/180847693/medium.jpg"        # keep for thumbnails
+image-alt: "Eastern Ratsnake"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Reptilia"
+tax_order: "Squamata"
+tax_family: "Colubridae"
+categories: ["Protozoa", "Reptilia", "Squamata", "Colubridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/180847693/medium.jpg" alt="Eastern Ratsnake" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/emilycbell">
+emilycbell</a> (CC BY) via <a href="https://www.inaturalist.org/observations/107517483">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Squamata
+-   **Family:** Colubridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1660911)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in forests, agricultural areas, and suburbs.
+
+## Natural history notes
+
+A large, nonvenomous native snake characterized by a yellow to tan body marked with four dark longitudinal stripes, although coloration can vary with age and location. Eastern Ratsnakes occur throughout much of Florida in forests, hammocks, pine flatwoods, wetlands, agricultural areas, and suburban landscapes, where they frequently climb trees, fences, and buildings. They are powerful constrictors and feed mainly on rodents, birds, eggs, and other small vertebrates. They are excellent climbers and are often encountered in trees or around structures where prey is abundant, but they are generally docile and pose no danger to people.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1660911-Pantherophis-quadrivittatus)
+-   [IUCN](https://www.iucnredlist.org/species/63859/12722881)
+-   [Local profile](https://www.floridamuseum.ufl.edu/florida-snake-id/snake/eastern-ratsnake/)

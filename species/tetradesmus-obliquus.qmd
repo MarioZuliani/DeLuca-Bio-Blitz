@@ -1,0 +1,50 @@
+---
+title: "Tetradesmus obliquus"
+slug: "tetradesmus-obliquus"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622361116/medium.jpg"        # keep for thumbnails
+image-alt: "Tetradesmus obliquus"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Chlorophyceae"
+tax_order: "Sphaeropleales"
+tax_family: "Scenedesmaceae"
+categories: ["Plantae", "Chlorophyceae", "Sphaeropleales", "Scenedesmaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622361116/medium.jpg" alt="Tetradesmus obliquus" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341826072">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Chlorophyceae
+-   **Order:** Sphaeropleales
+-   **Family:** Scenedesmaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=861485)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Common species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga characterized by slender, spindle-shaped cells with pointed ends, typically arranged in flat colonies of two or four cells, although solitary cells may also occur. Tetradesmus obliquus is common in ponds, lakes, reservoirs, and other freshwater habitats, where it occurs as part of the phytoplankton. Each cell contains a large chloroplast with a central pyrenoid used in carbon fixation and starch formation. Formerly known as Scenedesmus obliquus and Acutodesmus obliquus, it is widely studied because of its rapid growth and importance in freshwater primary production, as well as its potential applications in biotechnology and biofuel research.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/861485-Tetradesmus-obliquus)
+-   [Local profile](https://www.algaebase.org/search/species/detail/?species_id=158061)

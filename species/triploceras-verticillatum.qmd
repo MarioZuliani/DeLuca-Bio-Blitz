@@ -1,0 +1,50 @@
+---
+title: "Triploceras verticillatum"
+slug: "triploceras-verticillatum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622730991/medium.jpg"        # keep for thumbnails
+image-alt: "Triploceras verticillatum"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Zygnematophyceae"
+tax_order: "Zygnematales"
+tax_family: "Desmidiaceae"
+categories: ["Plantae", "Zygnematophyceae", "Zygnematales", "Desmidiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622730991/medium.jpg" alt="Triploceras verticillatum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/larvalfishguy">
+larvalfishguy</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342009126">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Zygnematophyceae
+-   **Order:** Zygnematales
+-   **Family:** Desmidiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=471410)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Common species in Florida, found in freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater green alga belonging to the desmids, characterized by very long, cylindrical cells divided into two semicells by a distinct central constriction. Triploceras verticillatum is especially distinctive because each semicell bears numerous transverse whorls of small tooth-like projections, while the ends terminate in several divergent, spine-bearing processes. It occurs in freshwater ponds, bog pools, and other standing waters, particularly in slightly acidic, nutrient-poor habitats where desmids are common. Like other desmids, it contributes to freshwater primary production and can be useful as an indicator of relatively clean, oligotrophic aquatic conditions.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/471410-Triploceras-verticillatum)
+-   [Local profile](https://www.algaebase.org/search/species/detail/?species_id=29761)

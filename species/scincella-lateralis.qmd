@@ -1,0 +1,51 @@
+---
+title: "Little Brown Skink (Scincella lateralis)"
+slug: "scincella-lateralis"
+group: "Animalia"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/623051995/medium.jpg"        # keep for thumbnails
+image-alt: "Little Brown Skink"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Reptilia"
+tax_order: "Squamata"
+tax_family: "Scincidae"
+categories: ["Protozoa", "Reptilia", "Squamata", "Scincidae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="hhttps://inaturalist-open-data.s3.amazonaws.com/photos/623051995/medium.jpg" alt="Little Brown Skink" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/coreytcallaghan">
+coreytcallaghan</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342171529">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Squamata
+-   **Family:** Scincidae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1660911)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in forests, gardens, and other habitats with abundant leaf litter.
+
+## Natural history notes
+
+A small native lizard characterized by a slender brown to bronze body, smooth shiny scales, short limbs, and a dark stripe running along each side from the head toward the tail. Little Brown Skinks occur throughout Florida in forests, hammocks, pine flatwoods, gardens, and other habitats with abundant leaf litter and ground cover. They are highly secretive and spend most of their time moving beneath leaves, logs, bark, and other debris rather than basking in the open. They feed mainly on tiny insects, spiders, and other invertebrates and are an important component of the forest-floor food web.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/60349-Scincella-lateralis)
+-   [IUCN](https://www.iucnredlist.org/species/64245/12758168)
+-   [Local profile](https://animaldiversity.org/accounts/Scincella_lateralis/)

@@ -1,0 +1,51 @@
+---
+title: "Baldcypress (Taxodium distichum)"
+slug: "taxodium-distichum"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621849701/medium.jpg"        # keep for thumbnails
+image-alt: "Baldcypress"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Pinopsida"
+tax_order: "Pinales"
+tax_family: "Cupressaceae"
+categories: ["Plantae", "Pinopsida", "Pinales", "Cupressaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621849701/medium.jpg" alt="Baldcypress" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341575429">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Pinopsida
+-   **Order:** Pinales
+-   **Family:** Cupressaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=49666)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern 
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A native deciduous conifer characterized by feathery, needle-like leaves, massive buttressed trunks, and distinctive woody “knees” that often rise above the surrounding water or soil. Baldcypress is one of Florida’s most characteristic wetland trees and occurs in swamps, floodplains, sloughs, pond margins, and along rivers and lakes. It is highly tolerant of prolonged flooding and saturated soils, and mature trees can live for several centuries. The seed cones provide food for wildlife, while the trunks, roots, and knees create important structure and habitat for fish, amphibians, birds, and aquatic invertebrates.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/49666-Taxodium-distichum)
+-   [IUCN](https://www.iucnredlist.org/species/42261/2967873)
+-   [Local profile](https://plants.ces.ncsu.edu/plants/taxodium-distichum/)

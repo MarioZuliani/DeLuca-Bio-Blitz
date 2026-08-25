@@ -1,0 +1,51 @@
+---
+title: "Rough Greensnake (Opheodrys aestivus)"
+slug: "opheodrys-aestivus"
+group: "Animalia"
+image: "https://static.inaturalist.org/photos/610273437/medium.jpg"        # keep for thumbnails
+image-alt: "Rough Greensnake"  # keep for a11y
+tax_kingdom: "Animalia"
+tax_class: "Reptilia"
+tax_order: "Squamata"
+tax_family: "Colubridae"
+categories: ["Protozoa", "Reptilia", "Squamata", "Colubridae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/610273437/medium.jpg" alt="Rough Greensnake" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/zeevng">
+zeevng</a> (CC BY) via <a href="https://www.inaturalist.org/observations/335885569">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Reptilia
+-   **Order:** Squamata
+-   **Family:** Colubridae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=29200)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern
+-   **Rarity note:** Common species in Florida, found in shrubs and other densely vegetated habitats.
+
+## Natural history notes
+
+A slender native snake characterized by a bright green back, pale yellow to whitish underside, large eyes, and strongly keeled scales that give the body a slightly rough texture. Rough Greensnakes occur throughout Florida in shrubs, vines, forest edges, wetlands, hammocks, and vegetation bordering ponds, streams, and marshes. They are highly arboreal and spend much of their time moving slowly through branches and foliage, where their coloration provides excellent camouflage. They feed primarily on insects and spiders, including caterpillars, grasshoppers, crickets, and other small arthropods, and are harmless to people.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/29200-Opheodrys-aestivus)
+-   [IUCN](https://www.iucnredlist.org/species/63859/12722881)
+-   [Local profile](https://www.floridamuseum.ufl.edu/florida-snake-id/snake/rough-greensnake/)

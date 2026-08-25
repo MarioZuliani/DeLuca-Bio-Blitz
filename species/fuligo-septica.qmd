@@ -1,0 +1,50 @@
+---
+title: "Dog Vomit Slime Mold (Fuligo septica)"
+slug: "fuligo-septica"
+group: "Protozoa"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/621855895/medium.jpg"        # keep for thumbnails
+image-alt: "Dog Vomit Slime Mold"  # keep for a11y
+tax_kingdom: "Protozoa"
+tax_class: "Myxomycetes"
+tax_order: "Physarales"
+tax_family: "Physaraceae"
+categories: ["Protozoa", "Myxomycetes", "Physarales", "Physaraceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/621855895/medium.jpg" alt="Dog Vomit Slime Mold" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/paigedug">
+paigedug</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341578341">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Myxomycetes
+-   **Order:** Physarales
+-   **Family:** Physaraceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=311318)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Common species in Florida, found on decaying logs and leaf litter.
+
+## Natural history notes
+
+A widespread slime mold characterized by its conspicuous yellow to orange, foamy or cushion-like fruiting mass that often resembles spilled scrambled eggs or vomit. Dog Vomit Slime Mold commonly appears on decaying logs, leaf litter, mulch, and other moist organic material, especially after periods of warm, wet weather. During its mobile plasmodial stage, Fuligo septica slowly creeps across surfaces while feeding on bacteria, fungi, and other microorganisms before forming a stationary spore-producing mass that darkens as it matures. Despite its appearance, it is harmless to plants, animals, and people and plays a beneficial role in decomposition and nutrient cycling.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/55483-Fuligo-septica)
+-   [Local profile](https://ucanr.edu/blog/under-solano-sun/article/slime-mold-dog-vomit-slime-mold-fuligo-septica)

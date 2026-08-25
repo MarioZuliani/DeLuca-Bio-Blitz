@@ -1,0 +1,50 @@
+---
+title: "Flatwoods Bluecurls (Trichostema gracile)"
+slug: "trichostema-gracile"
+group: "Plantae"
+image: "https://static.inaturalist.org/photos/622606684/medium.jpg"        # keep for thumbnails
+image-alt: "Flatwoods Bluecurls"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Magnoliopsida"
+tax_order: "Lamiales"
+tax_family: "Lamiaceae"
+categories: ["Plantae", "Magnoliopsida", "Lamiales", "Lamiaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://static.inaturalist.org/photos/622606684/medium.jpg" alt="Flatwoods Bluecurls" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/stevecollins">
+stevecollins</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341949472">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Magnoliopsida
+-   **Order:** Lamiales
+-   **Family:** Lamiaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=1483643)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed 
+-   **Rarity note:** Rare species in Florida, found in mesic to scrubby habitats.
+
+## Natural history notes
+
+A native perennial wildflower in the mint family, characterized by slender upright stems, narrow leaves, and small blue to blue-purple flowers with strongly curved stamens that give the blooms their characteristic “bluecurls” appearance. Flatwoods Bluecurls is endemic to Florida and occurs mainly in mesic to scrubby flatwoods of the central and southern peninsula, where it grows in open, sandy habitats maintained by periodic fire. Plants typically reach about 60 cm tall and flower mainly from September through December, with occasional spring blooms. The species was formally described only recently, in 2023, after taxonomic work separated it from closely related Florida bluecurls.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/1483643-Trichostema-gracile)
+-   [Local profile](https://www.flawildflowers.org/seven-new-trichostema-species/)

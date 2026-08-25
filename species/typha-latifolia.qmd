@@ -1,0 +1,51 @@
+---
+title: "Broad-leaved Cattail (Typha latifolia)"
+slug: "typha-latifolia"
+group: "Plantae"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622985673/medium.jpg"        # keep for thumbnails
+image-alt: "Broad-leaved Cattail"  # keep for a11y
+tax_kingdom: "Plantae"
+tax_class: "Liliopsida"
+tax_order: "Poales"
+tax_family: "Typhaceae"
+categories: ["Plantae", "Liliopsida", "Poales", "Typhaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622985673/medium.jpg" alt="Broad-leaved Cattail" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jmull28">
+jmull28</a> (CC BY) via <a href="https://www.inaturalist.org/observations/342137057">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Liliopsida
+-   **Order:** Poales
+-   **Family:** Typhaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=48685)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Least Concern 
+-   **Rarity note:** Common species in Florida, found in wetland habitats.
+
+## Natural history notes
+
+A native perennial emergent wetland plant characterized by broad, flat, strap-like leaves and a dense brown cylindrical flower spike in which the male and female portions typically touch or are separated by only a very small gap. Broad-leaved Cattail occurs in freshwater marshes, pond margins, swamps, ditches, and other shallow-water habitats, including nutrient-rich wetlands. In Florida, it is one of two native cattail species and can hybridize with Southern Cattail, sometimes making identification difficult. It spreads vigorously through underground rhizomes and seeds, forming dense stands that provide nesting and protective cover for wildlife but can also reduce plant diversity when cattail becomes overly dominant.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/48685-Typha-latifolia)
+-   [IUCN](https://www.iucnredlist.org/species/164165/84300723)
+-   [Local profile](https://florida.plantatlas.usf.edu/genus/1263)

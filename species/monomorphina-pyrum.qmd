@@ -1,0 +1,50 @@
+---
+title: "Monomorphina pyrum"
+slug: "monomorphina-pyrum"
+group: "Protozoa"
+image: "https://inaturalist-open-data.s3.amazonaws.com/photos/622339514/medium.jpg"        # keep for thumbnails
+image-alt: "Monomorphina pyrum"  # keep for a11y
+tax_kingdom: "Protozoa"
+tax_class: "Euglenida"
+tax_order: "Euglenales"
+tax_family: "Euglenaceae"
+categories: ["Protozoa", "Euglenida", "Euglenales", "Euglenaceae"]   # these drive the chips + filtering
+freeze: true
+---
+
+<figure class="species-figure">
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/622339514/medium.jpg" alt="Monomorphina pyrum" class="species-photo"/>
+
+<figcaption class="photo-credit">
+
+Photo: <a href="https://www.inaturalist.org/people/jimw3">
+jimw3</a> (CC BY) via <a href="https://www.inaturalist.org/observations/341816125">iNaturalist</a>
+
+</figcaption>
+
+</figure>
+
+## Taxonomy
+
+-   **Class:** Euglenida
+-   **Order:** Euglenales
+-   **Family:** Euglenaceae
+
+## Occurrence at DeLuca Preserve
+
+-   [DeLuca Bio Blitz Species Observations](https://www.inaturalist.org/observations?project_id=191727&subview=map&taxon_id=471483)
+
+## Conservation & rarity context
+
+-   ***IUCN:*** Not Listed
+-   **Rarity note:** Rare species in Florida, found on freshwater habitats.
+
+## Natural history notes
+
+A microscopic freshwater euglenoid characterized by a rigid, pear- to spindle-shaped green cell with a broadly rounded front end and a long, sharply pointed tail. Monomorphina pyrum has conspicuous spiral ridges along the cell surface, small chloroplasts, and typically two large lateral paramylon bodies used for carbohydrate storage. It is an actively swimming photosynthetic microorganism found in ponds, shallow wetlands, and other standing freshwater habitats, where it occurs as part of the plankton. Formerly known as Euglena pyrum or Phacus pyrum, it contributes to primary production and the microbial food web in freshwater ecosystems.
+
+## References / links
+
+-   [iNaturalist species page](https://www.inaturalist.org/taxa/471483-Monomorphina-pyrum)
+-   [Local profile](https://www.researchgate.net/publication/263176948_Phylogenetic_Reappraisal_of_the_Genus_Monomorphina_Euglenophyceae_Based_on_Molecular_and_Morphological_Data)
