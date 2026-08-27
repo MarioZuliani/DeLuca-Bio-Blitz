@@ -8,7 +8,7 @@ tax_kingdom: "Animalia"
 tax_class: "Reptilia"
 tax_order: "Squamata"
 tax_family: "Colubridae"
-categories: ["Protozoa", "Reptilia", "Squamata", "Colubridae"]   # these drive the chips + filtering
+categories: ["Animalia", "Reptilia", "Squamata", "Colubridae"]   # these drive the chips + filtering
 freeze: true
 ---
 

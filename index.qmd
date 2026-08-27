@@ -34,7 +34,7 @@ plant_classes <- c(
   "gnetopsida","equisetopsida","lycopodiopsida","bryopsida"
 )
 
-# NEW: common fungal classes (case-insensitive)
+# Common fungal classes (case-insensitive)
 fungi_classes <- c(
   "agaricomycetes","ascomycetes","pezizomycetes","sordariomycetes",
   "leotiomycetes","lecanoromycetes","dothideomycetes","eurotiomycetes",
@@ -42,11 +42,17 @@ fungi_classes <- c(
   "exobasidiomycetes"
 )
 
+# Protozoa groups used in the BioBlitz species metadata (case-insensitive)
+protozoa_classes <- c(
+  "euglenida","myxomycetes"
+)
+
 kingdom_of <- function(cls) {
   if (is.null(cls) || is.na(cls) || !nzchar(cls)) return(NA_character_)
   x <- tolower(trimws(cls))
   if (x %in% plant_classes)       return("Plants")
   if (x %in% fungi_classes)       return("Fungi")
+  if (x %in% protozoa_classes)    return("Protozoa")
   return("Animals")
 }
 
@@ -72,7 +78,7 @@ meta  <- map(files, read_front) |> compact() |> bind_rows()
 
 html <- '<div id="facet-menu">'
 
-kingdoms <- intersect(c("Plants","Animals", "Fungi"), sort(unique(na.omit(meta$Kingdom))))
+kingdoms <- intersect(c("Plants", "Animals", "Fungi", "Protozoa"), sort(unique(na.omit(meta$Kingdom))))
 for (kg in kingdoms) {
 
   kg_n <- sum(meta$Kingdom == kg, na.rm = TRUE)

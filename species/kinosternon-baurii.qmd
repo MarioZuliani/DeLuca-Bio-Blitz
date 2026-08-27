@@ -8,7 +8,7 @@ tax_kingdom: "Animalia"
 tax_class: "Reptilia"
 tax_order: "Testudines"
 tax_family: "Kinosternidae"
-categories: ["Protozoa", "Reptilia", "Testudines", "Kinosternidae"]   # these drive the chips + filtering
+categories: ["Animalia", "Reptilia", "Testudines", "Kinosternidae"]   # these drive the chips + filtering
 freeze: true
 ---
 
