@@ -142,7 +142,7 @@ for (kg in kingdoms) {
 
 html <- paste0(html, '</div>')
 knitr::asis_output(html)
-
+ 
 
 ```
 :::
